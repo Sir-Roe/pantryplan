@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 from pathlib import Path
-import itertools
 import pandas as pd
 import requests
 import os
@@ -96,4 +95,3 @@ def recipe_url_scrape(url,cat=''):
 
     return cat_df
 
-grab_cat_urls()

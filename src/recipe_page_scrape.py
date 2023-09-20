@@ -5,34 +5,19 @@ import requests
 import os
 
 
-rec_dir = os.path.join(Path(__file__).parents[0], 'recipe_data')
-ing_dir = os.path.join(Path(__file__).parents[0], 'ingredients_data')
-stp_dir = os.path.join(Path(__file__).parents[0], 'steps_data')
+rec_dir = os.path.join(Path(__file__).parents[0], '1_recipe_data')
+ing_dir = os.path.join(Path(__file__).parents[0], '2_ingredients_data')
+stp_dir = os.path.join(Path(__file__).parents[0], '3_steps_data')
+cat_dir = os.path.join(Path(__file__).parents[0], 'recipe_scraper_tables')
 
-def scrape_recipe(url=''):
+def scrape_recipe(soup,rkey):
     '''
     This function scrapes the relevant info
     from each individual recipe. It grabs ingredients
     for a seperate table. There is a main DF for recipe
     header info and an Ingredients DF to track ingredients
     '''
-    url = "https://www.allrecipes.com/air-fryer-hearts-of-palm-sticks-recipe-7814346"
 
-    response=requests.get(url)
-
-    # Check if the request was successful (status code 200)
-    if response.status_code == 200:
-        # Parse the HTML content of the page using BeautifulSoup
-        soup = BeautifulSoup(response.text, 'html.parser')
-        #WHERE all recipe data is stored
-        soup = soup.body.main.article
-    else:
-        return print("Failed to retrieve the web page.")
-
-    #scrape the unique key for the recipe
-    start=url.rfind('-')+1
-    rkey=url[start:]
-    #build recipe dictionary
     recipe ={}
     recipe['id_recipe']=rkey
     #grab the header prep time info
@@ -85,21 +70,28 @@ def scrape_recipe(url=''):
     #--------------------------------------------
     #-------------grab review data---------------
     #--------------------------------------------
-    # Find the <div> element with the rating
-    rating_div = soup.find('div', class_='comp type--squirrel-bold mntl-recipe-review-bar__rating mntl-text-block')
+    try:
+        # Find the <div> element with the rating
+        rating_div = soup.find('div', class_='comp type--squirrel-bold mntl-recipe-review-bar__rating mntl-text-block')
 
-    # Find the <div> element with the rating count
-    count_div = soup.find('div', class_='comp type--squirrel mntl-recipe-review-bar__rating-count mntl-text-block')
+        # Find the <div> element with the rating count
+        count_div = soup.find('div', class_='comp type--squirrel mntl-recipe-review-bar__rating-count mntl-text-block')
 
-    # Extract the rating and count from the <div> elements
-    rating = rating_div.text.strip()
-    count = count_div.text.strip().strip('()')
+        # Extract the rating and count from the <div> elements
+        rating = rating_div.text.strip()
+        count = count_div.text.strip().strip('()')
 
-    recipe['Average_Review'] = rating
-    recipe['Review_Count'] = count
+        recipe['Average_Review'] = rating
+        recipe['Review_Count'] = count
+    except:
+        recipe['Average_Review'] = ''
+        recipe['Review_Count'] = ''
     
     rec_df = pd.DataFrame(recipe, index=[0])
-    rec_df.to_csv(f'{rec_dir}\{rkey}_main.csv')
+    #rec_df.to_csv(f'{rec_dir}\{rkey}_main.csv')
+    return rec_df
+
+def scrape_ingredients(soup,rkey):
     #------------------------------------------
     #----------Build Ingredients Table---------
     #------------------------------------------
@@ -139,11 +131,12 @@ def scrape_recipe(url=''):
         
         # Print the extracted data
         temp_ing_df = pd.DataFrame({'id_recipe':rkey,'Quantity': quantities, 'Unit of Measure': units, 'Ingredient': ingredients})
-        temp_ing_df.to_csv(f'{ing_dir}\{rkey}_ingredients.csv',index=False)
+        #temp_ing_df.to_csv(f'{ing_dir}\{rkey}_ingredients.csv',index=False)
     else:
         print("The <ul> element with class 'mntl-structured-ingredients__list' was not found in the HTML.")
 
-    
+    return temp_ing_df
+def scrape_steps(soup,rkey):
     #--------------------------------------------
     #--------------Grab Steps Data---------------
     #--------------------------------------------
@@ -164,8 +157,36 @@ def scrape_recipe(url=''):
         c += 1
 
     temp_steps_df = pd.DataFrame({'id_recipe':rkey,'Step_Count': step_count, 'Step Description': step_desc})
-    temp_steps_df.to_csv(f'{stp_dir}\{rkey}_steps.csv')
-    return "some key that marks the list as done"
+    #temp_steps_df.to_csv(f'{stp_dir}\{rkey}_steps.csv')
+    return temp_steps_df
 
-scrape_recipe()
 
+
+def main_scraper():
+    rec_df=pd.DataFrame()
+    ing_df=pd.DataFrame()
+    step_df=pd.DataFrame()
+    
+    cat_df=pd.read_csv(r"C:\Users\Logan\Documents\GitHub\pantryplan\src\recipe_scraper_tables\air_fryer_recipes_urls.csv")
+
+    for index, row in cat_df.iterrows():
+        x=row['url_recipe'].find('.com/')+5
+        isrec=row['url_recipe'][x:]
+        if ("recipe" in isrec and "gallery" not in isrec and "article" not in isrec):
+        
+        response=requests.get(row['url_recipe'])
+        # Check if the request was successful (status code 200)
+        if response.status_code == 200:
+            # Parse the HTML content of the page using BeautifulSoup
+            soup = BeautifulSoup(response.text, 'html.parser')
+            #WHERE all recipe data is stored
+            soup = soup.body.main.article
+
+            rec_df=pd.concat(rec_df,scrape_recipe(soup,row['id_recipe']), ignore_index=True)
+            ing_df=pd.concat(ing_df,scrape_ingredients(soup,row['id_recipe']), ignore_index=True)
+            step_df=pd.concat(step_df,scrape_steps(soup,row['id_recipe']), ignore_index=True)
+        
+
+
+
+main_scraper()
