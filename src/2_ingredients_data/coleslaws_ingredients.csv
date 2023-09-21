@@ -1,0 +1,518 @@
+,id_recipe,Quantity,Unit of Measure,Ingredient
+0,7550726,2,pounds,green cabbage
+1,7550726,2,teaspoons,kosher salt
+2,7550726,3/4,cup,ketchup
+3,7550726,1/2,cup,red bell peppers
+4,7550726,1/4,cup,apple cider vinegar
+5,7550726,3,tablespoons,white sugar
+6,7550726,1,teaspoon,smoked paprika
+7,7550726,1/2,teaspoon,freshly ground black pepper
+8,7550726,1/8,teaspoon,cayenne pepper
+9,7550726,1,tablespoon,"chili sauce, or to taste"
+10,7550726,1,tablespoon,"riracha hot sauce, or to taste"
+11,7550726,2,tablespoons,"green onions, or as needed (optional)"
+12,6592700,1,large head,"cabbage, cored and finely shredded"
+13,6592700,1,medium,"onion, thinly sliced"
+14,6592700,1,cup,white sugar
+15,6592700,3/4,cup,vinegar
+16,6592700,1/3,cup,vegetable oil
+17,6592700,2,teaspoons,celery seed
+18,6592700,1 1/4,teaspoon,salt
+19,6592700,1,teaspoon,prepared mustard
+20,6592700,1/4,teaspoon,black pepper
+21,7093674,1,medium,"white onion, thinly sliced"
+22,7093674,2,tablespoons,olive oil
+23,7093674,1,,"Granny Smith apple - peeled, cored and chopped"
+24,7093674,3,tablespoons,maple syrup
+25,7093674,3,tablespoons,apple cider vinegar
+26,7093674,1 ½,teaspoons,garlic powder
+27,7093674,1 ½,teaspoons,onion powder
+28,7093674,1,head,"red cabbage, shredded"
+29,7093674,⅓,cup,chopped fresh parsley
+30,6663934,1,head,napa cabbage
+31,6663934,1,bunch,minced green onions
+32,6663934,⅓,cup,butter
+33,6663934,1,(3 ounce) package,"ramen noodles, broken"
+34,6663934,1,cup,slivered almonds
+35,6663934,2,tablespoons,sesame seeds
+36,6663934,¾,cup,vegetable oil
+37,6663934,½,cup,white sugar
+38,6663934,¼,cup,cider vinegar
+39,6663934,2,tablespoons,soy sauce
+40,6590938,2,(3 ounce) packages,"chicken-flavored ramen noodles, broken into pieces, seasoning packets reserved"
+41,6590938,½,cup,raw sunflower seeds
+42,6590938,½,cup,slivered almonds
+43,6590938,1,(16 ounce) package,coleslaw mix
+44,6590938,3,,"green onions, chopped"
+45,6592308,1,cup,mayonnaise
+46,6592308,¼,cup,white sugar
+47,6592308,2,tablespoons,seasoned rice wine vinegar
+48,6592308,1 ½,tablespoons,lemon juice
+49,6592308,1,tablespoon,prepared horseradish
+50,6592308,½,teaspoon,onion powder
+51,6592308,½,teaspoon,dry mustard
+52,6592308,½,teaspoon,celery salt
+53,6592308,½,teaspoon,salt
+54,6592308,½,teaspoon,ground black pepper
+55,6592308,1,(28 ounce) package,coleslaw mix
+56,6738938,1,head,"cabbage, finely shredded"
+57,6738938,2,,"carrots, finely chopped"
+58,6738938,2,tablespoons,finely chopped onion
+59,6738938,½,cup,mayonnaise
+60,6738938,⅓,cup,white sugar
+61,6738938,¼,cup,milk
+62,6738938,¼,cup,buttermilk
+63,6738938,2,tablespoons,lemon juice
+64,6738938,2,tablespoons,distilled white vinegar
+65,6738938,½,teaspoon,salt
+66,6738938,⅛,teaspoon,ground black pepper
+67,7182208,1/3,cup,yogurt (such as Icelandic Skyr
+68,7182208,1/3,cup,light mayonnaise
+69,7182208,1 1/2,tablespoons,cider vinegar
+70,7182208,1,tablespoon,poppy seeds
+71,7182208,1,teaspoon,dijon mustard
+72,7182208,1/2,teaspoon,salt
+73,7182208,1/2,teaspoon,black pepper
+74,7182208,5,cups,cabbage
+75,7182208,1/3,cup,carrot
+76,7182208,2,cups,red apple
+77,7182208,1/2,cup,golden raisins
+78,7182208,,,fresh parsley
+79,7110176,1,(14 ounce) package,coleslaw mix
+80,7110176,¼,cup,finely chopped yellow onion
+81,7110176,½,cup,mayonnaise
+82,7110176,¼,cup,sugar
+83,7110176,2,tablespoons,milk
+84,7110176,2,tablespoons,buttermilk
+85,7110176,2,tablespoons,white wine vinegar
+86,7110176,½,teaspoon,salt
+87,7110176,⅛,teaspoon,black pepper
+88,6649083,1,small head,"red cabbage, thinly sliced and chopped"
+89,6649083,½,cup,grated carrot
+90,6649083,½,cup,mayonnaise
+91,6649083,¼,cup,dried cranberries
+92,6649083,¼,cup,chopped walnuts
+93,6649083,1,tablespoon,"milk, or more as needed"
+94,6649083,1,tablespoon,apple cider vinegar
+95,6649083,1,teaspoon,"white sugar, or more to taste"
+96,6737404,6,tablespoons,rice wine vinegar
+97,6737404,6,tablespoons,vegetable oil
+98,6737404,5,tablespoons,creamy peanut butter
+99,6737404,3,tablespoons,soy sauce
+100,6737404,3,tablespoons,brown sugar
+101,6737404,2,tablespoons,minced fresh ginger root
+102,6737404,1 ½,tablespoons,minced garlic
+103,6576800,½,large head,"cabbage, cored and shredded"
+104,6576800,1,bunch,"green onions, thinly sliced"
+105,6576800,1,cup,almond slivers
+106,6576800,¼,cup,toasted sesame seeds
+107,6568442,⅔,cup,red wine vinegar
+108,6568442,½,cup,canola oil
+109,6568442,1,tablespoon,white sugar
+110,6568442,1,teaspoon,salt
+111,6568442,1,teaspoon,seasoned salt
+112,6568442,¼,teaspoon,ground black pepper
+113,6568442,¼,teaspoon,onion powder
+114,6568442,1,head,"red cabbage, cored and shredded"
+115,6664857,3,cups,chopped cabbage
+116,6664857,1,,"unpeeled red apple, cored and chopped"
+117,6664857,1,,"unpeeled Granny Smith apple, cored and chopped"
+118,6664857,1,,"carrot, grated"
+119,6664857,½,cup,finely chopped red bell pepper
+120,6664857,2,,"green onions, finely chopped"
+121,6664857,⅓,cup,mayonnaise
+122,6664857,⅓,cup,brown sugar
+123,6664857,1,tablespoon,"lemon juice, or to taste"
+124,6584728,2,tablespoons,sesame seeds
+125,6584728,4,cups,shredded cabbage
+126,6584728,2,,"carrots, shredded"
+127,6584728,1,(3 ounce) package,"ramen noodles, crushed"
+128,6584728,⅓,cup,olive oil
+129,6584728,2,tablespoons,white sugar
+130,6584728,1 ½,tablespoons,rice vinegar
+131,6584728,½,teaspoon,sesame oil
+132,6584728,½,teaspoon,salt
+133,6584728,¼,teaspoon,black pepper
+134,6738882,½,medium head,"cabbage, shredded"
+135,6738882,5,,"green onions, chopped"
+136,6738882,1,(3 ounce) package,"chicken flavored ramen noodles, crushed, seasoning packet reserved"
+137,6738882,¼,cup,sliced almonds
+138,6738882,2,tablespoons,sesame seeds
+139,6593790,3,tablespoons,apple cider vinegar
+140,6593790,3,tablespoons,canola oil
+141,6593790,3,tablespoons,white sugar
+142,6593790,¼,teaspoon,dry mustard
+143,6593790,¼,teaspoon,poppy seeds
+144,6593790,¼,teaspoon,ground black pepper
+145,6593790,¼,teaspoon,salt
+146,6593790,¼,teaspoon,hot pepper sauce (Optional)
+147,6593790,4,cups,shredded green cabbage
+148,6593790,2,medium,"carrots, shredded"
+149,6575319,1,(8.5 ounce) package,coleslaw mix
+150,6575319,1,(15 ounce) can,"crushed pineapple, drained"
+151,6575319,½,cup,finely chopped onion
+152,6575319,½,cup,mayonnaise
+153,6575319,¼,cup,apple cider vinegar
+154,6575319,2,tablespoons,brown sugar
+155,6575319,1,teaspoon,dried cilantro
+156,6575319,½,teaspoon,salt
+157,6575319,¼,teaspoon,ground black pepper
+158,6575012,⅔,cup,olive oil
+159,6575012,⅔,cup,white sugar
+160,6575012,⅓,cup,cider vinegar
+161,6575012,2,(3 ounce) packages,"chicken ramen noodles, broken"
+162,6575012,10,ounces,broccoli coleslaw mix
+163,6575012,¾,cup,sliced almonds
+164,6575012,¾,cup,golden raisins (Optional)
+165,6575012,½,cup,sliced green onions
+166,6575012,½,cup,chopped green bell pepper
+167,6591528,1,small head,"cabbage, shredded"
+168,6591528,¼,cup,rock salt
+169,6591528,1,small,"carrot, cut into thin strips"
+170,6591528,3,tablespoons,vinegar
+171,6591528,2,tablespoons,vegetable oil
+172,6591528,1,tablespoon,"white sugar, or to taste"
+173,6591528,1,teaspoon,sesame oil
+174,6591528,1,teaspoon,"toasted sesame seeds, ground"
+175,6591528,½,teaspoon,"cayenne pepper, or to taste"
+176,6591528,¼,teaspoon,salt
+177,6587998,1,cup,mayonnaise
+178,6587998,2,tablespoons,sugar
+179,6587998,2,tablespoons,cider vinegar
+180,6587998,½,teaspoon,salt
+181,6587998,½,teaspoon,pepper
+182,6587998,½,teaspoon,celery seed
+183,6587998,½,teaspoon,garlic powder
+184,6587998,½,teaspoon,onion powder
+185,6587998,1,(16 ounce) package,shredded coleslaw mix
+186,6582587,½,small head,"cabbage, finely chopped"
+187,6582587,1,,"carrot, finely chopped"
+188,6582587,½,,"red onion, minced"
+189,6582587,1,,"jalapeño pepper, seeded and minced"
+190,6582587,1,tablespoon,chopped fresh cilantro
+191,6582587,1,,"lime, juiced"
+192,6604646,½,large head,"cabbage, coarsely chopped"
+193,6604646,1,(3 ounce) package,"ramen noodles, crushed"
+194,6604646,½,cup,sunflower seeds
+195,6604646,½,cup,vegetable oil
+196,6604646,3,tablespoons,white sugar
+197,6604646,3,tablespoons,distilled white vinegar
+198,6580450,1,small head,"cabbage, cored and finely chopped"
+199,6580450,1,,"Granny Smith apple, cut into matchstick-size pieces"
+200,6580450,5,,"green onions, thinly sliced"
+201,6580450,½,cup,apple cider vinegar
+202,6580450,½,cup,white sugar
+203,6580450,3,tablespoons,olive oil
+204,6580450,3,tablespoons,vegetable oil
+205,6580450,1,tablespoon,Dijon mustard
+206,6580450,¼,teaspoon,red pepper flakes
+207,6604332,1,(3 ounce) package,chicken flavored ramen noodles
+208,6604332,¼,cup,butter
+209,6604332,½,cup,"sesame seeds, toasted"
+210,6604332,½,cup,blanched slivered almonds
+211,6604332,1,large head,"napa cabbage, shredded"
+212,6604332,6,,"green onions, chopped"
+213,6604332,¼,cup,vegetable oil
+214,6604332,¼,cup,rice wine vinegar
+215,6604332,1,tablespoon,soy sauce
+216,6604332,1,tablespoon,sesame oil
+217,6604332,⅛,cup,white sugar
+218,6738569,½,cup,mayonnaise
+219,6738569,⅓,cup,white sugar
+220,6738569,¼,cup,milk
+221,6738569,¼,cup,buttermilk
+222,6738569,2 ½,tablespoons,lemon juice
+223,6738569,1 ½,tablespoons,white wine vinegar
+224,6738569,½,teaspoon,salt
+225,6738569,⅛,teaspoon,ground black pepper
+226,6738569,1,(16 ounce) package,coleslaw mix
+227,6738569,2,tablespoons,minced onion
+228,6651003,1,,"rotisserie chicken, meat removed and shredded"
+229,6651003,½,medium head,"cabbage, chopped"
+230,6651003,4,,"green onions, sliced"
+231,6651003,1,(3 ounce) package,ramen noodles (such as Nissin® Top Ramen)
+232,6651003,3,tablespoons,sesame seeds
+233,6651003,3,tablespoons,slivered almonds
+234,6575368,¾,cup,mayonnaise
+235,6575368,1,,"lime, zested"
+236,6575368,2,teaspoons,fresh lime juice
+237,6575368,½,teaspoon,rice vinegar
+238,6575368,2,cloves,"garlic, minced"
+239,6575368,2,teaspoons,sweet chili sauce
+240,6575368,2,teaspoons,white sugar
+241,6575368,3,tablespoons,finely chopped fresh cilantro
+242,6575368,¼,,"red onion, finely diced, or more to taste"
+243,6575368,4,cups,"shredded green cabbage, or more to taste"
+244,6569058,1,large head,"cabbage, shredded"
+245,6569058,1,,"green bell pepper, finely chopped"
+246,6569058,1,small,"small onion, finely chopped"
+247,6569058,2,,"carrots, shredded"
+248,6569058,2,cups,boiling water
+249,6569058,2,teaspoons,salt
+250,6569058,1 ½,cups,white sugar
+251,6569058,1,cup,water
+252,6569058,¾,cup,cider vinegar
+253,6569058,2,teaspoons,celery seed
+254,6663138,1,medium head,"cabbage, shredded"
+255,6663138,1,large,"red onion, diced"
+256,6663138,1,cup,grated carrots
+257,6663138,2,stalks,"celery, chopped"
+258,6663138,1,cup,white sugar
+259,6663138,1,cup,white vinegar
+260,6663138,¾,cup,vegetable oil
+261,6663138,1,tablespoon,salt
+262,6663138,1,tablespoon,dry mustard
+263,6663138,,,black pepper to taste
+264,6575855,1,cup,crumbled blue cheese
+265,6575855,2,,"lemons, juiced"
+266,6575855,⅓,cup,mayonnaise
+267,6575855,,,salt and black pepper to taste
+268,6575855,6,stalks,"celery, thinly sliced"
+269,6575855,4,,"green onions with tops, thinly sliced"
+270,6575855,1,(16 ounce) package,shredded coleslaw mix with red and green cabbage and carrots
+271,6601451,½,head,"green cabbage, cored and shredded"
+272,6601451,1,,"carrot, grated"
+273,6601451,1,quart,boiling water
+274,6601451,3,,"green onions, minced"
+275,6601451,1,cup,distilled white vinegar
+276,6601451,½,cup,water
+277,6601451,2,teaspoons,dried oregano
+278,6579711,⅓,cup,white sugar
+279,6579711,½,teaspoon,salt
+280,6579711,⅛,teaspoon,pepper
+281,6579711,¼,cup,milk
+282,6579711,½,cup,mayonnaise
+283,6579711,¼,cup,buttermilk
+284,6579711,1 ½,tablespoons,distilled white vinegar
+285,6579711,2 ½,tablespoons,lemon juice
+286,6579711,8,cups,finely chopped cabbage
+287,6579711,¼,cup,grated carrots
+288,6580664,1,head,"cabbage, shredded"
+289,6580664,5,,"Roma (plum) tomatoes, diced"
+290,6580664,¼,,"red onion, diced, or more to taste"
+291,6580664,¼,cup,"pickled jalapeno slices, diced and juice reserved"
+292,6580664,¼,cup,"chopped fresh cilantro, or to taste"
+293,6580664,7,tablespoons,lime juice
+294,6580664,3,tablespoons,red wine vinegar
+295,6580664,¼,teaspoon,chili powder
+296,6580664,¼,teaspoon,ground black pepper
+297,6580664,¼,teaspoon,salt
+298,6580664,⅛,teaspoon,"cayenne pepper, or more to taste"
+299,6590966,1,(16 ounce) bag,coleslaw mix
+300,6590966,1,cup,mayonnaise
+301,6590966,¼,cup,"white sugar, or to taste"
+302,6590966,2,tablespoons,cider vinegar
+303,6590966,½,teaspoon,onion powder
+304,6590966,,,salt and ground black pepper to taste
+305,6575247,1,tablespoon,chipotle hot sauce (such as Cholula®)
+306,6575247,1,tablespoon,rice vinegar
+307,6575247,1,tablespoon,soy sauce
+308,6575247,1 ½,teaspoons,minced ginger
+309,6575247,1,teaspoon,agave syrup
+310,6575247,1,tablespoon,olive oil
+311,6575247,1,tablespoon,sesame oil
+312,6575247,1,pound,ground turkey
+313,6575247,½,teaspoon,salt
+314,6575247,½,tablespoon,ground black pepper
+315,6575247,1,(8 ounce) package,coleslaw mix
+316,6575247,½,,"red bell pepper, diced"
+317,6575247,2,,"green onions, chopped, or more to taste"
+318,6575247,2,cloves,"garlic, minced"
+319,6575247,1,tablespoon,sesame seeds
+320,6572224,4,cups,finely shredded cabbage
+321,6572224,⅓,cup,apple cider vinegar
+322,6572224,⅓,cup,ketchup
+323,6572224,2,tablespoons,white sugar
+324,6572224,2,teaspoons,"crushed red pepper flakes, or to taste"
+325,6572224,2,dashes,"hot pepper sauce, or to taste"
+326,6569578,3,tablespoons,white wine vinegar
+327,6569578,2,tablespoons,canola oil
+328,6569578,2,tablespoons,honey
+329,6569578,2,tablespoons,mayonnaise
+330,6569578,½,teaspoon,celery seed (Optional)
+331,6569578,½,teaspoon,poppy seeds (Optional)
+332,6569578,½,teaspoon,salt
+333,6569578,¼,teaspoon,ground black pepper
+334,6569578,1,(10 ounce) package,finely shredded cabbage
+335,6569578,1,,"firm, ripe mango - peeled, seeded, and cut into 1/2-inch pieces"
+336,6569578,⅓,cup,chopped cilantro
+337,6569578,3,,"green onions, chopped"
+338,6571303,2,cups,mayonnaise
+339,6571303,1,cup,buttermilk
+340,6571303,3,tablespoons,white sugar
+341,6571303,1,teaspoon,celery seed
+342,6571303,½,teaspoon,ground black pepper
+343,6571303,2,(16 ounce) packages,shredded coleslaw mix
+344,6573666,1,cup,heavy whipping cream
+345,6573666,⅔,cup,white sugar
+346,6573666,⅓,cup,distilled white vinegar
+347,6573666,1,teaspoon,salt
+348,6573666,1 ½,pounds,shredded cabbage
+349,6596633,1,small head,"cabbage, shredded"
+350,6596633,1,small,"white onion, chopped"
+351,6596633,1,,"green bell pepper, chopped"
+352,6596633,1,,"red bell pepper, chopped"
+353,6596633,1,small,"carrot, shredded"
+354,6596633,½,cup,cider vinegar
+355,6596633,3,tablespoons,white sugar
+356,6596633,½,teaspoon,salt
+357,6596633,¼,teaspoon,freshly ground black pepper
+358,6596633,½,cup,vegetable oil
+359,6571939,1,(16 ounce) package,shredded coleslaw mix
+360,6571939,¼,cup,lime juice
+361,6571939,¼,cup,rice wine vinegar
+362,6571939,1,tablespoon,fish sauce
+363,6571939,2,tablespoons,sesame oil
+364,6571939,2,tablespoons,honey
+365,6571939,¼,cup,chopped peanuts
+366,6571939,,,salt and pepper to taste
+367,6576139,2,tablespoons,extra-light mayonnaise
+368,6576139,¼,cup,low-fat milk
+369,6576139,1,tablespoon,white vinegar
+370,6576139,1,tablespoon,apple cider vinegar
+371,6576139,1,tablespoon,fresh lemon juice
+372,6576139,1,teaspoon,white sugar
+373,6576139,1,teaspoon,salt
+374,6576139,1,head,"cabbage, finely shredded"
+375,6576139,1,small,"onion, minced"
+376,6576139,1,,"carrot, shredded and chopped"
+377,6591329,1,head,"cabbage, finely shredded"
+378,6591329,1,,"red onion, quartered and thinly sliced"
+379,6576055,1,medium head,"green cabbage, finely shredded"
+380,6576055,3,tablespoons,finely chopped garlic
+381,6576055,1 ½,teaspoons,kosher salt
+382,6576055,⅓,cup,grapeseed oil
+383,6576055,⅓,cup,mayonnaise
+384,6576055,⅓,cup,apple cider vinegar
+385,6576055,¼,teaspoon,ground paprika
+386,6576055,¼,teaspoon,ground white pepper
+387,6576055,⅛,teaspoon,white sugar
+388,6576055,⅛,teaspoon,celery seed
+389,6585702,3,cups,shredded cabbage
+390,6585702,1,,"carrot, shredded"
+391,6585702,1,,"onion, diced"
+392,6585702,1,,"red bell pepper, diced"
+393,6585702,1,,"jalapeno pepper, seeded and diced"
+394,6585702,1,tablespoon,chopped fresh cilantro
+395,6585702,½,cup,canola oil
+396,6585702,2,tablespoons,apple cider vinegar
+397,6585702,1,tablespoon,white sugar
+398,6585702,1,teaspoon,cayenne pepper
+399,6585702,,,salt and pepper to taste
+400,6580169,½,head,"green cabbage, shredded"
+401,6580169,1,,"red bell pepper, thinly sliced"
+402,6580169,½,,"red onion, thinly sliced"
+403,6580169,2,,"carrots, peeled and shredded"
+404,6580169,1,,"mango - peeled, seeded, and diced"
+405,6580169,½,cup,"fresh cilantro, chopped"
+406,6580169,⅓,cup,nonfat plain yogurt
+407,6580169,2,tablespoons,reduced-fat mayonnaise
+408,6580169,1,tablespoon,prepared yellow mustard
+409,6580169,1,tablespoon,apple cider vinegar
+410,6580169,1,teaspoon,agave nectar
+411,6580169,,,salt and black pepper to taste
+412,6580169,1,dash,"habanero hot sauce, or more to taste"
+413,6739792,½,cup,mayonnaise
+414,6739792,⅓,cup,white sugar
+415,6739792,¼,cup,milk
+416,6739792,2 ½,tablespoons,lemon juice
+417,6739792,1 ½,tablespoons,vinegar
+418,6739792,,,salt and pepper to taste
+419,6739792,9 ½,cups,shredded cabbage
+420,6739792,½,cup,grated carrots
+421,6739792,¼,cup,minced sweet onion
+422,6574455,1,medium head,"green cabbage, chopped"
+423,6574455,1,,"fresh pineapple - peeled, cored, and cut into small pieces"
+424,6574455,4,,"green onions, chopped"
+425,6574455,1,,"bell pepper, chopped"
+426,6574455,⅓,cup,white vinegar
+427,6574455,¼,cup,mayonnaise
+428,6574455,1,tablespoon,white sugar
+429,6574455,1,teaspoon,salt
+430,6574455,¼,teaspoon,ground black pepper
+431,6605983,1,cup,mayonnaise
+432,6605983,1,tablespoon,lime juice
+433,6605983,1,tablespoon,ground cumin
+434,6605983,1,teaspoon,cayenne pepper
+435,6605983,1,teaspoon,salt
+436,6605983,1,teaspoon,ground black pepper
+437,6605983,1,medium head,"green cabbage, rinsed and very thinly sliced"
+438,6605983,1,large,"carrot, shredded"
+439,6605983,2,,"green onions, sliced"
+440,6605983,2,,"radishes, sliced"
+441,6591758,1,medium head,"green cabbage, shredded"
+442,6591758,2,,"green bell peppers, diced"
+443,6591758,,,salt to taste
+444,6591758,1,cup,vinegar
+445,6591758,1 ½,cups,sugar
+446,6591758,2,tablespoons,celery seed
+447,6596918,1,tablespoon,distilled white vinegar
+448,6596918,1,cup,mayonnaise
+449,6596918,2,tablespoons,prepared Dijon-style mustard
+450,6596918,3,cups,shredded cabbage
+451,6596918,3,cups,shredded red cabbage
+452,6596918,1,cup,grated carrot
+453,6596918,½,cup,shredded green bell pepper
+454,6596918,½,cup,shredded rell bell pepper
+455,6596918,½,cup,shredded celery
+456,6592667,1,tablespoon,canola oil
+457,6592667,4,cloves,"garlic, minced, or more to taste"
+458,6592667,1,tablespoon,minced fresh ginger
+459,6592667,1,pound,ground beef
+460,6592667,½,head,"white cabbage, shredded"
+461,6592667,½,head,"red cabbage, shredded"
+462,6592667,2,large,"carrots, peeled and cut into thin strips"
+463,6592667,1,,"red bell pepper, cut into very thin strips"
+464,6592667,½,cup,reduced-sodium soy sauce
+465,6592667,2,tablespoons,sesame oil
+466,6592667,1,dash,"hot sauce, or to taste"
+467,6592667,,,salt and ground black pepper to taste
+468,6592667,2,tablespoons,"chopped fresh cilantro, or to taste"
+469,6592667,1,,lime wedge
+470,6577021,½,medium head,"cabbage, shredded"
+471,6577021,½,cup,chopped fresh cilantro leaves
+472,6577021,¼,cup,thinly sliced red onion
+473,6577021,1,medium,"jalapeno pepper, seeded and diced"
+474,6577021,¼,cup,olive oil
+475,6577021,1 ½,tablespoons,fresh lime juice
+476,6577021,1 ½,tablespoons,red wine vinegar
+477,6577021,½,teaspoon,salt
+478,6577021,1,pinch,white sugar
+479,6571054,1,head,"green cabbage, shredded"
+480,6571054,1,large,"carrot, grated"
+481,6571054,1,cup,grated jicama
+482,6571054,1,tablespoon,black sesame seeds
+483,6571054,1,cup,mayonnaise
+484,6571054,2,tablespoons,rice vinegar
+485,6571054,1,tablespoon,sesame oil
+486,6571054,3,tablespoons,honey
+487,6585388,2,cups,chopped cabbage
+488,6585388,4,,"kohlrabi bulbs, peeled and grated"
+489,6585388,2,stalks,"celery, sliced thin"
+490,6585388,2,,"carrots, sliced thin"
+491,6585388,2,tablespoons,minced fresh onion
+492,6585388,⅓,cup,white sugar
+493,6585388,½,teaspoon,salt
+494,6585388,⅛,teaspoon,ground black pepper
+495,6585388,⅛,teaspoon,celery seed
+496,6585388,½,cup,mayonnaise
+497,6585388,4 ½,teaspoons,apple cider vinegar
+498,6736775,1,(16 ounce) package,coleslaw mix
+499,6736775,1,head,"fresh broccoli, cut into florets"
+500,6736775,8,,"green onions, chopped"
+501,6736775,½,cup,butter or margarine
+502,6736775,2,(3 ounce) packages,chicken flavored ramen noodles
+503,6736775,1,cup,slivered almonds
+504,6736775,1,cup,unsalted sunflower seeds
+505,6736775,½,cup,white sugar
+506,6736775,½,cup,vegetable oil
+507,6736775,¼,cup,apple cider vinegar
+508,6736775,1,teaspoon,soy sauce
+509,6738062,2,,"cucumbers - quartered, seeded, and thinly sliced"
+510,6738062,2,,"carrots, shredded"
+511,6738062,¼,,"onion, grated"
+512,6738062,2,tablespoons,white sugar
+513,6738062,1 ½,teaspoons,ground coriander
+514,6738062,1,teaspoon,kosher salt
+515,6738062,½,teaspoon,coarse ground black pepper
+516,6738062,¼,cup,apple cider vinegar

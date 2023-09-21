@@ -1,0 +1,532 @@
+,id_recipe,Quantity,Unit of Measure,Ingredient
+0,6648682,3,cups,diced peeled potatoes
+1,6648682,4,slices,bacon
+2,6648682,1,small,"onion, diced"
+3,6648682,¼,cup,white vinegar
+4,6648682,2,tablespoons,water
+5,6648682,1 ½,tablespoons,"white sugar, or more to taste"
+6,6648682,1,teaspoon,salt
+7,6648682,⅛,teaspoon,ground black pepper
+8,6648682,1,tablespoon,chopped fresh parsley
+9,6663171,5,,potatoes
+10,6663171,3,,eggs
+11,6663171,1,cup,chopped celery
+12,6663171,½,cup,chopped onion
+13,6663171,½,cup,sweet pickle relish
+14,6663171,¼,cup,mayonnaise
+15,6663171,1,tablespoon,prepared mustard
+16,6663171,¼,teaspoon,garlic salt
+17,6663171,¼,teaspoon,celery salt
+18,6663171,,,ground black pepper to taste
+19,6736723,12,,red potatoes
+20,6736723,¼,cup,chopped green onion
+21,6736723,¼,cup,olive oil
+22,6736723,¼,cup,red wine vinegar
+23,6736723,1 ½,teaspoons,fresh lemon juice
+24,6736723,½,teaspoon,garlic powder
+25,6736723,½,teaspoon,onion powder
+26,6736723,½,teaspoon,"coarse salt, or to taste"
+27,6736723,½,teaspoon,"ground black pepper, or to taste"
+28,6736723,¼,teaspoon,dried oregano
+29,6736723,¼,teaspoon,white sugar
+30,6736723,¼,teaspoon,"dried rosemary, crumbled"
+31,6736723,1,pinch,ground red pepper
+32,6650323,6,,"potatoes, peeled"
+33,6650323,1,,"carrot, or more to taste"
+34,6650323,4,,whole eggs
+35,6650323,6,large,"pickles, cut into cubes"
+36,6650323,1,(15 ounce) can,"peas, drained"
+37,6650323,½,cup,"cubed fully cooked ham, or to taste"
+38,6650323,1,tablespoon,"chopped fresh dill, or to taste (optional)"
+39,6650323,½,cup,"mayonnaise, or to taste"
+40,6736755,2,pounds,"clean, scrubbed new red potatoes"
+41,6736755,6,large,eggs
+42,6736755,1,pound,bacon
+43,6736755,1,,"onion, finely chopped"
+44,6736755,1,stalk,"celery, finely chopped"
+45,6736755,2,cups,mayonnaise
+46,6736755,,,salt and pepper to taste
+47,6650948,9,,"potatoes, peeled"
+48,6650948,6,slices,bacon
+49,6650948,¾,cup,chopped onions
+50,6650948,2,tablespoons,all-purpose flour
+51,6650948,2,tablespoons,white sugar
+52,6650948,2,teaspoons,salt
+53,6650948,½,teaspoon,celery seed
+54,6650948,⅛,teaspoon,ground black pepper
+55,6650948,¾,cup,water
+56,6650948,⅓,cup,distilled white vinegar
+57,7556905,2 1/4,pounds,ukon gold potatoes
+58,6739761,6,medium,potatoes
+59,6739761,½,cup,white sugar
+60,6739761,2,large,"eggs, beaten"
+61,6739761,1,teaspoon,cornstarch
+62,6739761,,,salt to taste
+63,6739761,1,(5 ounce) can,evaporated milk
+64,6739761,½,cup,vinegar
+65,6739761,1,teaspoon,prepared yellow mustard
+66,6739761,¼,cup,butter
+67,6739761,1,cup,mayonnaise
+68,6739761,6,large,"hard-cooked eggs, diced"
+69,6739761,1,small,"onion, finely chopped"
+70,6739761,1,cup,"celery, chopped"
+71,6739761,1,teaspoon,salt
+72,6737118,3,pounds,"red potatoes, cut into chunks"
+73,6737118,4,large,"hard-cooked eggs, chopped"
+74,6737118,1,cup,low-fat sour cream
+75,6737118,½,cup,light mayonnaise
+76,6737118,⅓,,"celery stalk, chopped"
+77,6737118,2,,"green onions, chopped"
+78,6737118,1,,"dill pickle, chopped"
+79,6737118,2,teaspoons,Dijon mustard
+80,6737118,1,teaspoon,white vinegar
+81,6737118,1,dash,hot sauce
+82,6737118,1,tablespoon,dried dill weed
+83,6737118,½,teaspoon,garlic powder
+84,6737118,1,dash,onion salt
+85,6737118,,,salt and pepper to taste
+86,6664705,5,pounds,"red potatoes, chopped"
+87,6664705,3,cups,mayonnaise
+88,6664705,2,cups,finely chopped pickles
+89,6664705,5,large,"hard-cooked eggs, chopped"
+90,6664705,½,cup,chopped red onion
+91,6664705,½,cup,chopped celery
+92,6664705,3,tablespoons,prepared mustard
+93,6664705,1,tablespoon,apple cider vinegar
+94,6664705,1,teaspoon,"salt, or to taste"
+95,6664705,½,teaspoon,ground black pepper
+96,6584920,5,,red potatoes
+97,6584920,½,cup,reduced-fat mayonnaise
+98,6584920,2,tablespoons,grated Parmesan cheese
+99,6584920,1 ½,tablespoons,Dijon mustard
+100,6584920,4,teaspoons,cider vinegar
+101,6584920,½,teaspoon,cayenne pepper
+102,6584920,½,teaspoon,salt
+103,6584920,¼,teaspoon,ground black pepper
+104,6584920,¼,teaspoon,paprika
+105,6584920,½,,"red onion, thinly sliced"
+106,6584920,2,,"green onions, chopped"
+107,6603549,2,pounds,"red boiling potatoes, scrubbed"
+108,6603549,2,tablespoons,red wine vinegar
+109,6603549,½,teaspoon,salt
+110,6603549,½,teaspoon,freshly ground black pepper
+111,6603549,3,,hard-cooked eggs
+112,6603549,1,,small celery stalk
+113,6603549,¼,cup,chopped sweet pickle (not relish)
+114,6603549,3,,scallions
+115,6603549,2,tablespoons,chopped fresh parsley
+116,6603549,½,cup,mayonnaise
+117,6603549,2,tablespoons,Dijon-style mustard
+118,6738488,4,,potatoes
+119,6738488,4,large,eggs
+120,6738488,½,cup,mayonnaise
+121,6738488,½,stalk,"celery, chopped"
+122,6738488,¼,cup,sweet relish
+123,6738488,1,clove,"garlic, minced"
+124,6738488,2,tablespoons,prepared mustard
+125,6738488,,,salt and pepper to taste
+126,6663206,10,,unpeeled red potatoes
+127,6663206,¾,cup,sour cream
+128,6663206,¾,cup,mayonnaise
+129,6663206,½,,"white onion, finely chopped"
+130,6663206,1,stalk,"celery, finely chopped"
+131,6663206,1,tablespoon,"apple cider vinegar, or to taste"
+132,6663206,1,tablespoon,"Dijon mustard, or to taste"
+133,6663206,1,teaspoon,celery salt
+134,6663206,,,salt and black pepper to taste
+135,6663206,5,,"hard boiled eggs, roughly chopped"
+136,6663206,1,tablespoon,dried dill weed
+137,6578411,6,medium,"Yukon Gold potatoes, peeled and quartered"
+138,6578411,1,small,"sweet onion, diced"
+139,6578411,3,large,"hard-cooked eggs, chopped"
+140,6578411,½,cup,diced celery
+141,6578411,¼,cup,chopped sweet pickles
+142,6578411,,,salt and ground black pepper to taste
+143,6578411,1,cup,mayonnaise
+144,6578411,⅓,cup,sweet pickle juice
+145,6578411,1,teaspoon,prepared yellow mustard
+146,6570785,10,pounds,unpeeled potatoes
+147,6570785,24,,eggs
+148,6570785,4,cups,mayonnaise
+149,6570785,4,teaspoons,"salt, or to taste"
+150,6570785,3,teaspoons,prepared yellow mustard
+151,6570785,2,teaspoons,ground black pepper
+152,6570785,2,cups,finely chopped green onions
+153,6575037,2,,white potatoes
+154,6575037,1,,sweet potato
+155,6575037,4,large,eggs
+156,6575037,2,stalks,"celery, chopped"
+157,6575037,½,,"onion, chopped"
+158,6575037,¾,cup,mayonnaise
+159,6575037,1,tablespoon,prepared mustard
+160,6575037,1 ½,teaspoons,ground black pepper
+161,6575037,1,teaspoon,salt
+162,6579672,4,pounds,"potatoes, peeled"
+163,6579672,15,slices,bacon
+164,6579672,1,(16 ounce) container,reduced-fat sour cream
+165,6579672,2,cups,shredded Cheddar cheese
+166,6579672,2,tablespoons,mayonnaise
+167,6579672,2,tablespoons,dried chives
+168,6579672,1,teaspoon,salt
+169,6579672,1,teaspoon,ground black pepper
+170,6576016,5,large,"potatoes, peeled and chopped"
+171,6576016,2,cloves,"garlic, minced"
+172,6576016,⅔,cup,extra virgin olive oil
+173,6576016,½,cup,white wine vinegar
+174,6576016,⅓,cup,chopped fresh parsley
+175,6582253,2,,"potatoes, peeled and diced"
+176,6582253,3,,"hard-cooked eggs, peeled and diced"
+177,6582253,½,,"cucumber, peeled and diced"
+178,6582253,1,,"tomato, diced"
+179,6582253,1,,"celery stalk, diced"
+180,6582253,¼,,"onion, diced"
+181,6582253,¼,cup,chopped green onion
+182,6582253,¾,cup,low-fat mayonnaise
+183,6582253,1,tablespoon,prepared yellow mustard
+184,6582253,,,salt and ground black pepper to taste
+185,6737108,5,pounds,red potatoes
+186,6737108,6,,eggs
+187,6737108,2,cups,mayonnaise
+188,6737108,1,,"onion, diced"
+189,6737108,2,,"green onions, thinly sliced"
+190,6737108,1,small,"green bell pepper, seeded and diced"
+191,6737108,3,stalks,"celery, thinly sliced"
+192,6737108,2,teaspoons,salt
+193,6737108,1,teaspoon,ground black pepper
+194,6664278,6,,eggs
+195,6664278,10,,red potatoes
+196,6664278,1,cup,mayonnaise
+197,6664278,½,cup,ranch dressing
+198,6664278,⅓,cup,dill pickle relish
+199,6664278,2,tablespoons,prepared yellow mustard
+200,6664278,1 ½,teaspoons,salt
+201,6664278,¼,teaspoon,ground black pepper
+202,6664278,⅛,teaspoon,paprika
+203,6664278,⅛,teaspoon,celery seed
+204,6664278,1,,"onion, chopped"
+205,6664278,¼,cup,pepperoncini (Optional)
+206,6664278,¼,cup,sliced black olives (Optional)
+207,6591720,3,pounds,unpeeled red potatoes
+208,6591720,4,,eggs
+209,6591720,1 ½,cups,mayonnaise
+210,6591720,2,tablespoons,milk
+211,6591720,2,tablespoons,distilled white vinegar
+212,6591720,½,cup,sliced green onions
+213,6591720,½,teaspoon,salt
+214,6591720,¼,teaspoon,ground black pepper
+215,6591720,1,cup,sliced celery
+216,6665019,4,quarts,water
+217,6665019,2,tablespoons,salt
+218,6665019,1,head,"cauliflower, cut into bite-sized pieces"
+219,6665019,1,cup,mayonnaise
+220,6665019,½,cup,thinly sliced celery
+221,6665019,3,slices,"cooked bacon, crumbled"
+222,6665019,4,tablespoons,minced onion
+223,6665019,3,tablespoons,minced sweet pickles
+224,6665019,1,teaspoon,"spicy mustard, or to taste"
+225,6665019,⅛,teaspoon,ground turmeric
+226,6665019,2,,"hard-boiled eggs, diced"
+227,6665019,,,salt and ground black pepper to taste
+228,6590862,2,,"boneless chicken breast halves, cooked"
+229,6590862,2,,hard-cooked eggs
+230,6590862,3,,"potatoes, cooked"
+231,6590862,1 ¼,cups,pickled cucumbers
+232,6590862,¼,teaspoon,salt
+233,6590862,2,tablespoons,olive oil
+234,6590862,⅔,cup,mayonnaise
+235,6587524,6,cups,cubed russet potatoes
+236,6587524,1,teaspoon,salt
+237,6587524,1,cup,sour cream
+238,6587524,1,cup,creamy salad dressing (such as Miracle Whip®)
+239,6587524,½,teaspoon,coarse ground black pepper
+240,6587524,1,cup,shredded Cheddar cheese
+241,6587524,½,cup,chopped green onions
+242,6587524,½,cup,real bacon bits
+243,6736737,2,pounds,"red potatoes, cut into bite-size pieces"
+244,6736737,1,(16 ounce) container,sour cream
+245,6736737,1,(1 ounce) package,ranch dressing mix
+246,6736737,1 ¼,cups,"cooked bacon, crumbled"
+247,6736737,1 ½,cups,shredded Cheddar cheese
+248,6736737,2,bunches,"green onions, thinly sliced"
+249,6600911,2 ½,pounds,"red potatoes, quartered"
+250,6600911,1,cup,mayonnaise
+251,6600911,1,cup,petite green peas
+252,6600911,5,,"hard-boiled eggs, chopped"
+253,6600911,4,slices,"cooked bacon, chopped"
+254,6600911,¼,cup,minced onion
+255,6600911,2,tablespoons,mustard
+256,6600911,½,teaspoon,salt
+257,6600911,¼,teaspoon,ground black pepper
+258,6579759,6,medium,white potatoes with skin
+259,6579759,1,small,"onion, finely chopped"
+260,6579759,1,cup,chopped celery
+261,6579759,1,cup,chopped carrots
+262,6579759,1,teaspoon,celery seed
+263,6579759,4,,"hard-cooked eggs, peeled and chopped"
+264,6579759,2,,"eggs, beaten"
+265,6579759,¾,cup,white sugar
+266,6579759,1,teaspoon,cornstarch
+267,6579759,½,teaspoon,salt
+268,6579759,⅓,cup,apple cider vinegar
+269,6579759,½,cup,milk
+270,6579759,1,teaspoon,prepared yellow mustard
+271,6579759,3,tablespoons,butter
+272,6579759,1,cup,mayonnaise or salad dressing
+273,6600418,10,,eggs
+274,6600418,12,medium,white potatoes with skin
+275,6600418,1,bunch,"green onions, chopped"
+276,6600418,1,(14 ounce) can,sweetened condensed milk
+277,6600418,1 ½,cups,mayonnaise
+278,6600418,1,tablespoon,"chopped fresh parsley, for garnish (Optional)"
+279,6738796,1 ½,pounds,red potatoes
+280,6738796,¾,pound,"fresh green beans, trimmed and snapped"
+281,6738796,1,small,"red onion, chopped"
+282,6738796,¼,cup,chopped fresh basil
+283,6738796,,,salt and pepper to taste
+284,6738796,½,cup,extra virgin olive oil
+285,6738796,¼,cup,balsamic vinegar
+286,6738796,2,tablespoons,Dijon mustard
+287,6738796,2,tablespoons,fresh lemon juice
+288,6738796,1,clove,"garlic, minced"
+289,6738796,1,dash,Worcestershire sauce
+290,6600380,3,pounds,new red potatoes
+291,6600380,1,cup,mayonnaise
+292,6600380,¾,cup,sour cream
+293,6600380,2,tablespoons,dried dill weed
+294,6600380,4,,"green onions, chopped"
+295,6600380,1,pinch,salt and ground black pepper to taste
+296,6587336,1 ¾,pounds,"new potatoes, halved"
+297,6587336,1,cup,sour cream
+298,6587336,½,cup,mayonnaise
+299,6587336,½,cup,chopped fresh chives
+300,6587336,,,salt and freshly ground black pepper to taste
+301,6587336,½,cup,chopped fresh chives for garnish
+302,6737746,3,pounds,large russet potatoes
+303,6737746,¼,cup,kosher salt
+304,6737746,10,cups,cold water
+305,6737746,½,cup,finely diced celery
+306,6737746,2,tablespoons,finely diced sweet onion (Optional)
+307,6737746,2,tablespoons,chopped fresh parsley
+308,6737746,3,,"large hard-boiled eggs, peeled and cut into chunks"
+309,6737746,1,teaspoon,chopped fresh chives for garnish
+310,6737746,1,pinch,paprika for garnish
+311,6597506,5,large,potatoes
+312,6597506,1,(16 ounce) package,turkey hot dogs
+313,6597506,5,,eggs
+314,6597506,5,large,"dill pickles, chopped"
+315,6597506,1,bunch,"green onions, chopped"
+316,6597506,1,(15 ounce) can,"baby peas, drained"
+317,6597506,,,salt to taste
+318,6597506,1,cup,mayonnaise
+319,6601133,6,,"medium red potatoes, scrubbed"
+320,6601133,1,cup,water
+321,6601133,¼,cup,chopped onion
+322,6601133,1,stalk,"celery, chopped"
+323,6601133,,,salt and pepper to taste
+324,6601133,3,,"hard-cooked eggs, chopped"
+325,6601133,1,tablespoon,chopped fresh dill
+326,6601133,½,cup,mayonnaise
+327,6601133,1,teaspoon,yellow mustard
+328,6601133,1,teaspoon,cider vinegar
+329,6739126,2,pounds,red potatoes
+330,6739126,2,tablespoons,extra-virgin olive oil
+331,6577315,4,slices,bacon
+332,6577315,2,pounds,red new potatoes
+333,6577315,½,cup,olive oil
+334,6577315,3,tablespoons,white vinegar
+335,6577315,1,bunch,"green onions, chopped"
+336,6577315,½,teaspoon,salt
+337,6577315,1,teaspoon,ground black pepper
+338,6577315,1 ½,ounces,"blue cheese, crumbled"
+339,6741615,1 ½,pounds,"red potatoes, peeled"
+340,6741615,1 ½,cups,mayonnaise
+341,6741615,1,cup,chopped celery
+342,6741615,½,cup,chopped onion
+343,6741615,1,tablespoon,white vinegar
+344,6741615,1,tablespoon,prepared yellow mustard
+345,6741615,1,teaspoon,salt
+346,6741615,¼,teaspoon,ground black pepper
+347,6741615,4,,"hard-cooked eggs, chopped"
+348,6741615,1,teaspoon,"paprika, or to taste (Optional)"
+349,6738340,1,,"large cooked chicken breast, diced or shredded"
+350,6738340,¼,cup,green peas
+351,6738340,¼,cup,diced cooked carrot
+352,6738340,1,teaspoon,minced shallot
+353,6738340,2,tablespoons,finely chopped roasted red peppers
+354,6738340,2,tablespoons,chopped fresh cilantro
+355,6738340,1,teaspoon,lime juice
+356,6738340,¼,cup,"mayonnaise, or as needed"
+357,6597854,8,slices,bacon
+358,6597854,24,,baby red potatoes
+359,6597854,2,tablespoons,"olive oil, or as needed"
+360,6597854,,,cracked black pepper to taste
+361,6597854,⅓,cup,Caesar salad dressing
+362,6597854,4,,"green onions, diced"
+363,6575606,5,,eggs
+364,6575606,7,large,"potatoes, peeled and cubed"
+365,6575606,1,cup,elbow macaroni
+366,6575606,3,cups,mayonnaise
+367,6575606,1,tablespoon,sherry vinegar (Optional)
+368,6575606,1 ½,teaspoons,curry powder
+369,6575606,1,teaspoon,celery seed
+370,6575606,,,salt and black pepper to taste
+371,6575606,2,cups,grated carrots
+372,6575606,1,cup,"frozen green peas, cooked, drained"
+373,6575606,1,small,"sweet onion, finely chopped"
+374,6650580,5,pounds,"russet potatoes, peeled"
+375,6650580,4,teaspoons,"kosher salt, divided, or to taste"
+376,6650580,4,large,eggs
+377,6650580,1,cup,mayonnaise
+378,6650580,⅓,cup,sour cream
+379,6650580,3,tablespoons,yellow mustard
+380,6650580,5,stalks,"green onions, sliced (white and green parts)"
+381,6650580,2,stalks,"celery, finely chopped"
+382,6650580,1,tablespoon,chopped fresh dill
+383,6650580,½,cup,"chopped spicy sweet dill pickles (such as Wickles™), plus 2 teaspoons pickle juice"
+384,6650580,¾,teaspoon,ground black pepper
+385,6650580,¼,teaspoon,ground paprika
+386,6650580,¼,cup,sliced green olives with pimientos
+387,6603676,3,,red potatoes
+388,6603676,2,,eggs
+389,6603676,1 ½,cups,creamy salad dressing
+390,6737210,2,pounds,russet potatoes
+391,6737210,1,cup,mayonnaise
+392,6737210,4,teaspoons,sweet pickle relish
+393,6737210,4,teaspoons,white sugar
+394,6737210,2,teaspoons,chopped white onion
+395,6737210,2,teaspoons,prepared mustard
+396,6737210,1,teaspoon,white wine vinegar
+397,6737210,1,tablespoon,minced celery
+398,6737210,1,teaspoon,minced pimento
+399,6737210,½,teaspoon,shredded carrot
+400,6737210,¼,teaspoon,dried parsley
+401,6737210,¼,teaspoon,ground black pepper
+402,6737210,,,salt to taste
+403,6573767,5,pounds,whole russet potatoes
+404,6573767,5,,eggs
+405,6573767,1 ½,cups,mayonnaise (such as Hellman's®)
+406,6573767,2,tablespoons,prepared yellow mustard (such as French's®)
+407,6573767,1,small,"onion, chopped"
+408,6573767,3,stalks,"celery, chopped"
+409,6573767,7,,"sweet gherkins, chopped"
+410,6573767,25,,"pimento-stuffed green olives, sliced"
+411,6573767,1,pinch,salt to taste
+412,6573767,1,,"green bell pepper, sliced (Optional)"
+413,6650120,3,pounds,"Yukon Gold potatoes, peeled, quartered, and sliced into 1/4-inch pieces"
+414,6650120,1,tablespoon,"kosher salt, or more to taste"
+415,6650120,1,tablespoon,"dried mint, divided"
+416,6650120,½,cup,"mild olive oil, divided"
+417,6650120,1,large,"red onion, diced"
+418,6650120,½,cup,diced red bell pepper
+419,6650120,2,cloves,"garlic, minced"
+420,6650120,⅓,cup,"lemon juice, or more to taste"
+421,6650120,½,cup,thinly sliced green onions
+422,6650120,¼,cup,chopped fresh mint
+423,6650120,2,tablespoons,chopped fresh Italian parsley
+424,6650120,¼,teaspoon,freshly ground black pepper
+425,6650120,¼,teaspoon,Aleppo chili flakes
+426,6650120,1,pinch,cayenne pepper
+427,6604370,2,,beets
+428,6604370,4,small,potatoes
+429,6604370,2,small,carrots
+430,6604370,3,small,"dill pickles, diced"
+431,6604370,¼,cup,vegetable oil
+432,6604370,2,tablespoons,champagne vinegar
+433,6604370,,,salt to taste
+434,6604370,3,,"green onions, chopped"
+435,6579785,1 ½,cups,water
+436,6579785,2,pounds,"red potatoes, scrubbed and cubed"
+437,6579785,3,large,eggs
+438,6579785,2,stalks,"celery, chopped"
+439,6579785,¼,cup,mayonnaise
+440,6579785,2,,"green onions, chopped"
+441,6579785,3,tablespoons,yellow mustard
+442,6579785,1,tablespoon,dill pickle relish
+443,6579785,1,teaspoon,paprika
+444,6579785,,,salt and ground black pepper to taste
+445,6582726,2,pounds,"potatoes, unpeeled"
+446,6582726,½,small,"onion, diced"
+447,6582726,½,teaspoon,prepared yellow mustard
+448,6582726,,,salt and ground black pepper to taste
+449,6582726,1,cup,vegetable stock
+450,6582726,3,tablespoons,"vinegar, or more to taste"
+451,6582726,2,tablespoons,vegetable oil
+452,6605823,6,large,red potatoes
+453,6605823,½,cup,sour cream
+454,6605823,½,cup,plain yogurt
+455,6605823,¼,cup,"fresh chives, finely chopped"
+456,6605823,1,teaspoon,salt
+457,6605823,,,ground black pepper to taste
+458,6590413,4,slices,bacon
+459,6590413,6,medium,red new potatoes
+460,6590413,1 ⅓,cups,mayonnaise
+461,6590413,1,tablespoon,soy sauce
+462,6590413,1,teaspoon,sugar
+463,6590413,1,teaspoon,sesame oil
+464,6590413,⅛,teaspoon,dry hot mustard
+465,6590413,⅛,teaspoon,salt
+466,6590413,¾,cup,chopped bok choy
+467,6590413,1,medium,"red bell pepper, seeded and diced"
+468,6590413,½,cup,chopped green onion
+469,6590413,¼,cup,chopped fresh cilantro
+470,6588608,10,,"red potatoes, peeled and roughly chopped, or more to taste"
+471,6588608,½,cup,"chicken broth, or more as needed"
+472,6588608,¼,cup,white vinegar
+473,6588608,¼,cup,oil
+474,6588608,1,large,"onion, diced"
+475,6588608,6,slices,"cooked bacon, chopped (Optional)"
+476,6588608,¼,cup,chopped fresh dill
+477,6588608,,,salt and ground black pepper to taste
+478,6739452,4,medium,"potatoes, cut into bite-sized pieces"
+479,6739452,4,slices,bacon
+480,6739452,2,tablespoons,white sugar
+481,6739452,1,tablespoon,all-purpose flour
+482,6739452,⅓,cup,water
+483,6739452,¼,cup,white wine vinegar
+484,6739452,½,cup,chopped green onions
+485,6739452,,,salt and ground black pepper to taste
+486,6739075,2,pounds,potatoes
+487,6739075,1,,"green bell pepper, minced"
+488,6739075,1,,"cucumber, sliced and quartered"
+489,6739075,½,cup,sliced red onion
+490,6739075,8,ounces,crumbled feta cheese
+491,6739075,1,,"lemon, juiced"
+492,6739075,½,cup,Italian-style salad dressing
+493,6739075,,,salt and pepper to taste
+494,6739075,3,,"pita breads, cut into wedges"
+495,6599867,2,pounds,"small new potatoes, quartered"
+496,6599867,2,tablespoons,balsamic vinegar
+497,6599867,¼,cup,extra-virgin olive oil
+498,6599867,1,tablespoon,Dijon mustard
+499,6599867,2,tablespoons,chopped fresh basil
+500,6599867,½,teaspoon,salt
+501,6599867,¼,teaspoon,ground black pepper
+502,6599867,½,cup,chopped onion
+503,6599867,¾,cup,crumbled blue cheese
+504,6599867,2,tablespoons,chopped fresh chives
+505,6579005,5,pounds,"unpeeled potatoes, cubed"
+506,6579005,6,large,"hard-cooked eggs, peeled and finely diced"
+507,6579005,1 ½,cups,mayonnaise
+508,6579005,½,cup,barbeque sauce
+509,6579005,1,small,"red onion, diced"
+510,6579005,½,teaspoon,garlic powder
+511,6579005,,,salt and ground black pepper to taste
+512,6579005,½,teaspoon,"ground paprika, or to taste (Optional)"
+513,6601440,5,,potatoes
+514,6601440,2,tablespoons,vinegar
+515,6601440,½,teaspoon,white sugar
+516,6601440,,,salt and ground black pepper to taste
+517,6601440,1,,"onion, finely chopped"
+518,6601440,2,tablespoons,"pickled gherkins, chopped"
+519,6601440,¼,cup,creamy salad dressing (such as Miracle Whip®)
+520,6601440,4,,"hard-boiled eggs, cut into wedges, divided"
+521,6601440,2,tablespoons,"chopped fresh parsley, or as desired"
+522,6596539,4,,"potatoes, each peeled and cut into eight pieces"
+523,6596539,,,salt and ground black pepper to taste
+524,6596539,1,,"cucumber, thinly sliced"
+525,6596539,½,,"onion, thinly sliced"
+526,6596539,1,,"carrot, thinly sliced into rounds"
+527,6596539,1,tablespoon,apple juice
+528,6596539,1,teaspoon,rice vinegar
+529,6596539,2,,"hard-boiled eggs, chopped"
+530,6596539,5,tablespoons,mayonnaise

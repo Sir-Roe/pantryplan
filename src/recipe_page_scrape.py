@@ -182,15 +182,24 @@ def scraper_engine(csv_url):
             response=requests.get(row['url_recipe'])
             # Check if the request was successful (status code 200)
             if response.status_code == 200:
-                # Parse the HTML content of the page using BeautifulSoup
                 soup = BeautifulSoup(response.text, 'html.parser')
                 #WHERE all recipe data is stored
                 soup = soup.body.main.article
+                
+                ul_element = soup.find('ul', class_='mntl-structured-ingredients__list')
 
-                rec_df=pd.concat([rec_df,scrape_recipe(soup,row['id_recipe'])], ignore_index=True)
-                ing_df=pd.concat([ing_df,scrape_ingredients(soup,row['id_recipe'])], ignore_index=True)
-                step_df=pd.concat([step_df,scrape_steps(soup,row['id_recipe'])], ignore_index=True)
-        
+                if ul_element:
+                    # Parse the HTML content of the page using BeautifulSoup
+                    soup = BeautifulSoup(response.text, 'html.parser')
+                    #WHERE all recipe data is stored
+                    soup = soup.body.main.article
+
+                    rec_df=pd.concat([rec_df,scrape_recipe(soup,row['id_recipe'])], ignore_index=True)
+                    ing_df=pd.concat([ing_df,scrape_ingredients(soup,row['id_recipe'])], ignore_index=True)
+                    step_df=pd.concat([step_df,scrape_steps(soup,row['id_recipe'])], ignore_index=True)
+                else:
+                    print("No Ingredients List found")
+
     rec_df.to_csv(f'{rec_dir}\{cat_df["category"][0]}_master.csv')
     ing_df.to_csv(f'{ing_dir}\{cat_df["category"][0]}_ingredients.csv')
     step_df.to_csv(f'{stp_dir}\{cat_df["category"][0]}_steps.csv')
