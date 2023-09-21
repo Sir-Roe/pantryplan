@@ -1,0 +1,601 @@
+,id_recipe,Quantity,Unit of Measure,Ingredient
+0,7554364,,1,"zucchini (10 ounces), ends trimmed"
+1,7554364,2,cups,all-purpose flour
+2,7554364,1,tablespoon,baking powder
+3,7554364,1/4,teaspoon,salt
+4,7554364,1,cup,butter
+5,7554364,1,cup,sour cream
+6,7554364,1 1/2,cups,white sugar
+7,7554364,2,large,eggs
+8,7554364,1,tablespoon,vanilla extract
+9,7554364,1,cup,chopped pecans
+10,7554364,1/2,cup packed,brown sugar
+11,7554364,1,teaspoon,cinnamon
+12,7554364,2,tablespoons,"butter, melted"
+13,6650338,1,cup,packed brown sugar
+14,6650338,⅔,cup,all-purpose flour
+15,6650338,1,teaspoon,ground cinnamon
+16,6650338,½,cup,"unsalted butter, softened"
+17,6663624,⅔,cup,white sugar
+18,6663624,¼,cup,all-purpose flour
+19,6663624,1,teaspoon,ground cinnamon
+20,6663624,¼,cup,cold butter
+21,6570231,1 ½,cups,water
+22,6570231,1 ½,cups,raisins
+23,6570231,¾,cup,"dates, pitted and chopped"
+24,6570231,1,teaspoon,baking soda
+25,6570231,¾,cup,white sugar
+26,6570231,½,cup,butter
+27,6570231,2,large,eggs
+28,6570231,1,teaspoon,vanilla extract
+29,6570231,1 ½,cups,all-purpose flour
+30,6570231,¼,teaspoon,salt
+31,6739735,1 ½,cups,white sugar
+32,6739735,¾,cup,"butter, room temperature"
+33,6739735,3,large,eggs
+34,6739735,1,teaspoon,vanilla extract
+35,6739735,2 ½,cups,all-purpose flour
+36,6739735,1,teaspoon,baking soda
+37,6739735,1,teaspoon,baking powder
+38,6739735,1,cup,sour cream
+39,6739735,½,cup,chopped walnuts
+40,6649123,2,cups,white sugar
+41,6649123,1,cup,"butter, softened"
+42,6649123,2,,eggs
+43,6649123,1,cup,sour cream
+44,6649123,1,teaspoon,vanilla extract
+45,6649123,1 ⅝,cups,all-purpose flour
+46,6649123,1,teaspoon,baking powder
+47,6649123,¼,teaspoon,salt
+48,6649123,1,cup,fresh or frozen blueberries
+49,6649123,½,cup,brown sugar
+50,6649123,½,cup,chopped pecans
+51,6649123,1,teaspoon,ground cinnamon
+52,6649123,1,tablespoon,confectioners' sugar for dusting
+53,6664005,1 ½,cups,"pecans, finely chopped"
+54,6664005,⅓,cup,white sugar
+55,6664005,⅓,cup,packed light brown sugar
+56,6664005,3,tablespoons,melted butter
+57,6664005,1,teaspoon,cinnamon
+58,6664005,⅛,teaspoon,salt
+59,6593943,1,cup,all-purpose flour
+60,6593943,¾,teaspoon,ground cinnamon
+61,6593943,½,teaspoon,baking soda
+62,6593943,¼,teaspoon,salt
+63,6593943,¾,cup,brown sugar
+64,6593943,¼,cup,"unsalted butter, softened"
+65,6593943,1,large,egg
+66,6593943,¼,cup,sour cream
+67,6593943,¼,cup,vanilla yogurt
+68,6593943,1,teaspoon,vanilla extract
+69,6593943,2,cups,diced Granny Smith apple
+70,6663942,2,teaspoons,unsalted butter
+71,6600196,2,cups,all-purpose flour
+72,6600196,1,tablespoon,baking powder
+73,6600196,1,teaspoon,ground cinnamon
+74,6600196,¾,teaspoon,salt
+75,6600196,1 ⅓,cups,white sugar
+76,6600196,⅔,cup,shortening
+77,6600196,1 ½,teaspoons,vanilla extract
+78,6600196,3,large,eggs
+79,6600196,⅔,cup,milk
+80,6577367,2,cups,baking mix (such as Bisquick®)
+81,6577367,⅔,cup,milk
+82,6577367,1,large,egg
+83,6577367,2,tablespoons,white sugar
+84,6577367,¼,teaspoon,ground cinnamon
+85,6579140,1,cup,butter
+86,6579140,2,cups,white sugar
+87,6579140,3,cups,all-purpose flour
+88,6579140,6,,eggs
+89,6579140,2,teaspoons,baking powder
+90,6579140,1,cup,warm milk (110 degrees F/45 degrees C)
+91,6579140,½,teaspoon,baking soda
+92,6579140,1,tablespoon,fresh lemon juice
+93,6579140,¼,cup,blanched slivered almonds
+94,6579140,2,tablespoons,white sugar
+95,6583752,1 ¼,cups,boiling water
+96,6583752,1,cup,quick cooking oats
+97,6583752,½,cup,butter
+98,6583752,¾,cup,packed brown sugar
+99,6583752,¾,cup,white sugar
+100,6583752,2,,eggs
+101,6583752,1,teaspoon,vanilla extract
+102,6583752,1,teaspoon,baking soda
+103,6583752,½,teaspoon,salt
+104,6583752,1,teaspoon,ground cinnamon
+105,6583752,1 ½,cups,all-purpose flour
+106,6583752,½,cup,raisins
+107,6565595,¾,cup,brown sugar
+108,6565595,⅓,cup,all-purpose flour
+109,6565595,1 ½,teaspoons,ground cinnamon
+110,6582987,1 ½,cups,all-purpose flour
+111,6582987,1 ½,teaspoons,baking powder
+112,6582987,6,tablespoons,white sugar
+113,6582987,½,teaspoon,salt
+114,6582987,⅓,cup,shortening
+115,6582987,½,cup,milk
+116,6582987,1,,egg
+117,6582987,½,teaspoon,vanilla extract
+118,6582987,2,tablespoons,"butter, melted"
+119,6582987,½,cup,brown sugar
+120,6582987,2,tablespoons,all-purpose flour
+121,6582987,½,teaspoon,ground cinnamon
+122,6568633,½,cup,"butter, softened"
+123,6568633,⅔,cup,packed brown sugar
+124,6568633,2,,eggs
+125,6568633,1,cup,mashed bananas
+126,6568633,1,teaspoon,vanilla extract
+127,6568633,¾,cup,all-purpose flour
+128,6568633,1 ⅓,cups,rolled oats
+129,6568633,¼,teaspoon,salt
+130,6568633,1,teaspoon,baking soda
+131,6568633,¾,cup,rolled oats
+132,6568633,⅓,cup,packed brown sugar
+133,6568633,2,tablespoons,"butter, melted"
+134,6568633,2,tablespoons,chopped walnuts
+135,6568633,½,teaspoon,ground cinnamon
+136,6591373,1,cup,vegetable oil
+137,6591373,3,,eggs
+138,6591373,1 ½,cups,white sugar
+139,6591373,2,cups,all-purpose flour
+140,6591373,1,teaspoon,baking soda
+141,6591373,1,teaspoon,salt
+142,6591373,1,teaspoon,ground allspice
+143,6591373,1,teaspoon,ground cinnamon
+144,6591373,1,teaspoon,ground nutmeg
+145,6591373,1,cup,buttermilk
+146,6591373,1 ¼,teaspoons,vanilla extract
+147,6591373,1,cup,"prunes, pitted and chopped"
+148,6591373,1 ½,cups,chopped pecans
+149,6591373,¾,cup,butter
+150,6591373,¾,cup,buttermilk
+151,6591373,1 ½,teaspoons,dark corn syrup
+152,6591373,1 ½,cups,white sugar
+153,6591373,2,teaspoons,vanilla extract
+154,6736577,1,cup,white sugar
+155,6736577,½,cup,butter
+156,6736577,1,,egg
+157,6736577,1,cup,sour cream
+158,6736577,1,teaspoon,vanilla extract
+159,6736577,3,cups,all-purpose flour
+160,6736577,1,teaspoon,baking soda
+161,6736577,1,teaspoon,baking powder
+162,6605889,¼,cup,butter
+163,6605889,¾,cup,white sugar
+164,6605889,1,,egg
+165,6605889,1 ½,cups,all-purpose flour
+166,6605889,2,teaspoons,baking powder
+167,6605889,1,teaspoon,salt
+168,6605889,½,cup,milk
+169,6605889,1 ½,cups,thinly sliced strawberries
+170,6605889,½,cup,all-purpose flour
+171,6605889,½,cup,white sugar
+172,6605889,¼,cup,"butter, softened"
+173,6605889,¼,cup,flaked coconut
+174,6740900,¼,cup,"butter, softened"
+175,6740900,1,cup,white sugar
+176,6740900,1,,egg
+177,6740900,2,cups,all-purpose flour
+178,6740900,½,teaspoon,salt
+179,6740900,2,teaspoons,baking powder
+180,6740900,1,cup,fat-free evaporated milk
+181,6740900,1,teaspoon,vanilla extract
+182,6740900,¼,teaspoon,almond extract
+183,6740900,1,cup,chopped fresh figs
+184,6740900,2,cups,chopped fresh figs
+185,6740900,¼,cup,packed brown sugar
+186,6740900,¼,cup,water
+187,6740900,1,tablespoon,lemon juice
+188,6592482,2 ¼,cups,all-purpose flour
+189,6592482,1 ½,cups,white sugar
+190,6592482,1 ½,teaspoons,baking powder
+191,6592482,¾,teaspoon,baking soda
+192,6592482,½,cup,"butter, room temperature"
+193,6592482,1,cup,buttermilk
+194,6592482,2,,eggs
+195,6592482,½,teaspoon,vanilla extract
+196,6568165,¾,cup,"butter, melted and cooled"
+197,6568165,1,cup,milk
+198,6568165,3,,eggs
+199,6568165,1,teaspoon,vanilla extract
+200,6568165,1 ½,cups,granular sucrolose sweetener (such as Splenda®)
+201,6568165,2,teaspoons,baking powder
+202,6568165,3,cups,all-purpose flour
+203,6568165,1 ¾,cups,fresh or frozen blueberries
+204,6568165,1 ½,cups,malitol brown sugar substitute
+205,6568165,¾,cup,flour
+206,6568165,2,teaspoons,ground cinnamon
+207,6568165,½,cup,"butter, softened"
+208,6572968,1,cup,raisins
+209,6572968,2,cups,water
+210,6572968,½,cup,butter
+211,6572968,1,teaspoon,baking soda
+212,6572968,½,teaspoon,salt
+213,6572968,1,cup,white sugar
+214,6572968,½,teaspoon,ground cinnamon
+215,6572968,½,teaspoon,ground nutmeg
+216,6572968,1,cup,chopped walnuts
+217,6572968,1 ¾,cups,all-purpose flour
+218,6603230,½,cup,chopped dried cherries
+219,6603230,½,cup,hot water
+220,6603230,½,teaspoon,almond extract
+221,6603230,1 ½,cups,all-purpose flour
+222,6603230,2,teaspoons,baking powder
+223,6603230,¼,teaspoon,salt
+224,6603230,1,cup,white sugar
+225,6603230,1,(8 ounce) container,vanilla yogurt
+226,6603230,½,cup,vegetable oil
+227,6603230,1,,egg
+228,6603230,1,,egg white
+229,6603230,¼,cup,chopped pecans
+230,6603230,1,tablespoon,white sugar
+231,6589506,½,cup,butter
+232,6589506,1,cup,white sugar
+233,6589506,2,,eggs
+234,6589506,2,cups,all-purpose flour
+235,6589506,1,teaspoon,baking soda
+236,6589506,1,teaspoon,baking powder
+237,6589506,1,cup,sour cream
+238,6589506,1,teaspoon,vanilla extract
+239,6589506,1,cup,chopped walnuts
+240,6589506,½,cup,confectioners' sugar
+241,6589506,2,teaspoons,ground cinnamon
+242,6589506,2,tablespoons,"butter, melted"
+243,6583660,4,cups,all-purpose flour
+244,6583660,3,teaspoons,baking powder
+245,6583660,1,teaspoon,baking soda
+246,6583660,1,teaspoon,salt
+247,6583660,1 ⅓,cups,white sugar
+248,6583660,½,cup,butter
+249,6583660,2,,eggs
+250,6583660,1,teaspoon,vanilla extract
+251,6583660,2,cups,buttermilk
+252,6583660,2,cups,blueberries
+253,6663915,3,,eggs
+254,6663915,½,cup,"butter, softened"
+255,6663915,½,cup,white sugar
+256,6663915,1,teaspoon,lemon zest
+257,6663915,1,cup,all-purpose flour
+258,6663915,½,teaspoon,baking powder
+259,6663915,1 ¼,cups,"plums, pitted and quartered"
+260,6581220,¾,cup,milk
+261,6581220,18,,"dates, pitted and left whole"
+262,6581220,½,cup,brown sugar
+263,6581220,½,cup,vegetable oil
+264,6581220,1,teaspoon,vanilla extract (Optional)
+265,6581220,1,cup,all-purpose flour
+266,6581220,1,teaspoon,baking soda
+267,6581220,1,teaspoon,ground cinnamon (Optional)
+268,6581220,¼,cup,chopped walnuts (Optional)
+269,6596862,1,cup,white sugar
+270,6596862,½,cup,butter
+271,6596862,2,cups,all-purpose flour
+272,6596862,1,(16 ounce) container,reduced-fat sour cream
+273,6596862,2,,"eggs, beaten"
+274,6596862,1,teaspoon,vanilla extract
+275,6596862,1,teaspoon,baking powder
+276,6596862,1,teaspoon,baking soda
+277,6596862,½,teaspoon,salt (Optional)
+278,6596862,½,cup,chopped walnuts
+279,6596862,½,cup,white sugar
+280,6596862,2,teaspoons,ground cinnamon
+281,6602248,,,cooking spray
+282,6602248,1,cup,blueberries
+283,6602248,1 ½,cups,"all-purpose flour, divided"
+284,6602248,½,cup,white sugar
+285,6602248,¼,cup,vegetable oil
+286,6602248,½,cup,milk
+287,6602248,1,,egg
+288,6602248,1,teaspoon,vanilla extract
+289,6602248,3,teaspoons,baking powder
+290,6602248,½,teaspoon,salt
+291,6587069,½,cup,white sugar
+292,6587069,2,tablespoons,butter
+293,6587069,2,large,"eggs, beaten"
+294,6587069,1,cup,all-purpose flour
+295,6587069,1,teaspoon,baking powder
+296,6587069,¼,teaspoon,salt
+297,6587069,1,teaspoon,vanilla extract
+298,6587069,10,,"ripe plums, halved and pitted"
+299,6586841,⅓,cup,"butter, softened"
+300,6586841,½,cup,white sugar
+301,6586841,¼,cup,packed brown sugar
+302,6586841,1,,egg
+303,6586841,1,cup,all-purpose flour
+304,6586841,½,teaspoon,baking powder
+305,6586841,¼,teaspoon,baking soda
+306,6586841,½,teaspoon,ground cinnamon
+307,6586841,½,cup,buttermilk
+308,6586841,¼,cup,packed brown sugar
+309,6586841,¼,cup,finely chopped walnuts
+310,6586841,¼,teaspoon,ground cinnamon
+311,6569845,1,cup,white sugar
+312,6569845,1 ½,cups,all-purpose flour
+313,6569845,½,cup,"butter, cut into pieces"
+314,6569845,1,teaspoon,ground cinnamon
+315,6569845,½,teaspoon,ground cloves
+316,6569845,1,teaspoon,baking soda
+317,6569845,1,pinch,salt
+318,6569845,1,cup,buttermilk
+319,6569845,1,,"egg, lightly beaten"
+320,6583979,½,cup,margarine
+321,6583979,¼,cup,white sugar
+322,6583979,1,,egg
+323,6583979,1,teaspoon,vanilla extract
+324,6583979,1,cup,all-purpose flour
+325,6583979,½,teaspoon,baking powder
+326,6583979,¼,teaspoon,salt
+327,6583979,1,(29 ounce) can,"sliced peaches, drained"
+328,6583979,3,tablespoons,white sugar
+329,6583979,1,teaspoon,ground cinnamon
+330,6595268,1 ½,cups,white sugar
+331,6595268,1,cup,vegetable oil
+332,6595268,½,cup,"butter, softened"
+333,6595268,3,large,eggs
+334,6595268,½,teaspoon,vanilla extract
+335,6595268,3,cups,all-purpose flour
+336,6595268,1,teaspoon,baking soda
+337,6595268,½,teaspoon,salt
+338,6595268,2,cups,diced apple without peel
+339,6595268,1,cup,flaked coconut
+340,6595268,1,cup,raisins
+341,6595268,1,cup,chopped walnuts
+342,6595292,2,(.25 ounce) packages,dry yeast
+343,6595292,½,cup,water
+344,6595292,¾,cup,milk
+345,6595292,½,cup,white sugar
+346,6595292,1,teaspoon,salt
+347,6595292,½,cup,butter
+348,6595292,4,cups,all-purpose flour
+349,6595292,3,,eggs
+350,6595292,½,cup,butter
+351,6595292,1,cup,white sugar
+352,6595292,½,teaspoon,ground cinnamon
+353,6598097,2 ¼,cups,all-purpose flour
+354,6598097,1 ½,cups,white sugar
+355,6598097,2 ¼,teaspoons,baking powder
+356,6598097,½,teaspoon,salt
+357,6598097,3,(1 ounce) squares,unsweetened chocolate
+358,6598097,3,,eggs
+359,6598097,1 ⅔,cups,"whipping cream, chilled"
+360,6598097,2,teaspoons,vanilla extract
+361,6598097,½,cup,Irish whiskey
+362,6598097,3,tablespoons,instant coffee granules
+363,6598097,2,tablespoons,white sugar
+364,6741606,1,cup,white sugar
+365,6741606,½,cup,"unsalted butter, softened"
+366,6741606,1,cup,sour cream
+367,6741606,2,,"eggs, lightly beaten"
+368,6741606,1,teaspoon,vanilla extract
+369,6741606,2,cups,all-purpose flour
+370,6741606,1 ½,teaspoons,baking powder
+371,6741606,½,teaspoon,baking soda
+372,6741606,½,teaspoon,salt
+373,6741606,4,cups,"peeled, pitted, and sliced peaches"
+374,6738536,½,cup,butter
+375,6738536,1,cup,white sugar
+376,6738536,2,,eggs
+377,6738536,1,teaspoon,almond extract
+378,6738536,2,cups,all-purpose flour
+379,6738536,1,teaspoon,baking powder
+380,6738536,1,teaspoon,baking soda
+381,6738536,½,teaspoon,salt
+382,6738536,1,cup,sour cream
+383,6738536,1,(8 ounce) can,whole cranberry sauce
+384,6599691,1,cup,white sugar
+385,6599691,1,cup,honey
+386,6599691,½,cup,vegetable oil
+387,6599691,4,,eggs
+388,6599691,2,teaspoons,grated orange zest
+389,6599691,1,cup,orange juice
+390,6599691,2 ½,cups,all-purpose flour
+391,6599691,3,teaspoons,baking powder
+392,6599691,½,teaspoon,baking soda
+393,6599691,½,teaspoon,salt
+394,6599691,1,teaspoon,ground cinnamon
+395,6603453,2,cups,all-purpose flour
+396,6603453,1 ½,cups,white sugar
+397,6603453,⅔,cup,butter
+398,6603453,2,teaspoons,baking powder
+399,6603453,1,teaspoon,salt
+400,6603453,2,,egg yolks
+401,6603453,1,cup,milk
+402,6603453,2,,egg whites
+403,6603453,1,cup,blueberries
+404,6739064,2,cups,all-purpose flour
+405,6739064,¼,teaspoon,salt
+406,6739064,1,tablespoon,baking powder
+407,6739064,1,cup,"butter, softened"
+408,6739064,1,cup,sour cream
+409,6739064,1 ½,cups,white sugar
+410,6739064,2,,eggs
+411,6739064,1,tablespoon,vanilla extract
+412,6739064,½,cup,brown sugar
+413,6739064,1,cup,chopped pecans
+414,6739064,1,teaspoon,ground cinnamon
+415,6739064,2,tablespoons,"butter, melted"
+416,6582020,2,cups,all-purpose flour
+417,6582020,1,cup,sourdough starter
+418,6582020,1,cup,white sugar
+419,6582020,⅔,cup,vegetable oil
+420,6582020,3,large,eggs
+421,6582020,1 ½,teaspoons,baking powder
+422,6582020,2,teaspoons,vanilla extract
+423,6582020,¼,teaspoon,salt
+424,6582020,1,cup,chopped walnuts
+425,6582020,¼,teaspoon,baking soda
+426,6598664,2 ½,cups,all-purpose flour
+427,6598664,1,teaspoon,salt
+428,6598664,1,teaspoon,baking soda
+429,6598664,1 ½,cups,packed brown sugar
+430,6598664,⅔,cup,vegetable oil
+431,6598664,1,large,egg
+432,6598664,1,teaspoon,vanilla extract
+433,6598664,1,cup,milk
+434,6598664,1 ½,cups,"rhubarb, chopped"
+435,6598664,½,cup,sliced almonds
+436,6603908,2 ½,cups,all-purpose flour
+437,6603908,1 ½,teaspoons,baking powder
+438,6603908,1,teaspoon,baking soda
+439,6603908,1,cup,semisweet chocolate chips
+440,6603908,1 ½,cups,"white sugar, divided"
+441,6603908,1,teaspoon,ground cinnamon
+442,6603908,½,cup,"butter, softened"
+443,6603908,2,large,eggs
+444,6603908,1,cup,sour cream
+445,6603908,1,teaspoon,vanilla extract
+446,6588987,1 ½,cups,packed light brown sugar
+447,6588987,¾,cup,all-purpose flour
+448,6588987,2,teaspoons,ground cinnamon
+449,6588987,½,cup,"butter, chilled and diced"
+450,6588987,1,cup,chopped walnuts
+451,6570739,2 ¼,cups,all-purpose flour
+452,6570739,¾,cup,white sugar
+453,6570739,¾,cup,"unsalted butter, cut into 1-inch pieces"
+454,6570739,¾,cup,sour cream
+455,6570739,1,large,egg
+456,6570739,1,teaspoon,almond extract
+457,6570739,½,teaspoon,baking soda
+458,6570739,½,teaspoon,baking powder
+459,6570739,¼,teaspoon,salt
+460,6663490,½,cup,butter
+461,6663490,1,cup,white sugar
+462,6663490,1,teaspoon,vanilla extract
+463,6663490,3,,eggs
+464,6663490,2,cups,all-purpose flour
+465,6663490,2,teaspoons,baking powder
+466,6663490,½,teaspoon,baking soda
+467,6663490,½,teaspoon,salt
+468,6663490,1 ¼,cups,sour cream
+469,6663490,2,cups,chopped fresh cranberries
+470,6663490,¼,cup,white sugar
+471,6663490,¼,cup,brown sugar
+472,6663490,2,tablespoons,all-purpose flour
+473,6663490,2,tablespoons,chopped almonds
+474,6663490,1,tablespoon,butter
+475,6663490,½,teaspoon,ground cinnamon
+476,6579750,⅔,cup,sugar
+477,6579750,⅓,cup,cornstarch
+478,6579750,2,cups,chopped rhubarb
+479,6579750,1,(10 ounce) package,"frozen sliced strawberries, thawed"
+480,6579750,2,tablespoons,lemon juice
+481,6573397,1,cup,fresh raspberries
+482,6573397,3,tablespoons,brown sugar
+483,6573397,1,cup,all-purpose flour
+484,6573397,⅓,cup,white sugar
+485,6573397,½,teaspoon,baking powder
+486,6573397,¼,teaspoon,baking soda
+487,6573397,⅛,teaspoon,salt
+488,6573397,½,cup,sour cream
+489,6573397,2,tablespoons,"butter, melted"
+490,6573397,1,teaspoon,vanilla extract
+491,6573397,1,,egg
+492,6573397,¼,cup,sliced almonds
+493,6573397,¼,cup,sifted confectioners' sugar
+494,6573397,1,teaspoon,milk
+495,6573397,¼,teaspoon,vanilla extract
+496,6574356,3,cups,all-purpose flour
+497,6574356,1,cup,white sugar
+498,6574356,1 ½,cups,milk
+499,6574356,2,large,eggs
+500,6574356,4,teaspoons,baking powder
+501,6574356,2,teaspoons,vanilla extract
+502,6574356,¼,teaspoon,salt
+503,6574356,½,cup,"unsalted butter, melted and cooled"
+504,6572859,2,cups,all-purpose flour
+505,6572859,1,teaspoon,baking powder
+506,6572859,⅛,teaspoon,salt
+507,6572859,2,cups,white sugar
+508,6572859,1,cup,butter
+509,6572859,2,,eggs
+510,6572859,1,cup,sour cream
+511,6572859,½,teaspoon,vanilla extract
+512,6572859,1 ½,cups,packed brown sugar
+513,6572859,1,cup,all-purpose flour
+514,6572859,3,tablespoons,"butter, melted"
+515,6572859,2,teaspoons,ground cinnamon
+516,6572859,2,cups,fresh blueberries
+517,6572859,1,cup,chopped pecans
+518,6604397,1 ½,cups,packed light brown sugar
+519,6604397,6,tablespoons,all-purpose flour
+520,6604397,6,teaspoons,ground cinnamon
+521,6604397,6,tablespoons,"unsalted butter, melted"
+522,6604397,1 ½,cups,chopped pecans
+523,6580058,¾,cup,"butter, softened"
+524,6580058,1,cup,white sugar
+525,6580058,2,large,eggs
+526,6580058,1,(8 ounce) carton,sour cream
+527,6580058,2,cups,all-purpose flour
+528,6580058,1,teaspoon,baking powder
+529,6580058,1,teaspoon,baking soda
+530,6580058,1,teaspoon,ground nutmeg
+531,6580058,½,teaspoon,salt
+532,6580058,¾,cup,packed brown sugar
+533,6580058,½,cup,chopped pecans
+534,6580058,1,teaspoon,ground cinnamon
+535,6598881,2 ¼,cups,all-purpose flour
+536,6598881,¾,cup,white sugar
+537,6598881,1,teaspoon,baking powder
+538,6598881,1,teaspoon,ground cinnamon
+539,6598881,1,teaspoon,ground cardamom
+540,6598881,½,teaspoon,salt
+541,6598881,½,teaspoon,baking soda
+542,6598881,½,teaspoon,ground nutmeg
+543,6598881,¾,cup,"unsalted butter, softened"
+544,6598881,1,cup,plain whole-milk Greek yogurt
+545,6598881,1,large,"egg, at room temperature"
+546,6598881,2,teaspoons,vanilla extract
+547,6598881,½,teaspoon,almond extract
+548,6598881,1,cup,peach jam
+549,6598881,2,small,"fresh peaches - peeled, pitted, and sliced"
+550,6587929,1,(21 ounce) can,apple pie filling
+551,6587929,2,teaspoons,ground cinnamon
+552,6587929,3,cups,all-purpose flour
+553,6587929,1,cup,white sugar
+554,6587929,1 ½,cups,milk
+555,6587929,½,cup,"butter, softened"
+556,6587929,3,teaspoons,baking powder
+557,6587929,1,teaspoon,salt
+558,6587929,3,,eggs
+559,6587929,¼,cup,packed brown sugar
+560,6587929,¼,cup,chopped walnuts
+561,6587929,2,tablespoons,"butter, melted"
+562,6587929,¾,cup,confectioners' sugar
+563,6587929,1,tablespoon,"butter, melted"
+564,6587929,¾,teaspoon,vanilla extract
+565,6587929,2 ½,teaspoons,hot water
+566,6605475,1,cup,all-purpose flour
+567,6605475,1,cup,white sugar
+568,6605475,¼,teaspoon,salt
+569,6605475,2,cups,"fresh cranberries, at room temperature"
+570,6605475,½,cup,chopped walnuts
+571,6605475,½,cup,"butter, melted"
+572,6605475,2,,"eggs, beaten"
+573,6605475,1,teaspoon,almond extract
+574,6579364,1,cup,all-purpose flour
+575,6579364,¾,cup,white sugar
+576,6579364,1 ¼,teaspoons,baking powder
+577,6579364,⅓,cup,milk
+578,6579364,¼,cup,shortening
+579,6579364,1,,egg
+580,6579364,½,teaspoon,lemon extract
+581,6579364,1 ½,cups,blueberries
+582,6579364,2,,"eggs, beaten"
+583,6579364,1 ¼,cups,ricotta cheese
+584,6579364,⅓,cup,white sugar
+585,6579364,¼,teaspoon,vanilla extract
+586,6573925,⅔,cup,packed brown sugar
+587,6573925,⅓,cup,butter
+588,6573925,1 ¼,cups,cranberries
+589,6573925,½,cup,chopped pecans
+590,6573925,½,cup,"butter, room temperature"
+591,6573925,¾,cup,white sugar
+592,6573925,2,,eggs
+593,6573925,1,teaspoon,vanilla extract
+594,6573925,1,cup,sour cream
+595,6573925,1 ½,cups,all-purpose flour
+596,6573925,1 ½,teaspoons,baking powder
+597,6573925,1,teaspoon,baking soda
+598,6573925,½,teaspoon,ground cinnamon
+599,6573925,¼,teaspoon,salt

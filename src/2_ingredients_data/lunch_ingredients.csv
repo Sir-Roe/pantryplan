@@ -1,0 +1,606 @@
+,id_recipe,Quantity,Unit of Measure,Ingredient
+0,7506181,2,tablespoons,extra-virgin olive oil
+1,7506181,2,tablespoons,red wine vinegar
+2,7506181,3/4,teaspoon,salt
+3,7506181,1/2,teaspoon,black pepper
+4,7506181,1 1/2,cups,"cherry tomatoes, halved"
+5,7506181,1 1/2,cups,"cherry tomatoes, halved"
+6,7506181,1 (5-,ounce package),arugula
+7,7506181,3/4,cup,basil leaves
+8,7506181,2,,"nectarines, sliced"
+9,7506181,1,large,"white peach, sliced"
+10,7506181,1,"cup Rainier or other yellow-flesh cherries,","Rainier or other yellow-flesh cherries,"
+11,7506181,1/2,teaspoon,sea salt
+12,6768097,4,tablespoons,"salted butter, softened, divided"
+13,6768097,1 ½,tablespoons,all-purpose flour
+14,6768097,1,cup,milk
+15,6768097,2,ounces,shredded Gruyère cheese
+16,6768097,¼,teaspoon,"salt, or to taste"
+17,6768097,¼,teaspoon,"ground black pepper, or to taste"
+18,6768097,⅛,teaspoon,ground nutmeg
+19,6768097,4,slices,"white bread, lightly toasted"
+20,6768097,2,teaspoons,Dijon mustard
+21,6768097,2,thin slices,Black Forest ham
+22,6768097,2,large,eggs
+23,6768097,1,tablespoon,water
+24,6768097,1,teaspoon,"chopped fresh dill, or to taste (Optional)"
+25,6649982,8,,eggs
+26,6649982,½,cup,mayonnaise
+27,6649982,¼,cup,chopped green onion
+28,6649982,1,teaspoon,prepared yellow mustard
+29,6649982,¼,teaspoon,paprika
+30,6649982,,,salt and pepper to taste
+31,6649567,1,pound,lean ground beef
+32,6649567,¼,cup,chopped onion
+33,6649567,¼,cup,chopped green bell pepper
+34,6649567,¾,cup,"ketchup, or to taste"
+35,6649567,1,tablespoon,"brown sugar, or to taste"
+36,6649567,1,teaspoon,"yellow mustard, or to taste"
+37,6649567,½,teaspoon,garlic powder
+38,6649567,,,salt and ground black pepper to taste
+39,6649567,6,,"hamburger buns, split"
+40,6648727,1,pound,tri-colored spiral pasta
+41,6648727,1,(16 ounce) bottle,Italian-style salad dressing
+42,6648727,6,tablespoons,salad seasoning mix
+43,6648727,2,cups,"cherry tomatoes, diced"
+44,6648727,1,,"green bell pepper, chopped"
+45,6648727,1,,"red bell pepper, diced"
+46,6648727,½,,"yellow bell pepper, chopped"
+47,6648727,1,(2.25 ounce) can,"black olives, chopped"
+48,6663559,5,tablespoons,"butter, divided"
+49,6663559,1,,"onion, chopped"
+50,6663559,1,stalk,"celery, chopped"
+51,6663559,3,cups,chicken broth
+52,6663559,8,cups,broccoli florets
+53,6663559,3,tablespoons,all-purpose flour
+54,6663559,2,cups,milk
+55,6663559,,,ground black pepper to taste
+56,6663171,5,,potatoes
+57,6663171,3,,eggs
+58,6663171,1,cup,chopped celery
+59,6663171,½,cup,chopped onion
+60,6663171,½,cup,sweet pickle relish
+61,6663171,¼,cup,mayonnaise
+62,6663171,1,tablespoon,prepared mustard
+63,6663171,¼,teaspoon,garlic salt
+64,6663171,¼,teaspoon,celery salt
+65,6663171,,,ground black pepper to taste
+66,6649541,4,slices,white bread
+67,6649541,3,tablespoons,"butter, divided"
+68,6649541,2,slices,Cheddar cheese
+69,6665020,4,cups,chopped fresh tomatoes
+70,6665020,2,cups,chicken broth
+71,6665020,4,cloves,garlic
+72,6665020,1,large slice,of onion
+73,6665020,2,tablespoons,butter
+74,6665020,2,tablespoons,all-purpose flour
+75,6665020,2,teaspoons,"white sugar, or to taste"
+76,6665020,1,teaspoon,"salt, or to taste"
+77,6664449,1,cup,water
+78,6664449,½,cup,distilled white vinegar
+79,6664449,¼,cup,vegetable oil
+80,6664449,¼,cup,sugar
+81,6664449,1,teaspoon,"salt, or to taste"
+82,6664449,1,teaspoon,"freshly ground black pepper, or to taste"
+83,6664449,3,,"cucumbers, peeled and sliced 1/4-inch thick"
+84,6664449,3,,"tomatoes, cut into wedges"
+85,6664449,1,,"onion, sliced and separated into rings"
+86,6740935,8,slices,rye bread
+87,6740935,½,cup,Thousand Island dressing
+88,6740935,8,slices,Swiss cheese
+89,6740935,8,slices,deli sliced corned beef
+90,6740935,1,cup,"sauerkraut, drained"
+91,6740935,2,tablespoons,"butter, softened"
+92,6650128,½,cup,blanched slivered almonds
+93,6650128,½,cup,mayonnaise
+94,6650128,1,tablespoon,lemon juice
+95,6650128,¼,teaspoon,ground black pepper
+96,6650128,2,cups,"chopped, cooked chicken meat"
+97,6650128,1,stalk,"celery, chopped"
+98,6649681,1,pound,bulk mild Italian sausage
+99,6649681,1 ¼,teaspoons,crushed red pepper flakes
+100,6649681,4,slices,"bacon, cut into 1/2 inch pieces"
+101,6649681,1,large,"onion, diced"
+102,6649681,1,tablespoon,minced garlic
+103,6649681,5,(13.75 ounce) cans,chicken broth
+104,6649681,6,medium,"potatoes, thinly sliced"
+105,6649681,1,cup,heavy cream
+106,6649681,¼,bunch,"fresh spinach, tough stems removed"
+107,6649475,1,(16 ounce) package,pork sausage
+108,6649475,3,medium,"beets, peeled and shredded"
+109,6649475,3,,"carrots, peeled and shredded"
+110,6649475,3,medium,"baking potatoes, peeled and cubed"
+111,6649475,½,medium head,"cabbage, cored and shredded"
+112,6649475,1,cup,"diced tomatoes, drained"
+113,6649475,1,tablespoon,vegetable oil
+114,6649475,1,medium,"onion, chopped"
+115,6649475,1,(6 ounce) can,tomato paste
+116,6649475,8 ¾,cups,"water, divided, or as needed"
+117,6649475,3,cloves,"garlic, minced"
+118,6649475,1,teaspoon,"white sugar, or to taste"
+119,6649475,,,salt and pepper to taste
+120,6649475,½,cup,"sour cream, for topping"
+121,6649475,,,freshly chopped dill or parsley for garnish
+122,6648718,12,slices,bacon
+123,6648718,⅔,cup,butter or margarine
+124,6648718,⅔,cup,all-purpose flour
+125,6648718,7,cups,milk
+126,6648718,4,,"large baked potatoes, peeled and cubed"
+127,6648718,4,,"green onions, chopped"
+128,6648718,1 ¼,cups,shredded Cheddar cheese
+129,6648718,1,cup,sour cream
+130,6648718,1,teaspoon,salt
+131,6648718,1,teaspoon,ground black pepper
+132,6650049,1,cup,yellow cornmeal
+133,6650049,1,cup,all-purpose flour
+134,6650049,¼,cup,white sugar
+135,6650049,4,teaspoons,baking powder
+136,6650049,¼,teaspoon,salt
+137,6650049,⅛,teaspoon,black pepper
+138,6650049,1,cup,milk
+139,6650049,1,,egg
+140,6650049,1,quart,vegetable oil for frying
+141,6650049,2,(16 ounce) packages,beef frankfurters
+142,6650049,,,16 wooden skewers
+143,6736792,5,pounds,chicken leg quarters
+144,6736792,2,gallons,water
+145,6736792,2,tablespoons,minced garlic
+146,6736792,2,tablespoons,salt
+147,6736792,1,tablespoon,garlic powder
+148,6736792,1,cube,chicken bouillon
+149,6736792,4,large,"carrots, peeled and cut into large chunks"
+150,6736792,4,large,"potatoes, peeled and cut into large chunks"
+151,6736792,4,,"zucchini, cut into large chunks"
+152,6736792,1,,"chayote, cut into large chunks"
+153,6736792,1,large,"white onion, cut into large chunks"
+154,6736792,½,bunch,"fresh cilantro, chopped"
+155,6663688,¼,cup,unsalted butter
+156,6663688,2,(16 ounce) packages,sliced fresh mushrooms
+157,6663688,1,pinch,salt
+158,6663688,1,medium,"yellow onion, diced"
+159,6663688,1 ½,tablespoons,all-purpose flour
+160,6663688,6,sprigs,"fresh thyme, tied in a bundle with kitchen twine"
+161,6663688,2,cloves,"garlic, peeled"
+162,6663688,4,cups,"chicken broth, or more to taste"
+163,6663688,1,cup,"water, or more to taste"
+164,6663688,1,cup,heavy whipping cream
+165,6663688,1,,salt and freshly ground black pepper to taste
+166,6663688,1,teaspoon,"fresh thyme leaves for garnish, or to taste"
+167,6650681,½,cup,butter
+168,6650681,1,,"onion, chopped"
+169,6650681,1,(16 ounce) package,frozen chopped broccoli
+170,6650681,4,(14.5 ounce) cans,chicken broth
+171,6650681,1,(1 pound) loaf,"processed cheese food, cubed"
+172,6650681,2,cups,milk
+173,6650681,1,tablespoon,garlic powder
+174,6650681,⅔,cup,cornstarch
+175,6650681,1,cup,water
+176,6603465,½,cup,rice vinegar
+177,6603465,¼,cup,white sugar
+178,6603465,¼,cup,water
+179,6603465,¼,cup,matchstick-cut carrots
+180,6603465,¼,cup,peeled and matchstick-cut daikon radish
+181,6603465,¼,cup,thinly sliced white onion
+182,6603465,1,,"skinless, boneless chicken breast half"
+183,6603465,1,pinch,"garlic salt, or to taste"
+184,6603465,,,ground black pepper to taste
+185,6603465,1,(12 inch),French baguette
+186,6603465,4,tablespoons,mayonnaise
+187,6603465,¼,cup,thinly sliced cucumber
+188,6603465,1,tablespoon,fresh cilantro leaves
+189,6603465,1,small,"jalapeno pepper, cut into 1/16-inch-thick matchsticks"
+190,6603465,1,wedge,lime
+191,6650752,1,(8 ounce) package,uncooked tri-color rotini pasta
+192,6650752,6,ounces,"pepperoni sausage, diced"
+193,6650752,6,ounces,"provolone cheese, cubed"
+194,6650752,1,medium,"red onion, very thinly sliced and cut into 1-inch pieces"
+195,6650752,1,small,"cucumber, thinly sliced"
+196,6650752,¾,cup,chopped green bell pepper
+197,6650752,¾,cup,chopped red bell pepper
+198,6650752,1,(6 ounce) can,"pitted black olives, drained"
+199,6650752,¼,cup,minced fresh parsley
+200,6650752,¼,cup,grated Parmesan cheese
+201,6648641,1,,picked-over turkey carcass
+202,6648641,1 ½,cups,leftover stuffing
+203,6648641,1,,"onion, peeled and diced"
+204,6648641,2,,"carrots, peeled and sliced"
+205,6648641,2,,"celery stalks, chopped"
+206,6648641,1,tablespoon,poultry seasoning
+207,6648641,1,teaspoon,ground sage
+208,6648641,2,,bay leaves
+209,6648641,2 ½,quarts,chicken broth
+210,6648641,1,cup,"water, or as needed (Optional)"
+211,6648641,½,teaspoon,"garlic salt, or to taste"
+212,6648641,,,"ground black pepper, to taste"
+213,6648641,2,cups,(uncooked) regular long-grain white rice
+214,6648641,1,(16 ounce) package,frozen green peas
+215,6649702,½,teaspoon,salt
+216,6649702,½,teaspoon,black pepper
+217,6649702,½,teaspoon,paprika
+218,6649702,½,teaspoon,chili powder
+219,6649702,½,teaspoon,onion powder
+220,6649702,½,teaspoon,garlic powder
+221,6649702,½,teaspoon,dried thyme
+222,6649702,½,teaspoon,dried marjoram
+223,6649702,½,teaspoon,dried basil
+224,6649702,1,pound,"beef sirloin, cut into thin 2 inch strips"
+225,6649702,3,tablespoons,vegetable oil
+226,6649702,1,,"onion, sliced"
+227,6649702,1,,"green bell pepper, julienned"
+228,6649702,3,ounces,"Swiss cheese, thinly sliced"
+229,6649702,4,,"hoagie rolls, split lengthwise"
+230,6664230,1,(15 ounce) can,green beans
+231,6664230,1,pound,wax beans
+232,6664230,1,(15 ounce) can,"kidney beans, drained and rinsed"
+233,6664230,1,,"onion, sliced into thin rings"
+234,6664230,¾,cup,"white sugar, or to taste"
+235,6664230,⅔,cup,distilled white vinegar
+236,6664230,⅓,cup,vegetable oil
+237,6664230,½,teaspoon,salt
+238,6664230,½,teaspoon,ground black pepper
+239,6664230,½,teaspoon,celery seed
+240,6649490,3,cups,water
+241,6649490,1,(.7 ounce) package,dry Italian-style salad dressing mix
+242,6649490,1,teaspoon,dried oregano
+243,6649490,1,teaspoon,dried basil
+244,6649490,1,teaspoon,dried parsley
+245,6649490,1,teaspoon,onion salt
+246,6649490,1,teaspoon,garlic powder
+247,6649490,1,,bay leaf
+248,6649490,1,teaspoon,salt
+249,6649490,1,teaspoon,ground black pepper
+250,6649490,1,(5 pound),rump roast
+251,6651120,1 ½,pounds,extra-lean ground beef
+252,6651120,½,,"onion, diced"
+253,6651120,1,,"green pepper, diced"
+254,6651120,2,cloves,"garlic, minced"
+255,6651120,2,cups,"water, divided"
+256,6651120,¾,cup,ketchup
+257,6651120,2,tablespoons,brown sugar
+258,6651120,1,teaspoon,Dijon mustard
+259,6651120,1 ½,teaspoons,"salt, or to taste"
+260,6651120,½,teaspoon,ground black pepper
+261,6651120,1,dash,Worcestershire sauce
+262,6651120,1,pinch,"cayenne pepper, or to taste"
+263,6737319,½,cup,olive oil
+264,6737319,⅓,cup,fresh lime juice
+265,6737319,1,clove,"garlic, minced"
+266,6737319,1,teaspoon,salt
+267,6737319,⅛,teaspoon,ground cayenne pepper
+268,6737319,2,(15 ounce) cans,"black beans, rinsed and drained"
+269,6737319,1 ½,cups,frozen corn kernels
+270,6737319,1,,"avocado - peeled, pitted and diced"
+271,6737319,1,,"red bell pepper, chopped"
+272,6737319,2,,"tomatoes, chopped"
+273,6737319,6,,"green onions, thinly sliced"
+274,6737319,½,cup,chopped fresh cilantro
+275,6664292,4,,"hoagie rolls, split lengthwise"
+276,6664292,1,(10.5 ounce) can,beef consomme
+277,6664292,1,cup,water
+278,6664292,1,pound,thinly sliced deli roast beef
+279,6664292,8,slices,provolone cheese
+280,6664146,4,medium,"beets - scrubbed, trimmed, and cut in half"
+281,6664146,1/3,cup,chopped walnuts
+282,6664146,3,tablespoons,maple syrup
+283,6664146,1,(10 ounce) package,mixed baby salad greens
+284,6664146,1/2,cup,frozen orange juice concentrate
+285,6664146,1/4,cup,balsamic vinegar
+286,6664146,1/2,cup,extra-virgin olive oil
+287,6664146,2,ounces,goat cheese
+288,6650339,1,pound,bulk Italian sausage
+289,6650339,4,cups,half-and-half
+290,6650339,3,cups,cubed potatoes
+291,6650339,2,cups,low-sodium chicken broth
+292,6650339,2,cups,whole milk
+293,6650339,1,medium,"onion, chopped"
+294,6650339,½,teaspoon,dried oregano
+295,6650339,½,teaspoon,"red pepper flakes, or more to taste"
+296,6650339,½,teaspoon,ground black pepper
+297,6650339,2,cups,"kale, torn into bite-sized pieces"
+298,6650323,6,,"potatoes, peeled"
+299,6650323,1,,"carrot, or more to taste"
+300,6650323,4,,whole eggs
+301,6650323,6,large,"pickles, cut into cubes"
+302,6650323,1,(15 ounce) can,"peas, drained"
+303,6650323,½,cup,"cubed fully cooked ham, or to taste"
+304,6650323,1,tablespoon,"chopped fresh dill, or to taste (optional)"
+305,6650323,½,cup,"mayonnaise, or to taste"
+306,6739177,1,pound,extra-lean ground chicken
+307,6739177,½,cup,"Italian-seasoned bread crumbs, divided"
+308,6739177,½,small,"onion, finely grated"
+309,6739177,1,,egg
+310,6739177,2,cloves,"garlic, minced"
+311,6739177,,,salt and ground black pepper to taste
+312,6739177,2,teaspoons,olive oil
+313,6587727,,,cooking spray (such as Crisco®)
+314,6587727,½,cup,butter
+315,6587727,1,,"onion, minced"
+316,6587727,3,tablespoons,Dijon mustard
+317,6587727,1,tablespoon,poppy seeds
+318,6587727,2,teaspoons,"Worcestershire sauce, or more to taste"
+319,6587727,1,(12 count) package,"Hawaiian sweet rolls, split, or more as needed"
+320,6587727,1,pound,"sliced deli ham, or more as needed"
+321,6587727,8,slices,"Swiss cheese, or more as needed"
+322,6663438,4,pounds,rump roast
+323,6663438,1,(12 fluid ounce) can or bottle,beer
+324,6663438,1,(10.5 ounce) can,condensed French onion soup
+325,6663438,1,(10.5 ounce) can,beef broth
+326,6663438,9,,French rolls
+327,6663438,2,tablespoons,butter
+328,6664620,1,tablespoon,dried onion flakes
+329,6664620,1,teaspoon,all-purpose flour
+330,6664620,1,teaspoon,beef bouillon granules
+331,6664620,1,teaspoon,garlic salt
+332,6664620,1,teaspoon,ground cumin
+333,6664620,1,teaspoon,paprika
+334,6664620,1,teaspoon,chili powder
+335,6664620,¼,teaspoon,cayenne pepper
+336,6664620,¼,teaspoon,white sugar
+337,6738941,1,cup,balsamic vinegar
+338,6738941,¼,cup,honey
+339,6738941,3,large,"tomatoes, cut into 1/2-inch slices"
+340,6738941,1,(16 ounce) package,"fresh mozzarella cheese, cut into 1/4-inch slices"
+341,6738941,¼,teaspoon,salt
+342,6738941,¼,teaspoon,ground black pepper
+343,6738941,½,cup,fresh basil leaves
+344,6738941,¼,cup,extra-virgin olive oil
+345,6589426,1,(12 ounce) package,tri-color rotini pasta
+346,6589426,¾,pound,"Italian salami, finely diced"
+347,6589426,½,,"green bell pepper, sliced"
+348,6589426,½,,"red bell pepper, sliced"
+349,6589426,½,,"red onion, chopped"
+350,6589426,1,(6 ounce) can,sliced black olives
+351,6589426,8,ounces,small fresh mozzarella balls (ciliegine)
+352,6589426,1,cup,Italian-style salad dressing
+353,6589426,3,(.7 ounce) packages,"dry Italian-style salad dressing mix, or to taste"
+354,6589426,½,cup,shredded Parmesan cheese
+355,6650032,4,,"skinless, boneless chicken breast halves"
+356,6650032,1,(17.5 fluid ounce) bottle,"Buffalo wing sauce, divided"
+357,6650032,½,(1 ounce) package,dry ranch salad dressing mix
+358,6650032,2,tablespoons,butter
+359,6650032,6,,"hoagie rolls, split lengthwise"
+360,6650003,3,large,eggs
+361,6650003,1,tablespoon,butter
+362,6650003,¼,cup,diced smoked ham
+363,6650003,2,tablespoons,diced onion
+364,6650003,2,tablespoons,diced green bell pepper
+365,6650003,,,salt and freshly ground black pepper to taste
+366,6650003,⅓,cup,shredded Cheddar cheese
+367,6650003,1,pinch,cayenne pepper
+368,6581619,4,,eggs
+369,6581619,1/4,cup,prepared dashi stock
+370,6581619,1,tablespoon,white sugar
+371,6581619,1,teaspoon,mirin (Japanese sweet wine)
+372,6581619,1/2,teaspoon,soy sauce
+373,6581619,1/2,teaspoon,"vegetable oil, or more as needed"
+374,6585204,2,slices,bread
+375,6585204,1,teaspoon,mayonnaise
+376,6585204,1,teaspoon,prepared mustard
+377,6585204,2,slices,cooked ham
+378,6585204,2,slices,cooked turkey meat
+379,6585204,1,slice,Swiss cheese
+380,6585204,1,,egg
+381,6585204,½,cup,milk
+382,6591564,1,,"eggplant, peeled and cut into 1/2-inch cubes"
+383,6591564,,,salt to taste
+384,6591564,¼,cup,"olive oil, divided"
+385,6591564,1,cup,finely chopped celery
+386,6591564,1,medium,"onion, finely chopped"
+387,6591564,1,clove,"garlic, minced"
+388,6591564,1 ½,cups,"canned plum tomatoes, drained and coarsely chopped"
+389,6591564,12,,"green olives, pitted and coarsely chopped"
+390,6591564,1 ½,tablespoons,drained capers
+391,6591564,1,tablespoon,tomato paste
+392,6591564,1,teaspoon,minced oregano
+393,6591564,2,tablespoons,red wine vinegar
+394,6591564,2,teaspoons,white sugar
+395,6591564,1,teaspoon,salt
+396,6591564,,,ground black pepper to taste
+397,6591564,2,teaspoons,"minced fresh parsley, or to taste"
+398,6648556,1,tablespoon,olive oil
+399,6648556,1,cup,diced onion
+400,6648556,½,cup,diced celery
+401,6648556,1,pinch,salt
+402,6648556,3,cloves,"garlic, chopped"
+403,6648556,1,(32 ounce) container,"chicken broth, or more as needed"
+404,6648556,1,(28 ounce) can,crushed San Marzano tomatoes
+405,6648556,½,teaspoon,paprika
+406,6648556,1,pinch,"freshly ground black pepper, or to taste"
+407,6648556,1,pinch,"cayenne pepper, or to taste"
+408,6648556,3,tablespoons,uncooked jasmine rice
+409,6648556,1,teaspoon,"white sugar, or to taste"
+410,6648556,½,cup,heavy whipping cream
+411,6648556,,,salt and freshly ground black pepper to taste
+412,6648556,2,tablespoons,"heavy whipping cream, divided"
+413,6648556,2,tablespoons,"thinly sliced fresh basil leaves, divided"
+414,6602310,2,slices,whole grain bread
+415,6602310,2,teaspoons,butter
+416,6602310,2,slices,Swiss cheese
+417,6602310,2,thin slices,deli ham
+418,6602310,1,teaspoon,mayonnaise
+419,6602310,1,teaspoon,whole grain mustard
+420,6741723,4,slices,bacon
+421,6741723,2,leaves,lettuce
+422,6741723,2,slices,tomato
+423,6741723,2,slices,"bread, toasted"
+424,6741723,1,tablespoon,mayonnaise
+425,6663280,½,cup,"butter, softened"
+426,6663280,¼,cup,grated Parmesan cheese
+427,6663280,2,cloves,"garlic, minced"
+428,6663280,¼,teaspoon,dried marjoram
+429,6663280,¼,teaspoon,dried basil
+430,6663280,¼,teaspoon,fines herbs
+431,6663280,¼,teaspoon,dried oregano
+432,6663280,¼,teaspoon,"dried parsley, or to taste"
+433,6663280,,,ground black pepper to taste
+434,6663280,1,loaf,unsliced Italian bread
+435,6650742,1,(16 ounce) package,uncooked rotini pasta
+436,6650742,1,(16 ounce) bottle,Italian salad dressing
+437,6650742,2,,"cucumbers, chopped"
+438,6650742,6,,"tomatoes, chopped"
+439,6650742,1,bunch,"green onions, chopped"
+440,6650742,4,ounces,grated Parmesan cheese
+441,6650742,1,tablespoon,Italian seasoning
+442,6648166,2,cups,water
+443,6648166,1,cup,quinoa
+444,6648166,¼,cup,extra-virgin olive oil
+445,6648166,2,,"limes, juiced"
+446,6648166,2,teaspoons,ground cumin
+447,6648166,1,teaspoon,salt
+448,6648166,½,teaspoon,"red pepper flakes, or more to taste"
+449,6648166,1 ½,cups,halved cherry tomatoes
+450,6648166,1,(15 ounce) can,"black beans, drained and rinsed"
+451,6648166,5,,"green onions, finely chopped"
+452,6648166,¼,cup,chopped fresh cilantro
+453,6648166,,,salt and ground black pepper to taste
+454,6590938,2,(3 ounce) packages,"chicken-flavored ramen noodles, broken into pieces, seasoning packets reserved"
+455,6590938,½,cup,raw sunflower seeds
+456,6590938,½,cup,slivered almonds
+457,6590938,1,(16 ounce) package,coleslaw mix
+458,6590938,3,,"green onions, chopped"
+459,6663733,3,large,"tomatoes, sliced"
+460,6663733,8,ounces,"mozzarella cheese, sliced"
+461,6663733,¼,cup,olive oil
+462,6663733,¼,cup,balsamic vinegar
+463,6663733,¼,teaspoon,salt
+464,6663733,⅛,teaspoon,ground black pepper
+465,6663733,¼,cup,minced fresh basil
+466,6650667,8,,hot dogs
+467,6650667,1,(8 ounce) package,refrigerated crescent rolls (such as Pillsbury® Grands! Big and Flaky)
+468,6650667,1,teaspoon,"yellow mustard, or as needed (Optional)"
+469,6664308,1,(6.5 ounce) jar,"oil-packed tuna, drained"
+470,6664308,2,tablespoons,finely diced celery
+471,6664308,1,tablespoon,minced green onion
+472,6664308,2,teaspoons,"capers, drained"
+473,6664308,2,tablespoons,"mayonnaise, or more to taste"
+474,6664308,1,teaspoon,Asian chile paste (such as sambal oelek)
+475,6664308,⅓,cup,fresh mozzarella cheese
+476,6664308,,,salt and ground black pepper to taste
+477,6664308,2,tablespoons,"softened butter, divided"
+478,6664308,2,thick slices,French bread
+479,6664308,¼,cup,"shredded sharp white Cheddar cheese, divided"
+480,6664308,1,pinch,"cayenne pepper, or to taste"
+481,6664089,6,slices,bacon
+482,6664089,3,,eggs
+483,6664089,1,head,"iceberg lettuce, shredded"
+484,6664089,3,cups,"chopped, cooked chicken meat"
+485,6664089,2,,"tomatoes, seeded and chopped"
+486,6664089,¾,cup,"blue cheese, crumbled"
+487,6664089,3,,"green onions, chopped"
+488,6664089,1,,"avocado - peeled, pitted and diced"
+489,6664089,1,(8 ounce) bottle,Ranch-style salad dressing
+490,6650807,1,(15.5 ounce) can,"garbanzo beans, drained"
+491,6650807,1,(14.5 ounce) can,"kidney beans, drained"
+492,6650807,1,(14.5 ounce) can,"black beans, drained"
+493,6650807,1,(14.5 ounce) can,"green beans, drained"
+494,6650807,1,(14.5 ounce) can,"wax beans, drained"
+495,6650807,½,cup,chopped green pepper
+496,6650807,½,cup,chopped onion
+497,6650807,½,cup,chopped celery
+498,6650807,¾,cup,white sugar
+499,6650807,½,cup,salad oil
+500,6650807,½,cup,vinegar
+501,6650807,½,teaspoon,salt
+502,6650807,½,teaspoon,ground black pepper
+503,6786854,1,tablespoon,extra virgin olive oil
+504,6786854,½,teaspoon,cider vinegar
+505,6786854,,,sea salt to taste
+506,6786854,,,coarse ground black pepper to taste
+507,6786854,1,(10 ounce) bag,"mild field salad greens, or to taste"
+508,6786854,½,cup,hazelnuts
+509,6786854,2,,"apples, cored and sliced paper-thin"
+510,6786854,⅓,cup,sharp Cheddar cheese rectangles
+511,6599472,5,,"romaine lettuce leaves, torn into bite size pieces"
+512,6599472,5,,"radishes, chopped"
+513,6599472,2,,"fresh tomatoes, chopped"
+514,6599472,2,,"green onion, minced"
+515,6599472,1,small,"jicama, peeled and julienned"
+516,6599472,1,,"cucumber, peeled and chopped"
+517,6599472,1,,"red bell pepper, chopped"
+518,6599472,2,tablespoons,olive oil
+519,6599472,1 ½,tablespoons,lemon juice
+520,6599472,1,tablespoon,pomegranate juice
+521,6599472,1 ½,teaspoons,water
+522,6599472,1,clove,"garlic, minced"
+523,6599472,1,teaspoon,chopped fresh dill
+524,6599472,1,teaspoon,chopped fresh basil
+525,6599472,1,teaspoon,salt
+526,6599472,1,teaspoon,ground black pepper
+527,6737249,1,tablespoon,butter
+528,6737249,½,cup,diced carrot
+529,6737249,½,cup,diced onion
+530,6737249,½,cup,diced celery
+531,6737249,¼,teaspoon,fresh thyme leaves
+532,6737249,1,pinch,salt
+533,6737249,2,tablespoons,melted chicken fat
+534,6737249,2,quarts,roasted chicken broth (see footnote for recipe link)
+535,6737249,4,ounces,uncooked wide egg noodles
+536,6737249,2,,"cooked boneless chicken breast halves, cubed"
+537,6737249,1,pinch,cayenne pepper (Optional)
+538,6737249,,,salt and ground black pepper to taste
+539,6605305,4,,"hard-cooked eggs, peeled and chopped"
+540,6605305,½,cup,mayonnaise
+541,6605305,1,teaspoon,curry powder
+542,6605305,,,salt and pepper to taste
+543,6605305,8,slices,bread
+544,6649306,1,tablespoon,olive oil
+545,6649306,2,,large eggs
+546,6649306,,,salt and ground black pepper to taste
+547,6649306,1,tablespoon,"butter, softened"
+548,6649306,2,slices,Italian bread
+549,6649306,1,ounce,"Swiss cheese, sliced"
+550,6649306,1,ounce,"Cheddar cheese, sliced"
+551,6649306,½,,"ripe avocado, sliced"
+552,6663277,1,tablespoon,olive oil
+553,6663277,4,,"skinless, boneless chicken thighs, cut into small pieces"
+554,6663277,1,,"onion, cut in half and sliced"
+555,6663277,2,cups,"dashi stock, made with dashi powder"
+556,6663277,¼,cup,soy sauce
+557,6663277,3,tablespoons,mirin (Japanese rice wine)
+558,6663277,3,tablespoons,brown sugar
+559,6663277,4,large,eggs
+560,6663277,4,cups,hot cooked white rice
+561,6664141,¼,cup,white vinegar
+562,6664141,¼,cup,fish sauce
+563,6664141,2,tablespoons,white sugar
+564,6664141,2,tablespoons,lime juice
+565,6664141,1,clove,"garlic, minced"
+566,6664141,¼,teaspoon,red pepper flakes
+567,6664141,½,teaspoon,canola oil
+568,6664141,2,tablespoons,chopped shallots
+569,6664141,2,,skewers
+570,6664141,8,,"medium shrimp, with shells"
+571,6664141,1,(8 ounce) package,rice vermicelli noodles
+572,6664141,1,cup,finely chopped lettuce
+573,6664141,1,cup,bean sprouts
+574,6664141,1,,"English cucumber, cut into 2-inch matchsticks"
+575,6664141,¼,cup,finely chopped pickled carrots
+576,6664141,¼,cup,finely chopped diakon radish
+577,6664141,¼,cup,crushed peanuts
+578,6664141,3,tablespoons,chopped cilantro
+579,6664141,3,tablespoons,finely chopped Thai basil
+580,6664141,3,tablespoons,chopped fresh mint
+581,6579367,8,ounces,orzo pasta
+582,6579367,1,teaspoon,olive oil
+583,6579367,3,medium,"carrots, chopped, or more to taste"
+584,6579367,3,ribs,"celery, chopped"
+585,6579367,1,medium,"onion, chopped"
+586,6579367,2,cloves,"garlic, minced"
+587,6579367,½,teaspoon,dried thyme
+588,6579367,½,teaspoon,dried oregano
+589,6579367,,,salt and ground black pepper to taste
+590,6579367,1,,bay leaf
+591,6579367,3,(32 ounce) cartons,"fat-free, low-sodium chicken broth"
+592,6579367,½,cup,fresh lemon juice
+593,6579367,1,,"lemon, zested"
+594,6579367,8,ounces,"cooked chicken breast, chopped"
+595,6579367,1,(8 ounce) package,baby spinach leaves
+596,6579367,1,,"lemon, sliced for garnish (Optional)"
+597,6579367,¼,cup,grated Parmesan cheese (Optional)
+598,6649428,1,(.25 ounce) package,active dry yeast
+599,6649428,1,cup,warm water (90 to 100 degrees F/32 to 38 degrees C)
+600,6649428,1,cup,all-purpose flour
+601,6649428,1 ½,tablespoons,olive oil
+602,6649428,1 ¾,teaspoons,salt
+603,6649428,1 ¾,cups,"all-purpose flour, or more as needed"
+604,6649428,1,teaspoon,"olive oil, divided"

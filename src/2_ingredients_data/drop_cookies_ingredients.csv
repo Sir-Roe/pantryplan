@@ -1,0 +1,586 @@
+,id_recipe,Quantity,Unit of Measure,Ingredient
+0,6597434,½,cup,"butter, at room temperature"
+1,6597434,½,cup,white sugar
+2,6597434,1,,egg
+3,6597434,1,teaspoon,vanilla extract
+4,6597434,1,cup,chocolate-hazelnut spread (such as Nutella®)
+5,6597434,1,cup,all-purpose flour
+6,6597434,¼,cup,unsweetened cocoa powder
+7,6597434,1,cup,milk chocolate chips
+8,6597434,½,cup,chopped hazelnuts
+9,6746809,1,cup,finely crumbled prepared granola
+10,6746809,¾,cup,all-purpose flour
+11,6746809,½,teaspoon,kosher salt
+12,6746809,¼,teaspoon,baking powder
+13,6746809,¼,teaspoon,baking soda
+14,6746809,½,cup,"unsalted butter, softened to room temperature"
+15,6746809,½,cup,firmly packed light brown sugar
+16,6746809,¼,cup,white granulated sugar
+17,6746809,1,large,egg
+18,6746809,¾,teaspoon,vanilla extract
+19,6746809,¼,teaspoon,ground cinnamon
+20,6746809,½,cup,old-fashioned rolled oats
+21,6586247,1,cup,white sugar
+22,6586247,½,cup,"butter, softened"
+23,6586247,1,cup,solid pack pumpkin puree
+24,6586247,1,large,egg
+25,6586247,1,teaspoon,vanilla extract
+26,6586247,2 ¼,cups,all-purpose flour
+27,6586247,2,teaspoons,baking powder
+28,6586247,1,teaspoon,baking soda
+29,6586247,1,teaspoon,ground cinnamon
+30,6586247,½,teaspoon,salt
+31,6586247,1,cup,halved fresh cranberries
+32,6586247,½,cup,chopped walnuts
+33,6586247,1,tablespoon,orange zest
+34,6649624,1,cup,"butter, softened"
+35,6649624,1,cup,white sugar
+36,6649624,1,cup,packed brown sugar
+37,6649624,2,,eggs
+38,6649624,2,teaspoons,vanilla extract
+39,6649624,1,teaspoon,baking soda
+40,6649624,2,teaspoons,hot water
+41,6649624,½,teaspoon,salt
+42,6649624,3,cups,all-purpose flour
+43,6649624,2,cups,semisweet chocolate chips
+44,6649624,1,cup,chopped walnuts
+45,6740992,2,cups,all-purpose flour
+46,6740992,½,teaspoon,baking soda
+47,6740992,½,teaspoon,salt
+48,6740992,1,cup,packed brown sugar
+49,6740992,¾,cup,"unsalted butter, melted"
+50,6740992,½,cup,white sugar
+51,6740992,1,,egg
+52,6740992,1,,egg yolk
+53,6740992,1,tablespoon,vanilla extract
+54,6740992,2,cups,semisweet chocolate chips
+55,6663642,1,cup,"butter, softened"
+56,6663642,1,cup,packed light brown sugar
+57,6663642,½,cup,white sugar
+58,6663642,2,,eggs
+59,6663642,2,teaspoons,vanilla extract
+60,6663642,1 ¼,cups,all-purpose flour
+61,6663642,½,teaspoon,baking soda
+62,6663642,1,teaspoon,salt
+63,6663642,3,cups,quick-cooking oats
+64,6663642,1,cup,chopped walnuts
+65,6663642,1,cup,semisweet chocolate chips
+66,6650202,2 ½,cups,all-purpose flour
+67,6650202,2,teaspoons,ground cinnamon
+68,6650202,1,teaspoon,baking powder
+69,6650202,1,teaspoon,baking soda
+70,6650202,½,teaspoon,ground nutmeg
+71,6650202,½,teaspoon,ground cloves
+72,6650202,½,teaspoon,salt
+73,6650202,1 ½,cups,white sugar
+74,6650202,½,cup,"butter, softened"
+75,6650202,1,cup,canned pumpkin puree
+76,6650202,1,large,egg
+77,6650202,1,teaspoon,vanilla extract
+78,6651200,1 ½,cups,white sugar
+79,6651200,1,cup,"butter, softened"
+80,6651200,2,,eggs
+81,6651200,2,teaspoons,vanilla extract
+82,6651200,2,cups,all-purpose flour
+83,6651200,⅔,cup,cocoa powder
+84,6651200,¾,teaspoon,baking soda
+85,6651200,¼,teaspoon,salt
+86,6651200,2,cups,semisweet chocolate chips
+87,6651200,½,cup,chopped walnuts (Optional)
+88,6651054,1,cup,canned pumpkin
+89,6651054,1,cup,white sugar
+90,6651054,½,cup,vegetable oil
+91,6651054,1,large,egg
+92,6651054,1,teaspoon,baking soda
+93,6651054,1,teaspoon,milk
+94,6651054,2,cups,all-purpose flour
+95,6651054,2,teaspoons,baking powder
+96,6651054,2,teaspoons,ground cinnamon
+97,6651054,½,teaspoon,salt
+98,6651054,2,cups,semisweet chocolate chips
+99,6651054,½,cup,chopped walnuts (Optional)
+100,6651054,1,tablespoon,vanilla extract
+101,6649830,2,cups,white sugar
+102,6649830,1 ¼,cups,"margarine, softened"
+103,6649830,2,large,eggs
+104,6649830,2,teaspoons,vanilla extract
+105,6649830,2,cups,all-purpose flour
+106,6649830,¾,cup,unsweetened cocoa powder
+107,6649830,1,teaspoon,baking soda
+108,6649830,⅛,teaspoon,salt
+109,6649830,1,cup,chopped walnuts
+110,6648843,1,cup,"butter, softened"
+111,6648843,¾,cup,packed light brown sugar
+112,6648843,½,cup,white sugar
+113,6648843,2,,eggs
+114,6648843,½,teaspoon,vanilla extract
+115,6648843,½,teaspoon,almond extract
+116,6648843,2 ½,cups,all-purpose flour
+117,6648843,1,teaspoon,baking soda
+118,6648843,½,teaspoon,salt
+119,6648843,1,cup,coarsely chopped macadamia nuts
+120,6648843,1,cup,coarsely chopped white chocolate
+121,6650324,3,cups,white sugar
+122,6650324,¾,cup,butter
+123,6650324,¾,cup,milk
+124,6650324,1 ½,cups,peanut butter
+125,6650324,½,teaspoon,vanilla extract
+126,6650324,4 ½,cups,quick-cooking oats
+127,6649175,1,cup,packed brown sugar
+128,6649175,½,cup,white sugar
+129,6649175,½,cup,"butter, softened"
+130,6649175,½,cup,peanut butter
+131,6649175,2,,eggs
+132,6649175,2,tablespoons,light corn syrup
+133,6649175,2,tablespoons,water
+134,6649175,2,teaspoons,vanilla extract
+135,6649175,2 ½,cups,all-purpose flour
+136,6649175,1,teaspoon,baking soda
+137,6649175,½,teaspoon,salt
+138,6649175,2,cups,chopped semisweet chocolate
+139,6739486,4 ½,cups,all-purpose flour
+140,6739486,2,teaspoons,baking soda
+141,6739486,2,cups,"butter, softened"
+142,6739486,1 ½,cups,packed brown sugar
+143,6739486,½,cup,white sugar
+144,6739486,2,(3.4 ounce) packages,instant vanilla pudding mix
+145,6739486,4,,eggs
+146,6739486,2,teaspoons,vanilla extract
+147,6739486,4,cups,semisweet chocolate chips
+148,6739486,2,cups,chopped walnuts (Optional)
+149,6648813,2 ½,cups,all-purpose flour
+150,6648813,2,teaspoons,baking powder
+151,6648813,½,teaspoon,salt
+152,6648813,¼,teaspoon,baking soda
+153,6648813,1,cup,white sugar
+154,6648813,⅔,cup,"butter, softened"
+155,6648813,1,cup,mashed bananas
+156,6648813,2,,eggs
+157,6648813,1,teaspoon,vanilla extract
+158,6648813,2,cups,semisweet chocolate chips
+159,6739060,1,cup,butter flavored shortening
+160,6739060,¾,cup,white sugar
+161,6739060,¾,cup,brown sugar
+162,6739060,2,large,eggs
+163,6739060,2,teaspoons,Mexican vanilla extract
+164,6739060,2 ¼,cups,all-purpose flour
+165,6739060,1,teaspoon,baking soda
+166,6739060,1,teaspoon,salt
+167,6739060,2,cups,milk chocolate chips
+168,6663172,1,cup,shortening
+169,6663172,1,cup,packed brown sugar
+170,6663172,½,cup,white sugar
+171,6663172,2,,eggs
+172,6663172,1 ½,teaspoons,vanilla extract
+173,6663172,2 ½,cups,all-purpose flour
+174,6663172,1,teaspoon,baking soda
+175,6663172,1,teaspoon,salt
+176,6663172,1 ½,cups,candy-coated milk chocolate pieces (such as M&M's®)
+177,6650569,½,cup,packed brown sugar
+178,6650569,½,cup,white sugar
+179,6650569,½,cup,"unsalted butter, softened"
+180,6650569,1,large,egg
+181,6650569,1,tablespoon,brandy
+182,6650569,1 ½,cups,all-purpose flour
+183,6650569,½,teaspoon,baking soda
+184,6650569,1,cup,dried cranberries
+185,6650569,¾,cup,white chocolate chips
+186,6665059,1,cup,"unsalted butter, softened"
+187,6665059,1,cup,white sugar
+188,6665059,½,cup,packed brown sugar
+189,6665059,1,large,egg
+190,6665059,2,tablespoons,orange juice
+191,6665059,1,teaspoon,grated orange zest
+192,6665059,2 ½,cups,all-purpose flour
+193,6665059,½,teaspoon,baking soda
+194,6665059,½,teaspoon,salt
+195,6665059,2,cups,chopped cranberries
+196,6665059,½,cup,chopped walnuts (Optional)
+197,6648944,1,cup,white sugar
+198,6648944,½,cup,shortening
+199,6648944,2,,"eggs, separated, divided"
+200,6648944,2,cups,all-purpose flour
+201,6648944,5,tablespoons,unsweetened cocoa powder
+202,6648944,1,teaspoon,baking powder
+203,6648944,1,teaspoon,baking soda
+204,6648944,½,teaspoon,salt
+205,6648944,1,cup,milk
+206,6648944,1,teaspoon,vanilla extract
+207,6739397,1,(15.25 ounce) package,lemon cake mix
+208,6739397,2,large,eggs
+209,6739397,⅓,cup,vegetable oil
+210,6739397,1,teaspoon,lemon extract
+211,6739397,⅓,cup,confectioners' sugar for decoration
+212,6649247,1 ½,cups,white sugar
+213,6649247,1,cup,butter
+214,6649247,2,large,eggs
+215,6649247,2,teaspoons,vanilla extract
+216,6649247,2,cups,all-purpose flour
+217,6649247,⅔,cup,unsweetened cocoa powder
+218,6649247,¾,teaspoon,baking soda
+219,6649247,½,teaspoon,salt
+220,6649247,2,cups,peanut butter chips
+221,6603320,¾,cup,"butter, softened"
+222,6603320,¾,cup,white sugar
+223,6603320,¾,cup,packed brown sugar
+224,6603320,2,large,eggs
+225,6603320,1,teaspoon,vanilla extract
+226,6603320,1 ¼,cups,all-purpose flour
+227,6603320,1,teaspoon,baking soda
+228,6603320,½,teaspoon,ground cinnamon
+229,6603320,½,teaspoon,salt
+230,6603320,3,cups,rolled oats
+231,6603320,1 ⅔,cups,butterscotch chips
+232,6604563,1,(15.25 ounce) package,spice cake mix
+233,6604563,1,(15 ounce) can,solid pack pumpkin
+234,6569320,1 ½,cups,all-purpose flour
+235,6569320,2,medium,"ripe bananas, mashed, or more to taste"
+236,6569320,½,cup,white sugar
+237,6569320,¼,cup,"butter, melted"
+238,6569320,¼,cup,chopped walnuts (Optional)
+239,6569320,1,large,egg
+240,6569320,1,teaspoon,baking soda
+241,6569320,¼,teaspoon,salt
+242,6569320,1,tablespoon,white sugar
+243,6663969,2,,"ripe persimmons, pureed"
+244,6663969,1,teaspoon,baking soda
+245,6663969,2,cups,all-purpose flour
+246,6663969,½,teaspoon,ground cinnamon
+247,6663969,½,teaspoon,ground cloves
+248,6663969,½,teaspoon,ground nutmeg
+249,6663969,½,teaspoon,salt
+250,6663969,1,cup,white sugar
+251,6663969,½,cup,butter
+252,6663969,1,large,egg
+253,6663969,1,cup,raisins
+254,6663969,1,cup,chopped walnuts
+255,6650854,1,cup,peanut butter
+256,6650854,1,cup,packed brown sugar
+257,6650854,¾,cup,white sugar
+258,6650854,½,cup,shortening
+259,6650854,½,cup,"margarine, softened"
+260,6650854,2,large,eggs
+261,6650854,1 ½,cups,all-purpose flour
+262,6650854,2,teaspoons,baking soda
+263,6650854,1,teaspoon,salt
+264,6650854,1,cup,quick-cooking oats
+265,6651093,2,cups,packed brown sugar
+266,6651093,1,cup,vegetable oil
+267,6651093,1 ½,cups,solid pack pumpkin puree
+268,6651093,2,large,eggs
+269,6651093,3,cups,all-purpose flour
+270,6651093,1 ½,tablespoons,ground cinnamon
+271,6651093,½,tablespoon,ground ginger
+272,6651093,½,tablespoon,ground cloves
+273,6651093,1,teaspoon,salt
+274,6651093,1,teaspoon,baking powder
+275,6651093,1,teaspoon,baking soda
+276,6651093,1,teaspoon,vanilla extract
+277,6663111,2,cups,"butter, softened"
+278,6663111,1,cup,white sugar
+279,6663111,1,teaspoon,vanilla extract
+280,6663111,3 ½,cups,all-purpose flour
+281,6663111,1 ½,cups,crushed salted potato chips
+282,6737821,2,,"bananas, mashed"
+283,6737821,¼,cup,milk
+284,6737821,1,large,"egg, beaten"
+285,6737821,1,teaspoon,honey
+286,6737821,½,teaspoon,vanilla extract
+287,6737821,1,cup,"rolled oats, or as needed"
+288,6737821,1,teaspoon,ground cinnamon
+289,6737821,½,teaspoon,baking powder
+290,6737821,⅛,teaspoon,salt
+291,6601114,1,cup,butter
+292,6601114,1,cup,white sugar
+293,6601114,½,cup,light brown sugar
+294,6601114,2,,eggs
+295,6601114,1,teaspoon,vanilla extract
+296,6601114,2 ¼,cups,all-purpose flour
+297,6601114,1,teaspoon,baking soda
+298,6601114,1,teaspoon,salt
+299,6601114,2,cups,semisweet chocolate chips
+300,6601114,2,cups,flaked coconut
+301,6580466,¼,cup,confectioners' sugar
+302,6580466,1,(8 ounce) package,"cream cheese, softened"
+303,6580466,½,cup,"unsalted butter, softened"
+304,6580466,1,large,egg
+305,6580466,¼,teaspoon,vanilla extract
+306,6580466,1,(15.25 ounce) package,yellow cake mix
+307,6736540,1,cup,"butter, softened"
+308,6736540,1 ½,cups,all-purpose flour
+309,6736540,½,cup,confectioners' sugar
+310,6736540,¼,cup,cornstarch
+311,6664935,,,waxed paper
+312,6664935,½,cup,butter
+313,6664935,4,cups,miniature marshmallows
+314,6664935,1,teaspoon,"green food coloring, or as needed"
+315,6664935,½,teaspoon,almond extract
+316,6664935,½,teaspoon,vanilla extract
+317,6664935,4,cups,cornflakes cereal
+318,6664935,1,(2.25 ounce) package,cinnamon red hot candies
+319,6663429,1,cup,"butter, softened"
+320,6663429,1,cup,packed brown sugar
+321,6663429,1,cup,white sugar
+322,6663429,2,large,eggs
+323,6663429,1,teaspoon,vanilla extract
+324,6663429,2,cups,quick cooking oats
+325,6663429,2,cups,all-purpose flour
+326,6663429,1,teaspoon,baking soda
+327,6663429,1,teaspoon,baking powder
+328,6663429,1,teaspoon,salt
+329,6663429,1,cup,raisins
+330,6663429,1,cup,sweetened dried cranberries (such as Craisins®)
+331,6738461,2,cups,white sugar
+332,6738461,½,cup,margarine
+333,6738461,½,cup,milk
+334,6738461,3,tablespoons,unsweetened cocoa powder
+335,6738461,1,pinch,salt
+336,6738461,3,cups,quick cooking oats
+337,6738461,½,cup,peanut butter
+338,6738461,1,teaspoon,vanilla extract
+339,6739748,1 ¼,cups,packed brown sugar
+340,6739748,1,cup,"butter, softened"
+341,6739748,½,cup,white sugar
+342,6739748,2,large,eggs
+343,6739748,2,tablespoons,milk
+344,6739748,2,teaspoons,vanilla extract
+345,6739748,1 ¾,cups,all-purpose flour
+346,6739748,1,teaspoon,baking soda
+347,6739748,½,teaspoon,salt (Optional)
+348,6739748,3,cups,rolled oats
+349,6739748,2,cups,semisweet chocolate chips
+350,6739748,1,cup,chopped walnuts (Optional)
+351,6739748,1,cup,shredded coconut
+352,6604188,2,cups,all-purpose flour
+353,6604188,¾,cup,unsweetened cocoa powder
+354,6604188,1,teaspoon,baking soda
+355,6604188,½,teaspoon,salt
+356,6604188,2,cups,white sugar
+357,6604188,1,cup,"unsalted butter, softened"
+358,6604188,2,large,eggs
+359,6604188,2,teaspoons,vanilla extract
+360,6604188,1 ⅔,cups,white chocolate chips
+361,6649744,3 ½,cups,all-purpose flour
+362,6649744,1,teaspoon,baking soda
+363,6649744,½,teaspoon,salt
+364,6649744,1,cup,"unsalted butter, softened"
+365,6649744,1,cup,white sugar
+366,6649744,1,cup,packed brown sugar
+367,6649744,3,large,eggs
+368,6649744,1,teaspoon,vanilla extract
+369,6649744,1,cup,semisweet chocolate chips
+370,6581883,1,cup,white sugar
+371,6581883,1,cup,shortening
+372,6581883,1,cup,honey
+373,6581883,2,large,eggs
+374,6581883,1,teaspoon,vanilla extract
+375,6581883,1,teaspoon,baking soda
+376,6581883,1,teaspoon,ground ginger
+377,6581883,4,cups,all-purpose flour
+378,6664622,2,cups,all-purpose flour
+379,6664622,1,teaspoon,baking soda
+380,6664622,1,teaspoon,ground cinnamon
+381,6664622,½,teaspoon,ground cloves
+382,6664622,½,teaspoon,salt
+383,6664622,1,cup,white sugar
+384,6664622,½,cup,"margarine, softened"
+385,6664622,1,large,egg
+386,6664622,1,cup,grated zucchini
+387,6664622,1,cup,raisins
+388,6602318,1,(8 ounce) container,"frozen whipped topping, thawed"
+389,6602318,2,large,eggs
+390,6602318,1,(15.25 ounce) package,lemon cake mix
+391,6602318,⅓,cup,confectioners' sugar for decoration
+392,6587812,3,tablespoons,white sugar
+393,6587812,1,tablespoon,ground cinnamon
+394,6587812,1,cup,dark brown sugar
+395,6587812,½,cup,white sugar
+396,6587812,1,cup,"butter, softened"
+397,6587812,2,large,eggs
+398,6587812,2,teaspoons,vanilla extract
+399,6587812,2 ½,cups,all-purpose flour
+400,6587812,¾,teaspoon,baking soda
+401,6587812,¼,teaspoon,salt
+402,6594372,½,cup,white sugar
+403,6594372,½,cup,light corn syrup
+404,6594372,2,tablespoons,butter
+405,6594372,½,cup,peanut butter
+406,6594372,3,cups,cornflakes cereal
+407,6577741,1,cup,"butter, softened"
+408,6577741,1,cup,packed brown sugar
+409,6577741,½,cup,white sugar
+410,6577741,2,,eggs
+411,6577741,2,teaspoons,vanilla extract
+412,6577741,1 ¼,cups,all-purpose flour
+413,6577741,2,teaspoons,ground cinnamon
+414,6577741,1,teaspoon,salt
+415,6577741,½,teaspoon,baking soda
+416,6577741,3,cups,quick cooking oats
+417,6577741,1,cup,chopped walnuts
+418,6573671,1,cup,white sugar
+419,6573671,1,cup,packed light brown sugar
+420,6573671,1,cup,butter
+421,6573671,1,cup,vegetable oil
+422,6573671,1,large,egg
+423,6573671,1,tablespoon,milk
+424,6573671,1,teaspoon,vanilla extract
+425,6573671,4,cups,all-purpose flour
+426,6573671,1,teaspoon,salt
+427,6573671,1,teaspoon,cream of tartar
+428,6573671,1,teaspoon,baking soda
+429,6573671,2,cups,semisweet chocolate chips
+430,6573671,½,cup,chopped walnuts
+431,6600865,2,cups,all-purpose flour
+432,6600865,1,teaspoon,baking powder
+433,6600865,1,teaspoon,baking soda
+434,6600865,½,teaspoon,salt
+435,6600865,1,cup,"butter, softened"
+436,6600865,1,cup,white sugar
+437,6600865,1,cup,packed brown sugar
+438,6600865,2,,eggs
+439,6600865,1,teaspoon,vanilla extract
+440,6600865,2,cups,rolled oats
+441,6600865,1,cup,semisweet chocolate chips
+442,6649170,,,cooking spray
+443,6649170,½,cup,butter
+444,6649170,¾,cup,white sugar
+445,6649170,1,large,"egg, beaten"
+446,6649170,1,cup,quick cooking oats (such as Quaker)
+447,6649170,3,tablespoons,all-purpose flour
+448,6649170,1,teaspoon,vanilla extract
+449,6649170,¼,teaspoon,salt
+450,6649170,¼,teaspoon,baking powder
+451,6571488,2,cups,white sugar
+452,6571488,1,cup,"butter, softened"
+453,6571488,15,ounces,ricotta cheese
+454,6571488,2,large,eggs
+455,6571488,2,teaspoons,vanilla extract
+456,6571488,4,cups,all-purpose flour
+457,6571488,2,tablespoons,baking powder
+458,6571488,1,teaspoon,salt
+459,6592532,3,,egg whites
+460,6592532,½,teaspoon,vanilla extract
+461,6592532,⅛,teaspoon,cream of tartar
+462,6592532,⅔,cup,white sugar
+463,6592532,1,tablespoon,unsweetened cocoa powder
+464,6592532,⅓,cup,semisweet chocolate chips
+465,6601257,1,cup,butter
+466,6601257,1,cup,light brown sugar
+467,6601257,1,cup,white sugar
+468,6601257,2,,eggs
+469,6601257,2,teaspoons,vanilla extract
+470,6601257,3,cups,all-purpose flour
+471,6601257,1,teaspoon,baking powder
+472,6601257,1,teaspoon,baking soda
+473,6601257,1,teaspoon,salt
+474,6601257,1 ½,cups,rolled oats
+475,6601257,2,cups,white chocolate chips
+476,6601257,1,cup,chopped pecans
+477,6664287,2,,egg whites
+478,6664287,⅛,teaspoon,salt
+479,6664287,⅛,teaspoon,cream of tartar
+480,6664287,½,cup,white sugar
+481,6664287,2,,"peppermint candy canes, crushed"
+482,6738007,3,cups,all-purpose flour
+483,6738007,¾,teaspoon,baking soda
+484,6738007,¾,teaspoon,salt
+485,6738007,¾,cup,white sugar
+486,6738007,1,cup,packed light brown sugar
+487,6738007,1,cup,"butter, softened"
+488,6738007,2,,"eggs, slightly beaten"
+489,6738007,1,tablespoon,vanilla extract
+490,6738007,1,cup,vanilla baking chips
+491,6738007,1,cup,chopped macadamia nuts
+492,6738007,1,cup,dried cranberries
+493,6648735,½,cup,"butter, softened"
+494,6648735,½,cup,butter flavored shortening
+495,6648735,1,cup,packed light brown sugar
+496,6648735,½,cup,white sugar
+497,6648735,2,,eggs
+498,6648735,1,teaspoon,vanilla extract
+499,6648735,1 ½,cups,all-purpose flour
+500,6648735,1,teaspoon,baking soda
+501,6648735,1,teaspoon,ground cinnamon
+502,6648735,½,teaspoon,ground cloves
+503,6648735,½,teaspoon,salt
+504,6648735,3,cups,rolled oats
+505,6648735,1,cup,raisins
+506,6650786,½,cup,shortening
+507,6650786,1 ½,cups,white sugar
+508,6650786,1,,egg
+509,6650786,1,cup,canned pumpkin
+510,6650786,1,teaspoon,vanilla extract
+511,6650786,2 ½,cups,all-purpose flour
+512,6650786,1,teaspoon,baking powder
+513,6650786,1,teaspoon,baking soda
+514,6650786,1,teaspoon,salt
+515,6650786,1,teaspoon,ground nutmeg
+516,6650786,1,teaspoon,ground cinnamon
+517,6650786,½,cup,chopped walnuts (Optional)
+518,6650786,1,cup,semisweet chocolate chips
+519,6664271,2,cups,white sugar
+520,6664271,1,(15 ounce) can,pumpkin puree
+521,6664271,1,cup,vegetable oil
+522,6664271,2,,eggs
+523,6664271,2,tablespoons,milk
+524,6664271,2,teaspoons,vanilla extract
+525,6664271,4,cups,all-purpose flour
+526,6664271,4,teaspoons,baking powder
+527,6664271,2,teaspoons,baking soda
+528,6664271,2,teaspoons,cinnamon
+529,6664271,1,teaspoon,salt
+530,6664271,2,cups,semisweet chocolate chips
+531,6569365,1,(14 ounce) package,"chocolate sandwich cookies (such as Oreo®), crushed"
+532,6569365,1,(8 ounce) package,"cream cheese, at room temperature"
+533,6569365,1,(12 ounce) package,"vanilla-flavored almond bark, or as needed"
+534,6594395,1 ½,cups,packed brown sugar
+535,6594395,1,cup,shortening
+536,6594395,1,,egg
+537,6594395,2,cups,prepared mincemeat pie filling
+538,6594395,3 ¼,cups,all-purpose flour
+539,6594395,¼,teaspoon,salt
+540,6594395,1 ½,teaspoons,baking soda
+541,6603744,2,,egg whites
+542,6603744,⅛,teaspoon,salt
+543,6603744,⅛,teaspoon,cream of tartar
+544,6603744,1,teaspoon,vanilla extract
+545,6603744,¾,cup,white sugar
+546,6603744,1,cup,semisweet chocolate chips
+547,6604275,1,cup,white sugar
+548,6604275,½,cup,butter
+549,6604275,1,large,egg
+550,6604275,2,cups,all-purpose flour
+551,6604275,1,teaspoon,baking soda
+552,6604275,1,teaspoon,baking powder
+553,6604275,½,teaspoon,salt
+554,6604275,½,teaspoon,ground cloves (Optional)
+555,6604275,1,cup,chopped fresh figs
+556,6604275,½,cup,chopped walnuts
+557,6601322,1,cup,quick cooking oats
+558,6601322,1,cup,white sugar
+559,6601322,1,cup,all-purpose flour
+560,6601322,¾,cup,flaked coconut
+561,6601322,½,cup,butter
+562,6601322,1,tablespoon,golden syrup
+563,6601322,2,tablespoons,boiling water
+564,6601322,1,teaspoon,baking soda
+565,6588505,1,cup,packed brown sugar
+566,6588505,¾,cup,butter
+567,6588505,1,,egg
+568,6588505,1,cup,applesauce
+569,6588505,2 ½,cups,all-purpose flour
+570,6588505,¾,teaspoon,ground cinnamon
+571,6588505,½,teaspoon,baking soda
+572,6588505,½,teaspoon,salt
+573,6588505,¼,teaspoon,ground nutmeg
+574,6588505,¼,teaspoon,ground cloves
+575,6588505,1,cup,chopped walnuts
+576,6588505,1,cup,raisins
+577,6606137,1,cup,unsalted butter
+578,6606137,1,cup,white sugar
+579,6606137,¾,cup,packed brown sugar
+580,6606137,2,,eggs
+581,6606137,1 ¼,cups,unsweetened cocoa powder
+582,6606137,1 ¾,cups,all-purpose flour
+583,6606137,2,teaspoons,baking soda
+584,6606137,2,cups,white chocolate chips

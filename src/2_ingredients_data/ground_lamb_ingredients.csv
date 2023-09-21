@@ -1,0 +1,784 @@
+,id_recipe,Quantity,Unit of Measure,Ingredient
+0,6600475,4,large,"baking potatoes, peeled and cubed"
+1,6600475,1,tablespoon,butter
+2,6600475,¼,cup,milk
+3,6600475,2,pounds,ground lamb
+4,6600475,1,tablespoon,Worcestershire sauce
+5,6600475,1,cube,beef bouillon
+6,6600475,12,,"button mushrooms, sliced"
+7,6600475,1,,"onion, finely chopped"
+8,6600475,1,(16 ounce) can,baked beans
+9,6600475,1,(12 ounce) can,canned diced tomatoes
+10,6600475,3,tablespoons,brown gravy mix (Optional)
+11,6600475,1,(15 ounce) can,"carrots, drained (Optional)"
+12,6595889,1,teaspoon,all-purpose flour
+13,6595889,1,teaspoon,dried oregano
+14,6595889,½,teaspoon,salt
+15,6595889,½,teaspoon,garlic powder
+16,6595889,½,teaspoon,onion powder
+17,6595889,½,teaspoon,dried Italian herb seasoning
+18,6595889,¼,teaspoon,ground black pepper
+19,6595889,¼,teaspoon,cayenne pepper
+20,6595889,1 ¼,pounds,ground lamb
+21,6738482,4,cloves,"garlic, minced"
+22,6738482,1,teaspoon,kosher salt
+23,6738482,1,pound,ground lamb
+24,6738482,3,tablespoons,grated onion
+25,6738482,3,tablespoons,chopped fresh parsley
+26,6738482,1,tablespoon,ground coriander
+27,6738482,1,teaspoon,ground cumin
+28,6738482,½,tablespoon,ground cinnamon
+29,6738482,½,teaspoon,ground allspice
+30,6738482,¼,teaspoon,cayenne pepper
+31,6738482,¼,teaspoon,ground ginger
+32,6738482,¼,teaspoon,ground black pepper
+33,6738482,28,,"bamboo skewers, soaked in water for 30 minutes"
+34,6737579,½,,"onion, cut into chunks"
+35,6737579,1,pound,ground lamb
+36,6737579,1,pound,ground beef
+37,6737579,1,tablespoon,minced garlic
+38,6737579,1,teaspoon,dried oregano
+39,6737579,1,teaspoon,ground cumin
+40,6737579,1,teaspoon,dried marjoram
+41,6737579,1,teaspoon,ground dried rosemary
+42,6737579,1,teaspoon,ground dried thyme
+43,6737579,1,teaspoon,ground black pepper
+44,6737579,¼,teaspoon,sea salt
+45,6595174,1,small,"onion, cut into chunks"
+46,6595174,1,pound,ground lamb
+47,6595174,1,pound,ground beef
+48,6595174,1,tablespoon,minced garlic
+49,6595174,1,teaspoon,dried oregano
+50,6595174,1,teaspoon,ground cumin
+51,6595174,1,teaspoon,dried marjoram
+52,6595174,1,teaspoon,dried thyme
+53,6595174,1,teaspoon,dried rosemary
+54,6595174,1,teaspoon,freshly ground black pepper
+55,6595174,¼,teaspoon,sea salt
+56,6595174,12,tablespoons,hummus
+57,6595174,12,,pita bread rounds
+58,6595174,1,small head,"lettuce, shredded"
+59,6595174,1,large,"tomato, sliced"
+60,6595174,1,large,"red onion, sliced"
+61,6595174,6,ounces,crumbled feta cheese
+62,6595174,24,tablespoons,tzatziki sauce
+63,6602655,1,pound,ground lamb
+64,6602655,1,tablespoon,garlic powder
+65,6602655,1,,"4-inch sprig rosemary, chopped"
+66,6602655,4,sprigs,"thyme, chopped"
+67,6602655,1,pinch,salt
+68,6602655,1,pinch,ground black pepper
+69,6602655,3,tablespoons,mayonnaise
+70,6602655,1,tablespoon,Dijon mustard
+71,6602655,4,,"hamburger buns, split and toasted"
+72,6602655,4,thick slices,tomato
+73,6602655,1,cup,baby mixed salad greens
+74,6584213,1 ½,pounds,ground pork
+75,6584213,1,pound,lean ground beef
+76,6584213,½,pound,ground lamb
+77,6584213,1,,egg white
+78,6584213,4,cloves,"garlic, minced"
+79,6584213,2,teaspoons,ground black pepper
+80,6584213,1,teaspoon,salt
+81,6584213,1,teaspoon,baking soda
+82,6584213,1,teaspoon,cayenne pepper
+83,6584213,½,teaspoon,paprika
+84,6590000,3,pounds,Yukon Gold potatoes
+85,6590000,1,tablespoon,kosher salt
+86,6590000,¼,cup,milk
+87,6590000,3,tablespoons,"salted butter, divided"
+88,6590000,1,cup,shredded white Cheddar cheese
+89,6590000,¼,cup,sour cream
+90,6590000,1,large,egg yolk
+91,6590000,2,teaspoons,"kosher salt, divided"
+92,6590000,1,teaspoon,"ground black pepper, divided"
+93,6590000,1,tablespoon,olive oil
+94,6590000,1,cup,diced onion
+95,6590000,1,cup,diced carrot
+96,6590000,1,pound,ground lamb
+97,6590000,1,pound,ground beef sirloin
+98,6590000,3,tablespoons,all-purpose flour
+99,6590000,1,teaspoon,finely chopped fresh rosemary
+100,6590000,1,teaspoon,finely chopped fresh thyme
+101,6590000,1,cup,beef stock
+102,6590000,1,tablespoon,tomato paste
+103,6590000,1,tablespoon,Worcestershire sauce
+104,6590000,1,cup,frozen green peas
+105,6590000,1,tablespoon,"chopped fresh parsley, or to taste"
+106,6573799,2,pounds,lean ground lamb
+107,6573799,2,medium,"onions, finely chopped"
+108,6573799,½,cup,"fresh mint leaves, finely chopped"
+109,6573799,½,cup,"cilantro, finely chopped"
+110,6573799,1,tablespoon,ginger paste
+111,6573799,1,tablespoon,green chile paste
+112,6573799,2,teaspoons,ground cumin
+113,6573799,2,teaspoons,ground coriander
+114,6573799,2,teaspoons,paprika
+115,6573799,2,teaspoons,salt
+116,6573799,1,teaspoon,cayenne pepper
+117,6573799,8,,skewers
+118,6573799,¼,cup,"vegetable oil for brushing, or as needed"
+119,6595763,2,,"onions, peeled"
+120,6595763,,,cheesecloth
+121,6595763,1,pound,ground lamb
+122,6595763,1,pound,ground beef
+123,6595763,1,,"green onion, diced"
+124,6595763,2,teaspoons,baking powder
+125,6595763,1,teaspoon,salt
+126,6595763,1,teaspoon,ground black pepper
+127,6595763,1,teaspoon,sumac powder
+128,6595763,½,teaspoon,ground turmeric
+129,6595763,2,,eggs
+130,6595763,8,(10 inch),metal skewers
+131,6582933,2,cups,all-purpose flour
+132,6582933,½,teaspoon,salt
+133,6582933,2,tablespoons,butter
+134,6582933,¼,cup,water
+135,6582933,1,quart,oil for deep frying
+136,6582933,2,tablespoons,butter
+137,6582933,1,small,"onion, chopped"
+138,6582933,2,cloves,"garlic, chopped"
+139,6582933,2,,"green chile peppers, chopped"
+140,6582933,1,tablespoon,"fresh ginger root, chopped"
+141,6582933,½,teaspoon,ground turmeric
+142,6582933,½,teaspoon,chili powder
+143,6582933,¾,pound,ground lamb
+144,6582933,1,teaspoon,salt
+145,6582933,2,teaspoons,garam masala
+146,6582933,1 ½,tablespoons,fresh lemon juice
+147,6606376,1 ¼,pounds,ground lamb
+148,6606376,1,,egg
+149,6606376,1,teaspoon,dried oregano
+150,6606376,1,teaspoon,dry sherry
+151,6606376,1,teaspoon,white wine vinegar
+152,6606376,½,teaspoon,crushed red pepper flakes
+153,6606376,4,cloves,"garlic, minced"
+154,6606376,½,cup,chopped green onions
+155,6606376,1,tablespoon,"chopped fresh mint, or to taste"
+156,6606376,2,tablespoons,chopped fresh cilantro
+157,6606376,2,tablespoons,dry bread crumbs
+158,6606376,⅛,teaspoon,salt
+159,6606376,¼,teaspoon,ground black pepper
+160,6606376,5,,hamburger buns
+161,6599369,1,pound,ground lamb
+162,6599369,2,slices,"bread, torn into small pieces"
+163,6599369,¼,cup,yogurt
+164,6599369,¼,cup,raisins
+165,6599369,¼,cup,fresh cilantro
+166,6599369,1,clove,"garlic, minced"
+167,6599369,¼,teaspoon,dried oregano
+168,6599369,¼,teaspoon,dried basil
+169,6599369,⅛,teaspoon,salt
+170,6599369,⅛,teaspoon,ground black pepper
+171,6663827,5,cups,"mashed, boiled potatoes"
+172,6663827,½,cup,sour cream
+173,6663827,2,ounces,cream cheese
+174,6663827,2,tablespoons,"butter, softened, divided"
+175,6663827,1,,egg yolk
+176,6663827,½,teaspoon,kosher salt
+177,6663827,½,teaspoon,freshly ground black pepper
+178,6663827,1 ½,teaspoons,olive oil
+179,6663827,1,pound,ground lamb
+180,6663827,1,pinch,salt and ground black pepper to taste
+181,6663827,1,(16 ounce) can,"stewed tomatoes with juice, chopped"
+182,6663827,1,small,"onion, chopped"
+183,6663827,1,small,"carrot, peeled and chopped"
+184,6663827,½,cup,peas
+185,6663827,1,cup,Irish stout beer (such as Guinness®)
+186,6663827,1,cube,beef bouillon
+187,6663827,1,tablespoon,all-purpose flour
+188,6663827,1,tablespoon,Worcestershire sauce
+189,6663827,¾,cup,shredded sharp Cheddar cheese
+190,6663827,2,teaspoons,chopped fresh parsley
+191,6663827,2,teaspoons,smoked paprika
+192,6663600,¼,cup,chopped red onion
+193,6663600,1,tablespoon,minced garlic
+194,6663600,1,tablespoon,dried marjoram
+195,6663600,1,tablespoon,ground dried rosemary
+196,6663600,2,teaspoons,kosher salt
+197,6663600,½,teaspoon,freshly ground black pepper
+198,6663600,1,pound,93%-lean ground beef
+199,6663600,1,pound,ground lamb
+200,6580565,1,(1 pound),"eggplant, cut into 1-inch cubes"
+201,6580565,,,salt
+202,6580565,1,tablespoon,olive oil
+203,6580565,1,large,"sweet onion, coarsely chopped"
+204,6580565,2,large stalks,"celery, sliced"
+205,6580565,½,teaspoon,ground cumin
+206,6580565,2,pinches,dried oregano
+207,6580565,2,pinches,ground dried rosemary
+208,6580565,2,pinches,paprika
+209,6580565,⅛,teaspoon,dried mint
+210,6580565,1,pinch,salt and ground black pepper to taste
+211,6580565,1 ½,teaspoons,"garlic, minced"
+212,6580565,3,,"tomatoes, coarsely chopped"
+213,6580565,1,cup,chicken broth
+214,6580565,1,(15 ounce) can,tomato sauce
+215,6580565,1,pound,ground lamb
+216,6580565,1,tablespoon,olive oil
+217,6580565,1,,"lemon, juiced, or to taste"
+218,6738926,1,pound,ground lamb
+219,6738926,1,pound,ground beef
+220,6738926,½,cup,finely diced yellow onion
+221,6738926,4,cloves,"garlic, crushed"
+222,6738926,1,tablespoon,minced fresh rosemary
+223,6738926,2,teaspoons,dried oregano
+224,6738926,2,teaspoons,"kosher salt, or to taste"
+225,6738926,1,teaspoon,fresh ground black pepper
+226,6738926,1,teaspoon,cumin
+227,6738926,1,teaspoon,paprika
+228,6738926,⅛,teaspoon,ground cinnamon
+229,6738926,⅛,teaspoon,cayenne pepper
+230,6738926,2,tablespoons,dry bread crumbs
+231,6738926,1,tablespoon,olive oil
+232,6739399,1,pound,ground lamb
+233,6739399,3,,"green onions, minced"
+234,6739399,4,cloves,"garlic, minced"
+235,6739399,1,tablespoon,curry powder
+236,6739399,1,teaspoon,ground cumin
+237,6739399,¼,teaspoon,dried red pepper flakes
+238,6739399,,,salt and pepper to taste
+239,6737029,½,cup,dry bread crumbs
+240,6737029,½,cup,milk
+241,6737029,1 ¼,pounds,ground lamb
+242,6737029,1,,"egg, beaten"
+243,6737029,3,cloves,"fresh garlic, minced"
+244,6737029,2,tablespoons,olive oil
+245,6737029,1,tablespoon,tomato paste
+246,6737029,1,tablespoon,chopped fresh rosemary
+247,6737029,1,tablespoon,ground cumin
+248,6737029,1 ½,teaspoons,salt
+249,6737029,1,teaspoon,dried oregano
+250,6737029,½,teaspoon,freshly ground black pepper
+251,6737029,¼,teaspoon,ground cinnamon
+252,6737029,1,pinch,cayenne pepper
+253,6737029,3,cups,tomato sauce
+254,6737029,1,cup,chicken stock
+255,6737029,2,tablespoons,chopped fresh mint
+256,6737029,1,pinch,"red pepper flakes, or to taste"
+257,6573100,4,slices,"white bread, torn into pieces"
+258,6573100,2,tablespoons,milk
+259,6573100,1,clove,garlic
+260,6573100,1,,"onion, quartered"
+261,6573100,4,teaspoons,dried mint
+262,6573100,1,teaspoon,salt
+263,6573100,,,ground black pepper to taste
+264,6573100,½,pound,ground beef
+265,6573100,½,pound,ground lamb
+266,6573100,4,,eggs
+267,6573100,½,cup,all-purpose flour for dredging
+268,6573100,,,vegetable oil for frying
+269,6741726,½,teaspoon,vegetable oil
+270,6741726,2,slices,"dry bread, diced"
+271,6741726,½,teaspoon,"vegetable oil, or as needed"
+272,6741726,¼,cup,milk
+273,6741726,1,pound,ground lamb
+274,6741726,1,,egg
+275,6741726,4,cloves,minced garlic
+276,6741726,2,tablespoons,chopped fresh thyme
+277,6741726,1,tablespoon,Worcestershire sauce
+278,6741726,1,tablespoon,lemon zest
+279,6741726,1,teaspoon,ground coriander
+280,6741726,1,teaspoon,dried basil
+281,6741726,1,teaspoon,"dried rosemary, crushed"
+282,6741726,¾,teaspoon,salt
+283,6741726,¼,teaspoon,ground black pepper
+284,6741726,¼,cup,tomato sauce
+285,6741726,5,leaves,"fresh mint, finely chopped"
+286,6741726,2,tablespoons,balsamic vinegar
+287,6590601,1,extra large,"zucchini, halved lengthwise"
+288,6590601,1,tablespoon,olive oil
+289,6590601,1,,"sweet onion, chopped"
+290,6590601,1,tablespoon,chopped garlic
+291,6590601,1,pound,ground lamb
+292,6590601,,,coarse salt to taste
+293,6590601,,,ground black pepper to taste
+294,6590601,1,(16 ounce) can,tomato sauce
+295,6590601,2,,"tomatoes, chopped"
+296,6590601,¾,cup,crumbled feta cheese
+297,6590601,½,cup,pine nuts
+298,6590601,¼,cup,mint leaves
+299,6590601,¼,cup,water
+300,6590601,¼,cup,mint leaves
+301,6590601,¾,cup,seasoned bread crumbs
+302,6590601,¾,cup,shredded mozzarella cheese
+303,6738232,1,pound,ground lamb
+304,6738232,2,tablespoons,chopped fresh mint leaves
+305,6738232,2,tablespoons,chopped fresh cilantro
+306,6738232,2,tablespoons,chopped fresh oregano
+307,6738232,1,tablespoon,"garlic, chopped"
+308,6738232,1,teaspoon,sherry
+309,6738232,1,teaspoon,white wine vinegar
+310,6738232,1,teaspoon,molasses
+311,6738232,1,teaspoon,ground cumin
+312,6738232,¼,teaspoon,ground allspice
+313,6738232,½,teaspoon,red pepper flakes
+314,6738232,½,teaspoon,salt
+315,6738232,½,teaspoon,ground black pepper
+316,6738232,4,,pita bread rounds
+317,6738232,4,ounces,"feta cheese, crumbled"
+318,6579663,2,tablespoons,butter
+319,6579663,2,,"onions, chopped"
+320,6579663,1,tablespoon,chopped parsley
+321,6579663,2,pounds,ground lamb
+322,6579663,2,(16 ounce) cans,whole peeled tomatoes
+323,6579663,1,tablespoon,Italian seasoning
+324,6579663,,,salt and pepper to taste
+325,6579663,2,tablespoons,butter
+326,6579663,2,tablespoons,all-purpose flour
+327,6579663,1 ½,cups,milk
+328,6579663,1,,beaten egg
+329,6579663,½,cup,shredded sharp Cheddar cheese
+330,6579663,4,,"potatoes, peeled and thinly sliced"
+331,6582170,1,tablespoon,olive oil
+332,6582170,1,,"medium onion, chopped"
+333,6582170,1,clove,"garlic, minced"
+334,6582170,6,,medium green bell peppers
+335,6582170,2,tablespoons,chopped fresh dill
+336,6582170,¾,teaspoon,salt
+337,6582170,½,teaspoon,ground allspice
+338,6582170,½,teaspoon,ground black pepper
+339,6582170,1,cup,cooked rice
+340,6582170,8,ounces,ground lamb
+341,6582170,1,cup,crumbled feta cheese
+342,6582170,1,cup,tomato sauce
+343,6582170,1,cup,cold water
+344,6582170,1,tablespoon,fresh lemon juice
+345,6582170,1,teaspoon,white sugar
+346,6737175,½,pound,lean ground beef
+347,6737175,½,pound,lean ground lamb
+348,6737175,½,,"onion, grated"
+349,6737175,2,cloves,"garlic, pressed"
+350,6737175,1,slice,"bread, toasted and crumbled"
+351,6737175,½,teaspoon,dried savory
+352,6737175,½,teaspoon,ground allspice
+353,6737175,½,teaspoon,ground coriander
+354,6737175,½,teaspoon,salt
+355,6737175,½,teaspoon,ground black pepper
+356,6737175,1,dash,ground cumin
+357,6592266,2,slices,slightly stale whole wheat bread
+358,6592266,1,pound,lean ground lamb
+359,6592266,1,,egg
+360,6592266,2,tablespoons,chopped fresh parsley
+361,6592266,2,cloves,garlic
+362,6592266,1,teaspoon,ground cumin
+363,6592266,1,teaspoon,dried mint
+364,6592266,½,teaspoon,ground allspice
+365,6592266,½,teaspoon,salt
+366,6592266,½,teaspoon,ground black pepper
+367,6592266,1,tablespoon,olive oil
+368,6602891,1,cup,uncooked white rice
+369,6602891,2,pounds,ground lamb
+370,6602891,1,tablespoon,ground allspice
+371,6602891,1,teaspoon,salt
+372,6602891,1,teaspoon,ground black pepper
+373,6602891,2,(16 ounce) jars,"grape leaves, drained and rinsed"
+374,6602891,6,cloves,"garlic, sliced"
+375,6602891,1,cup,lemon juice
+376,6602891,2,,kalamata olives (Optional)
+377,6594100,1,pound,ground beef
+378,6594100,½,pound,ground lamb
+379,6594100,1,,"white onion, finely chopped"
+380,6594100,¾,cup,pine nuts
+381,6594100,⅛,teaspoon,ground cinnamon
+382,6594100,,,salt and ground black pepper to taste
+383,6594100,⅓,cup,lemon juice
+384,6594100,2,(17.3 ounce) packages,"frozen puff pastry, thawed"
+385,6594100,1,,"egg, beaten"
+386,6605022,1,tablespoon,minced garlic
+387,6605022,¼,teaspoon,ground cumin
+388,6605022,¼,teaspoon,ground coriander
+389,6605022,¼,teaspoon,ground allspice
+390,6605022,¼,teaspoon,"salt, or to taste"
+391,6605022,¼,teaspoon,"ground black pepper, or to taste"
+392,6605022,1,pound,ground lamb
+393,6605022,8,small,"slider-size rolls, split"
+394,6605022,1,cup,baby spinach
+395,6605022,½,cup,tzatziki sauce
+396,6605022,¼,cup,sliced red onion
+397,6605022,¼,cup,crumbled feta cheese
+398,6648857,1,pound,ground lamb
+399,6648857,½,pound,ground beef
+400,6648857,3,tablespoons,chopped fresh mint
+401,6648857,1,teaspoon,minced fresh ginger root
+402,6648857,1,teaspoon,minced garlic
+403,6648857,1,teaspoon,salt
+404,6648857,½,teaspoon,ground black pepper
+405,6664972,1 ½,pounds,ground lamb
+406,6664972,1,,"onion, finely chopped"
+407,6664972,2,cloves,"garlic, minced"
+408,6664972,2,tablespoons,garam masala
+409,6664972,1,teaspoon,salt
+410,6664972,4,teaspoons,tomato paste
+411,6664972,¾,cup,beef broth
+412,6664148,1,teaspoon,ground cinnamon
+413,6664148,1,teaspoon,ground cumin
+414,6664148,1,teaspoon,kosher salt
+415,6664148,½,teaspoon,ground ginger
+416,6664148,¼,teaspoon,ground cloves
+417,6664148,¼,teaspoon,ground nutmeg
+418,6664148,¼,teaspoon,ground turmeric
+419,6664148,⅛,teaspoon,curry powder
+420,6664148,1,pound,ground lamb
+421,6664148,1,tablespoon,butter
+422,6664148,1,,"sweet onion, chopped"
+423,6664148,2,(14.5 ounce) cans,beef consomme
+424,6664148,1,(15 ounce) can,"garbanzo beans, drained and rinsed"
+425,6664148,1,(14.5 ounce) can,organic beef broth
+426,6664148,1,(14.5 ounce) can,organic chicken broth
+427,6664148,1,(14.5 ounce) can,"diced tomatoes, undrained"
+428,6664148,2,medium,"sweet potatoes, peeled and diced"
+429,6664148,3,large,"carrots, chopped"
+430,6664148,1,cup,"dried lentils, rinsed"
+431,6664148,½,cup,chopped dried apricots
+432,6664148,1,tablespoon,honey
+433,6664148,,,"ground black pepper, to taste"
+434,6737963,2,teaspoons,ground cumin
+435,6737963,½,teaspoon,ground coriander
+436,6737963,2,teaspoons,Aleppo chile flakes
+437,6737963,1 ½,teaspoons,kosher salt
+438,6737963,1,pinch,cayenne pepper
+439,6737963,1,pinch,ground cinnamon
+440,6737963,1,teaspoon,ground sumac (Optional)
+441,6595515,4,large,unpeeled garlic cloves
+442,6595515,1 ¼,pounds,ground lamb
+443,6595515,½,cup,crumbled feta cheese
+444,6595515,¾,teaspoon,dried oregano
+445,6595515,½,teaspoon,salt
+446,6595515,½,teaspoon,ground black pepper
+447,6586101,1,pound,lean ground lamb
+448,6586101,1 ½,cups,finely chopped onion
+449,6586101,½,cup,chopped green bell pepper
+450,6586101,1,teaspoon,minced garlic
+451,6586101,1,(14.5 ounce) can,peeled and diced tomatoes
+452,6586101,1,(6 ounce) can,tomato paste
+453,6586101,½,cup,chopped fresh Italian parsley
+454,6586101,1,teaspoon,chopped fresh basil
+455,6586101,1,tablespoon,chopped fresh mint leaves
+456,6586101,½,teaspoon,ground cumin
+457,6586101,1,pinch,cayenne pepper (Optional)
+458,6586101,4,,"pita breads, or fluffy tortillas"
+459,6576386,1,teaspoon,olive oil
+460,6576386,½,cup,diced onion
+461,6576386,2,pounds,ground lamb
+462,6576386,1,,egg
+463,6576386,1,cup,bread crumbs
+464,6576386,1,clove,"garlic, minced"
+465,6576386,4 ½,teaspoons,salt
+466,6576386,1,tablespoon,ground black pepper
+467,6576386,4,ounces,soft goat cheese
+468,6576386,1,tablespoon,extra-virgin olive oil
+469,6576386,1,tablespoon,chopped fresh basil leaves
+470,6576386,1,tablespoon,chopped fresh oregano
+471,6561787,1,,"eggplant, cubed"
+472,6561787,2,tablespoons,olive oil
+473,6561787,,,salt and freshly ground black pepper to taste
+474,6561787,⅓,cup,finely minced onion
+475,6561787,1,pinch,"crushed red pepper flakes, or to taste"
+476,6561787,1 ½,cups,chicken broth
+477,6561787,1,cup,marinara sauce
+478,6561787,¼,cup,plain dry bread crumbs
+479,6561787,1,,large egg
+480,6561787,1 ½,tablespoons,Greek yogurt
+481,6561787,¼,cup,finely minced onion
+482,6561787,4,cloves,"garlic, finely minced"
+483,6561787,1 ½,teaspoons,kosher salt
+484,6561787,1,teaspoon,freshly ground black pepper
+485,6561787,1,teaspoon,ground cumin
+486,6561787,½,teaspoon,ground cinnamon
+487,6561787,¼,teaspoon,ground coriander
+488,6561787,1,pound,ground lamb
+489,6561787,1/4,teaspoon,"cayenne pepper, or to taste"
+490,6561787,1,tablespoon,chopped fresh mint
+491,6584247,1,cup,bulgur wheat
+492,6584247,2,cups,boiling water
+493,6584247,½,cup,"finely chopped onion, divided"
+494,6584247,2,teaspoons,"salt, divided"
+495,6584247,1 ½,teaspoons,dried basil
+496,6584247,½,teaspoon,ground black pepper
+497,6584247,1,pound,ground beef
+498,6584247,1,pound,"ground lamb, divided"
+499,6584247,½,cup,pine nuts
+500,6584247,¼,stick,salted butter
+501,6584247,½,cup,"cherry tomatoes, or to taste"
+502,6584247,¼,cup,"fresh mint leaves, or to taste"
+503,6577082,1,tablespoon,unsalted butter
+504,6577082,5,,"shallots, minced"
+505,6577082,2,pounds,ground lamb
+506,6577082,1,cup,fresh bread crumbs
+507,6577082,¼,cup,chopped fresh parsley
+508,6577082,1,,"egg, lightly beaten"
+509,6577082,2,tablespoons,lemon zest
+510,6577082,½,teaspoon,dried marjoram
+511,6577082,,,salt and freshly ground black pepper to taste
+512,6577082,½,cup,unsalted butter
+513,6577082,1,tablespoon,olive oil
+514,6577082,2 ½,tablespoons,tomato sauce
+515,6577082,¼,cup,wine
+516,6577082,1,small,"garlic clove, minced"
+517,6577082,1,dash,ground cinnamon
+518,6577082,,,toothpicks
+519,6737676,2,tablespoons,olive oil
+520,6737676,1,large,"onion, diced"
+521,6737676,2,teaspoons,salt
+522,6737676,2,pounds,ground lamb
+523,6737676,4,cloves,"garlic, minced (Optional)"
+524,6737676,2,tablespoons,currants
+525,6737676,3,tablespoons,toasted pine nuts
+526,6737676,2,teaspoons,ground cumin
+527,6737676,1,teaspoon,ground coriander
+528,6737676,1,teaspoon,ground cinnamon
+529,6737676,1,teaspoon,paprika
+530,6737676,1,teaspoon,freshly ground black pepper
+531,6737676,½,teaspoon,cayenne pepper
+532,6737676,¼,teaspoon,allspice
+533,6737676,1 ½,cups,tomato sauce
+534,6737676,¼,cup,water
+535,6580879,,,cooking spray
+536,6580879,3,pounds,ground lamb
+537,6580879,½,cup,Greek seasoning
+538,6580879,1,large,egg
+539,6580879,12,(6 inch),"pita breads, warmed"
+540,6580879,1,head,"iceberg lettuce, finely shredded"
+541,6580879,5,medium,"Roma tomatoes, diced"
+542,6580879,1,medium,"red onion, diced"
+543,6580879,½,cup,"tzatziki sauce, or more to taste"
+544,6590246,½,pound,"dried great Northern beans, sorted and rinsed"
+545,6590246,1,,"onion, chopped"
+546,6590246,3,tablespoons,olive oil
+547,6590246,3,cloves,"garlic, chopped"
+548,6590246,1 ¼,pounds,ground lamb
+549,6590246,3,,"carrots, peeled and diced"
+550,6590246,3,stalks,"celery, diced"
+551,6590246,1 ½,cups,"canned roma tomatoes, with liquid"
+552,6590246,¼,cup,chopped fresh parsley
+553,6590246,1,teaspoon,dried thyme
+554,6590246,½,teaspoon,dried oregano
+555,6590246,,,fresh ground black pepper
+556,6590246,,,salt to taste
+557,6590246,6,cups,chicken broth
+558,6590246,½,pound,baby spinach leaves
+559,6590246,4,ounces,"feta cheese, crumbled"
+560,6606092,4,pounds,ground beef
+561,6606092,1,pound,ground lamb
+562,6606092,5,teaspoons,all-purpose flour (Optional)
+563,6606092,4,teaspoons,salt
+564,6606092,5,teaspoons,dried oregano
+565,6606092,2 ½,teaspoons,dry mustard
+566,6606092,2 ½,teaspoons,garlic powder
+567,6606092,2 ½,teaspoons,cracked black pepper
+568,6606092,2 ½,teaspoons,cayenne pepper
+569,6606092,2,teaspoons,crushed dried chile pepper
+570,6606092,1 ½,teaspoons,paprika
+571,6606092,1,teaspoon,Italian seasoning
+572,6663872,1,slice,"whole grain bread, toasted"
+573,6663872,½,medium,"yellow onion, diced"
+574,6663872,⅓,cup,chopped Italian parsley
+575,6663872,4,cloves,"garlic, minced"
+576,6663872,8,ounces,ground beef
+577,6663872,4,ounces,ground lamb
+578,6663872,1 ¼,teaspoons,kosher salt
+579,6663872,½,teaspoon,freshly ground black pepper
+580,6663872,½,teaspoon,ground allspice
+581,6663872,½,teaspoon,paprika
+582,6663872,¼,teaspoon,ground cardamom
+583,6663872,⅛,teaspoon,ground nutmeg
+584,6663872,¼,teaspoon,cayenne pepper
+585,6663872,2,tablespoons,water
+586,6663872,4,,"bamboo skewers, soaked for at least 1 hour"
+587,6575866,1,teaspoon,chopped garlic
+588,6575866,1,,"yellow onion, chopped"
+589,6575866,3,tablespoons,chopped fresh basil
+590,6575866,½,cup,chopped fresh parsley
+591,6575866,2,tablespoons,chopped fresh mint
+592,6575866,½,teaspoon,paprika
+593,6575866,½,teaspoon,ground cumin
+594,6575866,½,teaspoon,ground coriander seed
+595,6575866,½,cup,"green bell pepper, diced"
+596,6575866,½,cup,"red bell pepper, diced"
+597,6575866,½,,"lemon, juiced"
+598,6575866,4,teaspoons,olive oil
+599,6575866,4,,"roma (plum) tomatoes, halved"
+600,6575866,1,pound,lean ground lamb
+601,6575866,6,tablespoons,double concentrated tomato paste
+602,6575866,,,cayenne pepper to taste
+603,6575866,,,salt to taste
+604,6738788,1,pound,ground lamb
+605,6738788,½,cup,chopped fresh parsley
+606,6738788,2,tablespoons,finely chopped onion
+607,6738788,½,cup,crumbled feta cheese
+608,6738788,½,cup,chopped green olives
+609,6738788,2,,eggs
+610,6738788,1,teaspoon,Italian seasoning
+611,6581964,1,pound,ground lamb
+612,6581964,½,large,"onion, minced"
+613,6581964,½,cup,minced fresh parsley
+614,6581964,1 ¼,teaspoons,salt
+615,6581964,¾,teaspoon,ground allspice
+616,6581964,¾,teaspoon,ground black pepper
+617,6605945,1 ½,pounds,ground lamb
+618,6605945,1,,"egg, beaten"
+619,6605945,1,small,"onion, chopped"
+620,6605945,1,cup,"tomato sauce, divided"
+621,6605945,1,cup,cracker crumbs
+622,6605945,,,salt and pepper to taste
+623,6605945,2,tablespoons,vinegar
+624,6605945,2,tablespoons,prepared mustard
+625,6605945,½,cup,brown sugar
+626,6605945,1,cup,warm water
+627,6589053,1,pound,ground lamb
+628,6589053,2,(14.5 ounce) cans,"stewed tomatoes, undrained"
+629,6589053,1,stalk,"celery, cut into 1/2 inch pieces"
+630,6589053,1,cup,uncooked orzo pasta
+631,6589053,¼,teaspoon,salt
+632,6589053,¼,teaspoon,cayenne pepper
+633,6589053,1,clove,"garlic, minced"
+634,6586103,¼,pound,ground lamb
+635,6586103,¼,cup,basmati rice
+636,6586103,2,cups,"tomato puree, divided"
+637,6586103,½,teaspoon,dried mint
+638,6586103,½,teaspoon,salt
+639,6586103,⅛,teaspoon,black pepper
+640,6586103,2,pounds,small zucchini or yellow squash
+641,6586103,½,teaspoon,salt
+642,6586103,1,teaspoon,minced garlic
+643,6586103,1,tablespoon,lemon juice
+644,6586103,½,teaspoon,dried mint
+645,6604744,1,medium,"onion, chopped"
+646,6604744,1,pound,lean ground lamb
+647,6604744,2,tablespoons,olive oil
+648,6604744,½,teaspoon,red pepper flakes
+649,6604744,½,tablespoon,dried basil
+650,6604744,1,teaspoon,cumin
+651,6604744,⅛,teaspoon,cinnamon
+652,6604744,2,large cloves,"garlic, minced"
+653,6604744,3 ½,tablespoons,chili powder
+654,6604744,½,teaspoon,dried oregano
+655,6604744,1,teaspoon,unsweetened cocoa powder
+656,6604744,1,teaspoon,white sugar
+657,6604744,1,,bay leaf
+658,6604744,,,salt and pepper to taste
+659,6604744,1,(14.5 ounce) can,diced tomatoes with juice
+660,6604744,4,cups,"red beans, with liquid"
+661,6589380,1 ½,pounds,ground lamb
+662,6589380,½,cup,panko bread crumbs
+663,6589380,½,cup,minced scallions
+664,6589380,2,tablespoons,chopped fresh mint
+665,6589380,1,tablespoon,advieh
+666,6589380,2,teaspoons,dried dill
+667,6589380,1,teaspoon,kosher salt
+668,6589380,½,teaspoon,ground black pepper
+669,6589380,2,,"eggs, lightly beaten"
+670,6589380,,,cooking spray
+671,6589380,2,tablespoons,"pomegranate molasses, or to taste"
+672,6599132,1,pound,ground lamb
+673,6599132,5,,"green chile peppers, diced"
+674,6599132,3,,"onions, peeled and chopped"
+675,6599132,1,tablespoon,dark soy sauce
+676,6599132,1,tablespoon,Worcestershire sauce
+677,6599132,2,tablespoons,ginger paste
+678,6599132,2,tablespoons,garlic paste
+679,6599132,½,teaspoon,ground white pepper
+680,6599132,½,teaspoon,ground cinnamon
+681,6599132,½,teaspoon,ground cardamom
+682,6599132,½,teaspoon,ground cloves
+683,6599132,2,tablespoons,chopped fresh cilantro
+684,6599132,1,(17.5 ounce) package,"frozen puff pastry sheets, thawed"
+685,6599132,1,,"egg, beaten"
+686,6663836,1,bunch,"fresh parsley, chopped"
+687,6663836,3,medium,"onions, finely chopped"
+688,6663836,1 ½,pounds,ground lamb
+689,6663836,2,teaspoons,ground allspice
+690,6663836,1 ½,teaspoons,grated lemon zest
+691,6663836,2,teaspoons,salt
+692,6663836,¼,cup,"butter, softened"
+693,6663836,1,medium,"tomato, sliced"
+694,6568883,2,tablespoons,olive oil
+695,6568883,1,medium,"yellow onion, chopped"
+696,6568883,1,large,"carrot, peeled and chopped"
+697,6568883,1,large stalk,"celery, chopped"
+698,6568883,6,cloves,"garlic, chopped"
+699,6568883,1,(3 inch) piece,"fresh ginger, minced"
+700,6568883,1 ¼,teaspoons,kosher salt
+701,6568883,1,teaspoon,sweet paprika
+702,6568883,1,teaspoon,ground cumin
+703,6568883,1,teaspoon,curry powder
+704,6568883,¼,teaspoon,cayenne pepper
+705,6568883,¼,teaspoon,ground cinnamon
+706,6568883,¼,teaspoon,freshly ground black pepper
+707,6568883,2,pounds,ground lamb
+708,6568883,1,pound,ground beef
+709,6568883,1 ¼,cups,dry bread crumbs
+710,6568883,¼,cup,chopped fresh cilantro
+711,6568883,2,large,eggs
+712,6568883,2,tablespoons,chopped fresh mint
+713,6564965,⅓,cup,milk
+714,6564965,1,,egg
+715,6564965,⅓,cup,dry bread crumbs
+716,6564965,⅓,cup,snipped fresh mint
+717,6564965,⅓,cup,snipped fresh parsley
+718,6564965,¼,cup,finely chopped onion
+719,6564965,2,tablespoons,chopped fresh dill
+720,6564965,1,clove,"garlic, minced"
+721,6564965,¾,teaspoon,salt
+722,6564965,1,pinch,ground black pepper to taste
+723,6564965,1,pound,ground lamb
+724,6564965,2,tablespoons,"vegetable oil, or as needed"
+725,6736888,1,pound,ground lamb
+726,6736888,3,cloves,"garlic, minced"
+727,6736888,2,tablespoons,thinly sliced green onions
+728,6736888,2,tablespoons,finely diced Fresno chile pepper
+729,6736888,¼,cup,"green peas, or to taste"
+730,6736888,1 ½,teaspoons,"kosher salt, or to taste"
+731,6736888,½,teaspoon,freshly ground black pepper
+732,6736888,1,pinch,cayenne pepper
+733,6736888,½,teaspoon,ground cumin
+734,6579009,½,teaspoon,cumin seeds
+735,6579009,½,teaspoon,coriander seeds
+736,6579009,½,teaspoon,fennel seeds
+737,6579009,1,pound,ground lamb
+738,6579009,2,tablespoons,harissa paste
+739,6579009,1,large clove,"garlic, minced"
+740,6579009,1,teaspoon,kosher salt
+741,6579009,1,teaspoon,paprika
+742,6562064,4,tablespoons,olive oil
+743,6562064,2,large,"sweet onions, chopped"
+744,6562064,6,cloves,"garlic, minced"
+745,6562064,¾,cup,yellow split peas
+746,6562064,2,quarts,chicken stock
+747,6562064,2,tablespoons,ground black pepper
+748,6562064,1,tablespoon,ground turmeric
+749,6562064,2 ¼,teaspoons,mild paprika
+750,6562064,¾,teaspoon,cayenne pepper
+751,6562064,¼,teaspoon,ground fennel seeds
+752,6562064,1,,cinnamon stick
+753,6664248,1,(10 ounce) package,frozen peas
+754,6664248,2,tablespoons,olive oil
+755,6664248,1,pound,ground lamb
+756,6664248,1,cup,diced onion
+757,6664248,2,cloves,"garlic, minced, or more to taste"
+758,6664248,½,cup,dried parsley
+759,6664248,2,tablespoons,curry powder
+760,6664248,1,tablespoon,ground cumin
+761,6664248,1,tablespoon,garam masala
+762,6664248,½,teaspoon,ground black pepper
+763,6664248,½,teaspoon,ground cinnamon
+764,6664248,½,teaspoon,ground coriander
+765,6664248,½,teaspoon,ground ginger
+766,6664248,½,teaspoon,ground turmeric
+767,6664248,¼,teaspoon,"crushed red pepper flakes, or more to taste"
+768,6664248,2,medium,"potatoes, peeled and diced"
+769,6664248,2,medium,"tomatoes, diced"
+770,6664248,1,medium,"jalapeno pepper, diced, or more to taste"
+771,6664248,1,bunch,"fresh cilantro, chopped"
+772,6587659,½,cup,hoisin sauce
+773,6587659,4,cloves,"garlic, minced"
+774,6587659,2,tablespoons,red wine vinegar
+775,6587659,1 ½,tablespoons,soy sauce
+776,6587659,1,tablespoon,grated fresh ginger
+777,6587659,1,tablespoon,rice vinegar
+778,6587659,2,teaspoons,sesame oil
+779,6587659,2,teaspoons,white sugar
+780,6587659,1 ½,teaspoons,hot sauce
+781,6587659,½,teaspoon,ground white pepper
+782,6587659,½,teaspoon,ground black pepper

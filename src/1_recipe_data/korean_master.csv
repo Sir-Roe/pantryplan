@@ -1,0 +1,53 @@
+,id_recipe,Prep Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Cook Time:,Additional Time:,Yield:
+0,7966165,5 mins,5 mins,1 ,1,243,4g,2g,12mg,61mg,47g,3g,33g,5g,10mg,168mg,0mg,632mg,5.0,2,,,
+1,7093845,10 mins,20 mins,4 ,4,340,10g,2g,,347mg,55g,2g,,6g,,,,243mg,2.0,1,10 mins,,
+2,6650442,10 mins, 1 hr 15 mins,4 ,4,232,13g,3g,27mg,1157mg,12g,1g,8g,16g,3mg,68mg,2mg,269mg,4.8,"1,166",5 mins, 1 hr,4 servings
+3,6581968,15 mins, 7 hrs 25 mins,5 ,5,710,56g,22g,112mg,2231mg,23g,1g,17g,29g,4mg,53mg,4mg,430mg,4.7,257,10 mins, 7 hrs,
+4,6582302,10 mins,15 mins,4 ,4,288,23g,3g,,508mg,15g,3g,1g,16g,21mg,110mg,3mg,671mg,4.6,72,5 mins,,
+5,6736465, 1 hr,4 days 7 hrs,56 ,56,12,0g,,,1917mg,2g,1g,1g,1g,12mg,37mg,23mg,135mg,4.4,83,,4 days 6 hrs,14 cups
+6,6650013,30 mins, 1 hr,4 ,4,569,19g,5g,243mg,574mg,63g,4g,7g,35g,30mg,152mg,7mg,1012mg,4.6,84,30 mins,,
+7,6738209,15 mins, 3 hrs 30 mins,4 ,4,1096,86g,36g,172mg,2831mg,45g,1g,41g,36g,2mg,72mg,5mg,709mg,4.8,247,15 mins, 3 hrs,
+8,6736572,10 mins, 1 hr 15 mins,6 ,6,226,10g,3g,49mg,844mg,11g,1g,8g,21g,2mg,27mg,6mg,316mg,4.7,183,5 mins, 1 hr,
+9,6597632,5 mins,25 mins,4 ,4,363,11g,2g,,1073mg,65g,1g,14g,2g,,39mg,2mg,85mg,4.7,35,5 mins,15 mins,
+10,6649829,15 mins,25 mins,1 ,1,938,70g,34g,515mg,2595mg,50g,6g,15g,32g,42mg,432mg,6mg,718mg,4.9,37,10 mins,,1 large sandwich
+11,6585634,20 mins,35 mins,2 ,2,673,17g,2g,,1639mg,117g,11g,13g,17g,21mg,151mg,5mg,1293mg,4.5,33,15 mins,,
+12,6739867,15 mins, 4 hrs 30 mins,4 ,4,472,24g,5g,71mg,1150mg,44g,2g,1g,19g,3mg,84mg,2mg,227mg,4.6,145,15 mins, 4 hrs,
+13,6593042,5 mins,10 mins,2 ,2,208,19g,4g,186mg,568mg,4g,1g,1g,8g,40mg,99mg,2mg,255mg,4.9,21,5 mins,,
+14,6664598,15 mins,30 mins,4 ,4,269,12g,2g,69mg,1230mg,13g,1g,9g,28g,2mg,55mg,2mg,311mg,4.6,254,15 mins,,
+15,6648646,30 mins, 9 hrs 40 mins,6 ,6,1092,79g,31g,155mg,2501mg,58g,2g,51g,39g,5mg,74mg,5mg,611mg,4.8,46,10 mins, 9 hrs,
+16,6648434,20 mins, 8 hrs 20 mins,8 ,8,456,22g,8g,78mg,697mg,40g,4g,15g,24g,3mg,76mg,3mg,353mg,4.8,314, 8 hrs,,16 tacos
+17,6580490,5 mins,5 mins,8 ,8,66,5g,1g,,266mg,4g,1g,,1g,1mg,3mg,0mg,36mg,4.7,7,,,
+18,6648631,10 mins,45 mins,6 ,6,50,0g,,,357mg,13g,1g,11g,1g,9mg,14mg,0mg,124mg,4.6,48,5 mins,30 mins,6 servings
+19,6664791,10 mins,50 mins,4 ,4,347,12g,3g,48mg,1247mg,45g,1g,24g,16g,3mg,35mg,1mg,186mg,4.8,23,40 mins,,4 servings
+20,6591528,10 mins,55 mins,6 ,6,92,6g,1g,,4736mg,10g,3g,6g,2g,44mg,58mg,1mg,235mg,4.3,8,,45 mins,3 cups
+21,6649397,10 mins,40 mins,4 ,4,398,8g,2g,112mg,938mg,52g,1g,34g,29g,2mg,68mg,2mg,383mg,4.3,9,15 mins,15 mins,4 servings
+22,6648759,45 mins, 4 hrs,8 ,8,300,17g,4g,55mg,390mg,17g,1g,8g,19g,5mg,29mg,1mg,377mg,4.6,93,15 mins, 3 hrs,8 servings
+23,6602185,30 mins,45 mins,25 ,25,125,6g,2g,28mg,246mg,12g,1g,0g,6g,2mg,24mg,1mg,91mg,4.4,13,15 mins,,25 dumplings
+24,6738520,15 mins,30 mins,4 ,4,199,7g,2g,93mg,550mg,27g,2g,1g,7g,21mg,62mg,2mg,189mg,4.4,35,15 mins,,8 pancakes
+25,6592153,5 mins,30 mins,2 ,2,183,3g,2g,16mg,733mg,42g,1g,22g,4g,6mg,39mg,0mg,164mg,5.0,1,25 mins,,2 servings
+26,6663580,30 mins,45 mins,8 ,8,201,7g,1g,7mg,368mg,32g,1g,5g,4g,7mg,35mg,2mg,228mg,4.6,25,15 mins,,8 servings
+27,6578320,20 mins,35 mins,4 ,4,289,12g,2g,,661mg,25g,9g,8g,26g,108mg,963mg,6mg,1304mg,3.7,6,15 mins,,4 servings
+28,6738092,5 mins,20 mins,2 ,2,242,17g,3g,99mg,415mg,7g,2g,1g,20g,2mg,629mg,10mg,308mg,3.9,16,15 mins,,2 servings
+29,6598951,15 mins, 1 hr,4 ,4,447,14g,4g,59mg,1994mg,55g,6g,14g,26g,42mg,64mg,3mg,1141mg,4.6,285,45 mins,,4 servings
+30,6587809,15 mins,55 mins,4 ,4,257,18g,4g,70mg,755mg,2g,0g,0g,20g,2mg,15mg,1mg,211mg,4.8,12,10 mins,30 mins,
+31,6589252,20 mins,2 days 3 hrs 20 mins,20 ,20,30,0g,0g,,114mg,6g,1g,1g,2g,23mg,76mg,1mg,233mg,4.4,7,,2 days 3 hrs,5 cups
+32,6738896,30 mins,50 mins,3 ,3,395,19g,6g,196mg,1086mg,45g,5g,7g,14g,24mg,86mg,4mg,500mg,4.5,190,20 mins,,3 servings
+33,6737449,15 mins,40 mins,10 ,10,268,17g,9g,55mg,298mg,22g,3g,4g,11g,12mg,168mg,1mg,335mg,4.8,73,25 mins,,1 10-inch skillet
+34,6590580,20 mins,55 mins,4 ,4,178,8g,1g,32mg,776mg,14g,4g,7g,13g,79mg,58mg,2mg,615mg,5.0,1,35 mins,,4 servings
+35,6603430,30 mins, 3 hrs 20 mins,4 ,4,243,15g,5g,61mg,1055mg,6g,1g,3g,20g,3mg,46mg,3mg,377mg,4.4,191,20 mins, 2 hrs 30 mins,4 servings
+36,6601277,5 mins,20 mins,4 ,4,25,1g,0g,,249mg,5g,1g,4g,1g,20mg,36mg,0mg,94mg,4.6,5,15 mins,,4 servings
+37,6591425,15 mins, 1 hr 25 mins,6 ,6,339,21g,6g,77mg,912mg,13g,2g,5g,26g,13mg,66mg,1mg,176mg,4.6,11,10 mins, 1 hr,
+38,6736412,15 mins,45 mins,6 ,6,459,23g,4g,64mg,2260mg,39g,1g,32g,26g,3mg,54mg,2mg,350mg,4.6,38,30 mins,,
+39,6566688,15 mins, 1 hr 20 mins,2 ,2,998,67g,24g,117mg,2394mg,63g,4g,10g,35g,10mg,81mg,6mg,619mg,4.8,55,5 mins, 1 hr,
+40,6587749,10 mins, 8 hrs 40 mins,6 ,6,995,80g,31g,155mg,1888mg,29g,1g,26g,39g,2mg,64mg,5mg,483mg,4.5,45,30 mins, 8 hrs,6 servings
+41,6575467,10 mins,55 mins,6 ,6,117,6g,1g,,1332mg,16g,2g,10g,2g,10mg,58mg,17mg,389mg,4.7,15,,45 mins,
+42,6561823,10 mins,30 mins,2 ,2,315,6g,0g,,402mg,56g,3g,10g,10g,18mg,79mg,2mg,451mg,5.0,1,20 mins,,2 servings
+43,6580132, 1 hr, 4 hrs,6 ,6,937,38g,9g,220mg,1517mg,121g,13g,44g,36g,32mg,290mg,9mg,1572mg,4.7,42, 1 hr, 2 hrs,
+44,6582753,20 mins,25 mins,2 ,2,98,7g,1g,,15mg,8g,2g,3g,3g,5mg,114mg,2mg,267mg,4.0,168,5 mins,,
+45,6591094,35 mins,55 mins,4 ,4,260,13g,2g,23mg,1025mg,27g,2g,5g,11g,18mg,73mg,2mg,462mg,4.3,133,20 mins,,4 servings
+46,6570746,15 mins,53 mins,4 ,4,405,19g,6g,98mg,2339mg,15g,1g,11g,43g,3mg,72mg,4mg,639mg,5.0,2,8 mins,30 mins,2 pounds beef bulgogi
+47,6602163,25 mins, 1 hr 35 mins,4 ,4,439,18g,6g,101mg,3820mg,24g,2g,16g,44g,4mg,49mg,5mg,738mg,4.3,100,10 mins, 1 hr,
+48,6579245,20 mins, 2 hrs 25 mins,6 ,6,657,47g,18g,93mg,1589mg,31g,3g,21g,25g,11mg,78mg,4mg,563mg,4.4,9,55 mins, 1 hr 10 mins,
+49,6605975,15 mins,40 mins,6 ,6,59,3g,0g,,378mg,5g,2g,1g,5g,9mg,154mg,2mg,185mg,4.8,4,25 mins,,
+50,6590292,30 mins,55 mins,24 ,24,469,42g,7g,25mg,300mg,17g,1g,,7g,4mg,21mg,1mg,87mg,4.7,6,25 mins,,96 wontons
+51,6599541,15 mins, 7 hrs 35 mins,8 ,8,645,50g,17g,176mg,1668mg,7g,1g,1g,37g,6mg,85mg,4mg,534mg,4.6,16, 2 hrs 15 mins, 5 hrs 5 mins,4 rib racks

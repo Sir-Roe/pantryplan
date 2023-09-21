@@ -1,0 +1,355 @@
+,id_recipe,Quantity,Unit of Measure,Ingredient
+0,6650288,1,tablespoon,olive oil
+1,6650288,1,large,"yellow onion, chopped"
+2,6650288,2,pounds,lean ground beef
+3,6650288,3,cloves,"garlic, chopped"
+4,6650288,3,cups,water
+5,6650288,2,(15 ounce) cans,tomato sauce
+6,6650288,2,(14.5 ounce) cans,diced tomatoes
+7,6650288,3,tablespoons,soy sauce
+8,6650288,2,tablespoons,dried Italian herb seasoning
+9,6650288,1,tablespoon,"seasoned salt, or to taste"
+10,6650288,3,,bay leaves
+11,6650288,2,cups,uncooked elbow macaroni
+12,6650265,⅓,cup,vegetable oil
+13,6650265,3,,"onions, sliced"
+14,6650265,2,tablespoons,Hungarian sweet paprika
+15,6650265,3,teaspoons,"salt, divided"
+16,6650265,½,teaspoon,ground black pepper
+17,6650265,3,pounds,"beef stew meat, cut into 1 1/2 inch cubes"
+18,6650265,1 ½,cups,water
+19,6650265,1,(6 ounce) can,tomato paste
+20,6650265,1,clove,"garlic, minced"
+21,6736450,1,tablespoon,olive oil
+22,6736450,2,pounds,ground beef
+23,6736450,1,large,"onion, diced"
+24,6736450,4,cloves,"garlic, minced"
+25,6736450,2,large,bay leaves
+26,6736450,2,tablespoons,paprika
+27,6736450,2,teaspoons,Italian seasoning
+28,6736450,2,teaspoons,kosher salt
+29,6736450,½,teaspoon,ground black pepper
+30,6736450,1,pinch,"cayenne pepper, or to taste"
+31,6736450,1,quart,chicken broth
+32,6736450,1,(24 ounce) jar,marinara sauce
+33,6736450,1,(15 ounce) can,diced tomatoes
+34,6736450,1,cup,water
+35,6736450,2,tablespoons,soy sauce
+36,6736450,2,cups,elbow macaroni
+37,6736450,¼,cup,chopped Italian parsley
+38,6736450,1,cup,shredded white Cheddar cheese (Optional)
+39,6664882,2 ½,pounds,"boneless beef chuck roast, cut into 2-inch cubes"
+40,6664882,,,salt and ground black pepper to taste
+41,6664882,2,tablespoons,vegetable oil
+42,6664882,2,,"onions, chopped"
+43,6664882,2,teaspoons,olive oil
+44,6664882,½,teaspoon,salt
+45,6664882,2,tablespoons,Hungarian paprika
+46,6664882,2,teaspoons,"caraway seeds, crushed"
+47,6664882,1,teaspoon,freshly ground black pepper
+48,6664882,1,teaspoon,dried marjoram
+49,6664882,½,teaspoon,ground thyme
+50,6664882,½,teaspoon,cayenne pepper
+51,6664882,4,cups,"chicken broth, divided"
+52,6664882,¼,cup,tomato paste
+53,6664882,3,cloves,"garlic, crushed"
+54,6664882,2,tablespoons,balsamic vinegar
+55,6664882,1,teaspoon,white sugar
+56,6664882,½,teaspoon,"salt, or to taste"
+57,6664882,1,,bay leaf
+58,6593628,2,tablespoons,butter
+59,6593628,2,large,"onions, diced"
+60,6593628,2,pounds,flank steak
+61,6593628,⅛,teaspoon,caraway seed
+62,6593628,¼,teaspoon,dried marjoram
+63,6593628,1,clove,"garlic, minced"
+64,6593628,5,tablespoons,paprika
+65,6593628,2,cups,water
+66,6593628,4,large,"potatoes, peeled and cubed"
+67,6593628,,,salt and pepper to taste
+68,6739699,1,pound,lean ground turkey
+69,6739699,1,(14 ounce) can,"stewed, diced tomatoes"
+70,6739699,3,cloves,"garlic, minced"
+71,6739699,1,cup,tomato sauce
+72,6739699,2,teaspoons,white sugar
+73,6739699,½,teaspoon,dried basil
+74,6739699,1,(16 ounce) package,bow tie pasta
+75,6587570,1,pound,lean ground beef
+76,6587570,4,,"potatoes, peeled and cubed"
+77,6587570,¼,cup,sliced onion
+78,6587570,1 ½,cups,frozen corn kernels
+79,6587570,1,(15 ounce) can,"cut green beans, drained"
+80,6587570,1,cup,elbow macaroni
+81,6587570,1,teaspoon,salt
+82,6587570,1,teaspoon,ground black pepper
+83,6587570,2,(8 ounce) cans,tomato sauce
+84,6587570,2,teaspoons,Worcestershire sauce (Optional)
+85,6587570,1,teaspoon,garlic salt
+86,6587570,½,teaspoon,dried basil
+87,6596019,1,pound,ground beef
+88,6596019,1,pint,sliced mushrooms
+89,6596019,½,,"onion, chopped"
+90,6596019,3,cloves,garlic
+91,6596019,,,salt and ground black pepper to taste
+92,6596019,2,(15 ounce) cans,tomato sauce
+93,6596019,2,(15 ounce) cans,diced tomatoes
+94,6596019,2 ½,cups,water
+95,6596019,2,cups,noodles
+96,6596019,3,tablespoons,soy sauce
+97,6596019,2,tablespoons,Italian seasoning
+98,6596019,3,,bay leaves
+99,6649597,1,pound,lean ground beef
+100,6649597,1,quart,stewed tomatoes
+101,6649597,1 ½,cups,uncooked macaroni
+102,6649597,½,cup,chopped onion
+103,6649597,1,clove,"garlic, minced"
+104,6649597,1,tablespoon,chili powder
+105,6649597,2,teaspoons,paprika
+106,6649597,6,ounces,tomato paste (Optional)
+107,6649597,,,"water, as needed"
+108,6572165,1,(12 ounce) package,egg noodles
+109,6572165,1,pound,lean ground beef
+110,6572165,1,(26 ounce) jar,spaghetti sauce
+111,6572165,1,(15.25 ounce) can,whole kernel corn
+112,6572165,1,,"onion, chopped"
+113,6572165,1,cup,shredded Cheddar cheese
+114,6604560,1,(16 ounce) package,elbow macaroni
+115,6604560,1,pound,ground beef
+116,6604560,1,(8 ounce) package,"cream cheese, softened"
+117,6604560,2,(10.5 ounce) cans,condensed cream of mushroom soup
+118,6604560,1,cup,"milk, or as needed"
+119,6570716,3,cups,uncooked elbow macaroni
+120,6570716,1,tablespoon,olive oil
+121,6570716,1,,"onion, finely chopped"
+122,6570716,2,cloves,"garlic, minced"
+123,6570716,1,small,"green bell pepper, finely chopped"
+124,6570716,1,(12 ounce) can,corned beef
+125,6570716,1,(10.75 ounce) can,condensed tomato soup
+126,6570716,⅓,cup,ketchup
+127,6570716,,,salt and ground black pepper to taste
+128,6570716,1,cup,freshly shredded Parmesan cheese
+129,6574170,1,teaspoon,olive oil
+130,6574170,½,medium,"onion, thinly sliced"
+131,6574170,1,small,"green bell pepper, thinly sliced"
+132,6574170,4,ounces,"mycoprotein pieces, e.g., Quorn™"
+133,6574170,1,clove,"garlic, chopped"
+134,6574170,1,teaspoon,paprika
+135,6574170,1,(14.5 ounce) can,"whole peeled tomatoes, chopped, juice reserved"
+136,6574170,½,cup,red wine
+137,6574170,1,teaspoon,dried oregano
+138,6574170,1,teaspoon,tomato puree
+139,6574170,1,teaspoon,sugar
+140,6574170,,,salt and pepper to taste
+141,6596865,1,tablespoon,vegetable oil
+142,6596865,3,,"onions, sliced"
+143,6596865,3,cloves,"garlic, chopped"
+144,6596865,¼,cup,smoked Spanish paprika
+145,6596865,2,teaspoons,kosher salt
+146,6596865,1,teaspoon,coarsely ground black pepper
+147,6596865,3,pounds,"lean beef stew meat, cut into 1-inch cubes"
+148,6596865,3,tablespoons,"vegetable oil, divided"
+149,6596865,1 ½,cups,water
+150,6596865,1,(6 ounce) can,tomato paste
+151,6596865,1,(10 ounce) package,egg noodles
+152,6596865,½,cup,sour cream (Optional)
+153,6596865,8,sprigs,fresh parsley (Optional)
+154,6591858,1,tablespoon,olive oil
+155,6591858,1,pound,ground turkey
+156,6591858,2,small,"carrots, grated"
+157,6591858,½,medium,"onion, diced"
+158,6591858,½,medium,"green bell pepper, diced"
+159,6591858,1,tablespoon,"Italian seasoning, or to taste"
+160,6591858,1,teaspoon,"garlic powder, or to taste"
+161,6591858,1,teaspoon,"seasoned salt (such as Lawry's®), or to taste"
+162,6591858,1,teaspoon,"ground black pepper, or to taste"
+163,6591858,1 ½,cups,water
+164,6591858,1,tablespoon,Worcestershire sauce
+165,6591858,1 ½,teaspoons,beef bouillon granules
+166,6591858,2,cups,elbow macaroni
+167,6591858,1,teaspoon,paprika
+168,6591858,1,(15 ounce) can,petite diced tomatoes
+169,6591858,1,(8 ounce) can,tomato sauce
+170,6582699,1,pound,macaroni
+171,6582699,1 ½,pounds,lean ground beef
+172,6582699,1,small,"yellow onion, diced"
+173,6582699,1,,"green bell pepper, diced"
+174,6582699,1,cup,sliced mushrooms
+175,6582699,2,(15 ounce) cans,tomato sauce
+176,6582699,24,fluid ounces,water
+177,6582699,1,(14.5 ounce) can,"stewed tomatoes, cut in half and drained"
+178,6582699,1,(14.5 ounce) can,crushed tomatoes
+179,6582699,1,(8.75 ounce) can,"whole kernel corn, drained"
+180,6582699,1,(8 ounce) can,"peas, drained"
+181,6582699,4,(6 ounce) cans,tomato paste
+182,6582699,1,tablespoon,grated Parmesan cheese
+183,6582699,1,tablespoon,chopped garlic
+184,6582699,1,tablespoon,dried parsley
+185,6582699,1,teaspoon,salt
+186,6582699,1,teaspoon,black pepper
+187,6582699,⅛,teaspoon,white sugar
+188,6579848,2,pounds,"beef chuck roast, cubed"
+189,6579848,1,large,"onion, diced"
+190,6579848,1 ¼,cups,"water, divided"
+191,6579848,½,cup,ketchup
+192,6579848,2,tablespoons,Worcestershire sauce
+193,6579848,1,tablespoon,brown sugar
+194,6579848,2,teaspoons,salt
+195,6579848,2,teaspoons,Hungarian sweet paprika
+196,6579848,½,teaspoon,dry mustard
+197,6579848,¼,cup,all-purpose flour
+198,6602081,2,tablespoons,vegetable shortening
+199,6602081,2,pounds,cubed beef stew meat
+200,6602081,2,,"onions, sliced"
+201,6602081,1,clove,"garlic, minced"
+202,6602081,1,tablespoon,paprika
+203,6602081,1 ½,teaspoons,salt
+204,6602081,⅛,teaspoon,ground black pepper
+205,6602081,2,cups,water
+206,6602081,1,cup,steak sauce (such as Heinz 57®)
+207,6602081,1,tablespoon,all-purpose flour
+208,6602081,2,tablespoons,water
+209,6648825,1,pound,ground beef
+210,6648825,¼,cup,chopped green bell pepper
+211,6648825,¼,cup,chopped onion
+212,6648825,1 ½,cups,"canned pinto beans, rinsed and drained"
+213,6648825,¾,cup,tomato paste
+214,6648825,2,cups,water
+215,6648825,2,tablespoons,water
+216,6648825,3,tablespoons,chili powder
+217,6648825,2,teaspoons,white sugar
+218,6648825,¼,teaspoon,salt
+219,6648825,¼,teaspoon,ground black pepper
+220,6648825,1,(8 ounce) package,dry elbow macaroni
+221,6600353,1,tablespoon,olive oil
+222,6600353,1,large,"onion, chopped"
+223,6600353,1,pound,lean ground beef
+224,6600353,2,teaspoons,ground black pepper
+225,6600353,1,teaspoon,kosher salt
+226,6600353,1,(28 ounce) can,fire-roasted diced tomatoes
+227,6600353,1 ½,cups,beef broth
+228,6600353,3,tablespoons,red wine
+229,6600353,3,tablespoons,sweet paprika
+230,6600353,2,cloves,"garlic, minced"
+231,6600353,1,tablespoon,Worcestershire sauce
+232,6600353,2,teaspoons,chopped fresh thyme
+233,6600353,2,teaspoons,caraway seeds
+234,6600353,1,teaspoon,chopped fresh rosemary
+235,6600353,2,,bay leaves
+236,6600353,10,ounces,cavatappi pasta
+237,6600353,1,medium,"red bell pepper, chopped"
+238,6600353,1,teaspoon,lemon juice
+239,6570318,,,cooking spray
+240,6570318,1,pound,"beef stew meat, cut into cubes"
+241,6570318,1,small,"yellow onion, chopped"
+242,6570318,1 ½,cups,water
+243,6570318,½,cup,ketchup
+244,6570318,3,tablespoons,Worcestershire sauce
+245,6570318,¾,teaspoon,distilled white vinegar
+246,6570318,2,tablespoons,brown sugar
+247,6570318,1 ½,teaspoons,paprika
+248,6570318,1,teaspoon,salt
+249,6570318,½,teaspoon,dry mustard
+250,6570318,1,(16 ounce) package,egg noodles
+251,6597443,1,(8 ounce) package,uncooked elbow macaroni
+252,6597443,1,pound,ground beef
+253,6597443,1,cup,diced onion
+254,6597443,1,cup,sliced celery
+255,6597443,1,tablespoon,minced garlic
+256,6597443,1,(14.5 ounce) can,diced tomatoes
+257,6597443,1,(10 ounce) can,tomato sauce
+258,6597443,1,tablespoon,sugar
+259,6597443,1,tablespoon,paprika
+260,6597443,1,teaspoon,dried oregano
+261,6597443,¼,teaspoon,caraway seed
+262,6597443,1,pinch,"cayenne pepper, or to taste"
+263,6597443,1,teaspoon,salt
+264,6574234,1,pound,"beef sirloin, cubed"
+265,6574234,¼,cup,all-purpose flour
+266,6574234,1,tablespoon,paprika
+267,6574234,1,teaspoon,"cayenne pepper, divided"
+268,6574234,½,teaspoon,"ground white pepper, divided"
+269,6574234,2,teaspoons,"olive oil, divided"
+270,6574234,1,teaspoon,bacon fat
+271,6574234,2,cups,water
+272,6574234,2,teaspoons,beef base
+273,6574234,1,,"onion, chopped"
+274,6574234,1,,"red bell pepper, chopped"
+275,6574234,2,cloves,"garlic, chopped"
+276,6574234,1,tablespoon,tomato paste
+277,6574234,2,tablespoons,red pepper paste
+278,6574234,½,teaspoon,dried minced shallot
+279,6574234,¼,cup,sour cream
+280,6572886,3,tablespoons,butter
+281,6572886,2,pounds,cubed beef stew meat
+282,6572886,1,pinch,caraway seeds (Optional)
+283,6572886,1,pound,"onion, sliced"
+284,6572886,2,teaspoons,paprika
+285,6572886,1,clove,"garlic, minced"
+286,6572886,1,tablespoon,lemon zest
+287,6572886,1,(6 ounce) can,tomato paste
+288,6572886,1,(10.5 ounce) can,beef consomme
+289,6572886,1,(10 ounce) package,"broad egg noodles, cooked, rinsed, drained (Kosher for Passover)"
+290,6575461,3,tablespoons,lard
+291,6575461,2,,"white onions, minced"
+292,6575461,2,tablespoons,paprika
+293,6575461,1,pound,beef stew meat
+294,6575461,,,salt to taste
+295,6575461,,,ground black pepper to taste
+296,6575461,½,(6 ounce) can,tomato paste
+297,6575461,7,ounces,water
+298,6575461,4,cloves,"garlic, crushed"
+299,6575461,1,teaspoon,ground cumin
+300,6575461,1,tablespoon,dried marjoram
+301,6601147,2,(14.5 ounce) cans,diced tomatoes
+302,6601147,1,tablespoon,brown sugar
+303,6601147,2,tablespoons,olive oil
+304,6601147,1,,"onion, chopped"
+305,6601147,1,teaspoon,ground ginger
+306,6601147,1,teaspoon,ground cinnamon
+307,6601147,1,teaspoon,ground cumin
+308,6601147,1,tablespoon,ground coriander
+309,6601147,1 ½,pounds,"skinless, boneless chicken breast halves, cut into bite size pieces"
+310,6601147,1,(15 ounce) can,"garbanzo beans, drained and rinsed"
+311,6601147,3,pounds,"fresh pumpkin, peeled and cut into 3/4-inch cubes"
+312,6601147,,,"salt, or to taste"
+313,6601147,1,teaspoon,cornstarch (Optional)
+314,6601147,¼,cup,water (Optional)
+315,6599198,5,thick slices,"bacon, diced"
+316,6599198,1,cup,"beef stew meat, cut into 1 1/2 inch pieces"
+317,6599198,1,pound,"lamb stew meat, cut into 1 1/2 inch pieces"
+318,6599198,1,pound,"pork stew meat, cut into 1 1/2 inch pieces"
+319,6599198,2,tablespoons,unsalted butter
+320,6599198,2,,"onions, chopped"
+321,6599198,1,bulb,"garlic, peeled and minced"
+322,6599198,1,cup,all-purpose flour
+323,6599198,1,teaspoon,caraway seeds
+324,6599198,3,tablespoons,Hungarian sweet paprika
+325,6599198,1 ½,teaspoons,red pepper flakes
+326,6599198,1,cup,red wine vinegar
+327,6599198,1,(14.5 ounce) can,peeled and diced tomatoes
+328,6599198,5,cups,beef stock
+329,6599198,1,(12 fluid ounce) can or bottle,beer
+330,6599198,½,tablespoon,salt
+331,6599198,3,cups,water
+332,6599198,2,,"red bell peppers, chopped"
+333,6599198,3,,"potatoes, peeled and cubed"
+334,6599198,1,,"parsnip, chopped"
+335,6599198,3,stalks,"celery, chopped"
+336,6599198,4,,"carrots, chopped"
+337,6599198,1,cup,dry bread crumbs
+338,6599198,½,medium head,"cabbage, chopped"
+339,6599198,1,cup,green peas
+340,6741576,1,tablespoon,vegetable oil
+341,6741576,1,pound,"boneless pork roast, cubed"
+342,6741576,1,pound,"onions, diced"
+343,6741576,1,pound,"bananas, peeled and diced"
+344,6741576,1,(16 ounce) can,diced tomatoes with juice
+345,6741576,,,cayenne pepper to taste
+346,6741576,,,salt and ground black pepper to taste
+347,6573020,2,pounds,"beef stew meat, diced into 1 inch pieces"
+348,6573020,,,salt and pepper to taste
+349,6573020,¼,teaspoon,paprika
+350,6573020,1,,"onion, chopped"
+351,6573020,1,tablespoon,vegetable oil
+352,6573020,8,large,"potatoes, scrubbed and chopped"
+353,6573020,1,(16 ounce) can,chili without beans

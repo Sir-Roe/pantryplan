@@ -1,0 +1,483 @@
+,id_recipe,Quantity,Unit of Measure,Ingredient
+0,7509604,1/2,cup,mint leaves
+1,7509604,1/2,cup,orange juice
+2,7509604,1/3,cup,oregano leaves
+3,7509604,1/4,cup,olive oil
+4,7509604,8,cloves,garlic
+5,7509604,2,,"limes, juiced"
+6,7509604,4,teaspoons,kosher salt
+7,7509604,1,tablespoon,ground cumin
+8,7509604,2,teaspoons,smoked paprika
+9,7509604,1,teaspoon,ground black pepper
+10,7509604,1,teaspoon,dried oregano
+11,7509604,1/4,teaspoon,cayenne pepper
+12,6735743,1,cup,"salted butter, softened"
+13,6735743,2,tablespoons,Dijon mustard
+14,6735743,1 ½,tablespoons,chopped fresh thyme leaves
+15,6735743,1,tablespoon,fresh lemon juice
+16,6735743,1,teaspoon,grated lemon zest
+17,6735743,1,teaspoon,chopped fresh rosemary
+18,6735743,1,teaspoon,"kosher salt, divided, plus more to taste"
+19,6735743,1,teaspoon,"ground black pepper, divided, or more to taste"
+20,6735743,3,cups,coarsely chopped sweet onion
+21,6735743,2,cups,coarsely chopped carrot
+22,6735743,2,cups,coarsely chopped celery
+23,6735743,1,(12 pound),"turkey, thawed if purchased frozen"
+24,6735743,½,cup,dry white wine
+25,6735743,2,tablespoons,finely chopped shallot
+26,6735743,¼,cup,all-purpose flour
+27,6735743,4 ½,cups,"chicken stock, or more as needed"
+28,6950917,5,pounds,prime rib roast
+29,6950917,1,tablespoon,kosher salt
+30,6650289,1,(4 pound),prime rib roast
+31,6650289,¼,cup,"unsalted butter, softened"
+32,6650289,1,tablespoon,freshly ground black pepper
+33,6650289,1,teaspoon,herbes de Provence
+34,6650289,,,kosher salt to taste
+35,6649199,3,cloves,"garlic, minced"
+36,6649199,1,tablespoon,dried rosemary
+37,6649199,,,salt and pepper to taste
+38,6649199,2,pounds,boneless pork loin roast
+39,6649199,¼,cup,olive oil
+40,6649199,½,cup,white wine
+41,6648238,4,pounds,chuck roast
+42,6648238,,,salt and pepper to taste
+43,6648238,2,tablespoons,olive oil
+44,6648238,1,packet,dry onion soup mix
+45,6648238,1,cup,water
+46,6648238,3,,"carrots, chopped"
+47,6648238,3,,"potatoes, peeled and cubed"
+48,6648238,1,,"onion, chopped"
+49,6648238,1,stalk,"celery, chopped"
+50,6664404,1,(3 pound),chuck roast
+51,6664404,½,(12 ounce) jar,pepperoncini
+52,6664404,½,(12 ounce) jar,pepperoncini juice
+53,6664404,½,cup,unsalted butter
+54,6664404,1,(1 ounce) packet,au jus gravy mix
+55,6664404,1,(0.4 oz) package,buttermilk ranch dressing mix
+56,6664404,,,salt and ground black pepper to taste
+57,6650326,1,(10 pound),"fully-cooked, bone-in ham"
+58,6650326,1 ¼,cups,packed dark brown sugar
+59,6650326,⅓,cup,pineapple juice
+60,6650326,⅓,cup,"honey, or more to taste"
+61,6650326,⅓,large,orange
+62,6650326,2,tablespoons,Dijon mustard
+63,6650326,¼,teaspoon,ground cloves
+64,6650326,1 ½,teaspoons,"lemon juice, or to taste (Optional)"
+65,6650194,2,tablespoons,vegetable oil
+66,6650194,1,(3 pound),"boneless beef chuck roast, trimmed"
+67,6650194,1,pinch,"seasoned salt, or to taste"
+68,6650194,1,pinch,"onion powder, or to taste"
+69,6650194,,,ground black pepper to taste
+70,6650194,1,(14.5 ounce) can,beef broth
+71,6650194,1 ½,tablespoons,Worcestershire sauce
+72,6650194,1,large,"onion, cut into 4 wedges"
+73,6650194,4,large,"potatoes, peeled and cut into bite-size pieces"
+74,6650194,4,,"carrots, peeled and cut into bite-size pieces"
+75,6650688,3,pounds,"beef eye of round roast, at room temperature"
+76,6650688,½,teaspoon,"kosher salt, or more to taste"
+77,6650688,½,teaspoon,"garlic powder, or more to taste"
+78,6650688,¼,teaspoon,"freshly ground black pepper, or more to taste"
+79,6741038,1,(3 pound),beef eye of round roast
+80,6741038,,,salt and pepper to taste
+81,6649130,2,cups,packed brown sugar
+82,6649130,1,(8 pound),"cured, bone-in picnic ham"
+83,6664431,1,(5 pound),"beef standing rib roast, at room-temperature (let sit out for 1 hour before starting recipe)"
+84,6664431,2,teaspoons,salt
+85,6664431,1,teaspoon,ground black pepper
+86,6664431,1,teaspoon,garlic powder
+87,6648244,1,(5 pound),ready-to-eat ham
+88,6648244,¼,cup,whole cloves
+89,6648244,¼,cup,dark corn syrup
+90,6648244,2,cups,honey
+91,6648244,⅔,cup,butter
+92,6739010,1,cup,softened butter
+93,6739010,6,cloves,"garlic, minced"
+94,6739010,1,(4 pound),bone-in rib-eye roast
+95,6739010,,,sea salt and cracked black pepper to taste
+96,6663144,¼,cup,olive oil
+97,6663144,¼,cup,soy sauce
+98,6663144,1,clove,"garlic, minced"
+99,6663144,3,tablespoons,Dijon honey mustard
+100,6663144,,,salt and ground black pepper to taste
+101,6663144,2,pounds,pork tenderloin
+102,6580706,10,cloves,"garlic, or more to taste"
+103,6580706,¼,cup,olive oil
+104,6580706,3,tablespoons,white vinegar
+105,6580706,2,tablespoons,dried oregano
+106,6580706,1,tablespoon,salt
+107,6580706,1 ½,teaspoons,ground black pepper
+108,6580706,5,pounds,"pork shoulder, trimmed of excess fat"
+109,6580330,1,(5 pound),whole beef tenderloin
+110,6580330,8,large,"garlic cloves, minced"
+111,6580330,6,tablespoons,olive oil
+112,6580330,2,tablespoons,minced fresh rosemary
+113,6580330,2,tablespoons,coarsely ground black pepper
+114,6580330,1,tablespoon,dried thyme leaves
+115,6580330,1,tablespoon,salt
+116,6664783,1,(5 pound),flat-cut corned beef brisket
+117,6664783,1,tablespoon,"browning sauce (such as Kitchen Bouquet®), or as desired"
+118,6664783,1,tablespoon,vegetable oil
+119,6664783,1,,"onion, sliced"
+120,6664783,6,cloves,"garlic, sliced"
+121,6664783,2,tablespoons,water
+122,6664035,1,(10 pound),bone-in standing rib roast
+123,6664035,2,tablespoons,kosher salt
+124,6664035,½,cup,"butter, softened"
+125,6664035,3,tablespoons,chopped fresh rosemary
+126,6664035,2,tablespoons,chopped fresh thyme
+127,6664035,,,ground black pepper to taste
+128,6663699,1 ¼,tablespoons,paprika
+129,6663699,1,tablespoon,kosher salt
+130,6663699,1,teaspoon,garlic powder
+131,6663699,½,teaspoon,ground black pepper
+132,6663699,½,teaspoon,onion powder
+133,6663699,½,teaspoon,ground cayenne pepper
+134,6663699,½,teaspoon,dried oregano
+135,6663699,½,teaspoon,dried thyme
+136,6663699,2,tablespoons,olive oil
+137,6663699,1,(3 pound),sirloin tip roast
+138,6663556,2,(10.5 ounce) cans,condensed cream of mushroom soup
+139,6663556,1 ¼,cups,water
+140,6663556,1,(1 ounce) package,dry onion soup mix
+141,6663556,5 ½,pounds,pot roast
+142,6649471,1,cup,water
+143,6649471,1,(1 ounce) package,ranch dressing mix
+144,6649471,1,(.7 ounce) package,dry Italian-style salad dressing mix
+145,6649471,1,(.75 ounce) packet,dry brown gravy mix
+146,6649471,1,(3 pound),boneless beef chuck roast
+147,6650584,1,tablespoon,vegetable oil
+148,6650584,3 ½,pounds,beef chuck pot roast
+149,6650584,2,teaspoons,salt
+150,6650584,1,teaspoon,ground black pepper
+151,6650584,1,cup,diced carrots
+152,6650584,1,cup,diced celery
+153,6650584,1,cup,diced onion
+154,6650584,¼,cup,butter
+155,6650584,1,teaspoon,dried rosemary
+156,6648736,½,cup,soy sauce
+157,6648736,⅓,cup,honey
+158,6648736,⅓,cup,ketchup
+159,6648736,⅓,cup,brown sugar
+160,6648736,¼,cup,Chinese rice wine
+161,6648736,2,tablespoons,hoisin sauce
+162,6648736,2,tablespoons,red bean curd (Optional)
+163,6648736,1,teaspoon,Chinese five-spice powder (Optional)
+164,6601853,2,pounds,"beef pot roast, fat trimmed and discarded"
+165,6601853,3,,"potatoes, peeled and cut into 6 pieces"
+166,6601853,1,large,"onion, cut into 8 pieces"
+167,6601853,2,,"carrots, cut into 1-inch pieces"
+168,6601853,2,stalks,"celery, cut into 1-inch pieces"
+169,6601853,3 ½,cups,"water, divided"
+170,6601853,,,salt and ground black pepper to taste
+171,6601853,1,pinch,"garlic salt, or to taste"
+172,6601853,½,cup,water
+173,6601853,3,tablespoons,cornstarch
+174,6601853,½,teaspoon,browning sauce (such as Gravy Master®) (Optional)
+175,6741035,½,cup,all-purpose flour
+176,6741035,,,ground black pepper to taste
+177,6741035,3 ½,pounds,rump roast
+178,6741035,¼,cup,butter
+179,6741035,1,(10.5 ounce) can,condensed cream of mushroom soup
+180,6741035,½,cup,dry vermouth
+181,6741035,½,(1 ounce) envelope,dry onion soup mix
+182,6648270,2,teaspoons,olive oil
+183,6648270,4,pounds,boneless chuck roast
+184,6648270,1,,"onion, chopped"
+185,6648270,2,cloves,"garlic, minced"
+186,6648270,2,,bay leaves
+187,6648270,1,teaspoon,salt
+188,6648270,½,teaspoon,freshly ground black pepper
+189,6649275,1,(5 pound),bone-in beef pot roast
+190,6649275,,,salt and pepper to taste
+191,6649275,2 ½,tablespoons,"all-purpose flour, divided, or more as needed"
+192,6649275,2,tablespoons,vegetable oil
+193,6649275,1,tablespoon,butter
+194,6649275,8,ounces,sliced mushrooms
+195,6649275,1,medium,"onion, chopped"
+196,6649275,2,cloves,"garlic, minced"
+197,6649275,1,tablespoon,tomato paste
+198,6649275,2 ½,cups,chicken broth
+199,6649275,3,medium,"carrots, cut into chunks"
+200,6649275,2,stalks,"celery, cut into chunks"
+201,6649275,2,sprigs,fresh thyme
+202,6649275,1,sprig,fresh rosemary
+203,6575055,1,(1 pound),whole pork tenderloin
+204,6575055,1,(24 ounce) bag,"baby potatoes, unpeeled (Optional)"
+205,6575055,1,(20 ounce) can,"sauerkraut, undrained"
+206,6575055,1,cup,"water, or more as needed"
+207,6575055,¼,cup,"butter, cubed"
+208,6575055,,,salt and ground black pepper to taste
+209,6569665,3,pounds,beef rump roast
+210,6569665,2,large,"onions, chopped"
+211,6569665,1,cup,"red wine vinegar, or to taste"
+212,6569665,1,cup,water
+213,6569665,1,tablespoon,salt
+214,6569665,1,tablespoon,ground black pepper
+215,6569665,1,tablespoon,white sugar
+216,6569665,10,,"whole cloves, or more to taste"
+217,6569665,2,,"bay leaves, or more to taste"
+218,6569665,2,tablespoons,all-purpose flour
+219,6569665,,,salt and ground black pepper to taste
+220,6569665,2,tablespoons,vegetable oil
+221,6569665,10,,"gingersnap cookies, crumbled"
+222,6577962,1,(1 1/2 pound),"beef tri tip roast, trimmed"
+223,6577962,1,teaspoon,dried thyme
+224,6577962,1,teaspoon,dried basil
+225,6577962,1,teaspoon,dried marjoram
+226,6577962,1,teaspoon,dry mustard
+227,6577962,,,salt and ground black pepper to taste
+228,6577962,⅓,cup,red wine
+229,6577962,1,tablespoon,"olive oil, or as needed"
+230,6573053,1,(3 pound),beef top-sirloin roast
+231,6573053,3,cloves,"garlic, slivered, or to taste"
+232,6573053,3,cloves,"garlic, minced"
+233,6573053,1,teaspoon,"ground paprika, or to taste"
+234,6573053,1,teaspoon,"salt, or to taste"
+235,6573053,1,teaspoon,"freshly ground black pepper, or to taste"
+236,6573053,6,,"Yukon Gold potatoes, quartered"
+237,6573053,5,,"carrots, cut into 2-inch pieces"
+238,6573053,2,large,"sweet onions, quartered"
+239,6573053,3,cubes,beef bouillon
+240,6573053,½,cup,hot water
+241,6573053,1,cup,beef broth
+242,6573053,½,cup,beer
+243,6573053,2,,"bay leaves, broken, or more to taste"
+244,6573053,2,large,"red bell peppers, cut into 2-inch pieces"
+245,6573053,½,cup,mushrooms (Optional)
+246,6587584,½,cup,all-purpose flour
+247,6587584,1,pinch,"paprika, or to taste"
+248,6587584,1,pinch,"garlic powder, or to taste"
+249,6587584,1,pinch,"onion powder, or to taste"
+250,6587584,,,ground black pepper to taste
+251,6587584,3,pounds,chuck roast
+252,6587584,¼,cup,butter
+253,6587584,1,(10.5 ounce) can,condensed beef consomme
+254,6587584,1,cup,water
+255,6587584,5,cloves,"garlic, peeled"
+256,6587584,1 ½,(1 ounce) envelopes,dry onion soup mix
+257,6587584,1,teaspoon,Worcestershire sauce
+258,6587584,2,,"carrots, chopped, or to taste"
+259,6587584,3,,"mushrooms, sliced, or to taste"
+260,6587584,¼,,"onion, chopped, or to taste"
+261,6737244,5,pounds,leg of lamb
+262,6737244,4,cloves,"garlic, sliced"
+263,6737244,,,salt and ground black pepper to taste
+264,6737244,2,tablespoons,fresh rosemary
+265,6649925,1,(4 pound),beef chuck roast
+266,6649925,¼,cup,butter
+267,6649925,5,,pepperoncini peppers
+268,6649925,1,(1 ounce) packet,ranch dressing mix
+269,6649925,1,(1 ounce) packet,dry au jus mix
+270,6663272,3,tablespoons,smoked paprika
+271,6663272,2,tablespoons,ground black pepper
+272,6663272,2,tablespoons,kosher salt
+273,6663272,1,tablespoon,brown sugar
+274,6663272,1,tablespoon,chili powder
+275,6663272,1,teaspoon,ground cumin
+276,6663272,1 ½,pounds,beef brisket
+277,6649465,1,teaspoon,"garlic powder, or to taste"
+278,6649465,,,salt and pepper to taste
+279,6649465,6,pounds,pork butt roast
+280,6649465,2,,"onion, sliced"
+281,6649465,20,,"new potatoes, raw"
+282,6649465,16,,"carrots, peeled"
+283,6649465,2,cups,"mushrooms, halved"
+284,6649878,18,ounces,kosher salt
+285,6649878,2,cups,brown sugar
+286,6649878,7,teaspoons,pink salt #1 (curing salt)
+287,6649878,1,tablespoon,"pickling spice, or to taste"
+288,6649878,6,quarts,"water, divided"
+289,6649878,1,(7 pound),"fresh, bone-in pork shoulder (""picnic"") arm roast, with the skin still on"
+290,6649878,1,cup,"water, or as needed"
+291,6649878,2,,whole star anise
+292,6574033,2 ½,teaspoons,kosher salt
+293,6574033,1,(5 pound),"prime rib roast, bones removed"
+294,6574033,5,tablespoons,olive oil
+295,6574033,2,tablespoons,cracked black pepper
+296,6574033,2,teaspoons,garlic powder
+297,6574033,2,teaspoons,dried rosemary
+298,6574033,2,teaspoons,dried thyme
+299,6574033,1,teaspoon,onion powder
+300,6574033,1,teaspoon,paprika
+301,6574033,½,teaspoon,cayenne pepper
+302,6603227,1,tablespoon,olive oil
+303,6603227,1,(2 pound),venison roast
+304,6603227,2,cups,water
+305,6603227,1,(1.5 ounce) package,beef stew seasoning mix (such as McCormick®)
+306,6603227,1,pound,"baby potatoes (such as Little Potato Company®), halved"
+307,6603227,1,(8 ounce) package,baby carrots
+308,6603227,,,salt and ground black pepper to taste
+309,6739547,,,cooking spray
+310,6739547,1,,"onion, sliced"
+311,6739547,1,(2 1/2 pound),boneless beef chuck roast
+312,6739547,,,salt and ground black pepper to taste
+313,6739547,¼,cup,all-purpose flour
+314,6739547,1,(1.2 ounce) package,dry beef gravy mix
+315,6739547,1,(1 ounce) package,ranch dressing mix
+316,6739547,1,(.7 ounce) package,dry Italian-style salad dressing mix
+317,6739547,½,cup,"water, or as needed"
+318,6739547,5,,whole peeled carrots (Optional)
+319,6648968,1,(14 pound),roast-ready prime rib roast (ribs cut off and tied to roast)
+320,6648968,,,aluminum foil
+321,6648968,¾,cup,all-purpose flour
+322,6648968,2,teaspoons,freshly ground black pepper
+323,6648968,2,teaspoons,salt
+324,6648968,2,teaspoons,paprika
+325,6648968,1,teaspoon,onion powder
+326,6648968,½,teaspoon,garlic powder
+327,6648968,¼,teaspoon,celery seed
+328,6663505,½,cup,brown sugar
+329,6663505,1,tablespoon,coarsely ground black pepper
+330,6663505,1,tablespoon,kosher salt
+331,6663505,1 ½,teaspoons,garlic powder
+332,6663505,1,teaspoon,dry mustard powder
+333,6663505,½,teaspoon,ground ginger
+334,6663505,½,teaspoon,onion powder
+335,6663505,½,teaspoon,red pepper flakes
+336,6663505,½,teaspoon,cayenne pepper
+337,6663505,½,teaspoon,ground cumin
+338,6663505,½,teaspoon,smoked paprika
+339,6663505,¼,teaspoon,dried thyme leaves
+340,6663505,1,(2 1/2 pound),boneless pork loin roast
+341,6648704,1,teaspoon,salt
+342,6648704,1,teaspoon,dried marjoram
+343,6648704,1,teaspoon,dried rosemary
+344,6648704,1,teaspoon,garlic powder (Optional)
+345,6648704,1,teaspoon,onion powder
+346,6648704,½,teaspoon,ground black pepper
+347,6648704,½,teaspoon,paprika (Optional)
+348,6648704,1,(3 pound),"beef chuck roast, or more to taste"
+349,6648704,1,tablespoon,vegetable oil
+350,6648704,1,pound,baby red potatoes
+351,6648704,4,large,"carrots, chopped into large chunks"
+352,6648704,1,large,"yellow onion, sliced"
+353,6648704,4,cups,beef broth
+354,6648704,2,tablespoons,Worcestershire sauce
+355,6664295,1,(2 pound),fat-trimmed pork tenderloin
+356,6664295,⅓,cup,lite soy sauce
+357,6664295,¼,cup,sesame oil
+358,6664295,2,tablespoons,Worcestershire sauce
+359,6664295,3,,"green onions, chopped"
+360,6664295,4,cloves,"garlic, crushed"
+361,6664295,2,tablespoons,packed light brown sugar
+362,6664295,1 ½,tablespoons,Asian chile paste
+363,6664295,1 ½,teaspoons,pepper
+364,6604724,3,tablespoons,"extra-virgin olive oil, divided, or as needed"
+365,6604724,10,,"white mushrooms, minced"
+366,6604724,1,,"shallot, minced"
+367,6604724,½,teaspoon,dried thyme
+368,6604724,½,teaspoon,garlic powder
+369,6604724,½,teaspoon,dried sage
+370,6604724,½,teaspoon,ground black pepper
+371,6604724,¼,teaspoon,salt
+372,6604724,¼,cup,chopped fresh parsley
+373,6604724,2,cups,fresh spinach
+374,6604724,1,teaspoon,Dijon mustard
+375,6604724,1,(2 pound),"pork tenderloin, butterflied and pounded flat"
+376,6604724,4,slices,prosciutto
+377,6738294,1,(10 pound),prime rib roast
+378,6738294,10,cloves,"garlic, minced"
+379,6738294,2,tablespoons,olive oil
+380,6738294,2,teaspoons,salt
+381,6738294,2,teaspoons,ground black pepper
+382,6738294,2,teaspoons,dried thyme
+383,6603015,4,cloves,"garlic, minced"
+384,6603015,1,tablespoon,olive oil
+385,6603015,2,teaspoons,kosher salt
+386,6603015,1,teaspoon,black pepper
+387,6603015,½,teaspoon,dried thyme
+388,6603015,1,(3 pound),beef eye of round roast
+389,6603015,,,aluminum foil
+390,6603015,½,cup,dry red wine (merlot or cabernet sauvignon)
+391,6603015,½,cup,beef broth
+392,6603015,2,tablespoons,"cold butter, cubed"
+393,6664552,1 ½,tablespoons,fresh rosemary
+394,6664552,2,teaspoons,garlic salt
+395,6664552,½,teaspoon,dried thyme
+396,6664552,¼,teaspoon,freshly ground black pepper
+397,6664552,3,pounds,boneless pork loin roast
+398,6736428,1,(6 pound),boneless prime rib roast
+399,6736428,2,tablespoons,prepared horseradish
+400,6736428,2,tablespoons,Dijon mustard
+401,6736428,2,teaspoons,kosher salt
+402,6736428,2,teaspoons,coarsely ground black pepper
+403,6736428,2,teaspoons,dried thyme
+404,6736428,2,teaspoons,garlic powder
+405,6736428,2,stalks,"celery, cut into 2-inch pieces"
+406,6736428,1,,"carrot, cut into 2-inch pieces"
+407,6736428,1,small,"unpeeled onion, quartered and separated"
+408,6738605,2 ½,pounds,beef tenderloin
+409,6738605,4,tablespoons,"butter, softened, divided"
+410,6738605,2,tablespoons,butter
+411,6738605,1,,"onion, chopped"
+412,6738605,½,cup,sliced fresh mushrooms
+413,6738605,2,ounces,liver pate
+414,6738605,,,salt and pepper to taste
+415,6738605,1,(17.5 ounce) package,"frozen puff pastry, thawed"
+416,6738605,1,large,"egg yolk, beaten"
+417,6738605,1,(10.5 ounce) can,beef broth
+418,6738605,2,tablespoons,red wine
+419,6574273,2,tablespoons,olive oil
+420,6574273,1,tablespoon,ground black pepper
+421,6574273,1,teaspoon,kosher salt
+422,6574273,1,(3 pound),boneless top loin pork roast
+423,6598577,1,(4 pound),rib roast
+424,6598577,2,tablespoons,"olive oil, or as needed"
+425,6598577,¼,cup,sea salt
+426,6598577,2,tablespoons,freshly ground black pepper
+427,6598577,2,cloves,"garlic, minced, or more to taste"
+428,6591447,1,tablespoon,dill seed
+429,6591447,1,tablespoon,fennel seed
+430,6591447,1,teaspoon,dried oregano
+431,6591447,1,teaspoon,lemon-pepper seasoning
+432,6591447,¼,teaspoon,onion powder
+433,6591447,¼,teaspoon,garlic powder
+434,6591447,4,pounds,boneless pork roast
+435,6739065,1,quart,cold water
+436,6739065,⅓,cup,maple syrup
+437,6739065,¼,cup,salt
+438,6739065,3,cloves,"garlic, crushed"
+439,6739065,3,tablespoons,chopped fresh ginger
+440,6739065,1,tablespoon,cracked black pepper
+441,6739065,2,teaspoons,dried rosemary
+442,6739065,½,teaspoon,red pepper flakes
+443,6739852,¼,cup,honey
+444,6739852,3,cloves,"garlic, minced"
+445,6739852,2,tablespoons,chopped fresh rosemary
+446,6739852,2,tablespoons,prepared Dijon-style mustard
+447,6739852,1,teaspoon,lemon zest
+448,6739852,1,teaspoon,freshly ground black pepper
+449,6739852,5,pounds,whole leg of lamb
+450,6739852,1,teaspoon,coarse sea salt
+451,6663304,1,(3 pound),beef tenderloin roast
+452,6663304,¾,cup,soy sauce
+453,6663304,½,cup,melted butter
+454,6650484,1,(3 pound),"beef brisket, trimmed of fat"
+455,6650484,,,salt and pepper to taste
+456,6650484,1,medium,"onion, thinly sliced"
+457,6650484,1,(12 fluid ounce) can,beer
+458,6650484,1,(12 ounce) bottle,tomato-based chili sauce
+459,6650484,¾,cup,packed brown sugar
+460,6648194,3,tablespoons,margarine
+461,6648194,½,cup,chopped onion
+462,6648194,½,cup,chopped mushrooms
+463,6648194,2,stalks,"celery, chopped"
+464,6648194,3,cups,torn day-old bread
+465,6648194,,,salt and ground black pepper to taste
+466,6577698,1,(1 ounce) package,dry onion soup mix
+467,6577698,1,(3 pound),pork sirloin roast
+468,6577698,1,(16 ounce) can,whole berry cranberry sauce
+469,6577698,2,tablespoons,"butter, or to taste"
+470,6577698,2,tablespoons,"all-purpose flour, or as needed"
+471,6577698,,,salt and ground black pepper to taste
+472,6583423,1,(3 pound),pork roast
+473,6583423,,,salt and ground black pepper to taste
+474,6583423,2,(14.5 ounce) cans,"sauerkraut, or to taste"
+475,6583423,3,cups,"water, or more as needed"
+476,6583423,1,,"onion, chopped"
+477,6583423,1,medium,"apple - peeled, cored, and finely chopped"
+478,6572584,1,(4 pound),"corned beef brisket, seasoning packet discarded"
+479,6572584,1 ½,teaspoons,garlic powder
+480,6572584,1 ½,teaspoons,onion powder
+481,6572584,1,(12 ounce) bottle,beer

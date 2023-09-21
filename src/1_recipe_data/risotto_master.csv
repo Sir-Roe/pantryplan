@@ -1,0 +1,61 @@
+,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Protein,Potassium,Average_Review,Review_Count,Total Sugars,Vitamin C,Calcium,Iron,Additional Time:,Yield:
+0,6824154,10 mins,20 mins,30 mins,6 ,6,249,8g,3g,12mg,321mg,35g,1g,5g,58mg,4.3,6,,,,,,
+1,6664744,20 mins,25 mins,45 mins,6 ,6,431,17g,7g,29mg,1131mg,57g,3g,11g,692mg,4.8,"3,532",4g,4mg,70mg,2mg,,
+2,6737892,15 mins,30 mins,50 mins,4 ,4,545,32g,12g,48mg,577mg,43g,3g,15g,840mg,4.7,324,10g,8mg,145mg,4mg,5 mins,
+3,6594759,9 mins,35 mins,44 mins,4 ,4,357,9g,2g,8mg,355mg,53g,3g,11g,255mg,4.8,184,4g,10mg,96mg,2mg,,
+4,6649764,10 mins,40 mins,50 mins,4 ,4,498,21g,8g,34mg,1127mg,61g,1g,9g,64mg,4.9,70,2g,4mg,85mg,1mg,,
+5,6663126,20 mins,35 mins,55 mins,4 ,4,343,8g,5g,21mg,979mg,57g,2g,7g,300mg,4.6,601,3g,16mg,104mg,1mg,,
+6,6572173,10 mins, 2 hrs 15 mins, 2 hrs 25 mins,6 ,6,316,12g,3g,8mg,525mg,42g,1g,7g,72mg,4.1,90,1g,1mg,109mg,2mg,,
+7,6578517,10 mins,35 mins,45 mins,4 ,4,439,20g,10g,50mg,768mg,49g,2g,17g,403mg,4.6,408,7g,5mg,394mg,3mg,,4 servings
+8,6736490,15 mins,40 mins,55 mins,4 ,4,774,29g,8g,72mg,2840mg,77g,2g,45g,944mg,4.2,493,5g,4mg,55mg,4mg,,
+9,6591362,5 mins,30 mins,45 mins,6 ,6,268,4g,3g,12mg,718mg,47g,1g,9g,23mg,4.3,6,1g,0mg,153mg,1mg,10 mins,6 servings
+10,6739860,10 mins,35 mins,45 mins,4 ,4,480,26g,16g,86mg,998mg,51g,2g,11g,239mg,4.9,215,2g,3mg,145mg,1mg,,4 servings
+11,6602696,10 mins,25 mins,40 mins,6 ,6,532,18g,8g,69mg,924mg,65g,2g,21g,211mg,4.7,29,1g,8mg,111mg,2mg,5 mins,6 servings
+12,6736524,15 mins,39 mins, 1 hr 57 mins,4 ,4,737,28g,11g,36mg,319mg,92g,3g,16g,262mg,4.9,21,4g,17mg,116mg,4mg, 1 hr 3 mins,4 servings
+13,6736671,20 mins,25 mins,45 mins,4 ,4,557,22g,11g,56mg,1444mg,74g,2g,16g,178mg,4.7,382,2g,3mg,81mg,1mg,,4 servings
+14,6591865,20 mins,20 mins,40 mins,4 ,4,834,35g,22g,94mg,711mg,90g,2g,28g,357mg,4.7,53,6g,24mg,459mg,2mg,,4 servings
+15,6665777,20 mins,30 mins,50 mins,4 ,4,703,25g,7g,125mg,1059mg,75g,2g,31g,698mg,4.7,18,1g,33mg,184mg,5mg,,
+16,6737532,15 mins,30 mins,45 mins,6 ,6,364,4g,2g,10mg,699mg,71g,3g,9g,196mg,4.4,333,6g,6mg,96mg,2mg,,6 servings
+17,6562131,,,,4 ,4,368,11g,7g,28mg,333mg,52g,2g,7g,87mg,4.6,270,3g,2mg,91mg,1mg,,4 servings
+18,6741720,15 mins, 2 hrs 34 mins, 2 hrs 59 mins,6 ,6,549,25g,9g,51mg,305mg,57g,3g,22g,468mg,5.0,2,3g,5mg,24mg,3mg,10 mins,6 servings
+19,6606430,20 mins,40 mins, 1 hr,2 ,2,877,23g,7g,104mg,1074mg,105g,5g,51g,651mg,4.2,99,5g,11mg,304mg,5mg,,2 servings
+20,6599467,15 mins,40 mins,55 mins,6 ,6,337,6g,2g,6mg,627mg,61g,2g,8g,52mg,4.3,52,2g,2mg,17mg,3mg,,6 servings
+21,6601621,15 mins, 1 hr, 1 hr 15 mins,6 ,6,565,25g,11g,87mg,1393mg,60g,2g,19g,368mg,4.6,23,6g,5mg,161mg,1mg,,
+22,6580903,15 mins,35 mins,50 mins,6 ,6,482,26g,14g,72mg,106mg,53g,2g,7g,228mg,4.7,78,2g,46mg,80mg,1mg,,
+23,6599593,20 mins,25 mins,45 mins,4 ,4,508,28g,11g,37mg,748mg,54g,2g,10g,198mg,4.9,22,3g,7mg,107mg,3mg,,
+24,6571527,5 mins,20 mins,30 mins,3 ,3,447,19g,7g,26mg,547mg,57g,1g,8g,61mg,4.9,9,1g,2mg,92mg,1mg,5 mins,
+25,6585662,15 mins,45 mins, 1 hr,4 ,4,670,15g,2g,,1010mg,111g,6g,13g,706mg,4.8,6,9g,4mg,75mg,3mg,,
+26,6573562,20 mins,30 mins,50 mins,6 ,6,308,17g,10g,49mg,1219mg,26g,1g,12g,210mg,4.4,41,1g,1mg,297mg,2mg,,
+27,6583440,15 mins,25 mins,50 mins,6 ,6,490,13g,7g,145mg,434mg,66g,2g,23g,244mg,5.0,7,2g,6mg,115mg,3mg,10 mins,
+28,6568186,20 mins,35 mins,55 mins,4 ,4,858,20g,9g,210mg,3233mg,130g,5g,37g,446mg,4.3,28,4g,11mg,187mg,7mg,,
+29,6598928,30 mins,45 mins, 1 hr 15 mins,4 ,4,615,13g,7g,38mg,1524mg,107g,3g,16g,430mg,4.4,67,7g,13mg,264mg,3mg,,
+30,6605161,15 mins,40 mins, 1 hr 15 mins,3 ,3,413,15g,2g,,130mg,56g,5g,10g,215mg,5.0,1,1g,2mg,35mg,2mg,20 mins,
+31,6601927,25 mins,35 mins, 1 hr,6 ,6,439,13g,7g,28mg,558mg,61g,2g,10g,79mg,4.6,40,3g,5mg,119mg,2mg,,
+32,6586343,10 mins,30 mins,50 mins,4 ,4,611,23g,14g,76mg,1498mg,81g,4g,15g,387mg,4.3,6,5g,13mg,192mg,4mg,10 mins,
+33,6573234,30 mins,25 mins,55 mins,6 ,6,330,7g,1g,74mg,202mg,40g,2g,20g,355mg,4.3,45,3g,39mg,91mg,3mg,,
+34,6581975,15 mins, 1 hr 5 mins, 1 hr 20 mins,10 ,10,443,19g,8g,225mg,1465mg,32g,1g,32g,427mg,5.0,3,3g,2mg,269mg,2mg,,
+35,6581853,45 mins, 1 hr 27 mins, 3 hrs 17 mins,6 ,6,637,15g,2g,154mg,420mg,73g,2g,35g,610mg,5.0,2,4g,32mg,100mg,10mg, 1 hr 5 mins,6 servings
+36,6600626,10 mins,30 mins,45 mins,6 ,6,243,8g,5g,21mg,284mg,34g,1g,8g,98mg,4.1,84,1g,2mg,161mg,2mg,5 mins,
+37,6574781,15 mins,25 mins,45 mins,4 ,4,608,23g,9g,38mg,1387mg,82g,3g,13g,196mg,4.7,6,4g,5mg,125mg,1mg,5 mins,4 servings
+38,6571204,15 mins,44 mins, 1 hr 4 mins,4 ,4,503,20g,10g,45mg,672mg,67g,4g,10g,520mg,4.5,10,7g,16mg,180mg,2mg,5 mins,4 servings
+39,6588211,10 mins,35 mins,45 mins,4 ,4,654,18g,6g,20mg,857mg,103g,4g,12g,172mg,5.0,2,6g,6mg,143mg,2mg,,4 servings
+40,6593606,15 mins,25 mins,40 mins,6 ,6,537,19g,11g,64mg,725mg,81g,7g,11g,720mg,4.4,36,5g,21mg,190mg,3mg,,6 servings
+41,6584527,30 mins, 1 hr, 1 hr 30 mins,6 ,6,322,11g,4g,13mg,500mg,47g,6g,10g,447mg,4.1,15,7g,15mg,167mg,2mg,,6 servings
+42,6578706,25 mins,30 mins,55 mins,2 ,2,573,22g,10g,39mg,1085mg,75g,4g,12g,174mg,4.7,45,7g,9mg,181mg,3mg,,2 servings
+43,6737297,5 mins,10 mins,25 mins,4 ,4,523,15g,9g,41mg,677mg,75g,2g,11g,73mg,5.0,5,3g,1mg,156mg,1mg,10 mins,4 servings
+44,6582704,25 mins,35 mins, 1 hr,4 ,4,714,10g,1g,191mg,805mg,108g,6g,45g,1068mg,4.2,73,6g,70mg,212mg,8mg,,4 servings
+45,6581413,15 mins,35 mins,50 mins,4 ,4,497,24g,12g,67mg,1901mg,50g,4g,14g,273mg,4.5,2,2g,35mg,212mg,5mg,,4 servings
+46,6578926,10 mins,35 mins,45 mins,6 ,6,258,10g,6g,30mg,1133mg,31g,1g,7g,150mg,5.0,2,2g,2mg,86mg,1mg,,6 servings
+47,6568310,5 mins,30 mins,45 mins,6 ,6,301,7g,3g,9mg,111mg,49g,1g,7g,58mg,,,2g,2mg,36mg,1mg,10 mins,6 servings
+48,6737928,20 mins,40 mins, 1 hr,6 ,6,542,17g,7g,31mg,728mg,77g,4g,16g,131mg,5.0,2,5g,12mg,249mg,3mg,,6 servings
+49,6648827,15 mins,16 mins,33 mins,4 ,4,510,18g,7g,31mg,644mg,67g,2g,12g,108mg,4.6,11,4g,2mg,165mg,1mg,2 mins,4 servings
+50,6584466,10 mins,35 mins,50 mins,6 ,6,409,6g,1g,3mg,373mg,79g,4g,9g,590mg,3.0,5,5g,39mg,102mg,2mg,5 mins,
+51,6572308,15 mins,35 mins,55 mins,8 ,8,237,5g,2g,25mg,579mg,35g,2g,12g,215mg,4.7,9,2g,5mg,76mg,2mg,5 mins,8 servings
+52,6561749,15 mins,55 mins, 1 hr 10 mins,6 ,6,352,9g,3g,95mg,264mg,47g,3g,21g,379mg,,,4g,46mg,166mg,3mg,,6 servings
+53,6588707,15 mins,45 mins, 1 hr,4 ,4,932,21g,7g,23mg,1002mg,145g,34g,36g,1886mg,5.0,2,7g,5mg,209mg,8mg,,4 servings
+54,6580733,10 mins,20 mins,30 mins,4 ,4,768,30g,16g,72mg,1083mg,100g,6g,17g,362mg,,,26g,4mg,320mg,2mg,,4 servings
+55,6579502,20 mins,20 mins,45 mins,8 ,8,365,14g,6g,26mg,965mg,50g,2g,7g,121mg,4.0,1,3g,15mg,46mg,1mg,5 mins,8 servings
+56,6566821,15 mins,25 mins,50 mins,6 ,6,224,6g,1g,4mg,227mg,34g,2g,7g,353mg,5.0,2,3g,3mg,66mg,1mg,10 mins,
+57,6663243,15 mins,32 mins,47 mins,2 ,2,966,54g,13g,49mg,1453mg,92g,6g,23g,477mg,4.5,2,8g,10mg,369mg,3mg,,2 servings
+58,6587519,15 mins,25 mins,45 mins,4 ,4,421,8g,4g,23mg,318mg,74g,1g,11g,8mg,,,2g,2mg,89mg,1mg,5 mins,4 servings
+59,6600084,20 mins,25 mins,50 mins,4 ,4,402,11g,3g,15mg,605mg,62g,3g,9g,287mg,,,7g,9mg,122mg,2mg,5 mins,4 servings

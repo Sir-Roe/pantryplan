@@ -42,6 +42,7 @@ def grab_cat_urls():
     df_ref = pd.DataFrame({'URL': href, 'Category': text})
     df_ref['Category']=df_ref['Category'].str.replace(' ','_').str.lower()
     df_ref.to_csv(f'{tbl_dir}\category_urls.csv',index=False)
+    
     return df_ref
 
 def grab_cat_urls(df=''):

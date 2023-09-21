@@ -1,0 +1,62 @@
+,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Calcium,Iron,Potassium,Average_Review,Review_Count,Cholesterol,Vitamin C,Additional Time:
+0,6648866,5 mins,15 mins,20 mins,5 ,10 cups,5,209,12g,2g,1mg,25g,3g,10g,2g,2mg,1mg,58mg,4.6,"1,560",,,
+1,6663169,2 mins,3 mins,5 mins,3 ,,3,137,3g,0g,389mg,25g,5g,0g,4g,4mg,1mg,97mg,4.6,483,,,
+2,6599471,5 mins,5 mins,10 mins,2 ,,2,213,15g,13g,161mg,19g,4g,0g,3g,3mg,3mg,74mg,4.9,31,,,
+3,6587342,5 mins,10 mins,15 mins,4 ,,4,151,8g,6g,40mg,19g,4g,0g,3g,3mg,1mg,73mg,4.5,13,,,
+4,6581421,15 mins,15 mins,30 mins,20 ,,20,107,9g,4g,312mg,5g,1g,0g,1g,3mg,0mg,30mg,4.5,30,12mg,0mg,
+5,6597462,5 mins,5 mins,10 mins,5 ,10 cups,5,187,14g,4g,266mg,15g,3g,0g,3g,4mg,1mg,60mg,4.6,197,12mg,,
+6,6571773,5 mins,5 mins,10 mins,4 ,4 cups,4,189,13g,3g,444mg,15g,3g,0g,4g,68mg,1mg,88mg,3.8,13,4mg,1mg,
+7,6574942,2 mins,5 mins,7 mins,4 ,,4,285,23g,4g,209mg,19g,4g,0g,3g,8mg,1mg,80mg,4.8,235,,0mg,
+8,6591993,5 mins,10 mins,15 mins,10 ,10 cups,10,216,17g,7g,200mg,11g,2g,0g,6g,84mg,1mg,56mg,4.5,68,25mg,,
+9,6579411,10 mins,10 mins,20 mins,4 ,,4,155,8g,1g,292mg,19g,4g,0g,3g,3mg,1mg,76mg,5.0,3,,0mg,
+10,6738578,10 mins,5 mins,15 mins,6 ,2 quarts,6,227,18g,4g,658mg,11g,2g,0g,7g,168mg,1mg,74mg,4.5,24,12mg,1mg,
+11,6590606,10 mins,5 mins,30 mins,10 ,,10,355,18g,4g,359mg,45g,4g,21g,8g,14mg,1mg,199mg,4.4,25,,0mg,15 mins
+12,6585037,10 mins,35 mins,45 mins,20 ,6 quarts popcorn,20,255,12g,5g,259mg,39g,1g,24g,1g,5mg,0mg,26mg,4.3,3,16mg,,
+13,6581026,10 mins,36 mins,56 mins,8 ,8 cups,8,210,10g,4g,503mg,32g,1g,25g,1g,2mg,0mg,23mg,5.0,3,11mg,0mg,10 mins
+14,6580659,5 mins,5 mins,10 mins,2 ,2 cups,2,114,4g,0g,1mg,19g,4g,0g,3g,3mg,1mg,73mg,4.6,37,,,
+15,6591897,5 mins,35 mins,40 mins,16 ,8 cups,16,242,14g,8g,154mg,30g,0g,15g,1g,6mg,0mg,15mg,4.6,16,31mg,,
+16,6591524,5 mins,5 mins,10 mins,7 ,7 servings,7,536,43g,19g,292mg,52g,5g,3g,8g,47mg,5mg,505mg,,,,,
+17,6572185,5 mins,10 mins,15 mins,2 ,2 servings,2,30,3g,0g,90mg,2g,1g,0g,1g,41mg,3mg,114mg,3.5,2,,4mg,
+18,6568776,10 mins,5 mins,15 mins,8 ,8 servings,8,126,11g,4g,360mg,6g,1g,0g,2g,31mg,0mg,32mg,3.0,3,14mg,0mg,
+19,6576219,15 mins,5 mins,20 mins,3 ,3 servings,3,426,29g,12g,313mg,38g,8g,1g,6g,19mg,2mg,175mg,3.7,3,41mg,1mg,
+20,6573790,10 mins,30 mins,40 mins,12 ,12 servings,12,732,15g,4g,202mg,130g,26g,4g,26g,20mg,5mg,589mg,,,8mg,0mg,
+21,6601274,15 mins,,15 mins,16 ,16 servings,16,130,12g,5g,179mg,5g,1g,0g,2g,29mg,0mg,35mg,3.8,35,19mg,0mg,
+22,6605111,,5 mins,10 mins,6 ,6 servings,6,764,23g,11g,446mg,125g,24g,3g,21g,25mg,4mg,498mg,3.7,15,41mg,0mg,5 mins
+23,6589787,5 mins,2 mins,7 mins,1 ,1 serving,1,189,3g,0g,1165mg,38g,8g,1g,6g,11mg,2mg,161mg,4.7,3,,0mg,
+24,6591198,5 mins,2 mins,7 mins,6 ,6 servings,6,193,14g,6g,723mg,15g,2g,1g,3g,13mg,1mg,34mg,4.0,1,21mg,,
+25,6567346,,5 mins,5 mins,4 ,4 servings,4,256,8g,1g,662mg,38g,4g,5g,6g,2mg,1mg,46mg,2.0,1,,0mg,
+26,6581917,15 mins,45 mins, 1 hr,8 ,4 quarts,8,395,21g,9g,567mg,52g,2g,32g,17g,27mg,1mg,80mg,4.9,546,31mg,0mg,
+27,6649143,15 mins, 1 hr, 1 hr 15 mins,20 ,5 quarts,20,253,14g,7g,340mg,33g,1g,24g,1g,23mg,0mg,52mg,4.8,"2,388",24mg,,
+28,6572013,15 mins,50 mins, 1 hr 5 mins,8 ,,8,631,42g,18g,788mg,62g,2g,34g,6g,59mg,1mg,220mg,4.9,33,62mg,,
+29,6738246,5 mins,10 mins,20 mins,16 ,,16,173,9g,2g,282mg,24g,1g,15g,1g,15mg,0mg,46mg,4.7,474,,,5 mins
+30,6739445,15 mins,50 mins, 1 hr 35 mins,11 ,11 servings,11,349,22g,8g,314mg,37g,2g,26g,4g,40mg,1mg,158mg,4.8,28,28mg,,30 mins
+31,6570835,7 mins,8 mins,30 mins,32 ,16 cups,32,147,9g,4g,184mg,15g,1g,10g,2g,17mg,0mg,50mg,4.6,62,9mg,,15 mins
+32,6589056,10 mins,,10 mins,5 ,10 cups,5,353,19g,12g,149mg,46g,2g,30g,2g,26mg,1mg,84mg,4.5,14,49mg,,
+33,6601970,20 mins,5 mins,55 mins,16 ,16 balls,16,249,11g,4g,107mg,35g,3g,19g,5g,22mg,1mg,154mg,4.6,27,8mg,,30 mins
+34,6596566,5 mins,15 mins,30 mins,40 ,10 quarts,40,159,7g,4g,111mg,25g,1g,16g,1g,23mg,0mg,48mg,4.7,78,13mg,0mg,10 mins
+35,6568642,5 mins,15 mins,20 mins,8 ,,8,562,30g,16g,416mg,75g,3g,50g,3g,41mg,1mg,113mg,4.6,53,61mg,0mg,
+36,6591754,20 mins, 1 hr 21 mins, 1 hr 41 mins,16 ,16 servings,16,544,37g,10g,659mg,55g,5g,22g,8g,45mg,2mg,302mg,5.0,7,,,
+37,6592861,15 mins, 1 hr 10 mins, 1 hr 25 mins,24 ,24 cups,24,276,17g,7g,329mg,31g,1g,20g,3g,24mg,1mg,113mg,4.9,8,20mg,,
+38,6599117,,,,25 ,5 quarts,25,347,20g,6g,181mg,40g,5g,20g,6g,40mg,1mg,182mg,4.4,65,20mg,,
+39,6737990,15 mins, 1 hr 30 mins, 1 hr 45 mins,6 ,6 servings,6,1247,73g,27g,2039mg,135g,7g,74g,24g,120mg,6mg,657mg,4.8,9,102mg,1mg,
+40,6605280,10 mins,30 mins,41 mins,16 ,16 servings,16,335,12g,9g,179mg,58g,2g,23g,2g,20mg,1mg,71mg,3.0,1,,,1 mins
+41,6594348,15 mins, 1 hr 10 mins, 1 hr 25 mins,4 ,4 servings,4,1103,64g,28g,1387mg,133g,11g,81g,12g,136mg,3mg,524mg,4.7,19,61mg,0mg,
+42,6586516,25 mins,10 mins,50 mins,20 ,20 balls,20,340,19g,4g,357mg,43g,1g,27g,3g,73mg,1mg,121mg,4.0,1,7mg,1mg,15 mins
+43,6600985,10 mins, 1 hr 5 mins, 2 hrs 15 mins,25 ,25 servings,25,233,14g,4g,337mg,26g,3g,12g,3g,33mg,1mg,126mg,4.5,4,10mg,, 1 hr
+44,6571270,15 mins,5 mins,25 mins,12 ,12 servings,12,300,11g,4g,244mg,50g,2g,31g,3g,69mg,1mg,135mg,4.8,6,16mg,1mg,5 mins
+45,6589347,10 mins,50 mins, 1 hr 15 mins,20 ,20 cups,20,248,14g,7g,221mg,31g,1g,26g,1g,24mg,1mg,82mg,5.0,2,24mg,0mg,15 mins
+46,6588566,10 mins, 1 hr 12 mins, 1 hr 22 mins,10 ,10 servings,10,439,22g,12g,449mg,63g,2g,47g,2g,45mg,1mg,94mg,4.9,14,49mg,,
+47,6586436,15 mins,50 mins, 1 hr 50 mins,8 ,8 servings,8,789,46g,28g,864mg,97g,4g,74g,5g,76mg,2mg,265mg,4.0,5,65mg,0mg,45 mins
+48,6599386,45 mins,7 mins, 1 hr 2 mins,12 ,12 popcorn balls,12,312,6g,3g,207mg,67g,0g,48g,0g,36mg,1mg,213mg,,,10mg,,10 mins
+49,6575497,20 mins,25 mins,45 mins,8 ,8 cups,8,300,13g,6g,185mg,45g,4g,22g,3g,23mg,1mg,103mg,4.6,160,23mg,,
+50,6588125,15 mins,15 mins,50 mins,32 ,32 cups,32,266,13g,8g,249mg,39g,1g,22g,2g,22mg,1mg,68mg,4.3,4,31mg,,20 mins
+51,6585056,,,,10 ,2 quarts,10,243,6g,2g,121mg,48g,3g,25g,3g,6mg,1mg,67mg,4.0,2,6mg,,
+52,6648306,10 mins,35 mins, 1 hr 45 mins,16 ,2 quarts,16,186,12g,5g,164mg,19g,2g,10g,3g,9mg,1mg,95mg,4.6,99,15mg,, 1 hr
+53,6650564,10 mins,5 mins, 1 hr 15 mins,24 ,12 cups,24,158,10g,5g,98mg,16g,1g,11g,2g,57mg,0mg,19mg,5.0,4,6mg,, 1 hr
+54,6576140,5 mins,10 mins,15 mins,12 ,6 cups,12,94,5g,1g,0mg,12g,1g,6g,1g,2mg,0mg,31mg,3.5,4,,,
+55,6584099,10 mins,32 mins,42 mins,16 ,8 cups,16,138,8g,4g,103mg,17g,1g,11g,1g,4mg,0mg,33mg,5.0,3,15mg,,
+56,6578777,10 mins,5 mins,15 mins,14 ,14 servings,14,526,15g,6g,78mg,88g,16g,13g,14g,65mg,3mg,335mg,,,6mg,,
+57,6594676,15 mins,10 mins, 1 hr 25 mins,15 ,15 servings,15,348,19g,9g,99mg,45g,3g,31g,2g,18mg,1mg,77mg,5.0,4,34mg,0mg, 1 hr
+58,6579716,10 mins,15 mins,25 mins,8 ,8 popcorn balls,8,237,11g,6g,87mg,35g,2g,18g,2g,5mg,0mg,41mg,4.6,213,23mg,,
+59,6649844,10 mins,10 mins,20 mins,20 ,,20,165,5g,1g,71mg,31g,1g,25g,1g,4mg,0mg,20mg,4.5,491,0mg,0mg,
+60,6600711,10 mins,15 mins,25 mins,10 ,10 to 3 - inch round balls,10,458,19g,7g,317mg,75g,2g,49g,2g,8mg,0mg,44mg,4.4,195,24mg,0mg,

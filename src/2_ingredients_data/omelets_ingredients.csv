@@ -1,0 +1,503 @@
+,id_recipe,Quantity,Unit of Measure,Ingredient
+0,6664109,2,,eggs
+1,6664109,1,cup,torn baby spinach leaves
+2,6664109,1 ½,tablespoons,grated Parmesan cheese
+3,6664109,¼,teaspoon,onion powder
+4,6664109,⅛,teaspoon,ground nutmeg
+5,6664109,,,salt and pepper to taste
+6,6650003,3,large,eggs
+7,6650003,1,tablespoon,butter
+8,6650003,¼,cup,diced smoked ham
+9,6650003,2,tablespoons,diced onion
+10,6650003,2,tablespoons,diced green bell pepper
+11,6650003,,,salt and freshly ground black pepper to taste
+12,6650003,⅓,cup,shredded Cheddar cheese
+13,6650003,1,pinch,cayenne pepper
+14,6585397,3,large,eggs
+15,6585397,1,tablespoon,"milk, or as needed"
+16,6585397,,,salt and freshly ground white pepper to taste
+17,6585397,2,tablespoons,butter
+18,6585397,¼,cup,shredded Emmentaler cheese
+19,6596719,2,teaspoons,vegetable oil
+20,6596719,4,slices,"deli ham, chopped into small pieces"
+21,6596719,2,,eggs
+22,6596719,2,teaspoons,"chopped fresh chives, divided"
+23,6596719,¼,teaspoon,salt
+24,6596719,,,freshly ground black pepper to taste
+25,6596719,¼,cup,shredded Cheddar cheese
+26,6648524,3,large,fresh eggs
+27,6648524,½,teaspoon,cold water
+28,6648524,¼,teaspoon,kosher salt
+29,6648524,2,tablespoons,"unsalted butter, divided"
+30,6648524,1,pinch,cayenne or white pepper to taste (Optional)
+31,6664575,1,teaspoon,butter
+32,6664575,9,large,eggs
+33,6664575,½,cup,sour cream
+34,6664575,½,cup,milk
+35,6664575,1,teaspoon,salt
+36,6664575,2,,"green onions, chopped"
+37,6664575,¼,cup,shredded Cheddar cheese
+38,6663841,2,tablespoons,"butter, divided"
+39,6663841,1,small,"onion, chopped"
+40,6663841,1,,"green bell pepper, chopped"
+41,6663841,¾,teaspoon,"salt, divided"
+42,6663841,4,large,eggs
+43,6663841,2,tablespoons,milk
+44,6663841,⅛,teaspoon,freshly ground black pepper
+45,6663841,2,ounces,shredded Swiss cheese
+46,6739680,8,large,eggs
+47,6739680,1,cup,milk
+48,6739680,½,cup,shredded Cheddar cheese
+49,6739680,½,cup,shredded mozzarella cheese
+50,6739680,3,ounces,"cooked ham, diced"
+51,6739680,1,tablespoon,dried minced onion
+52,6739680,½,teaspoon,seasoning salt
+53,6739105,½,cup,olive oil
+54,6739105,½,pound,"potatoes, thinly sliced"
+55,6739105,,,salt and pepper to taste
+56,6739105,1,large,"onion, thinly sliced"
+57,6739105,4,large,eggs
+58,6739105,2,medium,"tomatoes - peeled, seeded, and coarsely chopped"
+59,6739105,2,,"green onions, chopped"
+60,6663314,3,large,egg whites
+61,6663314,1,large,egg
+62,6663314,1,tablespoon,grated Parmesan cheese
+63,6663314,1,tablespoon,shredded reduced-fat Cheddar cheese
+64,6663314,¼,teaspoon,salt
+65,6663314,⅛,teaspoon,red pepper flakes
+66,6663314,⅛,teaspoon,garlic powder
+67,6663314,⅛,teaspoon,ground nutmeg
+68,6663314,⅛,teaspoon,ground black pepper
+69,6663314,½,teaspoon,olive oil
+70,6663314,½,cup,sliced fresh mushrooms
+71,6663314,¼,cup,diced green onions
+72,6663314,2,tablespoons,finely chopped red bell pepper
+73,6663314,1,cup,torn fresh spinach
+74,6663314,½,cup,diced fresh tomato
+75,6738303,2,tablespoons,butter
+76,6738303,½,,"onion, chopped"
+77,6738303,½,,"green bell pepper, chopped"
+78,6738303,1,cup,chopped cooked ham
+79,6738303,8,,eggs
+80,6738303,¼,cup,milk
+81,6738303,½,cup,shredded Cheddar cheese
+82,6738303,,,salt and ground black pepper to taste
+83,6597955,,,cooking spray
+84,6597955,3,,egg whites
+85,6597955,,,salt and ground black pepper to taste
+86,6597955,¼,cup,"chopped fresh spinach, or more to taste"
+87,6597955,6,,"cherry tomatoes, sliced"
+88,6597955,2,tablespoons,crumbled feta cheese
+89,6595839,2,tablespoons,butter
+90,6595839,½,cup,"mushrooms, sliced"
+91,6595839,2,cloves,"garlic, minced"
+92,6595839,½,(10 ounce) package,fresh spinach
+93,6595839,6,large,"eggs, slightly beaten"
+94,6595839,,,salt and ground black pepper to taste
+95,6595839,3,tablespoons,"cream cheese, cut into small pieces"
+96,6740047,4,slices,bacon
+97,6740047,3,,eggs
+98,6740047,1,teaspoon,water
+99,6740047,,,cooking spray
+100,6740047,1,tablespoon,butter
+101,6740047,½,,"white onion, diced"
+102,6586939,12,,"eggs, lightly beaten"
+103,6586939,3,slices,"cooked ham, chopped"
+104,6586939,3,slices,"cooked turkey meat, chopped"
+105,6586939,3,,"green onions, sliced"
+106,6586939,1,,"tomato, diced"
+107,6586939,1,sprig,"fresh parsley, chopped"
+108,6586939,½,medium,"green bell pepper, diced"
+109,6586939,1,(8 ounce) package,shredded Cheddar cheese
+110,6649623,2 ½,cups,cubed zucchini
+111,6649623,2 ½,cups,cubed yellow summer squash
+112,6649623,2,tablespoons,kosher salt
+113,6649623,2,tablespoons,"olive oil, divided"
+114,6649623,1,slice,"thick-cut bacon, cut crosswise into 1/4-inch strips"
+115,6649623,8,large,eggs
+116,6649623,¼,teaspoon,"kosher salt, or to taste"
+117,6649623,,,freshly ground black pepper to taste
+118,6649623,1,pinch,cayenne pepper
+119,6649623,2,tablespoons,"sliced green onions, or to taste"
+120,6649623,⅓,cup,diced red onion
+121,6649623,1,cup,diced sweet peppers
+122,6649623,2,ounces,grated sharp Cheddar cheese
+123,6649623,4,ounces,"goat cheese, crumbled"
+124,6569132,2,teaspoons,"butter, divided"
+125,6569132,⅓,cup,sliced fresh mushrooms (Optional)
+126,6569132,¼,cup,chopped green bell pepper
+127,6569132,2,,"green onions, sliced on the bias"
+128,6569132,¼,cup,cooked ham strips
+129,6569132,,,salt and ground black pepper to taste
+130,6569132,2,,eggs
+131,6603824,1,cup,halved grape tomatoes
+132,6603824,1,teaspoon,"dried oregano, divided"
+133,6603824,½,teaspoon,"salt, divided"
+134,6603824,,,"Black pepper, to taste"
+135,6603824,½,cup,crumbled feta cheese (can use reduced-fat)
+136,6603824,8,,large eggs
+137,6603824,1,(10 ounce) package,"chopped frozen spinach, thawed and squeezed dry"
+138,6603824,1,tablespoon,olive oil
+139,6603485,2,tablespoons,olive oil
+140,6603485,6,spears,"fresh asparagus, trimmed and chopped"
+141,6603485,½,,"red bell pepper, chopped"
+142,6603485,½,cup,"cherry tomatoes, halved"
+143,6603485,½,cup,chopped fresh spinach
+144,6603485,½,teaspoon,minced garlic
+145,6603485,½,teaspoon,dried oregano
+146,6603485,½,teaspoon,dried basil
+147,6603485,,,salt to taste
+148,6603485,2,tablespoons,butter
+149,6603485,6,,large eggs
+150,6603485,¼,cup,whole milk
+151,6603485,½,cup,crumbled feta cheese
+152,6603485,¼,cup,shredded Cheddar cheese
+153,6586141,2,,eggs
+154,6586141,1,tablespoon,water
+155,6586141,1,teaspoon,soy sauce
+156,6586141,1,teaspoon,white sugar
+157,6593414,2,tablespoons,olive oil
+158,6593414,1,small,"potato, peeled and diced"
+159,6593414,1,,"onion, chopped"
+160,6593414,2,cloves,"garlic, minced"
+161,6593414,¼,pound,"fresh crabmeat, drained and flaked"
+162,6593414,,,salt and pepper to taste
+163,6593414,1,small,"tomato, diced"
+164,6593414,1,(1.5 ounce) box,raisins
+165,6593414,¼,cup,peas
+166,6593414,1,,"red bell pepper, chopped"
+167,6593414,3,,"eggs, beaten"
+168,6738074,1,tablespoon,olive oil
+169,6738074,2,teaspoons,unsalted butter
+170,6738074,1,tablespoon,chopped fresh shiitake mushroom
+171,6738074,1,,"shallot, finely chopped"
+172,6738074,¼,teaspoon,salt
+173,6738074,1,,"fresh sage leaf, minced"
+174,6738074,¼,teaspoon,crushed red pepper flakes
+175,6738074,¼,cup,shredded cooked turkey
+176,6738074,1,teaspoon,dry vermouth (Optional)
+177,6738074,2,,"eggs, chilled"
+178,6738074,1,pinch,ground white pepper
+179,6738074,2,teaspoons,olive oil
+180,6738074,1,tablespoon,creme fraiche
+181,6596511,,,cooking spray (Optional)
+182,6596511,5,,eggs
+183,6596511,2,tablespoons,heavy whipping cream
+184,6596511,1,teaspoon,salt
+185,6596511,½,teaspoon,ground black pepper
+186,6596511,1,cup,shredded Swiss cheese
+187,6596511,4,ounces,"Black Forest ham, chopped"
+188,6596511,¼,cup,finely chopped green onions
+189,6738952,2,,eggs
+190,6738952,¼,teaspoon,water
+191,6738952,1,teaspoon,olive oil
+192,6738952,1,ounce,"freshly grated Parmigiano-Reggiano cheese, or a little less"
+193,6738952,,,kosher salt and freshly ground black pepper to taste
+194,6738952,1,pinch,cayenne pepper
+195,6606070,¼,cup,chicken broth
+196,6606070,1,tablespoon,Dijon mustard
+197,6606070,¼,cup,heavy cream
+198,6606070,2,tablespoons,butter
+199,6606070,1,(6 ounce) can,crab
+200,6606070,1,(6 ounce) can,salad shrimp
+201,6737525,2,tablespoons,olive oil
+202,6737525,3,large,"eggs, beaten"
+203,6737525,1,tablespoon,"crumbled goat cheese, or to taste"
+204,6737525,2,teaspoons,"chopped chives, divided, or to taste"
+205,6737525,,,sea salt and ground black pepper to taste
+206,6569262,4,ounces,"cream cheese, softened"
+207,6569262,½,cup,fresh cilantro leaves
+208,6569262,,,salt and pepper to taste
+209,6569262,3,tablespoons,"butter, divided"
+210,6569262,8,large,"eggs, divided"
+211,6603226,3,,eggs
+212,6603226,¾,cup,feta cheese
+213,6603226,½,,"avocado, diced"
+214,6603226,½,cup,diced tomatoes
+215,6603226,¼,cup,chopped Kalamata olives
+216,6603226,1,tablespoon,chopped fresh basil
+217,6594077,2,tablespoons,butter
+218,6594077,½,cup,sliced fresh mushrooms
+219,6594077,4,,"eggs, separated"
+220,6594077,2,tablespoons,milk
+221,6594077,1,cup,cooked crabmeat
+222,6594077,1,cup,shredded Swiss cheese
+223,6595341,4,large,"eggs, beaten"
+224,6595341,½,teaspoon,black pepper
+225,6595341,3,tablespoons,crumbled feta cheese
+226,6595341,1,teaspoon,milk
+227,6595341,1,tablespoon,vegetable oil
+228,6603916,1,(8 ounce) carton,liquid egg substitute
+229,6603916,1,tablespoon,shredded Cheddar cheese
+230,6603916,1,tablespoon,shredded Parmesan cheese
+231,6603916,¼,teaspoon,salt
+232,6603916,⅛,teaspoon,ground black pepper
+233,6603916,⅛,teaspoon,garlic powder
+234,6603916,⅛,teaspoon,red pepper flakes
+235,6603916,1,teaspoon,olive oil
+236,6603916,½,cup,chopped fresh mushrooms
+237,6603916,1,tablespoon,chopped onion
+238,6603916,½,cup,"chopped fresh spinach, or more to taste"
+239,6579934,4,strips,bacon
+240,6579934,1,teaspoon,butter
+241,6579934,½,,"sweet onion, diced"
+242,6579934,3,jumbo,eggs
+243,6579934,2,tablespoons,water
+244,6579934,¼,cup,shredded sharp Cheddar cheese
+245,6579934,1,slice,"process American cheese, diced"
+246,6579934,⅛,teaspoon,salt
+247,6579934,⅛,teaspoon,crushed red pepper flakes
+248,6578277,,,cooking spray
+249,6578277,2,tablespoons,chopped onion
+250,6578277,2,tablespoons,chopped green bell pepper
+251,6578277,2,tablespoons,chopped mushrooms
+252,6578277,,,salt and ground black pepper to taste
+253,6578277,1,(32 ounce) container,refrigerated pasteurized egg white substitute (such as Egg Beaters Whites®)
+254,6741594,2,,eggs
+255,6741594,1,tablespoon,milk
+256,6741594,,,salt and ground black pepper to taste
+257,6741594,1,teaspoon,coconut oil
+258,6741594,2,,"mushrooms, chopped"
+259,6741594,1,,"green onions (green parts only), minced"
+260,6741594,1,tablespoon,"shredded Cheddar cheese, or to taste"
+261,6738804,4,,eggs
+262,6738804,4,tablespoons,prepared dashi stock
+263,6738804,1,tablespoon,white sugar
+264,6738804,1,teaspoon,mirin (Japanese sweet wine)
+265,6738804,½,teaspoon,soy sauce
+266,6738804,½,tablespoon,vegetable oil
+267,6600050,1,cup,cooked white or brown rice
+268,6600050,2,thin slices,"cooked ham, cubed"
+269,6600050,2,tablespoons,ketchup
+270,6600050,1,slice,processed cheese food (Optional)
+271,6600050,2,,eggs
+272,6600050,,,"salt and pepper, to taste"
+273,6600050,1,tablespoon,ketchup
+274,6600050,¼,teaspoon,chopped fresh parsley
+275,6586151,,,cooking spray
+276,6586151,8,large,eggs
+277,6586151,1,cup,milk
+278,6586151,,,salt and pepper to taste
+279,6586151,2,cups,diced ham
+280,6586151,1,cup,shredded American cheese
+281,6737748,3,large,eggs
+282,6737748,1,pinch,salt
+283,6737748,1,pinch,cayenne pepper
+284,6737748,1,teaspoon,chopped fresh parsley
+285,6737748,½,teaspoon,chopped fresh marjoram
+286,6737748,½,teaspoon,chopped fresh thyme
+287,6737748,3,tablespoons,grated sharp white Cheddar cheese
+288,6737748,2,teaspoons,olive oil
+289,6586395,2,tablespoons,"olive oil, divided"
+290,6586395,1,medium,"onion, diced"
+291,6586395,½,cup,sliced fresh mushrooms
+292,6586395,¼,cup,diced green bell pepper
+293,6586395,1,clove,"garlic, crushed"
+294,6586395,12,,"medium shrimp, peeled and deveined"
+295,6586395,5,large,eggs
+296,6586395,½,cup,milk
+297,6586395,1,teaspoon,curry powder
+298,6586395,,,salt and ground black pepper to taste
+299,6586395,4,ounces,shredded Cheddar cheese
+300,6586395,1,medium,"tomato, sliced"
+301,6739528,8,,eggs
+302,6739528,8,ounces,"cooked ham, crumbled"
+303,6739528,1,cup,diced red bell pepper
+304,6739528,1,cup,diced onion
+305,6739528,¼,teaspoon,salt
+306,6739528,⅛,teaspoon,ground black pepper
+307,6739528,2,tablespoons,water
+308,6594360,3,tablespoons,"olive oil, or as needed"
+309,6594360,¼,cup,chopped onion
+310,6594360,¼,cup,chopped green pepper
+311,6594360,1,pound,"ham steak, cut into small pieces"
+312,6594360,1,teaspoon,garlic salt
+313,6594360,5,,large eggs
+314,6594360,4,,"asparagus spears, chopped"
+315,6594360,2,tablespoons,milk (Optional)
+316,6594360,2,slices,Provolone cheese
+317,6575752,2,,egg whites
+318,6575752,3,tablespoons,white sugar
+319,6575752,3,tablespoons,all-purpose flour
+320,6575752,¼,teaspoon,baking powder
+321,6575752,1,pinch,salt
+322,6575752,3,tablespoons,milk
+323,6575752,2,,"egg yolks, beaten"
+324,6575752,1,tablespoon,lemon juice
+325,6575752,1,teaspoon,butter
+326,6575752,1,large,"apple - peeled, cored and thinly sliced"
+327,6575752,¼,teaspoon,ground cinnamon
+328,6575752,1,tablespoon,white sugar
+329,6586244,2,ounces,cream cheese
+330,6586244,1,tablespoon,crumbled blue cheese
+331,6586244,1,tablespoon,buffalo sauce (Optional)
+332,6586244,1,ounce,"cubed, cooked chicken"
+333,6586244,1 ½,tablespoons,ranch dressing
+334,6586244,3,,eggs
+335,6586244,,,nonstick cooking spray
+336,6586244,½,tablespoon,"buffalo sauce, or to taste (Optional)"
+337,6562643,2,cups,extra-virgin olive oil
+338,6562643,2,pounds,"Yukon Gold potatoes, peeled and thinly sliced"
+339,6562643,1,medium,"onion, thinly sliced"
+340,6562643,2,teaspoons,"pink Himalayan salt, divided"
+341,6562643,6,large,eggs
+342,6562643,1,teaspoon,"olive oil, or more to taste"
+343,6604556,1,tablespoon,olive oil
+344,6604556,1,small,"onion, chopped"
+345,6604556,1,,"garlic clove, chopped"
+346,6604556,12,ounces,soy chorizo (such as Trader Joe's®)
+347,6604556,4,,eggs
+348,6604556,⅓,cup,milk
+349,6604556,,,salt to taste
+350,6589996,2,extra large,eggs
+351,6589996,2,tablespoons,crumbled cooked bacon
+352,6589996,2,tablespoons,shredded Cheddar cheese
+353,6589996,2,teaspoons,diced onion
+354,6589996,1,teaspoon,diced bell pepper
+355,6589996,1,teaspoon,thinly sliced mushroom
+356,6589996,½,teaspoon,ground black pepper
+357,6589996,¼,teaspoon,ground paprika
+358,6589996,¼,teaspoon,garlic powder
+359,6589996,1,pinch,salt to taste
+360,6736858,½,(1 pound) loaf,"white bread, cut into cubes"
+361,6736858,1 ½,pounds,"Cheddar cheese, shredded"
+362,6736858,1,cup,cubed cooked ham
+363,6736858,8,,eggs
+364,6736858,2,cups,milk
+365,6736858,1,pinch,salt
+366,6736858,1,dash,"hot pepper sauce, or to taste"
+367,6736858,¼,cup,chopped green onion
+368,6599309,5,,eggs
+369,6599309,4,tablespoons,whole milk
+370,6599309,4,tablespoons,sunflower seeds
+371,6599309,1,teaspoon,roasted flax seeds
+372,6599309,1,teaspoon,dried chervil
+373,6599309,½,teaspoon,dried Italian herbs
+374,6599309,1,small,"clove garlic, minced"
+375,6599309,½,teaspoon,sea salt
+376,6599309,1,teaspoon,freshly ground black pepper
+377,6599309,1,tablespoon,olive oil
+378,6599309,¼,teaspoon,dried basil
+379,6599309,3,slices,Gouda cheese
+380,6599309,4,leaves,"fresh basil, chopped"
+381,6588281,2,slices,bacon
+382,6588281,1,tablespoon,chopped onion
+383,6588281,¼,pound,lean ground beef
+384,6588281,1,tablespoon,Worcestershire sauce
+385,6588281,1,tablespoon,mustard
+386,6588281,1,tablespoon,ketchup
+387,6588281,2,,eggs
+388,6588281,1,tablespoon,milk
+389,6588281,2,tablespoons,chopped tomatoes
+390,6588281,2,tablespoons,chopped pickles
+391,6588281,2,tablespoons,shredded Cheddar cheese
+392,6588281,2,tablespoons,chopped lettuce
+393,6588281,⅛,cup,"shoestring potatoes, or to taste (Optional)"
+394,6597119,3,,eggs
+395,6597119,1,splash,water
+396,6597119,,,salt and ground black pepper to taste
+397,6597119,1,tablespoon,butter
+398,6597119,3,,"Buffalo wings, meat removed and cut into small pieces"
+399,6597119,1,teaspoon,Buffalo wing sauce (such as Frank's RedHot®)
+400,6597119,¼,cup,crumbled blue cheese
+401,6599220,2,tablespoons,butter
+402,6599220,½,,"green bell pepper, chopped"
+403,6599220,½,,"red bell pepper, chopped"
+404,6599220,½,,"Bermuda onion, sliced"
+405,6599220,7,,"baby portobello mushrooms, sliced"
+406,6599220,½,pound,beef tip
+407,6599220,½,cup,egg substitute
+408,6573716,1,teaspoon,olive oil
+409,6573716,1,,"portobello mushroom cap, sliced"
+410,6573716,¼,cup,chopped red onion
+411,6573716,4,,egg whites
+412,6573716,1,teaspoon,water
+413,6573716,,,salt and ground black pepper to taste
+414,6573716,¼,cup,shredded low-fat mozzarella cheese
+415,6573716,1,teaspoon,prepared pesto
+416,6572317,3,,eggs
+417,6572317,1,tablespoon,water
+418,6572317,1,tablespoon,spicy chili crisp sauce
+419,6572317,1,tablespoon,butter
+420,6572317,¼,cup,diced ham
+421,6572317,⅓,cup,shredded Cheddar cheese
+422,6574414,1,slice,bacon
+423,6574414,3,,eggs
+424,6574414,¼,cup,milk
+425,6574414,2,teaspoons,vegetable oil
+426,6574414,½,large,"tomato, diced"
+427,6574414,2,thin slices,"tomato, halved"
+428,6574414,5,ounces,thinly sliced deli turkey
+429,6574414,¼,cup,shredded Monterey Jack cheese
+430,6574414,¼,cup,prepared hollandaise sauce
+431,6574414,1,pinch,dried parsley
+432,6584169,4,large,eggs
+433,6584169,4,ounces,"cooked, shredded chicken breast"
+434,6584169,½,cup,"chopped onion, or more to taste"
+435,6584169,½,cup,chopped broccoli
+436,6584169,1,tablespoon,coconut aminos
+437,6584169,½,teaspoon,garlic powder
+438,6584169,½,teaspoon,sea salt
+439,6584169,¼,teaspoon,ground black pepper
+440,6584169,2,tablespoons,"avocado oil, divided"
+441,6584169,1,stalk,"green onion, thinly sliced (green part only)"
+442,6592072,¼,cup,butter
+443,6592072,3,large,"apples - peeled, cored and diced"
+444,6592072,6,,"eggs, lightly beaten"
+445,6592072,1,pinch,salt
+446,6592072,1,pinch,black pepper
+447,6592072,¼,cup,heavy cream
+448,6592072,1,teaspoon,white sugar
+449,6572980,1,tablespoon,water
+450,6572980,1,teaspoon,"soy sauce, or to taste (Optional)"
+451,6572980,½,teaspoon,white sugar
+452,6572980,1,,egg
+453,6577959,6,strips,bacon
+454,6577959,10,stalks,"asparagus, trimmed"
+455,6577959,1,teaspoon,"vegetable oil, or as needed"
+456,6577959,⅓,,"red onion, diced"
+457,6577959,½,,"tomato, diced"
+458,6577959,3,,"button mushrooms, sliced"
+459,6577959,5,,eggs
+460,6577959,3,tablespoons,heavy whipping cream
+461,6577959,1,pinch,freshly ground nutmeg
+462,6577959,,,salt and ground black pepper to taste
+463,6577959,½,cup,grated mozzarella cheese
+464,6582779,2,teaspoons,butter
+465,6582779,1,,"portobello mushroom, sliced"
+466,6582779,2,strips,"turkey bacon, chopped"
+467,6582779,¼,cup,chopped green bell pepper
+468,6582779,2,tablespoons,chopped onion
+469,6582779,2,tablespoons,shredded sharp Cheddar cheese
+470,6582779,3,,eggs
+471,6582779,,,salt and ground black pepper to taste
+472,6574239,,,cooking spray
+473,6574239,16,ounces,egg substitute
+474,6574239,1,(10 ounce) package,"frozen chopped spinach - thawed, drained, and squeezed dry"
+475,6574239,1,cup,diced bell peppers
+476,6574239,1,cup,shredded Cheddar cheese
+477,6574239,,,salt and ground black pepper to taste
+478,6573223,2,medium,red onions
+479,6573223,1,large,yellow onion
+480,6573223,8,large,eggs
+481,6573223,1,tablespoon,chili powder
+482,6573223,1,teaspoon,ground turmeric
+483,6573223,1,teaspoon,rock salt
+484,6573223,1,pinch,ground white pepper
+485,6573223,5,tablespoons,vegetable oil
+486,6584628,2,,eggs
+487,6584628,1 ½,teaspoons,prepared horseradish
+488,6584628,1,teaspoon,salt-free herb seasoning blend
+489,6584628,½,cup,shredded Cheddar cheese
+490,6584628,¼,cup,freshly grated Parmesan cheese
+491,6602946,2,leaves,green lettuce
+492,6602946,1,tablespoon,butter
+493,6602946,1,tablespoon,diced onion
+494,6602946,1,slice,"American cheese, cut in half"
+495,6602946,¼,pound,"cooked hamburger patty, cut in half"
+496,6602946,2,,eggs
+497,6602946,1,teaspoon,milk
+498,6602946,2,slices,"cooked bacon, crumbled"
+499,6602946,1,tablespoon,diced tomato
+500,6602946,1,tablespoon,diced dill pickle
+501,6602946,1,tablespoon,Thousand Island dressing

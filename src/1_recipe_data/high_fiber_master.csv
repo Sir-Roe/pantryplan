@@ -1,0 +1,64 @@
+,id_recipe,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Calcium,Iron,Potassium,Average_Review,Review_Count,Vitamin C,Cholesterol
+0,6564823,5 mins,40 mins,15 mins, 1 hr,10 ,5 cups,10,126,1g,0g,102mg,27g,5g,0g,5g,17mg,1mg,141mg,5.0,2,,
+1,6585801,10 mins,10 mins,,20 mins,8 ,8 servings,8,127,1g,0g,221mg,27g,5g,0g,5g,14mg,2mg,152mg,4.8,21,,
+2,6663120,5 mins,5 mins,10 mins,20 mins,6 ,,6,94,1g,0g,14mg,22g,2g,7g,3g,2mg,1mg,246mg,4.8,520,7mg,
+3,6649411,10 mins,15 mins,,25 mins,4 ,,4,121,0g,,3mg,32g,4g,27g,0g,13mg,0mg,150mg,4.8,"3,299",6mg,
+4,6649729,25 mins,5 mins, 3 hrs, 3 hrs 30 mins,10 ,,10,155,1g,0g,5mg,39g,5g,29g,2g,45mg,1mg,451mg,4.6,583,94mg,
+5,6664169,15 mins, 2 hrs, 8 hrs, 10 hrs 15 mins,6 ,,6,310,1g,0g,255mg,58g,22g,10g,20g,85mg,4mg,1084mg,4.7,"1,406",14mg,
+6,6648782,15 mins, 1 hr,, 1 hr 15 mins,8 ,,8,391,8g,1g,2571mg,59g,18g,12g,28g,230mg,12mg,1289mg,4.7,"2,252",80mg,
+7,6740897,30 mins, 2 hrs,, 2 hrs 30 mins,8 ,,8,234,6g,2g,1135mg,26g,7g,9g,22g,137mg,5mg,907mg,4.8,353,66mg,39mg
+8,6663877,20 mins,25 mins,,45 mins,15 ,,15,90,1g,0g,483mg,21g,6g,12g,4g,100mg,2mg,769mg,4.5,"2,175",77mg,
+9,6663158,5 mins,25 mins,,30 mins,6 ,,6,140,1g,0g,354mg,27g,6g,1g,6g,39mg,2mg,298mg,4.3,"1,299",3mg,
+10,6649210,10 mins, 4 hrs 10 mins,, 4 hrs 20 mins,6 ,,6,382,6g,2g,1320mg,63g,17g,20g,21g,141mg,5mg,1174mg,4.6,"1,368",7mg,14mg
+11,6663481,15 mins,15 mins,,30 mins,6 ,,6,369,5g,1g,789mg,65g,7g,7g,18g,110mg,2mg,568mg,4.3,495,76mg,35mg
+12,6650156,10 mins,,,10 mins,6 ,,6,151,0g,,3mg,45g,5g,33g,1g,66mg,1mg,157mg,4.8,445,83mg,
+13,6650353,15 mins,30 mins,,45 mins,4 ,,4,289,7g,1g,304mg,53g,4g,4g,5g,31mg,2mg,972mg,4.6,"1,686",32mg,
+14,6663698,25 mins, 1 hr 40 mins,, 2 hrs 5 mins,8 ,,8,247,4g,1g,543mg,37g,14g,3g,17g,98mg,3mg,809mg,4.6,340,3mg,17mg
+15,6649313,15 mins,40 mins,,55 mins,4 ,,4,416,11g,3g,4890mg,46g,9g,12g,34g,139mg,2mg,1277mg,4.7,30,36mg,83mg
+16,6663849,40 mins,40 mins, 1 hr, 2 hrs 20 mins,8 ,1 9-inch pie,8,248,8g,2g,119mg,42g,5g,22g,3g,29mg,1mg,145mg,4.7,731,15mg,0mg
+17,6663169,2 mins,3 mins,,5 mins,3 ,,3,137,3g,0g,389mg,25g,5g,0g,4g,4mg,1mg,97mg,4.6,483,,
+18,6573552,5 mins, 1 hr,, 1 hr 5 mins,2 ,2 baked potatoes,2,344,7g,1g,462mg,65g,8g,3g,8g,44mg,8mg,1557mg,4.7,66,73mg,
+19,6740869,15 mins, 2 hrs, 8 hrs, 10 hrs 15 mins,7 ,,7,300,7g,2g,424mg,43g,11g,11g,19g,118mg,4mg,723mg,4.3,485,14mg,18mg
+20,6663460,10 mins,50 mins,, 1 hr,10 ,,10,385,1g,1g,168mg,91g,9g,,4g,105mg,2mg,939mg,4.5,61,7mg,3mg
+21,6648532,15 mins, 4 hrs,, 4 hrs 15 mins,8 ,,8,276,8g,2g,547mg,33g,11g,1g,21g,78mg,4mg,428mg,4.7,"1,654",24mg,42mg
+22,6651088,5 mins, 1 hr,, 1 hr 5 mins,4 ,,4,181,7g,1g,115mg,28g,4g,9g,3g,52mg,1mg,643mg,4.6,705,26mg,0mg
+23,6650922,5 mins,,,5 mins,2 ,,2,146,1g,1g,45mg,31g,3g,22g,5g,132mg,1mg,519mg,4.7,99,56mg,4mg
+24,6651175,5 mins,,,5 mins,2 ,,2,142,4g,1g,63mg,21g,3g,,7g,41mg,2mg,217mg,4.4,"1,230",,
+25,6664168,15 mins, 2 hrs 35 mins,, 2 hrs 50 mins,8 ,,8,207,5g,1g,571mg,23g,7g,6g,18g,33mg,2mg,627mg,4.8,52,2mg,27mg
+26,6741703,10 mins,,,10 mins,1 ,,1,257,5g,1g,143mg,47g,6g,26g,10g,90mg,3mg,899mg,4.8,81,18mg,
+27,6665040,10 mins,,,10 mins,4 ,,4,118,1g,0g,16mg,29g,4g,20g,2g,36mg,1mg,443mg,4.4,81,129mg,
+28,6598703,15 mins, 1 hr,10 mins, 1 hr 25 mins,8 ,,8,236,3g,1g,973mg,39g,9g,3g,15g,73mg,3mg,880mg,4.9,46,32mg,7mg
+29,6649234,15 mins,20 mins,,35 mins,4 ,4 burgers,4,198,3g,1g,607mg,33g,10g,2g,11g,99mg,4mg,515mg,4.4,"3,734",19mg,47mg
+30,6664771,30 mins, 1 hr 30 mins,, 2 hrs,8 ,2 quarts,8,133,4g,1g,132mg,23g,7g,11g,4g,113mg,2mg,802mg,4.7,133,81mg,
+31,6664066,40 mins, 2 hrs 30 mins,, 3 hrs 10 mins,12 ,,12,424,8g,2g,276mg,74g,10g,8g,19g,94mg,5mg,1874mg,4.7,9,59mg,30mg
+32,6596120,10 mins,30 mins,,40 mins,8 ,,8,289,6g,2g,808mg,42g,8g,4g,16g,63mg,3mg,181mg,4.4,558,17mg,35mg
+33,6648900,10 mins,20 mins,,30 mins,4 ,4 servings,4,283,9g,1g,75mg,48g,6g,2g,6g,41mg,2mg,1134mg,4.1,251,53mg,4mg
+34,6663794,20 mins,35 mins, 2 hrs 30 mins, 3 hrs 25 mins,14 ,1 loaf,14,148,5g,0g,191mg,23g,3g,1g,4g,17mg,4mg,127mg,4.8,274,1mg,
+35,6650486,15 mins,35 mins,,50 mins,6 ,,6,116,1g,0g,640mg,24g,5g,6g,4g,38mg,1mg,593mg,4.7,549,40mg,2mg
+36,6581209,10 mins,10 mins,,20 mins,4 ,,4,150,5g,1g,629mg,20g,9g,11g,14g,956mg,7mg,2294mg,4.5,125,409mg,
+37,6568102,25 mins,15 mins,,40 mins,4 ,,4,501,9g,2g,145mg,105g,15g,17g,12g,374mg,6mg,2524mg,4.5,184,143mg,49mg
+38,6664200,25 mins,30 mins,,55 mins,8 ,,8,277,5g,1g,372mg,51g,10g,5g,10g,171mg,5mg,1042mg,4.7,686,106mg,
+39,6663156,5 mins,,,5 mins,1 ,1 smoothie,1,313,1g,0g,10mg,79g,6g,53g,3g,57mg,2mg,941mg,4.6,177,93mg,
+40,6596545,10 mins,40 mins,10 mins, 1 hr,8 ,1 (8 x 4-inch) loaf,8,229,20g,2g,309mg,7g,4g,1g,9g,100mg,1mg,78mg,4.4,174,,93mg
+41,6650067,5 mins,10 mins,,15 mins,1 ,,1,107,1g,0g,1mg,27g,3g,14g,1g,6mg,0mg,422mg,4.5,10,10mg,
+42,6664141,35 mins,25 mins,, 1 hr,2 ,,2,659,13g,2g,2565mg,112g,9g,20g,26g,108mg,7mg,756mg,4.5,113,21mg,36mg
+43,6737966,10 mins,40 mins,,50 mins,8 ,,8,192,3g,0g,572mg,33g,11g,7g,12g,44mg,6mg,727mg,4.5,"1,432",9mg,
+44,6576293,15 mins,30 mins,,45 mins,10 ,,10,165,1g,0g,882mg,22g,5g,6g,18g,121mg,3mg,810mg,4.6,192,10mg,52mg
+45,6577578,15 mins,30 mins,,45 mins,4 ,,4,260,7g,1g,236mg,42g,5g,8g,10g,86mg,2mg,710mg,4.4,263,31mg,4mg
+46,6651040,10 mins, 7 hrs 20 mins,, 7 hrs 30 mins,10 ,5 cups,10,122,0g,,196mg,26g,5g,12g,5g,53mg,2mg,364mg,4.5,133,2mg,
+47,6739258,15 mins, 3 hrs,, 3 hrs 15 mins,10 ,,10,176,4g,1g,402mg,32g,4g,18g,6g,77mg,2mg,390mg,4.6,184,3mg,10mg
+48,6649914,20 mins, 8 hrs,, 8 hrs 20 mins,12 ,,12,296,3g,1g,1312mg,57g,13g,23g,12g,118mg,4mg,741mg,4.2,334,7mg,5mg
+49,6650672,10 mins, 2 hrs,, 2 hrs 10 mins,8 ,,8,260,2g,0g,966mg,53g,13g,9g,12g,102mg,5mg,451mg,4.4,972,19mg,1mg
+50,6739668,2 mins,6 mins,2 mins,10 mins,1 ,,1,334,4g,1g,20mg,68g,6g,26g,8g,67mg,3mg,282mg,4.6,33,,
+51,6602814,15 mins,45 mins,, 1 hr,6 ,,6,147,1g,1g,9mg,37g,6g,27g,1g,29mg,0mg,240mg,4.4,95,10mg,2mg
+52,6737637,10 mins,,,10 mins,16 ,8 cups,16,188,6g,1g,4mg,32g,5g,9g,6g,29mg,2mg,257mg,4.8,190,1mg,
+53,6587558,10 mins, 4 hrs 10 mins,, 4 hrs 20 mins,10 ,,10,238,5g,1g,878mg,29g,9g,5g,20g,61mg,3mg,532mg,4.6,94,14mg,42mg
+54,6588343,5 mins,25 mins,5 mins,35 mins,4 ,,4,348,9g,1g,624mg,59g,7g,4g,10g,78mg,3mg,413mg,4.3,29,12mg,
+55,6650997,25 mins,, 1 hr 55 mins, 2 hrs 20 mins,10 ,1 large pizza crust,10,167,2g,0g,236mg,33g,4g,1g,6g,13mg,2mg,142mg,4.6,"1,094",,
+56,6569933,15 mins,55 mins,, 1 hr 10 mins,4 ,,4,334,9g,5g,57mg,59g,8g,6g,7g,92mg,4mg,1295mg,4.4,68,63mg,28mg
+57,6569846,10 mins, 1 hr, 1 hr 30 mins, 2 hrs 40 mins,8 ,1 loaf,8,198,5g,1g,340mg,35g,6g,3g,6g,52mg,1mg,48mg,4.7,31,,47mg
+58,6650513,15 mins,40 mins,,55 mins,6 ,,6,149,5g,1g,651mg,24g,4g,3g,4g,54mg,3mg,186mg,4.3,391,6mg,
+59,6738161,15 mins,35 mins,,50 mins,10 ,,10,153,2g,0g,517mg,28g,8g,2g,8g,41mg,2mg,333mg,4.7,"6,025",5mg,
+60,6737037,15 mins,35 mins,,50 mins,4 ,,4,225,4g,1g,758mg,37g,8g,6g,11g,122mg,5mg,953mg,4.6,531,16mg,2mg
+61,6739815,5 mins,15 mins,,20 mins,6 ,,6,214,5g,1g,1483mg,27g,7g,3g,17g,44mg,3mg,427mg,4.5,"2,206",6mg,32mg
+62,6650899,10 mins,,,10 mins,1 ,,1,349,8g,1g,195mg,53g,10g,25g,21g,200mg,14mg,936mg,4.7,62,132mg,

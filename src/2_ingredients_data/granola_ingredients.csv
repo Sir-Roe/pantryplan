@@ -1,0 +1,531 @@
+,id_recipe,Quantity,Unit of Measure,Ingredient
+0,6737713,2,cups,vanilla yogurt
+1,6737713,1,cup,granola
+2,6737713,8,,blackberries
+3,6663702,8,cups,rolled oats
+4,6663702,1 ½,cups,wheat germ
+5,6663702,1 ½,cups,oat bran
+6,6663702,1,cup,sunflower seeds
+7,6663702,1,cup,finely chopped almonds
+8,6663702,1,cup,finely chopped pecans
+9,6663702,1,cup,finely chopped walnuts
+10,6663702,1,cup,vegetable oil
+11,6663702,¾,cup,honey
+12,6663702,½,cup,brown sugar
+13,6663702,¼,cup,maple syrup
+14,6663702,1,tablespoon,ground cinnamon
+15,6663702,1,tablespoon,vanilla extract
+16,6663702,1 ½,teaspoons,salt
+17,6663702,2,cups,raisins
+18,6649455,1,tablespoon,olive oil
+19,6649455,2,cups,rolled oats
+20,6649455,⅓,cup,butter
+21,6649455,2,tablespoons,honey
+22,6649455,⅓,cup,packed brown sugar
+23,6649455,½,cup,chopped almonds
+24,6649455,⅓,cup,dried cranberries
+25,6577297,7,cups,quick-cooking oats
+26,6577297,1,cup,wheat germ
+27,6577297,1,cup,wheat bran
+28,6577297,½,cup,brown sugar
+29,6577297,½,cup,vegetable oil
+30,6577297,½,cup,honey
+31,6577297,½,cup,water
+32,6577297,1,tablespoon,vanilla extract
+33,6577297,1,teaspoon,ground cinnamon (Optional)
+34,6577297,1,teaspoon,ground nutmeg (Optional)
+35,6577297,1,teaspoon,salt
+36,6577297,1,cup,chopped dates
+37,6577297,1,cup,chopped pecans
+38,6577297,1,cup,flaked coconut (Optional)
+39,6589646,4,cups,rolled oats
+40,6589646,1,cup,sliced almonds
+41,6589646,1,cup,chopped pecans
+42,6589646,1,cup,raw sunflower seeds
+43,6589646,⅓,cup,canola oil
+44,6589646,½,cup,honey
+45,6589646,1,tablespoon,ground cinnamon
+46,6589646,1,teaspoon,vanilla extract
+47,6664475,4,cups,old-fashioned oats
+48,6664475,½,cup,chopped pecans
+49,6664475,½,cup,chopped walnuts
+50,6664475,½,cup,ground flax seed
+51,6664475,2,teaspoons,ground cinnamon
+52,6664475,⅓,cup,canola oil
+53,6664475,⅔,cup,pure maple syrup
+54,6664475,1,teaspoon,maple flavoring
+55,6664475,¼,teaspoon,salt
+56,6737926,3 ¾,cups,rolled oats
+57,6737926,½,cup,chopped almonds
+58,6737926,¼,cup,dried unsweetened coconut
+59,6737926,¼,cup,sesame seeds
+60,6737926,2,teaspoons,ground cinnamon
+61,6737926,¼,teaspoon,salt
+62,6737926,3,,large egg whites
+63,6737926,1,teaspoon,vanilla extract (Optional)
+64,6579213,5,cups,old-fashioned oats
+65,6579213,1,cup,brown sugar
+66,6579213,1,cup,flaked coconut
+67,6579213,1,cup,wheat germ
+68,6579213,1,tablespoon,ground cinnamon
+69,6579213,1,teaspoon,ground nutmeg
+70,6579213,½,cup,water
+71,6579213,½,cup,vegetable oil
+72,6579213,1,tablespoon,vanilla extract
+73,6579213,½,cup,raisins
+74,6579213,½,cup,sliced almonds
+75,6581539,,,nonstick cooking spray
+76,6581539,4,cups,old-fashioned oats
+77,6581539,1 ½,cups,chopped pecans
+78,6581539,1 ½,cups,slivered almonds
+79,6581539,1,cup,coconut flakes
+80,6581539,½,cup,vegetable oil
+81,6581539,⅓,cup,packed brown sugar
+82,6581539,⅓,cup,honey
+83,6581539,¼,cup,maple syrup
+84,6581539,2,teaspoons,ground cinnamon
+85,6581539,2,teaspoons,vanilla extract
+86,6581539,¾,teaspoon,salt
+87,6581539,2,cups,dried cranberries (Optional)
+88,6738375,⅓,cup,packed brown sugar
+89,6738375,¼,cup,maple syrup
+90,6738375,2,tablespoons,vegetable oil
+91,6738375,½,teaspoon,vanilla extract
+92,6738375,¾,teaspoon,kosher salt
+93,6738375,1,pinch,cayenne pepper (Optional)
+94,6738375,3,tablespoons,unsweetened cocoa powder
+95,6738375,2,cups,rolled oats
+96,6738375,¾,cup,chopped almonds
+97,6738953,¼,cup,packed brown sugar
+98,6738953,3,tablespoons,maple syrup
+99,6738953,2,tablespoons,vegetable oil
+100,6738953,½,teaspoon,salt
+101,6738953,1 ½,cups,rolled oats
+102,6738953,½,cup,chopped almonds
+103,6738953,½,cup,raw pumpkin seeds
+104,6738953,⅓,cup,shredded coconut
+105,6738953,½,cup,dried currants
+106,6664382,4 ½,cups,rolled oats
+107,6664382,2,cups,whole wheat flour
+108,6664382,1 ¼,cups,honey
+109,6664382,¾,cup,wheat germ
+110,6664382,½,cup,"chopped raw cashews, optional"
+111,6664382,½,cup,"chopped raw almonds, optional"
+112,6664382,⅓,cup,vegetable oil
+113,6664382,¼,cup,"flaked coconut, optional"
+114,6664382,2,tablespoons,brown sugar
+115,6664382,1,teaspoon,vanilla extract
+116,6664382,1,teaspoon,salt
+117,6604262,¼,cup,pineapple juice
+118,6604262,¼,cup,coconut oil
+119,6604262,1 ½,teaspoons,vanilla extract
+120,6604262,½,teaspoon,ground cinnamon
+121,6604262,½,teaspoon,sea salt
+122,6604262,3,cups,rolled oats
+123,6604262,¼,cup,sunflower seeds
+124,6604262,½,cup,pitted dates
+125,6604262,¼,cup,roasted almonds
+126,6604262,1 ¼,cups,quick-cooking oats
+127,6604262,½,cup,raisins
+128,6604262,½,cup,dried cranberries
+129,6595482,½,cup,coarsely chopped walnuts
+130,6595482,½,cup,coarsely chopped pecans
+131,6595482,½,cup,unsweetened shredded coconut
+132,6595482,⅓,cup,sliced almonds
+133,6595482,1,teaspoon,ground cinnamon
+134,6595482,2,teaspoons,granulated erythritol sweetener (such as Swerve®)
+135,6595482,1,(1 gram) packet,"granular sucrolose sweetener (such as Splenda®), or more to taste (Optional)"
+136,6595482,2,tablespoons,"butter, melted"
+137,6604034,3,cups,quick cooking oats
+138,6604034,½,cup,chopped peanuts
+139,6604034,¼,cup,wheat germ
+140,6604034,⅓,cup,honey
+141,6604034,⅓,cup,brown sugar
+142,6604034,¼,cup,vegetable oil
+143,6604034,2,tablespoons,warm water
+144,6604034,½,teaspoon,salt
+145,6604034,1,teaspoon,vanilla extract
+146,6590440,1,cup,raw pumpkin seeds
+147,6590440,1 ½,cups,rolled oats
+148,6590440,½,cup,pumpkin puree
+149,6590440,½,cup,sugar-free maple-flavored syrup
+150,6590440,¼,cup,shredded coconut
+151,6590440,2,tablespoons,"unsalted butter, melted"
+152,6590440,½,teaspoon,pumpkin pie spice
+153,6590440,½,teaspoon,ground cinnamon
+154,6590440,¼,teaspoon,salt
+155,6576249,7,cups,rolled oats
+156,6576249,1,cup,wheat germ
+157,6576249,1,cup,unsweetened flaked coconut
+158,6576249,½,cup,unsalted sunflower seeds
+159,6576249,½,cup,sesame seeds
+160,6576249,1,cup,chopped almonds
+161,6576249,½,cup,vegetable oil
+162,6576249,½,cup,honey
+163,6576249,½,cup,boiling water
+164,6576249,¼,cup,brown sugar
+165,6576249,½,teaspoon,salt
+166,6576249,1,teaspoon,vanilla extract
+167,6590025,5,cups,rolled oats
+168,6590025,1,cup,blanched slivered almonds
+169,6590025,1,cup,chopped walnuts
+170,6590025,1,cup,chopped pecans
+171,6590025,1,cup,sesame seeds
+172,6590025,1,cup,wheat germ
+173,6590025,2,cups,shredded coconut
+174,6590025,1,cup,unsalted sunflower seeds
+175,6590025,1,cup,canola oil
+176,6590025,1 ½,cups,honey
+177,6590025,1,cup,raisins
+178,6590025,1,cup,dried cranberries
+179,6593672,1 ¼,tablespoons,olive oil
+180,6593672,5,cups,rolled oats
+181,6593672,1,tablespoon,ground cinnamon
+182,6593672,⅓,cup,butter
+183,6593672,¼,cup,honey
+184,6593672,1,tablespoon,molasses
+185,6593672,½,cup,packed brown sugar
+186,6593672,½,cup,blanched slivered almonds (Optional)
+187,6593672,½,cup,dried cherries (Optional)
+188,6582155,½,cup,maple syrup
+189,6582155,⅓,cup,"coconut oil, melted"
+190,6582155,4,cups,"old-fashioned oats, or more to taste"
+191,6582155,1,cup,chopped pecans
+192,6582155,½,cup,almond flour
+193,6586302,6,cups,rolled oats
+194,6586302,1,cup,freshly ground flax seed meal
+195,6586302,1,cup,steel-cut oats
+196,6586302,1,cup,oat bran
+197,6586302,½,cup,wheat germ
+198,6586302,1,cup,chopped pecans
+199,6586302,¾,cup,agave nectar
+200,6586302,½,cup,canned pumpkin
+201,6586302,½,cup,brown sugar
+202,6586302,½,cup,water
+203,6586302,2,tablespoons,canola oil
+204,6586302,2,tablespoons,vanilla extract
+205,6586302,2,teaspoons,pumpkin pie spice
+206,6586302,1,teaspoon,sea salt
+207,6586302,1,cup,finely chopped dates
+208,6586302,1,cup,miniature chocolate chips
+209,6605764,,,cooking spray
+210,6605764,2,tablespoons,honey
+211,6605764,2,tablespoons,peanut butter
+212,6605764,2,cups,rolled oats
+213,6605764,⅔,cup,sunflower seeds
+214,6605764,⅔,cup,chocolate chips
+215,6605764,⅓,cup,shredded coconut
+216,6605764,⅓,cup,brown sugar
+217,6605764,2,teaspoons,vanilla extract
+218,6605764,1,teaspoon,ground cinnamon
+219,6569425,1 ½,cups,oats
+220,6569425,¼,cup,raisins
+221,6569425,¾,teaspoon,ground cinnamon
+222,6569425,3,ounces,"peanut butter, slightly melted"
+223,6569425,1,,"egg white, beaten"
+224,6569425,1 ½,teaspoons,honey
+225,6585384,¾,cup,brown sugar
+226,6585384,¼,cup,water
+227,6585384,3,cups,rolled oats
+228,6585384,½,teaspoon,salt
+229,6585384,1,cup,chopped walnuts
+230,6585384,2,teaspoons,ground cinnamon
+231,6585384,1,tablespoon,honey
+232,6585384,2,teaspoons,vanilla extract
+233,6600646,,,cooking spray
+234,6600646,½,cup,brown sugar
+235,6600646,2,tablespoons,peanut butter
+236,6600646,2,tablespoons,honey
+237,6600646,2,tablespoons,butter flavored spread (such as I Can't Believe It's Not Butter!® Spread)
+238,6600646,1,teaspoon,vanilla extract
+239,6600646,2,cups,oats (such as Quaker Oats®)
+240,6600646,1,teaspoon,ground cinnamon
+241,6600646,¼,teaspoon,salt
+242,6600646,¼,cup,dark chocolate chips
+243,6600646,¼,cup,sweetened dried cranberries (such as Craisins®) (Optional)
+244,6600646,¼,cup,sliced almonds (Optional)
+245,6593064,⅓,cup,brown sugar
+246,6593064,1,tablespoon,pumpkin pie spice
+247,6593064,3 ½,cups,rolled oats
+248,6593064,½,cup,sliced almonds
+249,6593064,½,cup,chopped pecans
+250,6593064,⅔,cup,applesauce
+251,6593064,½,cup,honey
+252,6593064,1,tablespoon,vanilla extract
+253,6593064,½,cup,raisins
+254,6593064,½,cup,dried cranberries
+255,6573196,2,cups,quick cooking oats
+256,6573196,1,cup,brown sugar
+257,6573196,2,tablespoons,ground cinnamon
+258,6573196,½,cup,"butter, melted"
+259,6573196,5,tablespoons,caramel sauce
+260,6573196,2,tablespoons,white sugar
+261,6589961,3,cups,rolled oats
+262,6589961,1,cup,blanched slivered almonds
+263,6589961,¼,cup,wheat germ
+264,6589961,1,(14 ounce) package,flaked coconut
+265,6589961,⅓,cup,unsalted sunflower seeds (Optional)
+266,6589961,6,tablespoons,pure maple syrup
+267,6589961,6,tablespoons,packed dark brown sugar
+268,6589961,¼,cup,vegetable oil
+269,6589961,2,tablespoons,warm water
+270,6589961,½,teaspoon,salt
+271,6589961,1,cup,raisins
+272,6567442,2,cups,rolled oats
+273,6567442,2,cups,quick-cooking oats
+274,6567442,¼,cup,chopped pecans
+275,6567442,¼,cup,chopped walnuts
+276,6567442,¼,cup,chopped almonds
+277,6567442,¼,cup,pepitas
+278,6567442,½,cup,maple syrup
+279,6567442,¼,cup,"coconut oil, melted"
+280,6567442,¼,cup,chopped crystallized ginger
+281,6567442,2,teaspoons,ground turmeric
+282,6567442,1 ½,teaspoons,"ground ginger, or to taste"
+283,6567442,1,teaspoon,ground cinnamon
+284,6567442,¾,teaspoon,salt
+285,6567442,½,teaspoon,ground cardamom
+286,6567442,⅛,teaspoon,ground black pepper
+287,6570018,6,cups,old-fashioned oats
+288,6570018,1 ½,cups,finely chopped pecans
+289,6570018,½,cup,finely chopped almonds
+290,6570018,½,cup,vegetable oil
+291,6570018,½,cup,pure maple syrup
+292,6570018,⅓,cup,boiling water
+293,6570018,2,teaspoons,ground cinnamon
+294,6570018,1,teaspoon,ground cardamom
+295,6570018,¾,cup,minced dates
+296,6570018,¾,cup,minced raisins
+297,6570018,⅔,cup,minced dried cranberries
+298,6601130,,,cooking spray
+299,6601130,3,cups,rolled oats
+300,6601130,⅔,cup,wheat germ
+301,6601130,½,cup,slivered almonds
+302,6601130,1,pinch,ground nutmeg
+303,6601130,1 ½,teaspoons,ground cinnamon
+304,6601130,½,cup,apple juice
+305,6601130,½,cup,molasses
+306,6601130,1,teaspoon,vanilla extract
+307,6601130,1,cup,dried mixed fruit
+308,6601130,1,cup,quartered dried apricots
+309,6600202,6,cups,old-fashioned oats
+310,6600202,1,cup,slivered almonds
+311,6600202,1,cup,flaked coconut
+312,6600202,½,cup,hulled green pumpkin seeds
+313,6600202,½,cup,shelled sunflower seeds
+314,6600202,½,cup,crushed pecans
+315,6600202,1,teaspoon,salt
+316,6600202,½,cup,butter
+317,6600202,⅔,cup,honey
+318,6600202,1,teaspoon,vanilla extract
+319,6600202,1,cup,dried cranberries
+320,6585072,,,non-stick cooking spray
+321,6585072,4,cups,rolled oats
+322,6585072,1,cup,sliced almonds
+323,6585072,½,cup,granular sucralose sweetener with brown sugar (such as Splenda® Brown Sugar Blend)
+324,6585072,¼,teaspoon,salt
+325,6585072,¼,teaspoon,ground cinnamon
+326,6585072,1,cup,applesauce
+327,6585072,2,tablespoons,white sugar
+328,6585072,4,teaspoons,vanilla extract
+329,6595620,2,cups,plain Greek yogurt
+330,6595620,3,tablespoons,honey
+331,6595620,2,scoops,chocolate-flavored whey protein powder (such as ON™ Gold Standard)
+332,6595620,2,tablespoons,instant coffee granules
+333,6595620,4,teaspoons,cocoa powder
+334,6595620,⅛,teaspoon,ground cinnamon
+335,6595620,1,cup,granola cereal with nuts
+336,6595620,½,cup,sliced fresh strawberries
+337,6595620,½,cup,fresh raspberries
+338,6569862,½,cup,low-fat cottage cheese
+339,6569862,¼,cup,chopped fresh pineapple
+340,6569862,1,tablespoon,unsweetened toasted coconut
+341,6569862,1,tablespoon,coarsely chopped macadamia nuts
+342,6569862,1,tablespoon,granola
+343,6595682,,,cooking spray
+344,6595682,1 ½,cups,maple syrup
+345,6595682,1 ½,tablespoons,vanilla extract
+346,6595682,1 ½,tablespoons,ground cinnamon
+347,6595682,1,tablespoon,rose water (Optional)
+348,6595682,¾,teaspoon,salt
+349,6595682,4,cups,rolled oats
+350,6595682,1,cup,puffed rice cereal
+351,6595682,1,cup,unsweetened coconut flakes
+352,6595682,½,cup,chopped cashews
+353,6595682,½,cup,raisins
+354,6595682,½,cup,dried blueberries
+355,6595682,¼,cup,chopped pecans
+356,6595682,¼,cup,chopped almonds
+357,6595682,½,cup,sweetened dried cranberries
+358,6595682,½,cup,packed brown sugar
+359,6595841,2,cups,rolled oats
+360,6595841,½,cup,spelt flour
+361,6595841,½,cup,packed brown sugar
+362,6595841,1,teaspoon,ground cinnamon
+363,6595841,¾,teaspoon,ground ginger
+364,6595841,3,tablespoons,canola oil
+365,6595841,¼,cup,applesauce
+366,6595841,3,tablespoons,maple syrup
+367,6595841,¼,cup,diced dried apricots
+368,6595841,¼,cup,chopped pecans
+369,6595841,3,tablespoons,"flax seeds, ground"
+370,6581903,½,cup,"natural, salted peanut butter"
+371,6581903,¼,cup,maple syrup
+372,6581903,1,tablespoon,flaxseed meal
+373,6581903,2,teaspoons,vanilla extract
+374,6581903,2,teaspoons,ground cinnamon
+375,6581903,4,cups,rolled oats
+376,6581903,½,cup,"shredded coconut, or to taste"
+377,6581903,¼,cup,"pumpkin seeds, or to taste"
+378,6581903,¼,cup,"raisins, or to taste"
+379,6581384,2,cups,rolled oats
+380,6581384,½,cup,"coconut oil, melted"
+381,6581384,½,cup,chopped hazelnuts (Optional)
+382,6581384,¼,cup,cocoa nibs
+383,6581384,3,tablespoons,maple syrup
+384,6581384,2,tablespoons,fresh ground coffee beans
+385,6581384,2,tablespoons,dark brown sugar
+386,6581384,1 ½,tablespoons,unsweetened cocoa powder
+387,6581384,2,teaspoons,instant coffee granules
+388,6581384,2,teaspoons,coffee-flavored extract
+389,6581384,1 ½,teaspoons,kosher salt
+390,6581384,1,teaspoon,ground cinnamon
+391,6581384,½,teaspoon,ground black pepper
+392,6581384,½,teaspoon,vanilla extract
+393,6581384,¼,cup,miniature chocolate chips
+394,6569559,1,,"apple - peeled, cored, and chopped"
+395,6569559,2,,"bananas, sliced"
+396,6569559,½,cup,granola
+397,6569559,⅓,cup,"ground cinnamon, or to taste"
+398,6569559,1,teaspoon,white sugar (Optional)
+399,6569559,1,teaspoon,unsweetened cocoa powder (Optional)
+400,6569559,1,teaspoon,butter (Optional)
+401,6569559,1,tablespoon,"almond milk, or to taste"
+402,6605450,4,cups,old-fashioned rolled oats
+403,6605450,1,cup,sliced almonds
+404,6605450,½,cup,unsweetened shredded coconut
+405,6605450,¼,cup,raw cashews
+406,6605450,¼,cup,whole raw hazelnuts
+407,6605450,¼,cup,raw sunflower seeds
+408,6605450,¼,cup,unsalted pumpkin seeds (pepitas)
+409,6605450,½,cup,pure maple syrup
+410,6605450,2,tablespoons,safflower oil
+411,6605450,½,teaspoon,kosher salt
+412,6605450,½,cup,dried cranberries
+413,6605450,½,cup,"dried hibiscus petals, coarsely chopped"
+414,6586444,8,cups,rolled oats
+415,6586444,1,cup,amaranth
+416,6586444,1,cup,sunflower seeds
+417,6586444,1,cup,finely chopped pecans
+418,6586444,1,cup,finely chopped walnuts
+419,6586444,1,cup,sliced almonds
+420,6586444,1,cup,flaxseed meal
+421,6586444,1,cup,ground chia seeds
+422,6586444,1,cup,honey
+423,6586444,1,cup,maple syrup
+424,6586444,1,cup,coconut oil
+425,6586444,½,cup,brown sugar
+426,6586444,¼,cup,butter
+427,6586444,2,tablespoons,vanilla extract
+428,6586444,2,tablespoons,ground cinnamon
+429,6586444,2,teaspoons,salt
+430,6586444,2,cups,raisins
+431,6586444,1,cup,dried cherries
+432,6586444,½,cup,dried blueberries
+433,6570322,5,cups,rolled oats
+434,6570322,1,cup,chopped apples
+435,6570322,1,cup,coarsely chopped pecans
+436,6570322,¾,cup,"butter, melted"
+437,6570322,¾,cup,firmly packed brown sugar
+438,6570322,1 ½,teaspoons,ground cinnamon
+439,6570322,1,cup,raisins
+440,6603753,3,cups,rolled oats
+441,6603753,1,cup,almonds
+442,6603753,1,tablespoon,ground cinnamon
+443,6603753,1,tablespoon,cocoa powder
+444,6603753,½,teaspoon,salt
+445,6603753,⅓,cup,packed brown sugar
+446,6603753,2,cups,"dried fruit (such as cranberries, pomegranate, cherries, or blueberries)"
+447,6603753,1,cup,pure maple syrup
+448,6603753,1,tablespoon,vanilla extract
+449,6603753,½,cup,dark chocolate chips
+450,6592928,2,cups,sliced almonds
+451,6592928,1,cup,chopped pecans
+452,6592928,1,cup,chopped walnuts
+453,6592928,1,cup,sunflower seeds
+454,6592928,⅛,cup,sesame seeds
+455,6592928,½,cup,honey
+456,6592928,2,tablespoons,grass-fed butter
+457,6592928,1,teaspoon,vanilla extract
+458,6592928,1,teaspoon,ground cinnamon
+459,6592928,½,teaspoon,kosher salt
+460,6592928,½,teaspoon,ground cloves
+461,6592928,½,teaspoon,ground allspice
+462,6592928,1,cup,raisins (Optional)
+463,6587504,3,cups,rolled oats
+464,6587504,1 ½,cups,"toasted almonds, coarsely chopped"
+465,6587504,1,cup,"roasted macadamia nuts, coarsely chopped"
+466,6587504,1 ½,cups,flaked coconut
+467,6587504,½,cup,extra-virgin olive oil
+468,6587504,¾,cup,honey
+469,6587504,¼,cup,butter
+470,6587504,½,cup,brown sugar
+471,6587504,1,teaspoon,kosher salt
+472,6587504,½,teaspoon,ground turmeric
+473,6587504,½,teaspoon,ground cinnamon
+474,6587504,¾,cup,golden raisins
+475,6579516,3,cups,thick-cut oatmeal
+476,6579516,½,cup,hulled sunflower seeds
+477,6579516,⅓,cup,hulled pumpkin seeds
+478,6579516,2,tablespoons,sesame seeds
+479,6579516,2,tablespoons,flax seeds
+480,6579516,1,tablespoon,wheat germ
+481,6579516,1,cup,chopped dried cherries
+482,6579516,½,teaspoon,salt
+483,6579516,2,teaspoons,ground cinnamon
+484,6579516,⅔,cup,unsweetened applesauce
+485,6579516,⅓,cup,pure maple syrup
+486,6579516,1,tablespoon,vanilla extract
+487,6571596,,,PAM® Original No-Stick Cooking Spray
+488,6571596,⅓,cup,Peter Pan® Creamy Peanut Butter
+489,6571596,⅓,cup,Pure Wesson® Canola Oil
+490,6571596,¼,cup,honey
+491,6571596,4,cups,"quick-cooking rolled oats, divided"
+492,6571596,½,cup,firmly packed brown sugar
+493,6571596,¼,teaspoon,salt
+494,6649896,5,cups,rolled oats
+495,6649896,2,cups,almonds
+496,6649896,2,cups,unsweetened shredded coconut
+497,6649896,1 ¼,cups,maple syrup
+498,6649896,½,cup,coconut oil
+499,6649896,1,,egg white
+500,6649896,2,tablespoons,chia seeds
+501,6649896,1,teaspoon,cinnamon
+502,6649896,1,teaspoon,cardamom
+503,6649896,1,teaspoon,kosher salt
+504,6591667,15,cups,rolled oats
+505,6591667,5,cups,pecan halves
+506,6591667,3,cups,unsweetened coconut flakes
+507,6591667,1,cup,flax seeds
+508,6591667,2,cups,honey
+509,6591667,2,cups,white sugar
+510,6591667,1,cup,coconut oil
+511,6591667,1,tablespoon,sea salt
+512,6591667,1,tablespoon,vanilla extract
+513,6588708,¾,cup,almonds
+514,6588708,⅓,cup,walnuts
+515,6588708,4,cups,rolled oats
+516,6588708,1,cup,chopped dried apricots
+517,6588708,1,cup,dried cranberries
+518,6588708,½,cup,honey
+519,6588708,½,cup,olive oil
+520,6588708,⅓,cup,apricot preserves
+521,6588708,⅓,cup,wheat germ
+522,6588708,⅓,cup,unsalted sunflower seeds
+523,6588708,⅓,cup,chia seeds
+524,6588708,⅓,cup,milled flax seeds
+525,6588708,¼,cup,oat bran
+526,6588708,¼,cup,black sesame seeds
+527,6588708,2,teaspoons,ground cinnamon
+528,6588708,1 ½,teaspoons,vanilla extract
+529,6588708,1,teaspoon,ground nutmeg

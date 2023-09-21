@@ -9,6 +9,7 @@ rec_dir = os.path.join(Path(__file__).parents[0], '1_recipe_data')
 ing_dir = os.path.join(Path(__file__).parents[0], '2_ingredients_data')
 stp_dir = os.path.join(Path(__file__).parents[0], '3_steps_data')
 cat_dir = os.path.join(Path(__file__).parents[0], 'recipe_scraper_tables')
+errors = os.path.join(Path(__file__).parents[0], 'errors')
 
 def scrape_recipe(soup,rkey):
     '''
@@ -47,9 +48,11 @@ def scrape_recipe(soup,rkey):
     # Check if the <span> element was found
 
     #2nd and 4th element are the data values
-    recipe[span_element[0].text.strip()]=span_element[1].text.strip()
-    recipe[span_element[2].text.strip()]=span_element[3].text.strip()
-
+    try:
+        recipe[span_element[0].text.strip()]=span_element[1].text.strip()
+        recipe[span_element[2].text.strip()]=span_element[3].text.strip()
+    except:
+        pass
 
     td_element = soup.find('tbody', class_="mntl-nutrition-facts-label__table-body type--cat")
     soup_body = td_element
@@ -162,31 +165,54 @@ def scrape_steps(soup,rkey):
 
 
 
-def main_scraper():
+def scraper_engine(csv_url):
     rec_df=pd.DataFrame()
     ing_df=pd.DataFrame()
     step_df=pd.DataFrame()
     
-    cat_df=pd.read_csv(r"C:\Users\Logan\Documents\GitHub\pantryplan\src\recipe_scraper_tables\air_fryer_recipes_urls.csv")
+    cat_df=pd.read_csv(csv_url)
 
     for index, row in cat_df.iterrows():
         x=row['url_recipe'].find('.com/')+5
         isrec=row['url_recipe'][x:]
         if ("recipe" in isrec and "gallery" not in isrec and "article" not in isrec):
+            print(row['url_recipe'])
+            response=requests.get(row['url_recipe'])
+            # Check if the request was successful (status code 200)
+            if response.status_code == 200:
+                # Parse the HTML content of the page using BeautifulSoup
+                soup = BeautifulSoup(response.text, 'html.parser')
+                #WHERE all recipe data is stored
+                soup = soup.body.main.article
+
+                rec_df=pd.concat([rec_df,scrape_recipe(soup,row['id_recipe'])], ignore_index=True)
+                ing_df=pd.concat([ing_df,scrape_ingredients(soup,row['id_recipe'])], ignore_index=True)
+                step_df=pd.concat([step_df,scrape_steps(soup,row['id_recipe'])], ignore_index=True)
         
-        response=requests.get(row['url_recipe'])
-        # Check if the request was successful (status code 200)
-        if response.status_code == 200:
-            # Parse the HTML content of the page using BeautifulSoup
-            soup = BeautifulSoup(response.text, 'html.parser')
-            #WHERE all recipe data is stored
-            soup = soup.body.main.article
+    rec_df.to_csv(f'{rec_dir}\{cat_df["category"][0]}_master.csv')
+    ing_df.to_csv(f'{ing_dir}\{cat_df["category"][0]}_ingredients.csv')
+    step_df.to_csv(f'{stp_dir}\{cat_df["category"][0]}_steps.csv')
+    pass
 
-            rec_df=pd.concat(rec_df,scrape_recipe(soup,row['id_recipe']), ignore_index=True)
-            ing_df=pd.concat(ing_df,scrape_ingredients(soup,row['id_recipe']), ignore_index=True)
-            step_df=pd.concat(step_df,scrape_steps(soup,row['id_recipe']), ignore_index=True)
-        
+def main():
+    file_paths = []
+    error_paths =[]
+    # Walk through the directory and its subdirectories
+    for root, directories, files in os.walk(cat_dir):
+        for filename in files:
+            # Get the full file path
+            file_path = os.path.join(root, filename)
+            # Append the file path to the list
+            file_paths.append(file_path)
 
+    # Now, file_paths contains all the file paths in the specified folder and its subdirectories
+    for file_path in file_paths:
+        try:
+            scraper_engine(file_path)
+        except:
+            error_paths.append(file_path)
 
+    e_df= pd.DataFrame({'error_files':error_paths})
+    e_df.to_csv(f'{errors}\error_files.csv')
 
-main_scraper()
+main()
