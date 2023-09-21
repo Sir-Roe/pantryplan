@@ -177,7 +177,7 @@ def scraper_engine(csv_url):
     for index, row in cat_df.iterrows():
         x=row['url_recipe'].find('.com/')+5
         isrec=row['url_recipe'][x:]
-        if ("recipe" in isrec and "gallery" not in isrec and "article" not in isrec):
+        if ("recipe" in isrec and "gallery" not in isrec and "article" not in isrec and "recipes" not in isrec):
             print(row['url_recipe'])
             response=requests.get(row['url_recipe'])
             # Check if the request was successful (status code 200)
