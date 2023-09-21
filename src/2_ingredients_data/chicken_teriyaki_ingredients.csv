@@ -1,0 +1,531 @@
+,id_recipe,Quantity,Unit of Measure,Ingredient
+0,7372857,1/2,cup,teriyaki marinade (such as Kikkoman
+1,7372857,2,tablespoons,prepared horseradish
+2,7372857,1,tablespoon,chili oil
+3,7372857,1,pound,boneless skinless chicken breast halves
+4,7372857,1,bunch,"broccoli, cut into florets"
+5,7372857,1,,"red bell pepper, cut into strips"
+6,7372857,2,tablespoons,sesame oil
+7,7372857,1 1/2,teaspoons,garlic powder
+8,7372857,1/4,teaspoon,ground black pepper
+9,7372857,1/8,teaspoon,salt
+10,7372857,1,pinch,red pepper flakes
+11,7372857,1,,"pineapple - peeled, cored, and cut into 6 wedges"
+12,7372857,2,cups,cooked white rice
+13,7372857,1,teaspoon,sesame seeds (optional)
+14,7372857,1,,"green onion, thinly sliced (optional)"
+15,6573915,1,cup,water
+16,6573915,1,cup,soy sauce
+17,6573915,1,cup,white sugar
+18,6573915,¼,cup,pineapple juice
+19,6573915,¼,cup,vegetable oil
+20,6573915,1,tablespoon,minced fresh garlic
+21,6573915,1,tablespoon,minced fresh ginger
+22,6573915,3,pounds,chicken wings or drumettes
+23,6649299,1,cup,chicken broth
+24,6649299,½,cup,teriyaki sauce
+25,6649299,4,tablespoons,brown sugar
+26,6649299,3,cloves,"garlic, minced"
+27,6649299,1,pound,"chicken, diced"
+28,6738949,1,cup,teriyaki sauce
+29,6738949,¼,cup,lemon juice
+30,6738949,2,teaspoons,minced fresh garlic
+31,6738949,2,teaspoons,sesame oil
+32,6738949,4,,"skinless, boneless chicken breast halves"
+33,7096750,1,pound,"skinless, boneless chicken thighs, cut into bite-sized pieces"
+34,7096750,½,teaspoon,salt
+35,7096750,¼,teaspoon,freshly ground black pepper
+36,7096750,2,teaspoons,sesame oil
+37,7096750,15,ounces,wonton mein noodles (Canadian-style)
+38,7096750,4,cups,"frozen stir-fry vegetables, thawed"
+39,6592499,1,tablespoon,olive oil
+40,6592499,4,,"skinless, boneless chicken thighs"
+41,6592499,½,cup,brown sugar
+42,6592499,½,cup,soy sauce
+43,6592499,¼,cup,honey
+44,6592499,¼,cup,apple cider vinegar
+45,6592499,1,(1/2 inch) piece,"fresh ginger, grated"
+46,6592499,2,cloves,"garlic, minced"
+47,6592499,2,tablespoons,cold water
+48,6592499,1,tablespoon,cornstarch
+49,6606031,1,(3 pound),"whole chicken, cut in half"
+50,6606031,¾,cup,granulated sugar
+51,6606031,¾,cup,soy sauce
+52,6606031,1,tablespoon,grated fresh ginger
+53,6606031,2,cloves,"garlic, minced"
+54,6739261,2,tablespoons,cornstarch
+55,6739261,2,tablespoons,water
+56,6739261,1,cup,low-sodium soy sauce
+57,6739261,½,cup,white sugar
+58,6739261,¼,cup,mirin (Japanese sweet wine)
+59,6739261,4,teaspoons,grated fresh ginger
+60,6739261,3,cloves,"garlic, minced"
+61,6739261,¼,teaspoon,red pepper flakes
+62,6739261,4,,"skinless, boneless chicken breast halves"
+63,6582010,½,cup,soy sauce
+64,6582010,½,cup,rice vinegar
+65,6582010,3,tablespoons,honey
+66,6582010,2,teaspoons,sesame oil
+67,6582010,4,teaspoons,"fresh ginger, minced"
+68,6582010,4,teaspoons,cornstarch
+69,6582010,4,cloves,"garlic, minced"
+70,6582010,1,tablespoon,olive oil
+71,6582010,2,pounds,"boneless, skinless chicken breasts, cut into 1-inch pieces"
+72,6582010,1,pound,"broccoli florets, chopped into bite-sized pieces"
+73,6582010,1,(8 ounce) package,sliced mushrooms
+74,6573318,¾,cup,brown sugar
+75,6573318,¾,cup,reduced-sodium soy sauce
+76,6573318,¼,cup,cider vinegar
+77,6573318,2,tablespoons,ground ginger
+78,6573318,2,tablespoons,garlic powder
+79,6573318,1,teaspoon,ground black pepper
+80,6573318,1,(20 ounce) can,crushed pineapple
+81,6573318,1,cup,chicken stock
+82,6573318,3,pounds,"boneless, skinless chicken thighs"
+83,6573318,2,tablespoons,cornstarch (Optional)
+84,6573318,2,tablespoons,cold water (Optional)
+85,6586118,2,tablespoons,vegetable oil
+86,6586118,1,pound,"skinless, boneless chicken breasts, cut into cubes"
+87,6586118,1,,"green bell pepper, sliced thin"
+88,6586118,1,,"yellow bell pepper, sliced thin"
+89,6586118,1,,"red bell pepper, sliced thin"
+90,6586118,1 ¼,cups,sliced fresh mushrooms
+91,6586118,1,,"onion, chopped"
+92,6586118,1,cup,teriyaki sauce
+93,6586118,1,(8 ounce) can,"pineapple chunks, undrained"
+94,6586118,1,teaspoon,garlic powder
+95,6586118,1,teaspoon,crushed red pepper
+96,6586118,¼,cup,all-purpose flour
+97,6565364,¼,cup,gluten-free soy sauce (tamari)
+98,6565364,2,tablespoons,honey
+99,6565364,2,tablespoons,lemon juice
+100,6565364,1,teaspoon,minced onion
+101,6565364,¼,teaspoon,garlic powder
+102,6663908,½,cup,soy sauce
+103,6663908,⅓,cup,water
+104,6663908,¼,cup,rice wine vinegar
+105,6663908,2,tablespoons,brown sugar
+106,6663908,1,teaspoon,ground ginger
+107,6663908,1,clove,"garlic, smashed"
+108,6663908,1,dash,Worcestershire sauce
+109,6663908,1,(16 ounce) package,"boneless, skinless chicken tenders"
+110,6594434,1 ½,cups,pineapple juice
+111,6594434,½,cup,soy sauce
+112,6594434,1,teaspoon,ground ginger
+113,6594434,½,teaspoon,garlic powder
+114,6594434,¼,teaspoon,white pepper
+115,6594434,4,(6 ounce),"skinless, boneless chicken breast halves"
+116,6597406,½,cup,soy sauce
+117,6597406,½,cup,water
+118,6597406,½,cup,brown sugar
+119,6597406,2,tablespoons,rice wine vinegar
+120,6597406,1,tablespoon,mirin (Japanese sweet wine)
+121,6597406,1,tablespoon,sake
+122,6597406,1,tablespoon,minced garlic
+123,6597406,1,dash,freshly cracked black pepper
+124,6597406,1,pound,"skinless, boneless chicken breast halves"
+125,6589684,4,medium,"skinless, boneless chicken breasts"
+126,6589684,2,medium,"skinless, boneless chicken thighs"
+127,6589684,¼,cup,reduced-sodium tamari or low-sodium soy sauce
+128,6589684,¼,cup,honey
+129,6589684,2,cloves,"garlic, minced"
+130,6589684,2,tablespoons,minced fresh ginger root
+131,6589684,1,tablespoon,rice vinegar
+132,6589684,2,tablespoons,tapioca flour (starch)
+133,6589684,2,tablespoons,water
+134,6582250,1,(12 fluid ounce) can or bottle,beer
+135,6582250,¼,cup,brown sugar
+136,6582250,¼,cup,kosher salt
+137,6582250,¼,cup,paprika
+138,6582250,2,tablespoons,ground black pepper
+139,6582250,¼,teaspoon,cayenne pepper
+140,6582250,1,cup,teriyaki marinade
+141,6582250,¼,cup,vegetable oil
+142,6582250,10,,"chicken legs, rinsed and patted dry"
+143,6589248,3,tablespoons,soy sauce
+144,6589248,¼,cup,pineapple juice
+145,6589248,3,tablespoons,pineapple juice
+146,6589248,¼,cup,hot honey (such as Mike's Hot Honey®)
+147,6589248,3,tablespoons,hot honey (such as Mike's Hot Honey®)
+148,6589248,2,cloves,"garlic, minced"
+149,6589248,1,tablespoon,brown sugar
+150,6589248,½,teaspoon,salt
+151,6589248,½,teaspoon,ground ginger
+152,6589248,2,tablespoons,cornstarch
+153,6589248,1,pound,"skinless, boneless chicken thighs, cut into strips"
+154,6589248,,,salt and ground black pepper to taste
+155,6584952,1,cup,low-sodium chicken broth
+156,6584952,¼,cup,teriyaki sauce
+157,6584952,2,tablespoons,reduced-sodium soy sauce
+158,6584952,2,tablespoons,brown sugar
+159,6584952,1,tablespoon,chile paste
+160,6584952,4,cloves,"garlic, minced"
+161,6584952,½,teaspoon,minced ginger
+162,6584952,⅛,teaspoon,ground black pepper
+163,6587552,2,tablespoons,"sesame oil, divided"
+164,6587552,2,large,"skinless, boneless chicken breast halves, cubed"
+165,6587552,,,salt and ground black pepper to taste
+166,6587552,1,large,"bell pepper, cut into 1/2-inch squares"
+167,6587552,½,,"sweet onion, cut into 1/2-inch squares"
+168,6587552,1,cup,teriyaki sauce
+169,6587552,1,cup,chicken broth
+170,6587552,½,,"sweet onion, chopped"
+171,6587552,1,teaspoon,garlic powder
+172,6587552,½,cup,cashew pieces
+173,6587552,3,dashes,"Asian-style hot sauce, or to taste (Optional)"
+174,6587552,1,cup,"frozen pineapple chunks, thawed"
+175,6587552,4,slices,"Swiss cheese, cut into strips"
+176,6583083,5,ounces,ground chicken
+177,6583083,2,,"spring onions, chopped"
+178,6583083,1,tablespoon,sake (Japanese rice wine)
+179,6583083,1,tablespoon,water
+180,6583083,1,tablespoon,cornstarch
+181,6583083,1 ½,teaspoons,grated fresh ginger
+182,6583083,1,teaspoon,soy sauce
+183,6583083,2,tablespoons,"vegetable oil, or more as needed"
+184,6583083,4,,"shiitake mushrooms, cut in half"
+185,6583083,1 ¾,ounces,"daikon (Japanese radish), sliced"
+186,6584601,1 ½,cups,white sugar
+187,6584601,1,cup,soy sauce
+188,6584601,1,cup,water
+189,6584601,2,tablespoons,ground ginger
+190,6584601,3,cloves,"garlic, diced"
+191,6584601,¾,teaspoon,ground cinnamon
+192,6584601,¼,teaspoon,ground black pepper
+193,6584601,1 ½,pounds,chicken drumettes
+194,6600414,½,cup,water
+195,6600414,2 ½,tablespoons,brown sugar
+196,6600414,2,tablespoons,soy sauce
+197,6600414,1,tablespoon,mirin (Japanese sweet wine)
+198,6600414,2,teaspoons,agave nectar
+199,6600414,1,large,"garlic clove, finely minced"
+200,6600414,½,teaspoon,freshly grated ginger
+201,6600414,1,tablespoon,tapioca flour
+202,6600414,2,tablespoons,cold water
+203,6600414,1 ¼,pounds,"skinless, boneless chicken thighs, cut into strips"
+204,6739058,3,,"Japanese cucumbers, very thinly sliced"
+205,6739058,1,tablespoon,kosher salt
+206,6739058,¼,cup,rice vinegar
+207,6739058,1,tablespoon,soy sauce
+208,6739058,2,teaspoons,white sugar
+209,6739058,1,teaspoon,sesame oil
+210,6739058,1,tablespoon,toasted sesame seeds
+211,6604649,½,cup,soy sauce
+212,6604649,½,cup,mirin
+213,6604649,½,cup,sake
+214,6604649,2,teaspoons,white sugar
+215,6604649,¼,teaspoon,ginger puree
+216,6604649,2,teaspoons,"cornstarch, or as desired (Optional)"
+217,6604649,2,teaspoons,water (Optional)
+218,6601441,4,large,"skinless, boneless chicken thighs"
+219,6601441,1,cup,teriyaki sauce
+220,6601441,1,tablespoon,tomato-based chili sauce
+221,6601441,4,servings,butter-flavored cooking spray
+222,6601441,4,slices,deli ham
+223,6601441,4,(1 ounce) pieces,low-fat string cheese
+224,6601441,4,,toothpicks
+225,6601441,1,cup,panko bread crumbs
+226,6599115,¾,cup,honey teriyaki sauce
+227,6599115,¼,cup,white wine
+228,6599115,4,,"skinless, boneless chicken breast halves"
+229,6599115,16,spears,fresh asparagus
+230,6599115,4,slices,Swiss cheese
+231,6604979,2 ¼,cups,soy sauce
+232,6604979,¾,cup,sugar
+233,6604979,1,teaspoon,ground black pepper
+234,6604979,1,tablespoon,cornstarch
+235,6604979,1,(20 ounce) can,"pineapple chunks in juice, drained, juice reserved"
+236,6604979,1,,"onion, chopped"
+237,6604979,3,cloves,"garlic, minced"
+238,6604979,1,(2 inch) piece,"fresh ginger root, peeled and chopped"
+239,6604979,4,,chicken thighs
+240,6604979,4,,chicken drumsticks
+241,6604979,4,,chicken wings
+242,6604979,,,salt and ground black pepper to taste
+243,6588490,1,cup,water
+244,6588490,¼,cup,soy sauce
+245,6588490,5,tablespoons,soy sauce
+246,6588490,1,tablespoon,dark molasses
+247,6588490,½,tablespoon,fresh ground ginger
+248,6588490,1,teaspoon,minced garlic
+249,6588490,¼,cup,water
+250,6588490,2,tablespoons,cornstarch
+251,6588490,3,tablespoons,vegetable oil
+252,6588490,1,tablespoon,minced garlic
+253,6588490,1,teaspoon,"red pepper flakes, or to taste"
+254,6588490,3,large,"chicken breasts, cut into bite-sized pieces"
+255,6588490,1,(16 ounce) package,frozen oriental-style vegetables
+256,6588490,1,(8 ounce) can,sliced water chestnuts
+257,6588490,1,(8 ounce) can,"pineapple tidbits in juice, drained and juice reserved"
+258,6588490,1,tablespoon,cornstarch
+259,6588490,⅛,teaspoon,sesame oil
+260,6573220,3,(1/4 inch thick) slices,"Boar’s Head Bold® Ichiban Teriyaki™ Style Oven Roasted Chicken, cubed"
+261,6573220,¼,cup,"celery, diced"
+262,6573220,¼,cup,"scallions, diced"
+263,6573220,½,cup,"Mandarin oranges, diced"
+264,6664724,½,cup,white sugar
+265,6664724,½,cup,soy sauce
+266,6664724,¼,cup,cider vinegar
+267,6664724,1,tablespoon,cornstarch
+268,6664724,1,tablespoon,cold water
+269,6664724,1,clove,"garlic, minced"
+270,6664724,½,teaspoon,ground ginger
+271,6664724,¼,teaspoon,ground black pepper
+272,6664724,12,,"boneless, skinless chicken thighs"
+273,6650957,1,cup,water
+274,6650957,¼,cup,soy sauce
+275,6650957,5,teaspoons,packed brown sugar
+276,6650957,1,tablespoon,"honey, or more to taste"
+277,6650957,½,teaspoon,ground ginger
+278,6650957,¼,teaspoon,garlic powder
+279,6650957,2,tablespoons,cornstarch
+280,6650957,¼,cup,cold water
+281,6566994,½,cup,soy sauce
+282,6566994,2,tablespoons,honey
+283,6566994,2,tablespoons,rice vinegar
+284,6566994,2,tablespoons,sesame oil
+285,6566994,2,tablespoons,brown sugar
+286,6566994,2,tablespoons,sesame seeds
+287,6566994,2,cloves,minced garlic
+288,6566994,1,(1 inch) piece,"fresh ginger, grated"
+289,6566994,¼,cup,cold water
+290,6566994,1,tablespoon,cornstarch
+291,6587655,½,cup,low-sodium soy sauce
+292,6587655,½,cup,white sugar
+293,6587655,¼,cup,cider vinegar
+294,6587655,1,tablespoon,water
+295,6587655,1 ½,teaspoons,garlic powder
+296,6587655,½,teaspoon,onion powder
+297,6587655,½,teaspoon,ground ginger
+298,6587655,1,tablespoon,cornstarch
+299,7104127,8,ounces,fresh udon noodles
+300,7104127,⅓,cup,soy sauce
+301,7104127,¼,cup,mirin (Japanese sweet wine)
+302,7104127,¼,cup,sake (Japanese rice wine)
+303,7104127,4,cloves,"garlic, minced"
+304,7104127,2,tablespoons,brown sugar
+305,7104127,1,teaspoon,freshly grated ginger
+306,7104127,1,tablespoon,sesame oil
+307,7104127,1,pound,"uncooked large shrimp, peeled and deveined"
+308,7104127,4,cups,frozen stir-fry vegetables
+309,7104127,1,tablespoon,thinly sliced green onion for garnish
+310,7104127,,,toasted sesame seeds for garnish
+311,6663617,¼,cup,sesame oil
+312,6663617,¼,cup,lemon juice
+313,6663617,¼,cup,soy sauce
+314,6663617,2,tablespoons,"brown sugar, or more to taste"
+315,6663617,1,tablespoon,sesame seeds
+316,6663617,1,teaspoon,ground mustard
+317,6663617,1,teaspoon,ground ginger
+318,6663617,¼,teaspoon,garlic powder
+319,6663617,4,(6 ounce),salmon steaks
+320,6650439,⅓,cup,water
+321,6650439,2,tablespoons,soy sauce
+322,6650439,2,tablespoons,brown sugar
+323,6650439,1,teaspoon,honey
+324,6650439,1,teaspoon,grated fresh garlic
+325,6650439,1,teaspoon,grated fresh ginger
+326,6650439,1,pound,jumbo shrimp
+327,6650439,½,,"fresh pineapple, cored and cut into 1 1/2-inch pieces"
+328,6650439,,,skewers
+329,6650439,2,tablespoons,minced fresh cilantro (Optional)
+330,6650439,1,tablespoon,toasted sesame seeds (Optional)
+331,6597258,1 ½,cups,pineapple juice
+332,6597258,2,tablespoons,honey
+333,6597258,2,tablespoons,ketchup
+334,6597258,2,tablespoons,brown sugar
+335,6597258,1,tablespoon,low-sodium soy sauce
+336,6597258,1,tablespoon,hoisin sauce
+337,6597258,2,cloves,"garlic, minced"
+338,6597258,1,tablespoon,finely chopped fresh ginger root
+339,6738295,⅔,cup,mirin (Japanese sweet rice wine)
+340,6738295,1,cup,soy sauce
+341,6738295,4 ½,teaspoons,rice vinegar
+342,6738295,1,teaspoon,sesame oil
+343,6738295,⅓,cup,white sugar
+344,6738295,7,cloves,"garlic, minced"
+345,6738295,1,tablespoon,minced fresh ginger
+346,6738295,1,dash,red pepper flakes
+347,6738295,,,black pepper to taste
+348,6586976,1,pound,lean ground beef
+349,6586976,½,cup,finely chopped onion
+350,6586976,¾,cup,thick teriyaki sauce
+351,6586976,¼,cup,"chopped water chestnuts, drained"
+352,6586976,½,(8 ounce) can,"pineapple tidbits, drained"
+353,6586976,1,teaspoon,finely chopped garlic
+354,6586976,1,teaspoon,minced fresh ginger
+355,6586976,,,freshly ground black pepper to taste
+356,6586976,1,teaspoon,sesame seeds
+357,6586976,1,tablespoon,sliced green onion
+358,6596420,⅓,cup,water
+359,6596420,⅓,cup,brown sugar
+360,6596420,⅓,cup,soy sauce
+361,6596420,1,teaspoon,crushed garlic
+362,6596420,½,teaspoon,ground cinnamon
+363,6562004,¼,cup,dark soy sauce
+364,6562004,¼,cup,sake
+365,6562004,2,tablespoons,mirin (Japanese sweet wine)
+366,6562004,1,tablespoon,white sugar
+367,6585065,2 ½,pounds,"baby back ribs, cut into 2-rib portions"
+368,6585065,½,teaspoon,ground black pepper
+369,6585065,⅔,cup,"teriyaki sauce, divided"
+370,6585065,1,tablespoon,balsamic vinegar
+371,6585065,2,cloves,"garlic, pressed"
+372,6741773,1,cup,low-sodium soy sauce
+373,6741773,1,cup,water
+374,6741773,⅓,cup,apple cider vinegar
+375,6741773,1,cup,brown sugar
+376,6741773,1,dash,dry mustard (Optional)
+377,6741773,1,dash,garlic powder (Optional)
+378,6741773,1,dash,ginger powder (Optional)
+379,6592702,½,cup,teriyaki sauce
+380,6592702,½,cup,apple juice
+381,6592702,2,tablespoons,"brown sugar, or more to taste"
+382,6592702,2,tablespoons,balsamic vinegar
+383,6592702,½,teaspoon,freshly cracked black pepper
+384,6592702,3,cloves,"garlic, minced"
+385,6592702,2,(6 ounce) fillets,salmon
+386,6565190,⅔,cup,soy sauce
+387,6565190,¼,cup,cooking sherry
+388,6565190,2,tablespoons,white sugar
+389,6565190,1,teaspoon,ground ginger
+390,6565190,1,clove,"garlic, minced"
+391,6584386,½,cup,reduced-sodium soy sauce
+392,6584386,½,cup,pineapple juice
+393,6584386,½,cup,dark brown sugar
+394,6584386,1,tablespoon,Sriracha sauce
+395,6584386,1,teaspoon,sesame oil
+396,6584386,½,teaspoon,garlic powder
+397,6584386,1,pound,"large shrimp, peeled and deveined"
+398,6584386,,,skewers
+399,6582708,1,tablespoon,vegetable oil
+400,6582708,1 ½,pounds,bone-in center-cut pork chops
+401,6582708,1,teaspoon,salt
+402,6582708,¾,teaspoon,granulated garlic
+403,6582708,½,teaspoon,ground black pepper
+404,6582708,⅔,cup,reduced-sodium soy sauce
+405,6582708,⅓,cup,water
+406,6582708,3,tablespoons,rice vinegar
+407,6582708,3,tablespoons,honey
+408,6582708,3,tablespoons,coconut sugar
+409,6582708,2,tablespoons,minced fresh ginger root
+410,6582708,2,cloves,"garlic, minced"
+411,6582708,1,(8 ounce) can,pineapple rings
+412,6582708,3,tablespoons,cornstarch
+413,6563714,½,cup,light soy sauce
+414,6563714,¼,cup,sake
+415,6563714,¼,cup,minced fresh pineapple
+416,6563714,¼,cup,honey
+417,6563714,¼,cup,white sugar
+418,6563714,2,cloves,"garlic, minced"
+419,6563714,1,tablespoon,grated fresh ginger
+420,6563714,¼,teaspoon,fish sauce
+421,6572296,1,(8 ounce) package,vermicelli pasta
+422,6572296,2,tablespoons,"vegetable oil, divided"
+423,6572296,2,medium,"zucchini, diced"
+424,6572296,1,medium,"yellow onion, thinly sliced"
+425,6572296,1,large,"bell pepper, diced"
+426,6572296,,,salt and freshly ground black pepper to taste
+427,6572296,1,tablespoon,minced garlic
+428,6572296,1,pound,"boneless rib-eye steak, fat trimmed, cut crosswise into thin strips"
+429,6572296,½,cup,soy sauce
+430,6572296,¼,cup,water
+431,6572296,¼,cup,light brown sugar
+432,6572296,2,tablespoons,white vinegar
+433,6572296,1,tablespoon,cornstarch
+434,6572296,½,teaspoon,ground ginger
+435,6570789,8,ounces,"portobello mushrooms, cleaned and stems cut"
+436,6570789,1,,"yellow onion, cut into wedges"
+437,6570789,1,,"zucchini, cut into 1/4-inch diagonal slices"
+438,6570789,1,,"yellow squash, sliced diagonally into 1/2-inch pieces"
+439,6570789,1,,"yellow bell pepper, cut into 1-inch pieces"
+440,6570789,1,,"orange bell pepper, cut into 1-inch pieces"
+441,6570789,⅓,cup,teriyaki baste and glaze
+442,6570789,1,clove,minced garlic
+443,6570789,¼,teaspoon,ground black pepper
+444,6561578,3,cups,soy sauce
+445,6561578,1 ½,cups,mirin (Japanese sweet wine)
+446,6561578,1,,"orange, juiced"
+447,6561578,6,ounces,chopped fresh pineapple with skin
+448,6561578,1,,"Granny Smith apple, cored and chopped"
+449,6561578,2,cloves,garlic
+450,6561578,1,teaspoon,grated fresh ginger root
+451,6561578,4,tablespoons,"white sugar, divided"
+452,6593554,1,(8 ounce) package,fresh sugar snap peas
+453,6593554,½,(8 ounce) package,"mushrooms, sliced"
+454,6593554,3,tablespoons,teriyaki sauce
+455,6593554,2,teaspoons,olive oil
+456,6567462,1,cup,"brown sugar, not packed"
+457,6567462,1 ½,cups,teriyaki sauce
+458,6567462,¼,cup,Worcestershire sauce
+459,6567462,½,teaspoon,liquid smoke flavoring
+460,6567462,¼,teaspoon,meat tenderizer
+461,6601516,1,pound,lean ground beef
+462,6601516,3,medium,"carrots, peeled and diced"
+463,6601516,½,large,"red bell pepper, diced"
+464,6601516,¼,teaspoon,salt
+465,6601516,¼,teaspoon,ground black pepper
+466,6601516,1,large,"zucchini, diced"
+467,6601516,½,cup,soy sauce
+468,6601516,⅓,cup,water
+469,6601516,2,tablespoons,water
+470,6601516,2,tablespoons,white sugar
+471,6601516,2,tablespoons,brown sugar
+472,6601516,2,tablespoons,rice vinegar
+473,6601516,1,tablespoon,cornstarch
+474,6601516,1,teaspoon,onion powder
+475,6601516,½,teaspoon,ground ginger
+476,6601516,½,teaspoon,garlic powder
+477,6567886,1 ½,cups,mango nectar
+478,6567886,1 ½,cups,teriyaki sauce
+479,6567886,¾,cup,dried cherries
+480,6567886,1,clove,"garlic, peeled and crushed"
+481,6567886,,,salt and pepper to taste
+482,6572716,2,(6 ounce),"skinless, boneless chicken breast halves"
+483,6572716,1,cup,teriyaki marinade
+484,6572716,,,4 bamboo kabob sticks
+485,6572716,1,medium,sweet onion
+486,6572716,1,medium,red bell pepper
+487,6572716,1,(20 ounce) can,"pineapple chunks, drained"
+488,6591347,2,pounds,boneless pork butt
+489,6591347,1,(12 ounce) bottle,teriyaki marinade (such as Lawry's® Teriyaki with Pineapple)
+490,6591347,¼,cup,chicken broth
+491,6591347,,,salt and ground black pepper to taste
+492,6591347,1,teaspoon,sesame seeds
+493,6565735,¾,cup,sake
+494,6565735,¼,cup,white sugar
+495,6565735,1,cup,soy sauce
+496,6565735,⅓,cup,white sugar
+497,6565735,2,tablespoons,orange marmalade
+498,6565735,5,teaspoons,rice vinegar
+499,6565735,1,tablespoon,garlic powder
+500,6565735,2,teaspoons,sesame oil
+501,6565735,1,teaspoon,ground ginger
+502,6565735,¼,teaspoon,ground cayenne pepper
+503,6565735,¼,teaspoon,black pepper
+504,6565735,⅓,cup,cold water
+505,6565735,2,tablespoons,cornstarch
+506,6567534,½,cup,soy sauce
+507,6567534,2,cloves,"garlic, crushed"
+508,6567534,2,large,"fresh green onions, chopped"
+509,6567534,1,tablespoon,ground ginger
+510,6567534,2,tablespoons,white sugar
+511,6567534,¼,teaspoon,ground black pepper
+512,6567534,3,tablespoons,distilled white vinegar
+513,6567534,1,tablespoon,vegetable oil
+514,6567534,2,tablespoons,Worcestershire sauce
+515,6576444,½,cup,reduced-sodium soy sauce
+516,6576444,½,cup,water
+517,6576444,¼,cup,rice vinegar
+518,6576444,2,tablespoons,white sugar
+519,6576444,1,tablespoon,grated fresh ginger
+520,6576444,1,tablespoon,"garlic, minced"
+521,6576444,1,teaspoon,toasted sesame oil
+522,6576444,¼,teaspoon,ground white pepper
+523,6576444,1,pound,raw shrimp
+524,6576444,2,small,"Zucchini, raw"
+525,6576444,1,small head,"cauliflower, cut into small florets"
+526,6576444,3,tablespoons,cornstarch
+527,6576444,3,tablespoons,water
+528,6576444,3,cups,"hot cooked rice, or as needed"
+529,6576444,1,tablespoon,"sesame seeds, or to taste"

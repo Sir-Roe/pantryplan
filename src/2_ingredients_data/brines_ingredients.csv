@@ -1,0 +1,451 @@
+,id_recipe,Quantity,Unit of Measure,Ingredient
+0,6663783,1,gallon,vegetable broth
+1,6663783,1,cup,sea salt
+2,6663783,1,tablespoon,crushed dried rosemary
+3,6663783,1,tablespoon,dried sage
+4,6663783,1,tablespoon,dried thyme
+5,6663783,1,tablespoon,dried savory
+6,6663783,1,gallon,ice water
+7,6650592,1,gallon,warm water
+8,6650592,¾,cup,kosher salt
+9,6650592,¾,cup,soy sauce
+10,6650592,⅔,cup,sugar
+11,6650592,¼,cup,olive oil
+12,6585034,1,gallon,water
+13,6585034,2,cups,kosher salt
+14,6585034,1 ½,cups,dark brown sugar
+15,6585034,3,large,bay leaves
+16,6585034,1,tablespoon,whole black peppercorns
+17,6585034,2 ½,teaspoons,dried rosemary
+18,6585034,2 ½,teaspoons,dried thyme
+19,6585034,12,,whole cloves
+20,6741005,2,gallons,water
+21,6741005,1 ½,cups,canning salt
+22,6741005,⅓,cup,brown sugar
+23,6741005,¼,cup,Worcestershire sauce
+24,6741005,3,tablespoons,minced garlic
+25,6741005,1,tablespoon,ground black pepper
+26,6586585,2,cups,"water, more if needed"
+27,6586585,1,cup,brown sugar
+28,6586585,2,tablespoons,kosher salt
+29,6586585,3,cloves,"garlic, gently crushed"
+30,6586585,3,slices,"fresh ginger, gently crushed"
+31,6582593,4,cups,water
+32,6582593,¼,cup,packed brown sugar
+33,6582593,¼,cup,kosher salt
+34,6564166,16,cups,water
+35,6564166,¾,cup,kosher salt
+36,6564166,⅔,cup,white sugar
+37,6564166,¼,cup,"dried sage, or to taste"
+38,6564166,¼,cup,"dried basil, or to taste"
+39,6564166,2,heads,"garlic, crushed and chopped"
+40,6564166,1,tablespoon,whole black peppercorns
+41,6564166,1,large,bay leaf
+42,6663623,1,(12 pound),"fresh, whole, bone-in skin-on turkey, rinsed and patted dry"
+43,6663623,1,cup,salt
+44,6663623,1,medium,"onion, cut into wedges"
+45,6663623,1,medium,"orange, cut into wedges"
+46,6663623,1,medium,"lemon, cut into wedges"
+47,6663623,3,cloves,garlic
+48,6663623,4,large,bay leaves
+49,6663623,1,tablespoon,dried thyme
+50,6663623,1,tablespoon,ground black pepper
+51,6663623,1 ½,gallons,cold water
+52,6574866,1,gallon,vegetable broth
+53,6574866,1,cup,kosher salt
+54,6574866,½,cup,light brown sugar
+55,6574866,1,tablespoon,black peppercorns
+56,6574866,1 ½,teaspoons,whole allspice berries
+57,6574866,1 ½,teaspoons,chopped candied ginger
+58,6574866,1,gallon,water with ice chunks
+59,6574866,1,medium,"red apple, cored and sliced"
+60,6574866,½,medium,"onion, sliced"
+61,6574866,1,(3 inch),cinnamon stick
+62,6574866,4,sprigs,fresh rosemary
+63,6574866,6,leaves,fresh sage
+64,6574866,1,cup,water
+65,6590868,1,(12 fluid ounce) can,"frozen orange juice concentrate, thawed"
+66,6590868,1,,"orange, sliced"
+67,6590868,1,,"lemon, sliced"
+68,6590868,1,,"lime, sliced"
+69,6590868,1,tablespoon,dried thyme
+70,6590868,1,tablespoon,ground black pepper
+71,6590868,3,cloves,garlic
+72,6590868,2,,bay leaves
+73,6590868,1,cup,kosher salt
+74,6590868,1 ½,gallons,water
+75,6568173,1,(15 pound),"whole turkey, neck and giblets removed"
+76,6568173,3,tablespoons,kosher salt
+77,6568173,,,black pepper to taste
+78,6568173,1,,"onion, cut into wedges"
+79,6568173,4,stalks,"celery, halved"
+80,6571858,1,cup,salt
+81,6571858,1,cup,orange juice
+82,6571858,1,cup,brown sugar
+83,6571858,1,gallon,water
+84,6571858,1,(3 inch),cinnamon stick
+85,6571858,1,(15 pound),"turkey, thawed if purchased frozen"
+86,6569403,2,quarts,apple juice
+87,6569403,1,gallon,cold water
+88,6569403,1,cup,kosher salt
+89,6569403,6,cloves,"garlic, peeled and crushed"
+90,6569403,5,pounds,ice cubes
+91,6583278,1,gallon,"water, or as needed, divided"
+92,6583278,2,cups,apple cider
+93,6583278,1,cup,kosher salt
+94,6583278,1,tablespoon,fresh sage
+95,6583278,1,tablespoon,fresh rosemary
+96,6583278,1,tablespoon,fresh thyme
+97,6583278,1,tablespoon,black peppercorns
+98,6583278,4,cups,ice cubes
+99,6597552,2,gallons,water
+100,6597552,2,cups,brown sugar
+101,6597552,1,cup,pork seasoning (such as Fraboni's® Porketta®)
+102,6597552,1,cup,garlic powder
+103,6597552,1,cup,onion powder
+104,6597552,4,ounces,pink speed-cure salt
+105,6564120,¾,cup,kosher salt
+106,6564120,¾,cup,light brown sugar
+107,6564120,2,tablespoons,minced garlic
+108,6564120,1 ½,teaspoons,ground cayenne pepper
+109,6564120,1,gallon,warm water
+110,6564120,¼,cup,molasses
+111,6564120,¼,cup,soy sauce
+112,6589097,4,quarts,"water, divided"
+113,6589097,2,cups,dark brown sugar
+114,6589097,1,cup,soy sauce
+115,6589097,1,cup,maple syrup
+116,6589097,¾,cup,sea salt
+117,6589097,8,cloves,"whole garlic cloves, peeled"
+118,6589097,6,,bay leaves
+119,6589097,3,,large fresh thyme sprigs
+120,6589097,2,teaspoons,whole black peppercorns
+121,6589097,1,cup,sour mash whiskey
+122,6664486,1,gallon,water
+123,6664486,4,quarts,chicken broth
+124,6664486,1 ½,cups,kosher salt
+125,6664486,2,tablespoons,minced garlic
+126,6664486,2,tablespoons,dried rosemary
+127,6664486,2,tablespoons,dried minced onion
+128,6664486,2,tablespoons,dried basil
+129,6664486,2,tablespoons,dried savory
+130,6664486,2,tablespoons,dried marjoram
+131,6664486,2,tablespoons,dried thyme
+132,6664486,2,tablespoons,dried tarragon
+133,6664486,1,tablespoon,dried oregano
+134,6664486,1,tablespoon,ground black pepper
+135,6664486,1,tablespoon,coriander seeds
+136,6664486,2,gallons,"ice, divided, or more as needed"
+137,6664486,1,(20 pound),"whole turkey, neck and giblets removed"
+138,6596583,4,(32 ounce) cartons,low-sodium chicken broth
+139,6596583,1,cup,kosher salt
+140,6596583,2,tablespoons,dried savory
+141,6596583,2,tablespoons,dried thyme
+142,6596583,2,tablespoons,dried sage
+143,6596583,2,tablespoons,dried rosemary
+144,6596583,1,gallon,apple juice
+145,6596583,1,gallon,"water, or as needed to cover"
+146,6577552,2,gallons,cold water
+147,6577552,10,ounces,Kikkoman Naturally Brewed Soy Sauce
+148,6577552,½,cup,kosher salt
+149,6577552,½,cup,white sugar
+150,6577552,2,tablespoons,dried sage
+151,6577552,2,tablespoons,dried celery seed
+152,6577552,1,tablespoon,dried thyme
+153,6578472,1,gallon,water
+154,6578472,1,(12 fluid ounce) can,frozen orange juice concentrate
+155,6578472,1,(12 fluid ounce) can,frozen cranberry juice concentrate
+156,6578472,1,cup,kosher salt
+157,6578472,½,cup,brown sugar
+158,6578472,1,medium,"lemon, cut into wedges"
+159,6578472,1,medium,"orange, cut into wedges"
+160,6578472,1,medium,"red onion, cut into wedges"
+161,6578472,3,cloves,garlic
+162,6578472,1,tablespoon,dried thyme leaves
+163,6578472,1,tablespoon,freshly ground black pepper
+164,6578472,1,(3 inch),cinnamon stick
+165,6578472,4,large,bay leaves
+166,6597483,2,cups,water
+167,6597483,⅓,cup,kosher salt
+168,6597483,2,tablespoons,dried parsley
+169,6597483,2,tablespoons,coriander seeds
+170,6597483,1,tablespoon,whole black peppercorns
+171,6597483,1,tablespoon,mustard seed
+172,6597483,1,teaspoon,garlic powder
+173,6597483,2,large,bay leaves
+174,6597483,8,cups,buttermilk
+175,6597483,1,(12 pound),"whole turkey, neck and giblets removed"
+176,6597483,2,tablespoons,unsalted butter
+177,6567725,1,gallon,"vegetable broth, or to taste"
+178,6567725,½,gallon,apple juice
+179,6567725,1,cup,kosher salt
+180,6567725,1,teaspoon,"freshly ground black pepper, or more to taste"
+181,6567725,1,teaspoon,"herbes de Provence, or more to taste"
+182,6599648,2,cups,kosher salt
+183,6599648,3,tablespoons,poultry seasoning
+184,6599648,3,tablespoons,onion powder
+185,6599648,1,tablespoon,black pepper
+186,6599648,4,quarts,vegetable broth
+187,6599648,2,quarts,water
+188,6599648,3,cups,cranberry juice
+189,6568012,3,tablespoons,brown sugar
+190,6568012,2,tablespoons,garlic powder
+191,6568012,2,tablespoons,red pepper flakes
+192,6568012,2,tablespoons,onion powder
+193,6568012,1 ½,tablespoons,salt
+194,6568012,1,tablespoon,ground cumin
+195,6564240,1,cup,brown sugar
+196,6564240,½,cup,salt
+197,6564240,1,tablespoon,mustard powder
+198,6564240,1,tablespoon,garlic powder
+199,6564240,1,cup,cider vinegar
+200,6564240,2,cups,"water, or as needed to cover"
+201,6586946,2,gallons,water
+202,6586946,1 ¼,cups,kosher salt
+203,6586946,⅓,cup,light brown sugar
+204,6586946,¼,cup,Worcestershire sauce
+205,6586946,6,cloves,"garlic, chopped"
+206,6586946,4,sprigs,fresh thyme
+207,6586946,1,sprig,fresh rosemary
+208,6586946,1,tablespoon,whole black peppercorns
+209,6586946,1 ½,teaspoons,whole allspice berries (Optional)
+210,6586946,1,,bay leaf
+211,6599245,1,(5 pound),whole chicken
+212,6599245,1,gallon,cold water
+213,6599245,1,tablespoon,dried sage
+214,6599245,1,tablespoon,dried celery seed
+215,6599245,½,tablespoon,dried thyme
+216,6599245,¾,cup,kosher salt
+217,6599245,¾,cup,sugar
+218,6599245,¾,cup,Kikkoman Soy Sauce
+219,6599245,2,tablespoons,seasoned salt
+220,6592456,,,cold water to cover
+221,6592456,¼,cup,kosher salt
+222,6592456,8,,skinless chicken legs
+223,6592456,3,cups,"all-purpose flour, divided"
+224,6592456,1,cup,buttermilk
+225,6592456,1 ¼,tablespoons,baking powder
+226,6592456,2,teaspoons,salt
+227,6592456,2,teaspoons,cayenne pepper
+228,6592456,1 ½,cups,"canola oil, for frying"
+229,6576266,1,gallon,vegetable broth
+230,6576266,1 ½,cups,sea salt
+231,6576266,⅓,cup,brown sugar
+232,6576266,2,tablespoons,black peppercorns
+233,6576266,1,tablespoon,dried rosemary
+234,6576266,1,tablespoon,dried sage
+235,6576266,1,tablespoon,dried thyme
+236,6576266,2,gallons,water
+237,6576266,½,cup,apple cider vinegar
+238,6576266,3,,"apples, cut into quarters"
+239,6576266,1,,"onion, cut into quarters"
+240,6576266,½,cup,Worcestershire sauce
+241,6576266,3,cloves,"garlic, peeled"
+242,6581368,2,tablespoons,whole black peppercorns
+243,6581368,1,gallon,water
+244,6581368,1,cup,kosher salt
+245,6581368,1,cup,brown sugar
+246,6581368,½,cup,honey
+247,6581368,½,cup,pure maple syrup
+248,6581368,¼,cup,white sugar
+249,6581368,2,,"jalapeno peppers, thinly sliced"
+250,6581368,6,cloves,"garlic, smashed"
+251,6581368,1,tablespoon,onion powder
+252,6664433,5,cups,water
+253,6664433,⅓,cup,white sugar
+254,6664433,⅓,cup,kosher salt
+255,6664433,½,cup,white vinegar
+256,6664433,5,pounds,chicken leg quarters
+257,6599479,4,cups,orange juice
+258,6599479,2,cups,water
+259,6599479,4,(8 ounce) jars,honey
+260,6599479,1,cup,brown sugar
+261,6599479,1,,"lemon, sliced"
+262,6599479,2,,"oranges, sliced"
+263,6599479,3,tablespoons,ground black pepper
+264,6599479,1,tablespoon,red pepper flakes
+265,6599479,2,cloves,garlic
+266,6599479,1,,bay leaf
+267,6599479,2,(7 pound),"bags of ice, or as needed"
+268,6570468,4,cups,water
+269,6570468,1,cup,kosher salt
+270,6570468,1,cup,honey
+271,6570468,1,large,"red apple, cored and thinly sliced"
+272,6570468,1,medium,"onion, quartered"
+273,6570468,3,cloves,"garlic, crushed"
+274,6570468,3,large,bay leaves
+275,6570468,2,sprigs,fresh rosemary
+276,6570468,2,sprigs,fresh thyme
+277,6570468,2,sprigs,fresh sage
+278,6570468,1,tablespoon,black peppercorns
+279,6570468,8,cups,apple cider
+280,6570468,4,cups,ice
+281,6570468,1,cup,apple cider vinegar
+282,6602187,,,"water, as needed"
+283,6602187,3,,"carrots, sliced"
+284,6602187,3,stalks,"celery, sliced"
+285,6602187,2,small,"onions, sliced"
+286,6602187,1 ½,cups,kosher salt
+287,6602187,1,cup,brown sugar
+288,6602187,2,,"lemons, sliced"
+289,6602187,1,large,"green bell pepper, sliced"
+290,6602187,6,cloves,"garlic, chopped"
+291,6581924,4,(32 ounce) containers,chicken broth
+292,6581924,1,cup,apple juice (Optional)
+293,6581924,1,cup,light brown sugar
+294,6581924,1,cup,kosher salt
+295,6581924,2,tablespoons,dried sage
+296,6581924,4,,peppercorns
+297,6581924,4,,"red apples, halved"
+298,6581924,5,cloves,"garlic, crushed"
+299,6581924,10,pounds,"ice cubes, or as needed"
+300,6581924,1,(20 pound) turkey,"whole turkey - thawed, neck and giblets removed"
+301,6581924,3,,"apples, cored and quartered"
+302,6581924,1,,"onion, cut into 8 wedges"
+303,6581924,3,cloves,garlic
+304,6581924,6,,fresh sage leaves
+305,6581924,3,tablespoons,"olive oil, or as needed"
+306,6739553,6,(4 ounce),bone-in chicken thighs with skin
+307,6739553,1,tablespoon,ground black pepper
+308,6739553,2,teaspoons,ground cumin
+309,6739553,1,teaspoon,salt
+310,6739553,18,,cherry peppers in brine (such as Peppadew®)
+311,6739553,6,ounces,fresh Italian sausage
+312,6739553,2,tablespoons,olive oil
+313,6739553,1,,"onion, sliced"
+314,6739553,1,pinch,salt
+315,6739553,4,cloves,"garlic, crushed"
+316,6739553,1,tablespoon,herbes de Provence
+317,6739553,½,teaspoon,crushed red pepper flakes
+318,6739553,1,cup,"sliced pepperoncini peppers, with liquid"
+319,6739553,2,cups,chicken stock
+320,6739553,1,(14 ounce) can,"artichoke hearts, drained and chopped"
+321,6739553,½,cup,pitted kalamata olives
+322,6739553,1,tablespoon,chopped fresh basil
+323,6739553,1,tablespoon,chopped fresh oregano
+324,6739553,1,tablespoon,chopped fresh marjoram
+325,6602871,5,cups,"water, divided"
+326,6602871,1,cup,salt
+327,6602871,1,gallon,water
+328,6602871,1,cup,packed dark brown sugar
+329,6602871,2,quarts,apple juice (not from concentrate)
+330,6602871,1,pint,whiskey (such as Jack Daniel's®)
+331,6602871,1,,"lemon, juiced"
+332,6602871,1,large,"Gala apple, quartered and chopped"
+333,6602871,1,,"navel orange, quartered, or more to taste"
+334,6603954,2,quarts,water
+335,6603954,2,cups,kosher salt
+336,6603954,1,cup,white sugar
+337,6603954,2,gallons,cold water
+338,6603954,3,sprigs,"fresh rosemary, or more to taste"
+339,6603954,3,sprigs,"fresh thyme, or more to taste"
+340,6603954,1,tablespoon,crushed garlic
+341,6603954,1,teaspoon,ground allspice
+342,6603954,1,teaspoon,ground black pepper
+343,6603954,1,(16 pound),"whole turkey, neck and giblets removed"
+344,6594082,1,(32 fluid ounce) container,chicken stock
+345,6594082,1,(32 fluid ounce) container,vegetable stock
+346,6594082,2,cups,Pinot Grigio wine
+347,6594082,2,,"Fuji apples, sliced"
+348,6594082,2,medium,"oranges, sliced"
+349,6594082,3,small,"lemons, sliced"
+350,6594082,1,,"Anjou pear, sliced"
+351,6594082,1,head,"garlic, cloves peeled and crushed"
+352,6594082,½,,"yellow onion, sliced"
+353,6594082,½,bunch,"fresh rosemary, or to taste"
+354,6594082,½,bunch,"fresh thyme, or to taste"
+355,6594082,½,bunch,"fresh sage, or to taste"
+356,6594082,,,kitchen twine
+357,6594082,1,cup,water
+358,6594082,¾,cup,sea salt
+359,6594082,½,cup,white sugar
+360,6594082,2,tablespoons,dried bell peppers
+361,6594082,2,tablespoons,dried vegetable flakes
+362,6594082,2,tablespoons,multi-colored whole peppercorns
+363,6594082,4,,bay leaves
+364,6594082,1,gallon,iced water
+365,6594082,1,(11 pound),"whole turkey, neck and giblets removed"
+366,6594082,,,1 extra-large turkey bag
+367,6568436,¼,cup,salt
+368,6568436,1,tablespoon,brown sugar
+369,6568436,1,teaspoon,ground black pepper
+370,6568436,1,(12 pound),"thawed whole turkey, neck and giblets removed"
+371,6568436,3,stalks,"celery, chopped"
+372,6568436,1,,"yellow onion, quartered"
+373,6568436,6,,"baby carrots, cut in half"
+374,6568436,2,tablespoons,softened butter
+375,6568436,1,(14.5 ounce) can,chicken broth
+376,6569643,96,ounces,water
+377,6569643,32,ounces,vegetable broth
+378,6569643,2,,"oranges, sliced"
+379,6569643,1,,"onion, chopped into large pieces"
+380,6569643,1,(6 ounce) can,frozen limeade concentrate
+381,6569643,1,(6 ounce) can,frozen orange juice concentrate
+382,6569643,½,cup,brown sugar
+383,6569643,½,cup,rum
+384,6569643,½,cup,coarse salt
+385,6569643,2,tablespoons,crushed garlic
+386,6569643,1,tablespoon,ground black pepper
+387,6569643,1,tablespoon,ground thyme
+388,6569643,1,tablespoon,dried parsley
+389,6569643,1,tablespoon,juniper berries
+390,6569643,2,,cinnamon sticks
+391,6569643,3,,bay leaves
+392,6580011,1 ½,gallons,water
+393,6580011,1,quart,apple cider
+394,6580011,2,cups,brown sugar
+395,6580011,2,,"oranges, sliced"
+396,6580011,1 ½,cups,salt
+397,6580011,¾,cup,celery leaves and diced celery stalk from the inside of a bunch
+398,6580011,3,tablespoons,dried rosemary
+399,6580011,6,cloves,"garlic, minced"
+400,6580011,6,,bay leaves
+401,6580011,1,tablespoon,dried thyme
+402,6581890,,,Brine:
+403,6581890,2,quarts,water
+404,6581890,5,,oranges - juiced and zest cut off in large strips
+405,6581890,2,cups,kosher salt
+406,6581890,1,cup,white sugar
+407,6581890,12,,black tea bags
+408,6581890,4,,bay leaves
+409,6581890,6,,whole cloves
+410,6581890,12,,whole black peppercorns
+411,6581890,1,cup,bourbon whiskey
+412,6581890,4,quarts,"cold water, or as needed"
+413,6581890,1,(8 pound),whole turkey breast
+414,6581890,,,Seasoned Butter:
+415,6581890,2,tablespoons,"coriander seeds, crushed"
+416,6581890,1,tablespoon,paprika
+417,6581890,2,teaspoons,"cumin seeds, crushed"
+418,6581890,6,cloves,"garlic, crushed and chopped"
+419,6581890,6,tablespoons,"butter, softened"
+420,6571512,9,(14 ounce) cans,vegetable broth
+421,6571512,1 ½,cups,chopped candied ginger
+422,6571512,1 ½,cups,dried cherries
+423,6571512,4,ounces,dried pears
+424,6571512,4,ounces,dried apples
+425,6571512,2 ½,cups,brown sugar
+426,6571512,1,cup,kosher salt
+427,6571512,2,tablespoons,whole peppercorns
+428,6571512,1,teaspoon,whole allspice berries
+429,6571512,3,,cinnamon sticks
+430,6571512,5,leaves,fresh sage
+431,6571512,1,gallon,ice water
+432,6571512,1,(15 pound),"frozen whole turkey, unthawed"
+433,6571512,1,,"white onion, quartered"
+434,6571512,1,,"red apple, cored and quartered"
+435,6571512,1,sprig,"fresh rosemary, or to taste"
+436,6571512,2,,cinnamon sticks
+437,6571512,1,leaf,"fresh sage, or to taste"
+438,6571512,3,cups,"water, or amount to cover"
+439,6571512,1,tablespoon,"vegetable oil, or as needed"
+440,6565972,1,gallon,cool water
+441,6565972,¾,cup,white sugar
+442,6565972,½,cup,kosher salt
+443,6565972,1,(12 ounce) bottle,mesquite-flavored marinade (such as Lawry's®)
+444,6581317,2,gallons,cold water
+445,6581317,½,cup,Better Than Bouillon® Roasted Chicken Base
+446,6581317,1,cup,maple syrup
+447,6581317,2,tablespoons,black pepper
+448,6581317,½,tablespoon,granulated garlic
+449,6581317,2,tablespoons,fresh thyme

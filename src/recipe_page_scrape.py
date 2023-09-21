@@ -217,5 +217,19 @@ def main():
     e_df= pd.DataFrame({'error_files':error_paths})
     e_df.to_csv(f'{errors}\error_files.csv')
 
-#main()
-scraper_engine(r"C:\Users\lmpro\Documents\GitHub\pantryplan\src\recipe_scraper_tables\zucchini_breads_urls.csv")
+def rerunErrors():
+
+    error_paths =[]
+    print(errors)
+    df_err= pd.read_csv(f'{errors}\error_files.csv')
+    # Now, file_paths contains all the file paths in the specified folder and its subdirectories
+    for file_path in df_err['error_files']:
+        try:
+            scraper_engine(file_path)
+        except:
+            error_paths.append(file_path)
+
+    e_df= pd.DataFrame({'error_files':error_paths})
+    e_df.to_csv(f'{errors}\error_files.csv')
+
+rerunErrors()

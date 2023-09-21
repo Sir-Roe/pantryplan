@@ -1,0 +1,487 @@
+,id_recipe,Quantity,Unit of Measure,Ingredient
+0,7255780,,,cooking spray
+1,7255780,20,,java chip flavored creme chocolate sandwich cookies (such as Oreo)
+2,7255780,2,tablespoons,"butter, melted"
+3,7101371,3,tablespoons,salted butter
+4,7101371,1,(10 ounce) package,marshmallows
+5,7101371,3,drops,"green food coloring, or as needed"
+6,7101371,6,cups,frosted toasted oat cereal with marshmallows (such as Lucky Charms®)
+7,6598884,1,(5 1/2 pound),corned beef brisket with spice packet
+8,6598884,7,small,"potatoes, peeled and diced"
+9,6598884,4,medium,"carrots, peeled and diced"
+10,6598884,1,medium,"onion, diced"
+11,6598884,3,cloves,"garlic, chopped"
+12,6568739,3,,"russet potatoes, diced"
+13,6568739,1,pound,baby carrots
+14,6568739,1,large,"onion, chopped"
+15,6568739,4,cloves,"garlic, minced"
+16,6568739,1,tablespoon,"olive oil, or to taste"
+17,6568739,2,pounds,"beef chuck roast, cubed"
+18,6568739,1,(16 ounce) bottle,"stout beer, divided"
+19,6568739,1,(6 ounce) can,tomato paste
+20,6568739,1,cup,beef broth
+21,6568739,1,tablespoon,garlic powder
+22,6568739,1,tablespoon,onion powder
+23,6568739,1,tablespoon,smoked paprika
+24,6568739,,,salt and ground black pepper to taste
+25,6572584,1,(4 pound),"corned beef brisket, seasoning packet discarded"
+26,6572584,1 ½,teaspoons,garlic powder
+27,6572584,1 ½,teaspoons,onion powder
+28,6572584,1,(12 ounce) bottle,beer
+29,6602820,3 ½,cups,all-purpose flour
+30,6602820,½,cup,quick cooking oats
+31,6602820,1,teaspoon,salt
+32,6602820,1,teaspoon,baking powder
+33,6602820,1,teaspoon,baking soda
+34,6602820,1,(8 ounce) container,low-fat sour cream
+35,6602820,¾,cup,skim milk
+36,6602820,2,tablespoons,honey
+37,6602820,1,tablespoon,white sugar
+38,6602820,¼,cup,"butter, melted"
+39,6602820,2,tablespoons,"butter, melted"
+40,6586434,2 ½,cups,all-purpose flour
+41,6586434,1 ½,teaspoons,baking soda
+42,6586434,1,tablespoon,baking powder
+43,6586434,½,teaspoon,salt
+44,6586434,3,tablespoons,white sugar
+45,6586434,½,cup,"butter, cut into pieces"
+46,6586434,1,cup,raisins
+47,6586434,½,cup,currants
+48,6586434,2,teaspoons,caraway seed (Optional)
+49,6586434,¾,cup,milk
+50,6586434,3,tablespoons,apple cider vinegar
+51,6598824,1 ½,cups,grated raw potatoes
+52,6598824,1,cup,all-purpose flour
+53,6598824,1,cup,leftover mashed potatoes
+54,6598824,1,large,egg
+55,6598824,1,tablespoon,skim milk
+56,6598824,,,salt and pepper to taste
+57,6598824,¼,cup,olive oil
+58,6650394,1,(1.5 fluid ounce) jigger,Irish cream liqueur
+59,6650394,1,(1.5 fluid ounce) jigger,Irish whiskey
+60,6650394,1,cup,hot brewed coffee
+61,6650394,1,tablespoon,whipped cream
+62,6650394,1,dash,ground nutmeg
+63,6570161,1,tablespoon,vegetable oil
+64,6570161,4,,lamb shanks
+65,6570161,1,,"onion, chopped"
+66,6570161,4,cloves,"garlic, chopped"
+67,6570161,2,,"carrots, chopped"
+68,6570161,2,,"celery ribs, chopped"
+69,6570161,2,tablespoons,tomato paste
+70,6570161,1,(14 ounce) can,beef broth
+71,6570161,1,(12 fluid ounce) bottle,stout (such as Guinness®) or porter
+72,6570161,3,sprigs,fresh thyme
+73,6570161,3,sprigs,fresh parsley
+74,6570161,1,,bay leaf
+75,6570161,1,sprig,fresh rosemary
+76,6570161,,,salt and pepper to taste
+77,6577186,3,cups,all-purpose flour
+78,6577186,1,tablespoon,baking powder
+79,6577186,1,teaspoon,baking soda
+80,6577186,½,teaspoon,salt
+81,6577186,¾,cup,white sugar
+82,6577186,1,tablespoon,fennel seed
+83,6577186,2,,"eggs, beaten"
+84,6577186,1 ¾,cups,buttermilk
+85,6577186,2,teaspoons,melted butter
+86,6577186,3,tablespoons,"butter, chilled"
+87,6663249,10,,"baby red potatoes, quartered"
+88,6663249,4,large,"carrots, peeled and cut into matchstick pieces"
+89,6663249,1,,"onion, peeled and cut into bite-sized pieces"
+90,6663249,4,cups,water
+91,6663249,1,(4 pound),corned beef brisket with spice packet
+92,6663249,6,ounces,beer
+93,6663249,½,head,"cabbage, coarsely chopped"
+94,6649667,1,(3 pound),corned beef brisket with spice packet
+95,6649667,10,small,red potatoes
+96,6649667,5,medium,carrots
+97,6649667,1,large head,cabbage
+98,6663160,2,cups,water
+99,6663160,1,(12 fluid ounce) can or bottle,beer
+100,6663160,4,cloves,"garlic, minced"
+101,6663160,1,(3 pound),corned beef brisket with spice packet
+102,6649506,2,fluid ounces,coffee flavored liqueur
+103,6649506,½,fluid ounce,Irish cream liqueur
+104,6664783,1,(5 pound),flat-cut corned beef brisket
+105,6664783,1,tablespoon,"browning sauce (such as Kitchen Bouquet®), or as desired"
+106,6664783,1,tablespoon,vegetable oil
+107,6664783,1,,"onion, sliced"
+108,6664783,6,cloves,"garlic, sliced"
+109,6664783,2,tablespoons,water
+110,6650895,4,slices,"bacon, cut into small pieces"
+111,6650895,2 ½,pounds,"boneless beef chuck, cut into 2-inch pieces"
+112,6650895,1 ½,teaspoons,"salt, divided, or more to taste"
+113,6650895,,,freshly ground black pepper to taste
+114,6650895,2,,"onions, coarsely chopped"
+115,6650895,4,cloves,"garlic, minced"
+116,6650895,1,(14.9 ounce) can,dark beer (such as Guinness®)
+117,6650895,¼,cup,tomato paste
+118,6650895,3,,"carrots, cut into 1-inch pieces"
+119,6650895,2,stalks,"celery, cut into 1-inch pieces"
+120,6650895,4,sprigs,fresh thyme
+121,6650895,1,teaspoon,white sugar
+122,6650895,½,teaspoon,"freshly ground black pepper, or to taste"
+123,6650895,2 ½,cups,"chicken stock, or as needed to cover"
+124,6650895,4,cups,mashed potatoes (Optional)
+125,6737893,1,(14 ounce) can,sweetened condensed milk
+126,6737893,1 ⅔,cups,Irish whiskey
+127,6737893,1,cup,heavy cream
+128,6737893,2,tablespoons,chocolate syrup
+129,6737893,1,teaspoon,instant coffee granules
+130,6737893,1,teaspoon,vanilla extract
+131,6737893,1,teaspoon,almond extract
+132,6664978,2,tablespoons,butter
+133,6664978,2,tablespoons,extra-virgin olive oil
+134,6664978,1,large,"onion, chopped"
+135,6664978,5,large,"Yukon Gold potatoes, peeled and cut into 1/4-inch cubes"
+136,6664978,1,large,"carrot, coarsely shredded"
+137,6664978,2,pounds,"cooked corned beef, cubed"
+138,6664978,2,tablespoons,chopped fresh parsley
+139,6664978,½,teaspoon,"ground black pepper, or to taste"
+140,6664978,¼,teaspoon,dried thyme leaves
+141,6664978,1,pinch,salt to taste
+142,6663821,1,(5 1/2 pound),corned beef brisket
+143,6663821,2,large,onions
+144,6663821,10,,"carrots, cut into 1 inch pieces"
+145,6663821,2,heads,"cabbage, cored and cut into wedges"
+146,6663821,15,small,white (Irish) potatoes
+147,6650898,4,ounces,"cream cheese, softened"
+148,6650898,¼,cup,"butter, softened"
+149,6650898,4,cups,confectioners' sugar
+150,6650898,1,teaspoon,vanilla extract
+151,6650898,2 ½,cups,flaked coconut
+152,6650898,1,tablespoon,ground cinnamon
+153,6651024,1,pound,cooked potatoes
+154,6651024,4,ounces,self-rising flour
+155,6651024,2,ounces,butter
+156,6651024,½,pinch,salt
+157,6738433,1 ½,pounds,"thickly sliced bacon, diced"
+158,6738433,6,pounds,"boneless lamb shoulder, cut into 2 inch pieces"
+159,6738433,½,cup,all-purpose flour
+160,6738433,½,teaspoon,salt
+161,6738433,½,teaspoon,ground black pepper
+162,6738433,1,large,"onion, chopped"
+163,6738433,3,cloves,"garlic, minced"
+164,6738433,½,cup,water
+165,6738433,4,cups,beef stock
+166,6738433,2,teaspoons,white sugar
+167,6738433,4,cups,diced carrots
+168,6738433,3,,"potatoes, peeled and cubed"
+169,6738433,2,large,"onions, cut into bite-size pieces"
+170,6738433,1,cup,white wine
+171,6738433,1,teaspoon,dried thyme
+172,6738433,2,,bay leaves
+173,6738141,1,cup,milk
+174,6738141,½,cup,Irish cream liqueur (eg. Bailey's®)
+175,6738141,½,cup,vodka (eg. Smirnoff®)
+176,6738141,1,(3.9 ounce) package,instant chocolate pudding mix
+177,6595517,4,links,pork sausage
+178,6595517,2,pounds,"potatoes, peeled and cubed"
+179,6595517,¼,cup,butter
+180,6595517,2,tablespoons,milk (Optional)
+181,6595517,1,teaspoon,dry mustard powder
+182,6595517,,,salt and ground black pepper to taste
+183,6595517,1,tablespoon,butter
+184,6595517,2,large,"onions, chopped"
+185,6595517,6,cups,beef broth
+186,6595517,2,cups,red wine
+187,6650131,8,ounces,almond paste
+188,6650131,1,cup,"butter, softened"
+189,6650131,1,cup,white sugar
+190,6650131,4,large,"eggs, separated"
+191,6650131,2,cups,all-purpose flour
+192,6650131,6,drops,red food coloring
+193,6650131,6,drops,green food coloring
+194,6650131,¼,cup,seedless red raspberry jam
+195,6650131,¼,cup,apricot jam
+196,6650131,1,cup,"semisweet chocolate chips, melted"
+197,6738393,2 ½,pounds,"potatoes, peeled and cubed"
+198,6738393,4,slices,bacon
+199,6738393,½,small head,"cabbage, chopped"
+200,6738393,1,large,"onion, chopped"
+201,6738393,½,cup,milk
+202,6738393,,,salt and pepper to taste
+203,6738393,¼,cup,"butter, melted"
+204,6740922,1,tablespoon,olive oil
+205,6740922,1,tablespoon,butter
+206,6740922,2,pounds,lean ground lamb
+207,6740922,1,,"onion, diced"
+208,6740922,⅓,cup,all-purpose flour
+209,6740922,3,cloves,"garlic, minced"
+210,6740922,1,tablespoon,ketchup
+211,6740922,2,teaspoons,minced fresh rosemary
+212,6740922,1,teaspoon,paprika
+213,6740922,⅛,teaspoon,ground cinnamon
+214,6740922,,,salt and ground black pepper to taste
+215,6740922,2 ½,cups,"water, or as needed"
+216,6740922,1,(12 ounce) package,"frozen peas and carrots, thawed"
+217,6740922,2 ½,pounds,"Yukon Gold potatoes, peeled and halved"
+218,6740922,¼,pound,"Irish cheese (such as Dubliner®), shredded"
+219,6740922,¼,cup,cream cheese
+220,6740922,1,tablespoon,butter
+221,6740922,1,pinch,ground cayenne pepper
+222,6740922,1,large,egg yolk
+223,6740922,2,tablespoons,milk
+224,6736966,1,(2 1/2 pound),"boneless pork shoulder, cut into 2-inch cubes"
+225,6736966,,,salt and ground black pepper to taste
+226,6736966,1,tablespoon,vegetable oil
+227,6736966,1,tablespoon,butter
+228,6736966,1,large,"onion, chopped"
+229,6736966,2,cloves,"garlic, minced"
+230,6736966,1,tablespoon,all-purpose flour
+231,6736966,1,,bay leaf
+232,6736966,¾,teaspoon,caraway seed
+233,6736966,1,(12 fluid ounce) bottle,dark beer (such as Guinness®)
+234,6736966,2,cups,chicken broth
+235,6736966,3,,"carrots, cut into 1-inch pieces"
+236,6736966,2,stalks,"celery, cut into 1-inch pieces"
+237,6736966,¼,cup,chopped fresh flat-leaf parsley
+238,6736966,3,tablespoons,balsamic vinegar
+239,6736966,12,,"Brussels sprouts, halved"
+240,6736966,3,cups,"mashed potatoes, or as needed"
+241,6736966,1,teaspoon,"chopped fresh flat-leaf parsley, for garnish"
+242,6562369,¼,cup,vegetable oil
+243,6562369,½,cup,white sugar
+244,6562369,4,cups,"onion, coarsely chopped"
+245,6562369,¼,teaspoon,salt
+246,6562369,,,ground black pepper to taste
+247,6562369,½,cup,red wine vinegar
+248,6736499,4,pounds,corned beef brisket
+249,6736499,1,cup,brown sugar
+250,6736499,1,(12 fluid ounce) can or bottle,Irish stout beer (e.g. Guinness(r))
+251,6649778,2,cups,vanilla ice cream
+252,6649778,1 ¼,cups,milk
+253,6649778,¼,teaspoon,"mint extract, or more to taste"
+254,6649778,9,drops,green food coloring
+255,6649778,2,tablespoons,"chocolate syrup, or to taste"
+256,6649778,2,tablespoons,"whipped cream, or to taste"
+257,6649778,½,teaspoon,"green decorator sugar, or to taste"
+258,6600437,2,quarts,lime sherbet
+259,6600437,2,(2 liter) bottles,ginger ale
+260,6600437,1,(46 fluid ounce) can,pineapple juice
+261,6600437,1,(4 ounce) jar,"maraschino cherries, drained"
+262,6600437,1,,"lemon, sliced"
+263,6600437,1,,"lime, sliced"
+264,6649050,4,medium,"potatoes, peeled and halved"
+265,6649050,¼,cup,"all-purpose flour, plus extra for dusting"
+266,6649050,1,tablespoon,melted butter
+267,6649050,1,pinch,salt
+268,6737838,2,pounds,"potatoes, peeled and halved"
+269,6737838,1,cup,milk
+270,6737838,1,bunch,"green onions, thinly sliced"
+271,6737838,¼,cup,"butter, cut into pieces"
+272,6737838,½,teaspoon,"salt, or to taste"
+273,6737838,,,freshly ground black pepper to taste
+274,6584040,2,tablespoons,olive oil
+275,6584040,1,(16 ounce) package,frozen peas
+276,6584040,1,bunch,"green onions, chopped"
+277,6584040,1,bunch,fresh mint leaves
+278,6584040,2,tablespoons,butter
+279,6584040,2,tablespoons,brown sugar
+280,6584040,,,salt and pepper to taste
+281,6736756,4,,"potatoes, peeled and quartered"
+282,6736756,1,pound,"carrots, cut into large chunks"
+283,6736756,1,,"onion, cut into wedges"
+284,6736756,3,cups,water
+285,6736756,2,tablespoons,sugar
+286,6736756,2,tablespoons,cider vinegar
+287,6736756,3,cloves,"garlic, minced"
+288,6736756,½,teaspoon,ground black pepper
+289,6736756,1,,bay leaf
+290,6736756,1,(3 pound),"corned beef brisket with spice packet, cut in half"
+291,6736756,1,small head,"cabbage, cut into wedges"
+292,6664235,4,slices,bacon
+293,6664235,¼,cup,butter
+294,6664235,1,tablespoon,all-purpose flour
+295,6664235,1,teaspoon,salt
+296,6664235,1,large head,"cabbage, cored and shredded"
+297,6664235,½,cup,sour cream
+298,6651192,1,tablespoon,vegetable oil
+299,6651192,1,pound,ground beef
+300,6651192,1,cup,"onion, diced"
+301,6651192,3,cloves,"garlic, minced"
+302,6651192,½,teaspoon,salt
+303,6651192,¼,teaspoon,ground black pepper
+304,6651192,1,tablespoon,tomato paste
+305,6651192,1,tablespoon,Worcestershire sauce
+306,6651192,½,teaspoon,thyme
+307,6651192,1,cup,beef broth
+308,6651192,2,cups,frozen peas and carrots
+309,6651192,3,medium,"potatoes, peeled"
+310,6651192,½,cup,half-and-half
+311,6651192,2,tablespoons,butter
+312,6651192,¼,teaspoon,garlic salt
+313,6589620,1 ½,tablespoons,salted butter
+314,6589620,1,large,egg
+315,6589620,⅓,cup,brown sugar
+316,6589620,¼,cup,white sugar
+317,6589620,¼,cup,prepared yellow mustard
+318,6589620,¼,teaspoon,salt
+319,6589620,⅛,teaspoon,ground black pepper
+320,6589620,¾,cup,cider vinegar
+321,6740874,1,cup,white sugar
+322,6740874,1,cup,"butter, softened"
+323,6740874,1,(3 ounce) package,"cream cheese, softened"
+324,6740874,1,large,egg yolk
+325,6740874,½,teaspoon,salt
+326,6740874,½,teaspoon,almond extract
+327,6740874,½,teaspoon,vanilla extract
+328,6740874,2 ¼,cups,all-purpose flour
+329,6599280,1,cup,white sugar
+330,6599280,½,cup,"butter, softened"
+331,6599280,2,,eggs
+332,6599280,1 ½,teaspoons,vanilla extract
+333,6599280,1 ¾,cups,all-purpose flour
+334,6599280,2,teaspoons,baking powder
+335,6599280,½,teaspoon,salt
+336,6599280,½,cup,"milk, or more if needed"
+337,6599280,¼,cup,confectioners' sugar for dusting
+338,6599438,¼,cup,mashed potatoes
+339,6599438,2,tablespoons,milk
+340,6599438,1,teaspoon,vanilla extract
+341,6599438,1,pinch,salt
+342,6599438,1,(16 ounce) package,confectioners' sugar
+343,6599438,1,tablespoon,"confectioners' sugar for dusting, or as needed"
+344,6599438,⅓,cup,"peanut butter, or as needed"
+345,6648199,32,ounces,"processed cheese food (such as Velveeta®), cut into 1/2-inch cubes"
+346,6648199,1,cup,Irish stout beer (such as Guinness®)
+347,6648199,½,cup,salsa
+348,6648199,2,tablespoons,Worcestershire sauce
+349,6648199,1,teaspoon,chili powder
+350,6648199,½,teaspoon,onion powder
+351,6648199,¼,teaspoon,cayenne pepper (Optional)
+352,6603121,1,(3 pound),corned beef brisket with spice packet
+353,6593378,2,teaspoons,butter
+354,6593378,1,(15 ounce) can,chicken broth
+355,6593378,1,head,"cabbage, cored and coarsely chopped"
+356,6593378,1,pinch,salt and ground black pepper
+357,6738852,1,(4 pound),corned beef brisket with spice packet
+358,6738852,3,quarts,water
+359,6738852,1,,"onion, quartered"
+360,6738852,3,,"carrots, cut into large chunks"
+361,6738852,3,stalks,"celery, cut into 2-inch pieces"
+362,6738852,1,teaspoon,salt
+363,6738852,2,pounds,"red potatoes, halved"
+364,6738852,1,small head,"cabbage, cut into eighths"
+365,6649599,3,pounds,lamb shoulder chops
+366,6649599,,,salt and ground black pepper to taste
+367,6649599,1,tablespoon,vegetable oil
+368,6649599,1,,"onion, chopped"
+369,6649599,1,tablespoon,butter
+370,6649599,2,tablespoons,all-purpose flour
+371,6649599,3,cups,chicken stock
+372,6649599,½,teaspoon,dried rosemary
+373,6649599,2,,"carrots, chopped"
+374,6649599,2,stalks,"celery, chopped"
+375,6649599,,,water as needed
+376,6649599,1 ½,pounds,baby Dutch yellow potatoes
+377,6649599,¼,cup,chopped green onions
+378,6570347,6,large,russet (baking) potatoes
+379,6570347,1,large,"green bell pepper, cut into 1/2-inch dice"
+380,6570347,1,large,"red bell pepper, cut into 1/2-inch dice"
+381,6570347,1,large,"onion, cut into 1/2-inch dice"
+382,6570347,¼,cup,vegetable oil
+383,6564587,8,,whole cloves
+384,6564587,1,,(1/4 inch thick) slice of lemon
+385,6564587,1,tablespoon,white sugar
+386,6564587,¾,cup,boiling water
+387,6564587,1,(1.5 fluid ounce) jigger,Irish whiskey
+388,6571533,2,cups,all-purpose flour
+389,6571533,½,teaspoon,salt
+390,6571533,1,teaspoon,baking soda
+391,6571533,1,cup,buttermilk
+392,6577438,4,cups,all-purpose flour
+393,6577438,¾,cup,white sugar
+394,6577438,1,teaspoon,salt
+395,6577438,1,teaspoon,baking powder
+396,6577438,1,teaspoon,baking soda
+397,6577438,½,cup,"butter, at room temperature"
+398,6577438,1 ½,cups,raisins
+399,6577438,1 ½,cups,"buttermilk, at room temperature"
+400,6577438,3,,"eggs, at room temperature"
+401,6578148,3,tablespoons,"olive oil, divided"
+402,6578148,1,pound,cubed beef stew meat
+403,6578148,2,slices,"bacon, chopped"
+404,6578148,1,,"white onion, chopped"
+405,6578148,1,,"carrot, sliced"
+406,6578148,⅓,pound,"crimini mushrooms, sliced"
+407,6578148,1,clove,"garlic, crushed"
+408,6578148,1,teaspoon,white sugar
+409,6578148,1 ½,tablespoons,all-purpose flour
+410,6578148,1,cup,Irish stout beer (such as Guinness®)
+411,6578148,1 ¼,cups,beef stock
+412,6578148,½,teaspoon,ground thyme
+413,6578148,2,,bay leaves
+414,6578148,½,teaspoon,"cornstarch, or as needed"
+415,6578148,1,teaspoon,water
+416,6578148,1,sheet,"frozen puff pastry, thawed"
+417,6578148,1,,"egg, beaten"
+418,6738550,3,cups,all-purpose flour
+419,6738550,1,tablespoon,baking powder
+420,6738550,⅓,cup,white sugar
+421,6738550,1,teaspoon,salt
+422,6738550,1,teaspoon,baking soda
+423,6738550,1,,"egg, lightly beaten"
+424,6738550,2,cups,buttermilk
+425,6738550,¼,cup,"butter, melted"
+426,6579007,4 ½,pounds,corned beef brisket
+427,6579007,5,,black peppercorns
+428,6579007,½,teaspoon,garlic powder
+429,6579007,1,,"onion, peeled and left whole"
+430,6579007,2,,bay leaves
+431,6579007,1,pinch,salt
+432,6579007,1,small head,"cabbage, cored and cut into wedges"
+433,6579007,6,large,"potatoes, quartered"
+434,6579007,4,large,"carrots, peeled and sliced"
+435,6579007,¼,cup,chopped fresh parsley
+436,6579007,2,tablespoons,butter
+437,6565045,2,cups,"hot, strong coffee"
+438,6565045,2,fluid ounces,"Irish cream liqueur, divided"
+439,6565045,2,fluid ounces,"hazelnut liqueur (such as Frangelico®), divided"
+440,6565045,2,fluid ounces,"Irish whiskey, divided"
+441,6565045,¼,cup,whipped cream
+442,6565045,2,pinches,ground nutmeg
+443,6574278,2,(10.75 ounce) cans,condensed cream of chicken soup
+444,6574278,3,cups,water
+445,6574278,1,cup,chopped celery
+446,6574278,2,,"onions, quartered"
+447,6574278,1,teaspoon,salt
+448,6574278,½,teaspoon,poultry seasoning
+449,6574278,½,teaspoon,ground black pepper
+450,6574278,4,,"skinless, boneless chicken breast halves"
+451,6574278,5,,"carrots, sliced"
+452,6574278,1,(10 ounce) package,frozen green peas
+453,6574278,4,,"potatoes, quartered"
+454,6574278,3,cups,baking mix
+455,6574278,1 ⅓,cups,milk
+456,6737977,4,ounces,chopped corned beef
+457,6737977,1,cup,shredded steamed cabbage
+458,6737977,1,cup,diced cooked potatoes
+459,6737977,1,cup,shredded carrot
+460,6737977,½,cup,thinly sliced onion
+461,6737977,,,"salt and pepper, to taste"
+462,6737977,8,(7 inch square),egg roll wrappers
+463,6737977,1 ½,quarts,oil for deep frying
+464,6594417,1,cup,milk
+465,6594417,2,tablespoons,distilled white vinegar
+466,6594417,2,cups,all-purpose flour
+467,6594417,1,tablespoon,white sugar
+468,6594417,½,teaspoon,baking soda
+469,6594417,½,teaspoon,salt
+470,6586015,⅓,cup,Russian salad dressing
+471,6586015,8,slices,Jewish rye bread
+472,6586015,1,pound,thin-sliced corned beef
+473,6586015,½,pound,prepared coleslaw
+474,6591950,2,sleeves,"buttery round crackers, crushed"
+475,6591950,½,cup,melted butter
+476,6591028,1,cup,"regular rolled oats, plus additional"
+477,6591028,2,cups,whole wheat flour
+478,6591028,½,cup,brown sugar
+479,6591028,2,teaspoons,baking soda
+480,6591028,1,teaspoon,baking powder
+481,6591028,½,teaspoon,salt
+482,6591028,¼,cup,melted butter
+483,6591028,2,teaspoons,vanilla extract
+484,6591028,1,cup,buttermilk
+485,6591028,1,(12 fluid ounce) can or bottle,Guinness® beer

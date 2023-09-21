@@ -1,0 +1,743 @@
+,id_recipe,Quantity,Unit of Measure,Ingredient
+0,7092712,3,tablespoons,unsalted butter
+1,7092712,1,cup,frozen chopped onion
+2,7092712,¼,cup,all-purpose flour
+3,7092712,1,tablespoon,chopped fresh thyme
+4,7092712,1,tablespoon,Dijon mustard
+5,7092712,1,teaspoon,garlic powder
+6,7092712,1,teaspoon,onion powder
+7,7092712,1,teaspoon,table salt
+8,7092712,¾,teaspoon,black pepper
+9,7092712,1 ½,cups,whole milk
+10,7092712,1 ½,cups,chicken broth
+11,7092712,2 ½,cups,chopped cooked chicken
+12,7092712,1,(16 ounce) package,"frozen mixed vegetables (carrots, peas, corn, and green beans) (3 cups)"
+13,7092712,⅓,cup,chopped fresh flat-leaf parsley
+14,7092712,2,(8 ounce) packages,refrigerated crescent roll dough (such as Pillsbury®)
+15,6663603,1,pound,"skinless, boneless chicken breast halves - cubed"
+16,6663603,1,cup,sliced carrots
+17,6663603,1,cup,frozen green peas
+18,6663603,½,cup,sliced celery
+19,6663603,⅓,cup,butter
+20,6663603,⅓,cup,chopped onion
+21,6663603,⅓,cup,all-purpose flour
+22,6663603,½,teaspoon,salt
+23,6663603,¼,teaspoon,black pepper
+24,6663603,¼,teaspoon,celery seed
+25,6663603,1 ¾,cups,chicken broth
+26,6663603,⅔,cup,milk
+27,6663603,2,(9 inch),unbaked pie crusts
+28,6663336,2,cups,frozen peas and carrots
+29,6663336,2,cups,frozen green beans
+30,6663336,1,cup,sliced celery
+31,6663336,⅔,cup,butter
+32,6663336,⅔,cup,diced onion
+33,6663336,⅔,cup,all-purpose flour
+34,6663336,1,teaspoon,salt
+35,6663336,1,teaspoon,ground black pepper
+36,6663336,½,teaspoon,celery seed
+37,6663336,½,teaspoon,onion powder
+38,6663336,½,teaspoon,Italian seasoning
+39,6663336,1 ¾,cups,chicken broth
+40,6663336,1 ⅓,cups,milk
+41,6663336,4,cups,cubed leftover cooked turkey
+42,6663336,2,(14.1 ounce) packages,pastry for a 9-inch double-crust pie
+43,6664115,¼,cup,butter
+44,6664115,1,small,"onion, chopped"
+45,6664115,3,medium,"celery ribs, chopped"
+46,6664115,3,medium,"carrots, chopped"
+47,6664115,⅔,cup,frozen peas
+48,6664115,3,tablespoons,chopped fresh parsley
+49,6664115,¼,teaspoon,dried thyme
+50,6664115,¼,cup,all-purpose flour
+51,6664115,2,cups,lower-sodium chicken broth
+52,6664115,⅔,cup,half-and-half cream
+53,6664115,,,salt and ground black pepper to taste
+54,6664115,3,cups,"cooked chicken, cut into bite-size pieces"
+55,6664115,1,(16.3 ounce) can,refrigerated flaky-style biscuits (such as Pillsbury Grands®)
+56,6664115,1,large,"egg yolk, beaten"
+57,6664115,1,tablespoon,water
+58,6666167,½,cup,unsalted butter
+59,6666167,1 ½,cups,thinly sliced yellow onion
+60,6666167,1,cup,thinly sliced fennel
+61,6666167,1,cup,thinly sliced celery
+62,6666167,1,cup,thinly sliced carrots
+63,6666167,½,cup,all-purpose flour
+64,6666167,½,cup,dry white wine
+65,6666167,3,cups,fish stock
+66,6666167,¼,cup,"heavy cream, divided"
+67,6666167,1,tablespoon,kosher salt
+68,6666167,½,teaspoon,ground black pepper
+69,6666167,1,(8 ounce) fillet,"halibut, skin removed, cut into 1-inch pieces"
+70,6666167,½,pound,"sea scallops, halved horizontally"
+71,6666167,½,pound,peeled and deveined medium shrimp
+72,6666167,1,pound,"jumbo lump crabmeat, picked over"
+73,6666167,1,cup,frozen green peas
+74,6666167,2,tablespoons,"chopped fresh parsley, plus more for garnish"
+75,6666167,1,large,"egg, lightly beaten"
+76,6666167,1,(17.3 ounce) package,"frozen puff pastry sheets, thawed"
+77,6648177,2,tablespoons,olive oil
+78,6648177,8,ounces,"mushrooms, sliced"
+79,6648177,1,,"onion, chopped"
+80,6648177,1,clove,"garlic, minced"
+81,6648177,2,large,"carrots, diced"
+82,6648177,2,,"potatoes, peeled and diced"
+83,6648177,2,stalks,"celery, sliced 1/4 inch wide"
+84,6648177,2,cups,cauliflower florets
+85,6648177,1,cup,"fresh green beans, trimmed and snapped into 1/2 inch pieces"
+86,6648177,3,cups,vegetable broth
+87,6648177,1,teaspoon,kosher salt
+88,6648177,1,teaspoon,ground black pepper
+89,6648177,¼,cup,water
+90,6648177,2,tablespoons,cornstarch
+91,6648177,2,tablespoons,soy sauce
+92,6648177,1,(14.1 ounce) package,"double-crust pie pastry, thawed"
+93,6650145,2,cups,"cooked, diced chicken breast"
+94,6650145,1,(15 ounce) can,"mixed vegetables, drained"
+95,6650145,1,(10.5 ounce) can,condensed cream of chicken soup
+96,6650145,½,cup,milk
+97,6650145,2,(9 inch),"deep-dish frozen pie crusts, thawed"
+98,6663958,1,pound,"sirloin steak, cubed"
+99,6663958,,,salt and ground black pepper to taste
+100,6663958,1,(14 ounce) can,beef broth
+101,6663958,3,large,"carrots, diced"
+102,6663958,3,,"potatoes, cubed"
+103,6663958,1,cup,"frozen green peas, thawed"
+104,6663958,3,tablespoons,cornstarch
+105,6663958,⅓,cup,water
+106,6663958,2,(9 inch),refrigerator pie crusts
+107,6648850,1,(17.5 ounce) package,"frozen puff pastry, thawed"
+108,6648850,⅓,cup,butter
+109,6648850,½,medium,"onion, chopped"
+110,6648850,1,stalk,"celery, sliced"
+111,6648850,⅓,cup,flour
+112,6648850,1,teaspoon,salt
+113,6648850,½,teaspoon,ground black pepper
+114,6648850,½,teaspoon,celery seed
+115,6648850,1,cup,milk
+116,6648850,2,cups,chicken broth
+117,6648850,1,pound,"cooked chicken breast, cubed"
+118,6648850,1,(12 ounce) package,frozen mixed vegetables
+119,6737372,¼,cup,butter
+120,6737372,½,cup,chopped onion
+121,6737372,½,cup,chopped celery
+122,6737372,½,cup,chopped baby carrots
+123,6737372,2,cloves,"garlic, minced"
+124,6737372,½,cup,all-purpose flour
+125,6737372,2,teaspoons,white sugar
+126,6737372,1,teaspoon,salt
+127,6737372,1,teaspoon,dried basil
+128,6737372,½,teaspoon,ground black pepper
+129,6737372,4,cups,chicken broth
+130,6737372,1,(10 ounce) can,"peas, drained"
+131,6737372,4,cups,"diced, cooked chicken meat"
+132,6576765,2,,refrigerated unbaked 9-inch pie crusts
+133,6576765,1,whole,rotisserie chicken
+134,6576765,⅓,cup,butter
+135,6576765,⅓,cup,chopped onion
+136,6576765,⅓,cup,all-purpose flour
+137,6576765,,,salt and ground black pepper to taste
+138,6576765,1 ¾,cups,chicken broth
+139,6576765,½,cup,milk
+140,6576765,1,(16 ounce) bag,"frozen mixed vegetables, thawed"
+141,6739531,⅓,cup,butter
+142,6739531,⅓,cup,chopped onion
+143,6739531,⅓,cup,all-purpose flour
+144,6739531,½,teaspoon,salt
+145,6739531,¼,teaspoon,ground black pepper
+146,6739531,1 ¾,cups,chicken broth
+147,6739531,⅔,cup,milk
+148,6739531,2,cups,chopped cooked chicken
+149,6739531,1,(14.5 ounce) can,peas and carrots
+150,6739531,½,(15 ounce) can,"whole new potatoes, drained"
+151,6739531,1,(14.1 ounce) package,"double-crust pie pastry, thawed"
+152,6571111,2,(8 ounce) packages,refrigerated crescent rolls
+153,6571111,1,pound,"cooked, cubed chicken breast meat"
+154,6571111,1,pound,"chopped, cooked rotisserie chicken"
+155,6571111,2,tablespoons,butter
+156,6571111,1,(16 ounce) package,frozen mixed vegetables
+157,6571111,1,(15 ounce) can,"sliced potatoes, drained"
+158,6571111,1,(10.5 ounce) can,condensed cream of chicken soup
+159,6571111,1,(10.5 ounce) can,condensed cream of mushroom soup
+160,6571111,½,cup,milk
+161,6571111,,,salt and ground black pepper to taste
+162,6600213,1,(10.75 ounce) can,"Campbell's® Condensed Cream of Chicken Soup (regular, 98% Fat Free, or 25% Less Sodium)*"
+163,6600213,1,(10 ounce) package,"frozen mixed vegetables, thawed"
+164,6600213,1,cup,cubed cooked chicken or turkey
+165,6600213,½,cup,milk
+166,6600213,1,,egg
+167,6600213,1,cup,all-purpose baking mix
+168,6739155,1,recipe,pastry for a (10 inch) double crust pie
+169,6739155,4,tablespoons,butter
+170,6739155,1,small,"onion, minced"
+171,6739155,2,stalks,"celery, chopped"
+172,6739155,2,,"carrots, diced"
+173,6739155,3,tablespoons,dried parsley
+174,6739155,1,teaspoon,dried oregano
+175,6739155,,,salt and pepper to taste
+176,6739155,2,cubes,chicken bouillon
+177,6739155,2,cups,water
+178,6739155,3,,"potatoes, peeled and cubed"
+179,6739155,1 ½,cups,"cooked turkey, cubed"
+180,6739155,3,tablespoons,all-purpose flour
+181,6739155,½,cup,milk
+182,6738005,1,(10.75 ounce) can,condensed cream of potato soup
+183,6738005,1,(15 ounce) can,"mixed vegetables, drained"
+184,6738005,½,cup,milk
+185,6738005,½,teaspoon,dried thyme
+186,6738005,½,teaspoon,ground black pepper
+187,6738005,2,(9 inch),"frozen prepared pie crusts, thawed"
+188,6738005,1,,"egg, lightly beaten"
+189,6594560,¾,cup,"sauerkraut, drained and squeezed dry"
+190,6594560,⅓,cup,thousand island salad dressing
+191,6594560,1,(8 ounce) tube,refrigerated crescent rolls (such as Pillsbury®)
+192,6594560,¾,pound,thin-sliced cooked corned beef
+193,6594560,8,slices,Swiss cheese
+194,6594560,1,,beaten egg white
+195,6578148,3,tablespoons,"olive oil, divided"
+196,6578148,1,pound,cubed beef stew meat
+197,6578148,2,slices,"bacon, chopped"
+198,6578148,1,,"white onion, chopped"
+199,6578148,1,,"carrot, sliced"
+200,6578148,⅓,pound,"crimini mushrooms, sliced"
+201,6578148,1,clove,"garlic, crushed"
+202,6578148,1,teaspoon,white sugar
+203,6578148,1 ½,tablespoons,all-purpose flour
+204,6578148,1,cup,Irish stout beer (such as Guinness®)
+205,6578148,1 ¼,cups,beef stock
+206,6578148,½,teaspoon,ground thyme
+207,6578148,2,,bay leaves
+208,6578148,½,teaspoon,"cornstarch, or as needed"
+209,6578148,1,teaspoon,water
+210,6578148,1,sheet,"frozen puff pastry, thawed"
+211,6578148,1,,"egg, beaten"
+212,6602415,1,pound,"skinless, boneless chicken breast halves - cubed"
+213,6602415,1 ½,cups,sliced carrots
+214,6602415,1,cup,frozen green peas
+215,6602415,½,cup,sliced celery
+216,6602415,3,tablespoons,butter
+217,6602415,⅓,cup,chopped onion
+218,6602415,⅓,cup,all-purpose flour
+219,6602415,½,teaspoon,salt
+220,6602415,¼,teaspoon,ground black pepper
+221,6602415,¼,teaspoon,celery seed
+222,6602415,1 ¾,cups,chicken broth
+223,6602415,⅔,cup,low-fat (1%) milk
+224,6602415,¼,cup,chopped Italian parsley
+225,6602415,2,(9 inch),unbaked whole wheat pie crust
+226,6738992,6,,"carrots, chopped"
+227,6738992,6,stalks,"celery, chopped"
+228,6738992,1,cup,fresh or frozen peas
+229,6738992,1,cup,"fresh or frozen green beans, thawed"
+230,6738992,1,cup,corn kernels
+231,6738992,1,,"yellow onion, diced"
+232,6738992,1,cup,quartered red potatoes
+233,6738992,3,cups,chicken broth
+234,6738992,1,teaspoon,thyme
+235,6738992,½,teaspoon,salt
+236,6738992,½,teaspoon,ground black pepper
+237,6738992,4,(.87 ounce) packages,dry chicken gravy mix
+238,6738992,4,cups,water
+239,6738992,1,(15 ounce) package,double crust ready-to-use pie crusts (such as Pillsbury®)
+240,6738992,1,whole,"roasted chicken, bones and skin removed, meat shredded"
+241,6738992,¼,cup,"butter, cut into pieces"
+242,6738992,1,,egg
+243,6738992,¼,cup,milk
+244,6737868,4,,"skinless, boneless chicken breast halves"
+245,6737868,1,(10.75 ounce) can,condensed cream of chicken soup
+246,6737868,2,(15 ounce) cans,"mixed vegetables, drained"
+247,6737868,1,recipe,pastry for a 9 inch double crust pie
+248,6569962,1,(2 to 3 pound),whole chicken
+249,6569962,2,(9 inch),"deep dish frozen pie crusts, thawed"
+250,6569962,1,(10.75 ounce) can,condensed cream of mushroom soup
+251,6569962,1,(10 ounce) package,"frozen green peas, thawed"
+252,6569962,2,cups,"water, or as needed"
+253,6569962,1,teaspoon,chicken bouillon granules
+254,6664068,2,cups,all-purpose flour
+255,6664068,1,teaspoon,salt
+256,6664068,7,tablespoons,cold vegetable shortening
+257,6664068,6,tablespoons,cold butter
+258,6664068,6,tablespoons,"cold water, or as needed"
+259,6664068,3,tablespoons,butter
+260,6664068,2,,"carrots, diced"
+261,6664068,1,,"onion, diced"
+262,6664068,2,stalks,"celery, diced"
+263,6664068,⅛,teaspoon,ground black pepper
+264,6664068,2,tablespoons,all-purpose flour
+265,6664068,2,cups,cubed cooked turkey
+266,6664068,2,tablespoons,butter
+267,6664068,2,cups,chicken broth
+268,6664068,1,(15 ounce) can,"cut green beans, drained"
+269,6664068,1,(10.75 ounce) can,condensed cream of mushroom soup
+270,6664068,½,(15 ounce) can,cream-style corn
+271,6664068,1,tablespoon,chopped fresh flat-leaf parsley
+272,6664068,1,tablespoon,chopped fresh thyme
+273,6570986,2,,"refrigerated 9-inch pie crusts, at room temperature, divided"
+274,6570986,1,tablespoon,"olive oil, or as needed"
+275,6570986,2,,"boneless, skinless chicken breasts, pounded thin"
+276,6570986,2,tablespoons,minced fresh rosemary
+277,6570986,2,tablespoons,minced fresh parsley
+278,6570986,,,salt and ground black pepper to taste
+279,6570986,⅔,cup,chicken broth
+280,6570986,⅓,cup,butter
+281,6570986,1,clove,"garlic, minced"
+282,6570986,⅓,medium,"onion, diced"
+283,6570986,½,teaspoon,salt
+284,6570986,¼,teaspoon,ground black pepper
+285,6570986,⅓,cup,all-purpose flour
+286,6570986,1 ¾,cups,chicken broth
+287,6570986,⅔,cup,milk
+288,6570986,1,(8 ounce) package,"frozen mixed vegetables, thawed"
+289,6570986,,,aluminum foil
+290,6595886,1,recipe,pastry for a 9 inch double crust pie
+291,6595886,2,cups,frozen mixed vegetables
+292,6595886,2,,"boneless, skinless chicken breast halves, boiled"
+293,6595886,1,teaspoon,dried thyme
+294,6595886,½,(10.75 ounce) can,condensed cream of celery soup
+295,6595886,1,(10.75 ounce) can,condensed cream of potato soup
+296,6598259,2,cups,chicken broth
+297,6598259,1,pound,"pheasant, cut into bite-size pieces"
+298,6598259,1,cup,chopped carrots
+299,6598259,½,cup,chopped celery
+300,6598259,1,(15 ounce) can,"peas, drained"
+301,6598259,⅓,cup,salted butter
+302,6598259,½,,"yellow onion, chopped"
+303,6598259,⅓,cup,all-purpose flour
+304,6598259,⅔,cup,milk
+305,6598259,1,teaspoon,salt
+306,6598259,1,teaspoon,dried rosemary
+307,6598259,½,teaspoon,ground black pepper
+308,6598259,½,teaspoon,dried sage
+309,6598259,½,teaspoon,ground celery seed
+310,6598259,2,,9-inch refrigerated pie crusts
+311,6598259,1,,"egg white, beaten"
+312,6600416,1,(14.1 ounce) package,pastry for 9-inch double-crust pie
+313,6600416,2,cups,chopped leftover turkey
+314,6600416,1,(16 ounce) package,"frozen mixed vegetables, thawed and drained"
+315,6600416,1,(10.5 ounce) can,condensed cream of chicken soup
+316,6600416,½,cup,shredded Cheddar cheese
+317,6600416,1,teaspoon,seasoned salt
+318,6600416,1,teaspoon,seasoned pepper blend
+319,6569102,2,tablespoons,butter
+320,6569102,1,small,"onion, diced"
+321,6569102,2,(5 ounce) cans,"tuna, drained"
+322,6569102,1,(10 ounce) package,frozen mixed vegetables
+323,6569102,1,(10.75 ounce) can,condensed cream of mushroom soup
+324,6569102,½,cup,shredded Cheddar cheese
+325,6569102,1,(8 ounce) package,refrigerated crescent rolls
+326,6596444,1,(10.75 ounce) can,Campbell's® Condensed Cream of Chicken Soup (Regular or 98% Fat Free)
+327,6596444,1,(8 ounce) can,"whole kernel corn, drained"
+328,6596444,2,cups,cubed cooked chicken or turkey
+329,6596444,1,(8 ounce) package,corn muffin mix
+330,6596444,¾,cup,milk
+331,6596444,1,,egg
+332,6596444,½,cup,shredded Cheddar cheese
+333,6572706,2,pounds,"cooked chicken, chopped"
+334,6572706,1,(15 ounce) can,mixed vegetables
+335,6572706,1,(10.75 ounce) can,condensed cream of potato soup
+336,6572706,¼,cup,milk
+337,6572706,¼,teaspoon,black pepper
+338,6572706,¼,teaspoon,dried thyme
+339,6572706,¼,teaspoon,dried parsley
+340,6572706,,,salt to taste
+341,6572706,1,recipe,pastry for a 9 inch double crust pie
+342,6738172,1,recipe,pastry for a (10 inch) double crust pie
+343,6738172,4,tablespoons,"butter, divided"
+344,6738172,1,small,"onion, minced"
+345,6738172,2,stalks,"celery, chopped"
+346,6738172,2,,"carrots, diced"
+347,6738172,3,tablespoons,dried parsley
+348,6738172,1,teaspoon,dried oregano
+349,6738172,,,salt and pepper to taste
+350,6738172,2,cubes,chicken bouillon
+351,6738172,2,cups,water
+352,6738172,3,,"potatoes, peeled and cubed"
+353,6738172,1 ½,cups,cubed cooked turkey
+354,6738172,3,tablespoons,all-purpose flour
+355,6738172,½,cup,milk
+356,6571568,¼,cup,butter
+357,6571568,½,cup,chopped onion
+358,6571568,½,cup,chopped mushrooms
+359,6571568,1,tablespoon,minced garlic
+360,6571568,⅓,cup,all purpose flour
+361,6571568,½,teaspoon,dried sage
+362,6571568,¼,teaspoon,dried thyme
+363,6571568,1 ½,cups,prepared turkey gravy
+364,6571568,½,cup,water
+365,6571568,½,cup,milk
+366,6571568,1,(14 ounce) package,"frozen mixed vegetables, thawed and drained"
+367,6571568,3,cups,"cooked turkey, cubed"
+368,6571568,1,pinch,salt and ground black pepper to taste
+369,6571568,1,,pastry for a 10-inch double crust pie
+370,6650648,6,tablespoons,butter
+371,6650648,1,cup,finely chopped onion
+372,6650648,¾,cup,diced carrot
+373,6650648,½,cup,diced celery
+374,6650648,1 ½,teaspoons,kosher salt
+375,6650648,1,teaspoon,finely chopped fresh rosemary (Optional)
+376,6650648,⅓,cup,all-purpose flour
+377,6650648,1 ½,cups,chicken broth
+378,6650648,½,cup,heavy cream
+379,6650648,4,cups,diced cooked chicken breast
+380,6650648,1,cup,frozen peas
+381,6650648,2,tablespoons,finely chopped fresh parsley
+382,6650648,,,salt and ground black pepper to taste
+383,6650648,1,(14.1 ounce) package,ready-to-use refrigerated pie crusts
+384,6574244,1 ½,pounds,"skinless, boneless chicken breast meat"
+385,6574244,1,cup,chicken broth
+386,6574244,½,teaspoon,salt
+387,6574244,¼,teaspoon,ground black pepper
+388,6574244,1 ½,cups,milk
+389,6574244,3,tablespoons,butter
+390,6574244,1,,"onion, chopped"
+391,6574244,1,cup,chopped celery
+392,6574244,⅓,cup,all-purpose flour
+393,6574244,2,cups,"frozen mixed vegetables, thawed"
+394,6574244,1,tablespoon,chopped fresh parsley
+395,6574244,½,teaspoon,dried thyme
+396,6574244,1,(9 inch),pastry for a 9 inch single crust pie
+397,6574244,1,,"egg, lightly beaten"
+398,6663200,1 ½,cups,chicken stock
+399,6663200,1,cup,"cooked, shredded chicken meat"
+400,6663200,¾,cup,green peas
+401,6663200,⅓,cup,diced celery
+402,6663200,⅓,cup,diced carrots
+403,6663200,1 ½,cups,shredded Cheddar cheese
+404,6663200,2,tablespoons,cornstarch
+405,6663200,¼,cup,milk
+406,6663200,1,recipe,pastry for a 9 inch double crust pie
+407,6577744,2,pounds,"round steak, cut into 1/2-inch cubes"
+408,6577744,1,tablespoon,all-purpose flour
+409,6577744,3,ounces,lard
+410,6577744,8,slices,"bacon, finely chopped"
+411,6577744,5,,"onions, minced"
+412,6577744,¼,pound,"fresh mushrooms, sliced (Optional)"
+413,6577744,1,(12 fluid ounce) bottle,Irish stout beer (such as Guinness®)
+414,6577744,1,tablespoon,chopped fresh parsley
+415,6577744,1,tablespoon,raisins (Optional)
+416,6577744,1,teaspoon,brown sugar
+417,6577744,1,(15 ounce) package,"double-crust pie pastry, thawed"
+418,6603657,1,pound,"venison steak, cut into 1-inch cubes"
+419,6603657,1,teaspoon,garlic powder
+420,6603657,1,teaspoon,onion powder
+421,6603657,,,salt and ground black pepper to taste
+422,6603657,2,tablespoons,all-purpose flour
+423,6603657,2,tablespoons,olive oil
+424,6603657,½,large,"onion, diced"
+425,6603657,3,cloves,"garlic, chopped"
+426,6603657,¾,cup,red wine
+427,6603657,2,teaspoons,Worcestershire sauce
+428,6603657,1,(14 ounce) can,beef broth
+429,6603657,3,tablespoons,cornstarch
+430,6603657,⅓,cup,water
+431,6603657,3,large,"potatoes, cubed"
+432,6603657,3,large,"carrots, cubed"
+433,6603657,3,stalks,"celery, sliced"
+434,6603657,1,cup,frozen corn
+435,6603657,1,cup,frozen peas
+436,6603657,1,large,egg
+437,6603657,2,teaspoons,milk
+438,6603657,1,(14.1 ounce) package,"double-crust pie pastry, thawed"
+439,6603657,1 ½,cups,"fresh mushrooms, sliced"
+440,6586010,3,,"bone-in chicken breast halves, skinless"
+441,6586010,1,(14.5 ounce) can,chicken broth
+442,6586010,3,,potatoes
+443,6586010,1,,yellow onion
+444,6586010,3,stalks,celery
+445,6586010,2,tablespoons,vegetable oil
+446,6586010,2,tablespoons,all-purpose flour
+447,6586010,2,cups,frozen mixed vegetables
+448,6586010,1,to taste,salt and pepper to taste
+449,6586010,¼,teaspoon,garlic powder
+450,6586010,1,(9 inch),"frozen prepared pie crust, thawed"
+451,6571442,1,(14.1 ounce) package,"double-crust pie pastry, thawed"
+452,6571442,4,tablespoons,butter
+453,6571442,4,tablespoons,all-purpose flour
+454,6571442,1 ½,(14.5 ounce) cans,beef broth
+455,6571442,1,dash,"hot pepper sauce, or more to taste"
+456,6571442,,,salt and ground black pepper to taste
+457,6571442,2,cups,shredded leftover pot roast
+458,6571442,1,cup,diced cooked potatoes
+459,6571442,¾,cup,diced cooked carrots
+460,6571442,½,cup,diced cooked onions
+461,6571442,½,cup,frozen peas
+462,6571442,½,cup,frozen corn
+463,6583294,3,tablespoons,butter
+464,6583294,½,cup,diced onion
+465,6583294,½,cup,sliced celery
+466,6583294,¼,cup,flour
+467,6583294,1,tablespoon,minced fresh rosemary
+468,6583294,1,teaspoon,chopped fresh thyme
+469,6583294,¼,teaspoon,black pepper
+470,6583294,2,cups,College Inn® Chicken Broth
+471,6583294,2,cups,cubed cooked turkey
+472,6583294,1 ½,cups,chopped cooked green beans
+473,6583294,1,cup,frozen peas and carrots
+474,6583294,1,(17.3 ounce) package,"frozen puff pastry sheets, thawed according to package directions"
+475,6583294,1,large,egg
+476,6583294,1,tablespoon,water
+477,6571804,2,cups,all-purpose flour
+478,6571804,1,teaspoon,salt
+479,6571804,¾,cup,lard
+480,6571804,6,tablespoons,cold water
+481,6571804,½,cup,butter
+482,6571804,½,cup,all-purpose flour
+483,6571804,1,teaspoon,salt
+484,6571804,,,black pepper to taste
+485,6571804,2,tablespoons,finely chopped onion
+486,6571804,3,cups,chicken broth
+487,6571804,1 ½,cups,sliced mushrooms
+488,6571804,3,tablespoons,butter
+489,6571804,3,cups,"cooked chicken, chopped"
+490,6571804,2,,"carrot, finely chopped"
+491,6571804,2,stalks,"celery, finely chopped"
+492,6571804,2,,"potatoes, peeled and cubed"
+493,6606415,,,cooking spray
+494,6606415,1,pound,ground beef
+495,6606415,½,pound,ground pork
+496,6606415,1,large,"onion, chopped"
+497,6606415,1,,"green bell pepper, chopped"
+498,6606415,2,stalks,"celery, finely diced"
+499,6606415,3,cloves,"garlic, minced"
+500,6606415,1,small,"carrot, finely chopped"
+501,6606415,1,large,"baking potato, peeled and finely chopped"
+502,6606415,1,,bay leaf
+503,6606415,1,teaspoon,dried thyme leaves
+504,6606415,2,tablespoons,chopped fresh parsley
+505,6606415,1,teaspoon,Worcestershire sauce
+506,6606415,,,salt-free seasoning blend to taste
+507,6606415,,,salt and pepper to taste
+508,6606415,2,,beef bouillon cubes
+509,6606415,1,cup,hot water
+510,6606415,2,cups,shredded mild Cheddar cheese
+511,6606415,2,sheets,"frozen puff pastry, thawed"
+512,6606415,1,,egg yolk
+513,6606415,1,tablespoon,water
+514,6584666,1,(8.5 ounce) package,cornbread mix (such as Jiffy®)
+515,6584666,⅓,cup,milk
+516,6584666,1,large,egg
+517,6584666,2,(15 ounce) cans,"turkey chili with beans, undrained"
+518,6584666,2,tablespoons,"shredded Cheddar cheese, or as desired (Optional)"
+519,6584666,1,tablespoon,"sour cream, or to taste (Optional)"
+520,6592680,½,cup,unsalted butter
+521,6592680,4,cups,"chicken broth, divided"
+522,6592680,½,cup,all-purpose flour
+523,6592680,¼,cup,dried onion flakes
+524,6592680,1,dash,hot pepper sauce
+525,6592680,1,teaspoon,ground black pepper
+526,6592680,½,teaspoon,dried thyme
+527,6592680,1,,bay leaf
+528,6592680,1,(8 ounce) can,"carrots, drained"
+529,6592680,1,(8 ounce) can,white potatoes
+530,6592680,2,cups,diced cooked chicken
+531,6592680,4,slices,Swiss cheese
+532,6592680,1,sheet,"frozen puff pastry, cut into four squares"
+533,6592680,1,,"egg, beaten"
+534,6592680,1,tablespoon,water
+535,6588519,1,(3 ounce) package,dry crab boil (such as Zatarain's® Crab & Shrimp Boil)
+536,6588519,5,small,lobster tails
+537,6588519,1,(15 ounce) package,double crust ready-to-use pie crust (such as Pillsbury®)
+538,6588519,5,tablespoons,butter
+539,6588519,½,cup,diced onion
+540,6588519,½,cup,diced celery
+541,6588519,⅓,cup,all-purpose flour
+542,6588519,1 ½,cups,chicken broth
+543,6588519,¾,cup,milk
+544,6588519,1,teaspoon,"seafood seasoning, such as Old Bay™"
+545,6588519,½,teaspoon,garlic powder
+546,6588519,¼,teaspoon,freshly ground black pepper
+547,6588519,1 ½,cups,"frozen mixed vegetables, thawed"
+548,6588519,½,cup,diced potato
+549,6577454,2,(14.1 ounce) packages,"double-crust pie pastry, thawed"
+550,6577454,2,cups,chicken broth
+551,6577454,1,(12 fluid ounce) can,evaporated milk
+552,6577454,2,tablespoons,vegetable oil
+553,6577454,2,medium,"onions, chopped"
+554,6577454,3,small stalks,"celery, cut crosswise 1/4-inch thick"
+555,6577454,⅓,cup,butter
+556,6577454,9,tablespoons,all-purpose flour
+557,6577454,¾,teaspoon,dried thyme
+558,6577454,¼,cup,dry white wine
+559,6577454,,,salt and ground black pepper to taste
+560,6577454,6,cups,"roasted, shredded rotisserie chicken"
+561,6577454,1,(16 ounce) package,"frozen peas and carrots, not thawed"
+562,6577454,¼,cup,chopped fresh parsley
+563,6595214,⅓,cup,butter
+564,6595214,1,,"onion, chopped"
+565,6595214,⅓,cup,all-purpose flour
+566,6595214,1 ½,cups,chicken broth
+567,6595214,⅔,cup,milk
+568,6595214,½,teaspoon,salt
+569,6595214,¼,teaspoon,ground black pepper
+570,6595214,1,cup,frozen green peas
+571,6595214,1,cup,frozen diced carrots
+572,6595214,2,cups,"cooked, shredded chicken meat"
+573,6595214,2,cups,all-purpose flour
+574,6595214,2 ½,teaspoons,baking powder
+575,6595214,¾,teaspoon,salt
+576,6595214,5,tablespoons,shortening
+577,6595214,¾,cup,milk
+578,6599910,3,tablespoons,"butter, melted, divided"
+579,6599910,1,(16 ounce) package,frozen mixed vegetables
+580,6599910,1,(5 ounce) can,"chicken chunks, drained"
+581,6599910,2,(10.5 ounce) cans,condensed cream of chicken soup
+582,6599910,½,cup,reduced-fat milk
+583,6599910,,,salt and pepper to taste
+584,6599910,1,(10 ounce) can,refrigerated flaky layer biscuits
+585,6574950,2 ¾,cups,all-purpose flour
+586,6574950,1,teaspoon,kosher salt
+587,6574950,1,cup,"lard, chilled and cut into small pieces"
+588,6574950,½,cup,"ice water, or as needed"
+589,6574950,2 ½,tablespoons,all-purpose flour
+590,6574950,1,teaspoon,"dried thyme leaves, divided (Optional)"
+591,6574950,½,teaspoon,paprika
+592,6574950,⅛,teaspoon,ground black pepper
+593,6574950,⅛,teaspoon,ground ginger
+594,6574950,⅛,teaspoon,ground allspice
+595,6574950,1 ½,pounds,"boneless beef round steak, cut into 1-inch pieces"
+596,6574950,⅓,cup,olive oil
+597,6574950,2,cups,chopped sweet onion
+598,6574950,1,cup,beef broth
+599,6574950,¾,cup,dry red wine
+600,6574950,1,cup,peeled and diced potatoes
+601,6574950,1,cup,sliced carrots
+602,6577254,½,cup,all-purpose flour
+603,6577254,½,cup,whole-wheat pastry flour
+604,6577254,¼,teaspoon,salt
+605,6577254,2,tablespoons,vegetable oil
+606,6577254,6,tablespoons,"ice-cold water, or more as needed"
+607,6563217,2,cups,diced potatoes
+608,6563217,1 ¾,cups,sliced carrots
+609,6563217,1,cup,salted butter
+610,6563217,⅔,cup,chopped onion
+611,6563217,1,cup,all-purpose flour
+612,6563217,1,teaspoon,dried thyme
+613,6563217,3,cups,chicken broth
+614,6563217,1 ½,cups,milk
+615,6563217,4,cups,cubed cooked chicken
+616,6563217,1,cup,frozen peas
+617,6563217,1,cup,frozen corn
+618,6563217,4,(9 inch),refrigerated pie crusts
+619,6650770,1,(5 ounce),lobster tail
+620,6650770,2,tablespoons,"butter, divided"
+621,6650770,1,tablespoon,sherry
+622,6650770,1,(8 ounce) bottle,clam juice
+623,6650770,¼,cup,diced celery
+624,6650770,¼,cup,diced carrot
+625,6650770,¼,teaspoon,ground paprika
+626,6650770,1,teaspoon,tomato paste
+627,6650770,,,kosher salt and freshly ground black pepper to taste
+628,6650770,1,pinch,"ground cayenne pepper, or to taste"
+629,6650770,1,tablespoon,all-purpose flour
+630,6650770,⅓,cup,cubed Yukon Gold potatoes
+631,6650770,1,sheet,frozen puff pastry
+632,6650770,1,large,"egg, beaten"
+633,6650770,1,teaspoon,freshly squeezed lemon juice
+634,6650770,¼,cup,heavy cream
+635,6650770,1,tablespoon,minced fresh tarragon
+636,6738732,,,cooking spray
+637,6738732,1,(10 ounce) package,frozen mixed vegetables
+638,6738732,2,tablespoons,water
+639,6738732,1,,"onion, diced"
+640,6738732,2,(12.5 fl oz) cans,"diced chicken, drained"
+641,6738732,1,(10.75 ounce) can,condensed cream of chicken soup
+642,6738732,,,salt and ground black pepper to taste
+643,6738732,2,(16 ounce) cans,refrigerated biscuit dough (such as Pillsbury Grands!®)
+644,6568762,2,cups,all-purpose flour
+645,6568762,1,teaspoon,salt
+646,6568762,⅔,cup,shortening
+647,6568762,8,tablespoons,ice water
+648,6588782,21,ounces,"cauliflower, cut into florets with 1-inch stalks"
+649,6588782,½,cup,shredded Cheddar cheese
+650,6588782,1,,"egg, lightly beaten"
+651,6588782,½,teaspoon,"salt, divided"
+652,6588782,½,teaspoon,"freshly ground black pepper, divided"
+653,6588782,1 ½,ounces,bacon
+654,6588782,⅓,cup,diced onion
+655,6588782,⅓,cup,diced carrots
+656,6588782,⅓,cup,chopped celery
+657,6588782,7 ½,ounces,"chicken breast, cubed"
+658,6588782,⅓,cup,frozen peas
+659,6588782,2,ounces,"cremini mushrooms, sliced"
+660,6588782,½,cup,chicken broth
+661,6588782,½,cup,heavy whipping cream
+662,6588782,2,tablespoons,cornstarch
+663,6588782,1 ½,tablespoons,water
+664,6588782,½,cup,shredded Cheddar cheese
+665,6561618,1,(12.5 fl oz) can,chunky shredded chicken (such as Tyson®)
+666,6561618,1,(10.75 ounce) can,condensed cream of mushroom soup
+667,6561618,1,(10 ounce) package,frozen mixed vegetables (such as Birds Eye® Steamfresh®)
+668,6561618,1,(10 ounce) can,refrigerated small biscuits (such as Pillsbury®)
+669,6737046,1,tablespoon,olive oil
+670,6737046,1,large,"onion, diced"
+671,6737046,1,teaspoon,"salt, divided"
+672,6737046,1,,"red bell pepper, diced"
+673,6737046,2,,"poblano peppers, diced"
+674,6737046,1,teaspoon,freshly ground black pepper
+675,6737046,2,teaspoons,ground cumin
+676,6737046,1,teaspoon,dried oregano
+677,6737046,1,(7 ounce) can,chipotle peppers in adobo sauce
+678,6737046,3,cups,"diced cooked turkey, or more to taste"
+679,6737046,1,(8 ounce) package,"shredded sharp Cheddar cheese, divided"
+680,6737046,1,(15.5 ounce) jar,red enchilada sauce
+681,6737046,1 ½,cups,chicken broth
+682,6595032,⅓,cup,butter
+683,6595032,½,cup,thinly sliced onion
+684,6595032,1,stalk,"celery, thinly sliced"
+685,6595032,2,cloves,"garlic, minced"
+686,6595032,⅓,(12 ounce) package,"extra-firm tofu, cubed"
+687,6595032,¼,cup,cubed red potatoes
+688,6595032,½,teaspoon,oregano
+689,6595032,,,salt and ground black pepper to taste
+690,6595032,⅓,cup,all-purpose flour
+691,6595032,⅔,cup,milk
+692,6595032,1 ½,cups,vegetable broth
+693,6595032,1,cup,frozen mixed vegetables
+694,6595032,1,,pastry for double-crust pie
+695,6736435,,,cooking spray
+696,6736435,1,pound,"Italian sausage links, casings removed"
+697,6736435,1,small,"onion, sliced"
+698,6736435,1,,"green bell pepper, diced"
+699,6736435,½,cup,"sliced fresh mushrooms, or more to taste"
+700,6736435,2,(8 ounce) cans,pizza sauce
+701,6736435,1,cup,"shredded mozzarella cheese, divided"
+702,6736435,1,(8 ounce) package,refrigerated crescent roll dough (such as Pillsbury®)
+703,6602121,1,,deep dish pastry for double crust
+704,6602121,2,tablespoons,olive oil
+705,6602121,3,,"skinless, boneless chicken breast halves, cut into bite size pieces"
+706,6602121,,,salt and ground black pepper to taste
+707,6602121,1,(8 ounce) package,"portobello mushrooms, chopped"
+708,6602121,1,(10.75 ounce) can,"reduced-fat, reduced-sodium condensed cream of chicken soup, undiluted"
+709,6602121,1,(10.75 ounce) can,"reduced-fat, reduced-sodium cream of mushroom soup, undiluted"
+710,6602121,½,cup,"chicken broth, or more as needed"
+711,6602121,1,(8 ounce) package,"cream cheese, softened"
+712,6602121,½,(14.5 ounce) can,"chopped tomatoes, drained"
+713,6602121,3,cups,"frozen mixed vegetables, thawed"
+714,6602121,¼,teaspoon,crushed red pepper flakes (Optional)
+715,6592656,3,(6 ounce) cans,"white meat chicken, drained and broken into chunks"
+716,6592656,1,(15 ounce) can,"mixed vegetables, drained"
+717,6592656,1,(15 ounce) can,"diced potatoes, drained (Optional)"
+718,6592656,1,(10.5 ounce) can,"cream of chicken soup, or more to taste"
+719,6592656,1,(8 ounce) package,"refrigerated crescent rolls, unrolled into a sheet"
+720,6600830,6,,"potatoes, peeled and cut into chunks"
+721,6600830,¼,cup,butter
+722,6600830,¼,cup,"milk, or as needed"
+723,6600830,,,salt and ground black pepper to taste
+724,6600830,½,cup,shredded American cheese
+725,6600830,,,pastry for a 9 inch double crust pie
+726,6600830,2,teaspoons,"butter, melted"
+727,6600830,2,teaspoons,milk
+728,6664800,1,tablespoon,butter
+729,6664800,1,tablespoon,all-purpose flour
+730,6664800,1,cup,water
+731,6664800,½,cup,milk
+732,6664800,1,teaspoon,garlic base (such as Better Than Bouillon® Roasted Garlic Base)
+733,6664800,2 ½,cups,cubed cooked turkey
+734,6664800,½,cup,chopped carrots
+735,6664800,½,cup,chopped celery
+736,6664800,¼,cup,chopped onion
+737,6664800,¼,teaspoon,dried oregano
+738,6664800,¼,teaspoon,ground thyme
+739,6664800,¼,teaspoon,dried parsley
+740,6664800,,,salt and ground black pepper to taste
+741,6664800,,,nonstick cooking spray

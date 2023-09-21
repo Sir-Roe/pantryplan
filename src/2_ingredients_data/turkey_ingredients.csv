@@ -1,0 +1,536 @@
+,id_recipe,Quantity,Unit of Measure,Ingredient
+0,7969063,1,pound,ground turkey
+1,7969063,1/3,cup,Rice Krispies
+2,7969063,1/4,cup,zucchini
+3,7969063,2,tablespoons,red onion
+4,7969063,2,teaspoons,ijon mustard
+5,7969063,1 1/2,teaspoons,dried tarragon
+6,7969063,1/2,teaspoon,garlic salt
+7,7969063,1/4,teaspoon,ground black pepper
+8,7969063,4,,hamburger buns
+9,7570594,1/3,cup,feta
+10,7570594,1/3,cup,green olives
+11,7570594,1/3,cup,black olives
+12,7570594,1,,"lemon, juiced"
+13,7570594,,,salt and freshly ground black pepper to taste
+14,7562426,2,tablespoons,parsley
+15,7562426,1,tablespoon minced,fresh rosemary
+16,7562426,1,tablespoon,fresh oregano
+17,7562426,1,tablespoon,fresh dill
+18,7562426,1,tablespoon,fresh mint
+19,7562426,1,teaspoon,"kosher salt, or to taste"
+20,7562426,1/2,teaspoon,black pepper
+21,7562426,2/3,cup,breadcrumbs
+22,7562426,1/3,cup minced,shallot
+23,7562426,1,clove,"garlic, minced"
+24,7562426,1/2,,"lemon, zested"
+25,7562426,1,large,"egg, lightly beaten"
+26,7562426,2,tablespoons,olive oil
+27,7562426,1,pound,ground turkey
+28,7562426,,,cooking spray
+29,7562426,1/2,,"lemon, juiced"
+30,7562426,1/2,red or,"yellow bell pepper, sliced"
+31,7562426,1/2,,"green bell pepper, sliced"
+32,7562426,1/2,small,"red onion, sliced"
+33,7562426,1,,"zucchini, sliced"
+34,7562426,1/2,cup,feta cheese
+35,7562426,1/2,cup,tomatoes
+36,7562426,2,tablespoons,alamata olives
+37,7560812,8,,slider buns
+38,7560812,1/4,cup,mayonnaise
+39,7560812,2,tablespoons,ijon mustard
+40,7560812,2,teaspoons,"dill pickle relish, drained"
+41,7560812,8,,dill pickle slices
+42,7560812,8,thin slices,deli turkey
+43,7560812,8,slices,wiss cheese
+44,7560812,2,tablespoons,"unsalted butter, melted"
+45,7560812,1,teaspoon,orcestershire sauce
+46,7560812,1,teaspoon,"everything bagel seasoning, or to taste"
+47,7099760,2,tablespoons,olive oil
+48,7099760,2,teaspoons,poultry seasoning
+49,7099760,1,teaspoon,dried parsley flakes
+50,7099760,½,teaspoon,salt
+51,7099760,½,teaspoon,paprika
+52,7099760,⅛,teaspoon,freshly ground black pepper
+53,7099760,1 ½,pounds,turkey legs
+54,6830718,½,cup,diced yellow onion
+55,6830718,¼,cup,"green onions, sliced"
+56,6830718,6,cloves,"garlic, roughly chopped"
+57,6830718,2,,"habanero peppers, seeded and chopped"
+58,6830718,1,tablespoon,fresh thyme leaves
+59,6830718,2,teaspoons,dried thyme
+60,6830718,1,tablespoon,kosher salt
+61,6830718,1,teaspoon,freshly ground black pepper
+62,6830718,1,teaspoon,ground allspice
+63,6830718,½,teaspoon,cinnamon
+64,6830718,½,teaspoon,cumin
+65,6830718,½,teaspoon,freshly grated nutmeg
+66,6830718,2,,"limes, juiced"
+67,6830718,3,tablespoons,soy sauce
+68,6830718,2,tablespoons,packed brown sugar
+69,6830718,2,tablespoons,vegetable oil
+70,6663783,1,gallon,vegetable broth
+71,6663783,1,cup,sea salt
+72,6663783,1,tablespoon,crushed dried rosemary
+73,6663783,1,tablespoon,dried sage
+74,6663783,1,tablespoon,dried thyme
+75,6663783,1,tablespoon,dried savory
+76,6663783,1,gallon,ice water
+77,6664848,1,(10 pound),"whole turkey, neck and giblets removed"
+78,6664848,4,cloves,"garlic, crushed"
+79,6664848,2,tablespoons,seasoned salt
+80,6664848,½,cup,butter
+81,6664848,2,(12 fluid ounce) cans,cola-flavored carbonated beverage
+82,6664848,1,medium,"apple, quartered"
+83,6664848,1,medium,"onion, quartered"
+84,6664848,1,tablespoon,garlic powder
+85,6664848,1,tablespoon,salt
+86,6664848,1,tablespoon,ground black pepper
+87,6664848,2,cups,"hickory wood chips, or more as needed (Optional)"
+88,6739448,¾,pound,cooked turkey meat
+89,6739448,2,stalks,celery
+90,6739448,2,,green onions
+91,6739448,½,,red bell pepper
+92,6739448,3,tablespoons,mayonnaise
+93,6739448,2,tablespoons,prepared Dijon-style mustard
+94,6739448,1,tablespoon,cider vinegar
+95,6739448,1,teaspoon,white sugar
+96,6739448,¼,teaspoon,salt
+97,6649024,2,tablespoons,dried parsley
+98,6649024,2,tablespoons,ground dried rosemary
+99,6649024,2,tablespoons,rubbed dried sage
+100,6649024,2,tablespoons,dried thyme leaves
+101,6649024,1,tablespoon,lemon-pepper seasoning
+102,6649024,1,tablespoon,salt
+103,6649024,1,(15 pound),"whole turkey, neck and giblets removed"
+104,6649024,1,medium,"orange, cut into 8 wedges"
+105,6649024,1,medium,"onion, chopped into large pieces"
+106,6649024,1,medium,"carrot, cut into 1/2-inch slices"
+107,6649024,2,stalks,"celery, cut into 1/2-inch slices"
+108,6649024,1,(750 milliliter) bottle,champagne
+109,6649024,1,(14.5 ounce) can,chicken broth
+110,6649205,¼,cup,"butter, softened"
+111,6649205,1,clove,"garlic, minced"
+112,6649205,1,teaspoon,paprika
+113,6649205,1,teaspoon,Italian seasoning
+114,6649205,½,teaspoon,salt-free garlic and herb seasoning blend (such as Mrs. Dash)
+115,6649205,,,salt and ground black pepper to taste
+116,6649205,1,(3 pound),turkey breast with skin
+117,6649205,1,teaspoon,minced shallot
+118,6649205,1,tablespoon,butter
+119,6649205,1,splash,dry white wine
+120,6649205,1,cup,chicken stock
+121,6649205,3,tablespoons,all-purpose flour
+122,6649205,2,tablespoons,half-and-half (Optional)
+123,6663665,1,(18 pound),whole turkey
+124,6663665,8,cups,prepared stuffing
+125,6663665,½,cup,"unsalted butter, softened"
+126,6663665,,,salt and freshly ground black pepper to taste
+127,6663665,1 ½,quarts,"turkey stock, divided"
+128,6663227,1,(10 pound),whole turkey
+129,6663227,½,cup,olive oil
+130,6663227,1,tablespoon,chopped fresh sage
+131,6663227,1,tablespoon,fresh thyme leaves
+132,6663227,1,tablespoon,finely chopped fresh rosemary
+133,6663227,1,tablespoon,salt
+134,6663227,1,teaspoon,crushed black pepper
+135,6650404,1,,turkey carcass
+136,6650404,4,quarts,water
+137,6650404,1,(28 ounce) can,"whole peeled tomatoes, chopped"
+138,6650404,6,small,"potatoes, diced"
+139,6650404,4,large,"carrots, diced"
+140,6650404,1,large,"onion, diced"
+141,6650404,2,stalks,"celery, diced"
+142,6650404,1 ½,cups,shredded cabbage
+143,6650404,½,cup,uncooked barley
+144,6650404,1,tablespoon,Worcestershire sauce
+145,6650404,1 ½,teaspoons,salt
+146,6650404,1,teaspoon,dried parsley
+147,6650404,1,teaspoon,dried basil
+148,6650404,1,large,bay leaf
+149,6650404,¼,teaspoon,freshly cracked black pepper
+150,6650404,¼,teaspoon,ground paprika
+151,6650404,¼,teaspoon,poultry seasoning
+152,6650404,1,pinch,dried thyme
+153,6651072,3 ½,gallons,peanut oil for frying
+154,6651072,1,(10 pound),"whole turkey, neck and giblets removed"
+155,6651072,1,tablespoon,"salt, or to taste"
+156,6651072,1,tablespoon,"ground black pepper, or to taste"
+157,6663336,2,cups,frozen peas and carrots
+158,6663336,2,cups,frozen green beans
+159,6663336,1,cup,sliced celery
+160,6663336,⅔,cup,butter
+161,6663336,⅔,cup,diced onion
+162,6663336,⅔,cup,all-purpose flour
+163,6663336,1,teaspoon,salt
+164,6663336,1,teaspoon,ground black pepper
+165,6663336,½,teaspoon,celery seed
+166,6663336,½,teaspoon,onion powder
+167,6663336,½,teaspoon,Italian seasoning
+168,6663336,1 ¾,cups,chicken broth
+169,6663336,1 ⅓,cups,milk
+170,6663336,4,cups,cubed leftover cooked turkey
+171,6663336,2,(14.1 ounce) packages,pastry for a 9-inch double-crust pie
+172,6650051,1,medium,"onion, coarsely chopped"
+173,6650051,1,stalk,"celery, coarsely chopped"
+174,6650051,1,medium,"carrot, coarsely chopped"
+175,6650051,1,(12 pound),"whole turkey, neck and giblets reserved"
+176,6650051,2,tablespoons,kosher salt
+177,6650051,1,tablespoon,ground black pepper
+178,6650051,1,teaspoon,cayenne pepper
+179,6650051,3,tablespoons,butter
+180,6650051,4,sprigs,fresh rosemary
+181,6650051,½,bunch,"fresh sage, chopped"
+182,6600519,1 ½,pounds,ground turkey
+183,6600519,1,large,"egg, lightly beaten (Optional)"
+184,6600519,1,(1 ounce) package,dry onion soup mix
+185,6600519,1 ½,tablespoons,soy sauce
+186,6600519,½,teaspoon,ground black pepper
+187,6600519,½,teaspoon,garlic powder
+188,6600519,6,,"hamburger buns, split"
+189,6648248,3,pounds,ground turkey
+190,6648248,¼,cup,seasoned bread crumbs
+191,6648248,¼,cup,finely diced onion
+192,6648248,2,,"egg whites, lightly beaten"
+193,6648248,¼,cup,chopped fresh parsley
+194,6648248,1,clove,"garlic, peeled and minced"
+195,6648248,1,teaspoon,salt
+196,6648248,¼,teaspoon,ground black pepper
+197,6663414,12,pounds,whole turkey
+198,6663414,1 ½,cups,water
+199,6663414,5,tablespoons,"butter, divided"
+200,6663414,1,(6 ounce) package,dry bread stuffing mix
+201,6663414,1,cup,chopped celery
+202,6663414,¼,cup,chopped onion
+203,6663414,4,slices,"toasted white bread, torn into small pieces"
+204,6663414,,,salt and ground black pepper to taste
+205,6663414,2,tablespoons,vegetable oil
+206,6649043,6,large,turkey wings
+207,6649043,2,medium,"onions, peeled and quartered"
+208,6649043,1,cup,water
+209,6649043,8,cups,"chicken broth, divided"
+210,6649043,¾,cup,chopped carrots
+211,6649043,½,teaspoon,dried thyme
+212,6649043,¾,cup,all-purpose flour
+213,6649043,2,tablespoons,butter
+214,6649043,¼,teaspoon,ground black pepper
+215,6648392,1,(12 pound),whole turkey
+216,6648392,,,salt and ground black pepper to taste
+217,6648392,2,tablespoons,all-purpose flour
+218,6648392,5,stalks,"celery, cut into 1-inch pieces"
+219,6648392,2,large,"onions, quartered"
+220,6648392,1,,large turkey bag
+221,6585034,1,gallon,water
+222,6585034,2,cups,kosher salt
+223,6585034,1 ½,cups,dark brown sugar
+224,6585034,3,large,bay leaves
+225,6585034,1,tablespoon,whole black peppercorns
+226,6585034,2 ½,teaspoons,dried rosemary
+227,6585034,2 ½,teaspoons,dried thyme
+228,6585034,12,,whole cloves
+229,6737168,1 ½,tablespoons,chili powder
+230,6737168,2,teaspoons,ground cumin
+231,6737168,1,teaspoon,ground paprika
+232,6737168,1,teaspoon,salt
+233,6737168,½,teaspoon,garlic powder
+234,6737168,½,teaspoon,onion powder
+235,6737168,½,teaspoon,dried oregano
+236,6737168,¼,teaspoon,cayenne pepper
+237,6737168,12,ounces,ground turkey
+238,6737168,½,cup,water
+239,6737168,1,tablespoon,cider vinegar
+240,6737168,1 ½,teaspoons,brown sugar
+241,6650419,1 ½,teaspoons,olive oil
+242,6650419,1,pound,ground turkey
+243,6650419,1,,"onion, chopped"
+244,6650419,2,cups,water
+245,6650419,1,(28 ounce) can,canned crushed tomatoes
+246,6650419,1,(16 ounce) can,"canned kidney beans - drained, rinsed, and mashed"
+247,6650419,1,tablespoon,"garlic, minced"
+248,6650419,2,tablespoons,chili powder
+249,6650419,½,teaspoon,paprika
+250,6650419,½,teaspoon,dried oregano
+251,6650419,½,teaspoon,ground cayenne pepper
+252,6650419,½,teaspoon,ground cumin
+253,6650419,½,teaspoon,salt
+254,6650419,½,teaspoon,ground black pepper
+255,6572044,,,nonstick cooking spray
+256,6572044,1,medium,"onion, diced"
+257,6572044,½,cup,frozen peas and carrots
+258,6572044,2,tablespoons,salted butter
+259,6572044,3,cups,cold cooked rice
+260,6572044,2,cups,diced cooked turkey
+261,6572044,2,tablespoons,"soy sauce, or more to taste"
+262,6572044,1,tablespoon,"sesame oil, or as needed"
+263,6572044,2,large,eggs
+264,6741005,2,gallons,water
+265,6741005,1 ½,cups,canning salt
+266,6741005,⅓,cup,brown sugar
+267,6741005,¼,cup,Worcestershire sauce
+268,6741005,3,tablespoons,minced garlic
+269,6741005,1,tablespoon,ground black pepper
+270,6650248,1,(8 ounce) package,egg noodles
+271,6650248,2,tablespoons,butter
+272,6650248,1,(6 ounce) can,sliced mushrooms
+273,6650248,2,cups,chopped cooked turkey
+274,6650248,1,(10.75 ounce) can,condensed cream of celery soup
+275,6650248,1,cup,sour cream
+276,6650248,1,teaspoon,salt
+277,6650248,⅛,teaspoon,pepper
+278,6650248,½,cup,grated Parmesan cheese
+279,6648641,1,,picked-over turkey carcass
+280,6648641,1 ½,cups,leftover stuffing
+281,6648641,1,,"onion, peeled and diced"
+282,6648641,2,,"carrots, peeled and sliced"
+283,6648641,2,,"celery stalks, chopped"
+284,6648641,1,tablespoon,poultry seasoning
+285,6648641,1,teaspoon,ground sage
+286,6648641,2,,bay leaves
+287,6648641,2 ½,quarts,chicken broth
+288,6648641,1,cup,"water, or as needed (Optional)"
+289,6648641,½,teaspoon,"garlic salt, or to taste"
+290,6648641,,,"ground black pepper, to taste"
+291,6648641,2,cups,(uncooked) regular long-grain white rice
+292,6648641,1,(16 ounce) package,frozen green peas
+293,6736714,3,gallons,"peanut oil for frying, or as needed"
+294,6736714,1,(12 pound),"whole turkey, neck and giblets removed"
+295,6736714,¼,cup,Creole seasoning
+296,6736714,1,medium,white onion
+297,6648589,5,quarts,"water, or as needed"
+298,6648589,1,,turkey carcass
+299,6648589,1 ½,cups,coarsely chopped onion
+300,6648589,½,cup,chopped carrot
+301,6648589,3,stalks,"celery, cut in half"
+302,6648589,10,,whole black peppercorns
+303,6648589,1,large,bay leaf
+304,6648589,1,pinch,"dried thyme, or to taste"
+305,6651009,3,stalks,"celery stalks, cut in thirds"
+306,6651009,3,,turkey legs
+307,6651009,6,tablespoons,butter
+308,6651009,,,salt to taste
+309,6651009,½,cup,"water, or as needed"
+310,6739033,1,large,"onion, chopped"
+311,6739033,2,,"carrots, chopped"
+312,6739033,2,ribs,"celery, chopped"
+313,6739033,2,teaspoons,vegetable oil
+314,6739033,2,large,turkey wings
+315,6739033,2,tablespoons,cold water
+316,6739033,10,cups,cold water
+317,6739033,4,sprigs,fresh thyme
+318,6739033,2,cloves,garlic
+319,6739033,3,tablespoons,butter
+320,6739033,½,cup,all-purpose flour
+321,6739033,1,pinch,"cayenne pepper, or to taste"
+322,6739033,,,salt and ground black pepper to taste
+323,6649790,1 ½,pounds,ground turkey
+324,6649790,¾,cup,crushed buttery round crackers
+325,6649790,½,cup,milk
+326,6649790,1,small,"onion, chopped"
+327,6649790,1,,egg
+328,6649790,2,cloves,"garlic, minced"
+329,6649790,1 ½,teaspoons,salt
+330,6649790,¼,teaspoon,ground black pepper
+331,6576611,1,(7 pound),whole turkey breast
+332,6648532,1,tablespoon,vegetable oil
+333,6648532,1,pound,ground turkey
+334,6648532,,,cooking spray
+335,6648532,2,(10.75 ounce) cans,low sodium tomato soup
+336,6648532,2,(15 ounce) cans,"kidney beans, drained"
+337,6648532,1,(15 ounce) can,"black beans, drained"
+338,6648532,½,medium,"onion, chopped"
+339,6648532,2,tablespoons,chili powder
+340,6648532,½,tablespoon,garlic powder
+341,6648532,½,tablespoon,ground cumin
+342,6648532,1,teaspoon,red pepper flakes
+343,6648532,1,pinch,ground black pepper
+344,6648532,1,pinch,ground allspice
+345,6648532,,,salt to taste
+346,6585204,2,slices,bread
+347,6585204,1,teaspoon,mayonnaise
+348,6585204,1,teaspoon,prepared mustard
+349,6585204,2,slices,cooked ham
+350,6585204,2,slices,cooked turkey meat
+351,6585204,1,slice,Swiss cheese
+352,6585204,1,,egg
+353,6585204,½,cup,milk
+354,6664256,1 ½,pounds,ground turkey
+355,6664256,1,,"onion, chopped"
+356,6664256,3,cloves,"garlic, minced"
+357,6664256,2,(4 ounce) cans,"canned green chile peppers, chopped"
+358,6664256,1,tablespoon,ground cumin
+359,6664256,1,tablespoon,dried oregano
+360,6664256,1,teaspoon,ground cinnamon
+361,6664256,,,ground cayenne pepper to taste
+362,6664256,,,ground white pepper to taste
+363,6664256,5,cups,chicken broth
+364,6664256,3,(15 ounce) cans,cannellini beans
+365,6664256,2,cups,shredded Monterey Jack cheese
+366,6664155,1,(6 pound),bone-in turkey breast
+367,6664155,1,(1 ounce) envelope,dry onion soup mix
+368,6663852,3 ¾,cups,cubed white bread
+369,6663852,1 ½,cups,cubed whole wheat bread
+370,6663852,1,pound,ground turkey sausage
+371,6663852,1,cup,chopped onion
+372,6663852,¾,cup,chopped celery
+373,6663852,2 ½,teaspoons,dried sage
+374,6663852,1 ½,teaspoons,dried rosemary
+375,6663852,½,teaspoon,dried thyme
+376,6663852,1,,"Golden Delicious apple, cored and chopped"
+377,6663852,¾,cup,dried cranberries
+378,6663852,⅓,cup,minced fresh parsley
+379,6663852,1,,"cooked turkey liver, finely chopped"
+380,6663852,¾,cup,turkey stock
+381,6663852,4,tablespoons,"unsalted butter, melted"
+382,6575247,1,tablespoon,chipotle hot sauce (such as Cholula®)
+383,6575247,1,tablespoon,rice vinegar
+384,6575247,1,tablespoon,soy sauce
+385,6575247,1 ½,teaspoons,minced ginger
+386,6575247,1,teaspoon,agave syrup
+387,6575247,1,tablespoon,olive oil
+388,6575247,1,tablespoon,sesame oil
+389,6575247,1,pound,ground turkey
+390,6575247,½,teaspoon,salt
+391,6575247,½,tablespoon,ground black pepper
+392,6575247,1,(8 ounce) package,coleslaw mix
+393,6575247,½,,"red bell pepper, diced"
+394,6575247,2,,"green onions, chopped, or more to taste"
+395,6575247,2,cloves,"garlic, minced"
+396,6575247,1,tablespoon,sesame seeds
+397,6603758,6,tablespoons,butter
+398,6603758,¼,cup,diced onion
+399,6603758,¼,cup,diced celery
+400,6603758,⅓,cup,all-purpose flour
+401,6603758,4,cups,turkey broth
+402,6603758,⅓,cup,shredded carrots
+403,6603758,2,cups,chopped leftover roasted turkey
+404,6603758,2,cups,cooked wild rice
+405,6603758,¼,cup,chopped slivered almonds
+406,6603758,½,teaspoon,"kosher salt, or to taste"
+407,6603758,½,teaspoon,"ground black pepper, or to taste"
+408,6603758,½,teaspoon,lemon juice
+409,6603758,¾,cup,half-and-half
+410,6599504,2,pounds,ground turkey
+411,6599504,1,tablespoon,brown sugar
+412,6599504,2,teaspoons,kosher salt
+413,6599504,1 ½,teaspoons,ground black pepper
+414,6599504,1 ½,teaspoons,ground sage
+415,6599504,1 ½,teaspoons,ground thyme
+416,6599504,½,teaspoon,dried marjoram
+417,6599504,½,teaspoon,red pepper flakes
+418,6587558,1,(20 ounce) package,93%-lean ground turkey
+419,6587558,1,(28 ounce) can,diced fire-roasted tomatoes
+420,6587558,1,(16 ounce) can,tomato sauce
+421,6587558,1,(15.5 ounce) can,"pinto beans, rinsed and drained"
+422,6587558,1,(15.5 ounce) can,"kidney beans, rinsed and drained"
+423,6587558,1,(15 ounce) can,"reduced-sodium black beans, rinsed and drained"
+424,6587558,1,small,"onion, chopped"
+425,6587558,1,(4.5 ounce) can,chopped green chiles
+426,6587558,2,tablespoons,chili powder
+427,6587558,1,tablespoon,minced garlic
+428,6587558,1,teaspoon,oregano
+429,6587558,1,pinch,ground cumin
+430,6601242,5,,turkey wings
+431,6601242,1,small,"onion, chopped (Optional)"
+432,6601242,1,teaspoon,seasoned salt
+433,6601242,1,teaspoon,poultry seasoning
+434,6601242,1,teaspoon,ground black pepper
+435,6601242,1,teaspoon,minced garlic
+436,6601242,1 ½,cups,"water, divided"
+437,6601242,1,(10.5 ounce) can,cream of mushroom soup
+438,6737774,1,(18 pound),"whole turkey, neck and giblets removed"
+439,6737774,2,cups,kosher salt
+440,6737774,½,cup,"butter, melted, divided"
+441,6737774,2,large,"onions, chopped, divided"
+442,6737774,4,,"carrots, coarsely chopped, divided"
+443,6737774,4,stalks,"celery, chopped, divided"
+444,6737774,2,sprigs,"fresh thyme, divided"
+445,6737774,1,,bay leaf
+446,6737774,1,cup,dry white wine
+447,6598278,3,large,"potatoes, peeled"
+448,6598278,¼,cup,warm milk
+449,6598278,2,tablespoons,"butter, room temperature"
+450,6598278,,,salt and ground black pepper to taste
+451,6649500,1,,turkey carcass
+452,6649500,1,large,"onion, halved and skin left on"
+453,6649500,1,large,"carrot, roughly chopped"
+454,6649500,1,stalk,"celery, roughly chopped"
+455,6649500,1,head,"garlic, halved"
+456,6649500,1,teaspoon,dried rosemary
+457,6649500,1,teaspoon,dried thyme
+458,6649500,2,,bay leaves
+459,6649500,,,salt and ground black pepper to taste
+460,6649500,2,quarts,"water, or as needed"
+461,6738702,24,,"Hawaiian bread rolls (such as King's®), split"
+462,6738702,12,,"thin slices of honey-cured deli ham, halved"
+463,6738702,12,slices,"Swiss cheese, halved"
+464,6738702,12,thin slices,"deli smoked turkey, halved"
+465,6738702,12,thin slices,"provolone cheese, halved"
+466,6738702,½,cup,butter
+467,6738702,¼,cup,white sugar
+468,6738702,¼,cup,dried onion flakes
+469,6738702,2,tablespoons,poppy seeds
+470,6738702,1,tablespoon,honey mustard
+471,6574767,1,tablespoon,vegetable oil
+472,6574767,1,,"onion, diced"
+473,6574767,2,cloves,"garlic, minced"
+474,6574767,1,pound,ground turkey
+475,6574767,3,(15 ounce) cans,"black beans, undrained"
+476,6574767,1,(14.5 ounce) can,crushed tomatoes
+477,6574767,1 ½,tablespoons,chili powder
+478,6574767,1,tablespoon,dried oregano
+479,6574767,1,tablespoon,dried basil leaves
+480,6574767,1,tablespoon,red wine vinegar
+481,6597383,¼,cup,dried sage
+482,6597383,2,tablespoons,garlic powder
+483,6597383,1,(16 pound),"whole turkey, neck and giblets removed"
+484,6597383,2,(12 ounce) packages,bacon
+485,6597383,2,cups,water
+486,6599320,½,cup,"salted butter, at room temperature"
+487,6599320,2,teaspoons,dried thyme
+488,6599320,2,teaspoons,dried rosemary
+489,6599320,2,teaspoons,dried parsley
+490,6599320,2,teaspoons,garlic powder
+491,6599320,1,teaspoon,cayenne pepper
+492,6599320,,,salt and ground black pepper to taste
+493,6599320,1,pound,baby potatoes
+494,6599320,2,large,"onions, roughly chopped"
+495,6599320,8,cloves,"garlic, minced"
+496,6599320,2,tablespoons,olive oil
+497,6599320,4,,turkey thighs
+498,6599320,1,medium,"lemon, zested and juiced"
+499,6664140,1,(15 pound),"whole turkey, neck and giblets removed"
+500,6664140,1,cup,"butter, softened"
+501,6664140,¼,cup,chicken soup base
+502,6664140,5,medium,"apples, cored and cut into wedges"
+503,6664140,3,,"sweet onions, peeled and cut into wedges"
+504,6664140,1,cup,"butter, cut into cubes"
+505,6664140,2,tablespoons,"minced garlic, or to taste"
+506,6664140,1,(750 milliliter) bottle,dry white wine
+507,6737607,4,,"green bell peppers, tops removed, seeded"
+508,6737607,1,pound,ground turkey
+509,6737607,2,tablespoons,olive oil
+510,6737607,½,,"onion, chopped"
+511,6737607,1,cup,sliced mushrooms
+512,6737607,1,,"zucchini, chopped"
+513,6737607,½,,"red bell pepper, chopped"
+514,6737607,½,,"yellow bell pepper, chopped"
+515,6737607,1,cup,fresh spinach
+516,6737607,1,(14.5 ounce) can,"diced tomatoes, drained"
+517,6737607,1,tablespoon,tomato paste
+518,6737607,,,Italian seasoning to taste
+519,6737607,,,garlic powder to taste
+520,6737607,,,salt and pepper to taste
+521,6739044,¼,cup,olive oil
+522,6739044,2,tablespoons,minced garlic
+523,6739044,5,cups,chicken stock
+524,6739044,1,,smoked turkey drumstick
+525,6739044,5,bunches,"collard greens - rinsed, trimmed and chopped"
+526,6739044,,,salt and black pepper to taste
+527,6739044,1,tablespoon,crushed red pepper flakes (Optional)
+528,6582603,2,pounds,ground turkey
+529,6582603,1 ½,teaspoons,ground black pepper
+530,6582603,1 ½,teaspoons,salt
+531,6582603,1,teaspoon,dried sage
+532,6582603,¾,teaspoon,ground ginger
+533,6582603,¼,teaspoon,cayenne pepper
+534,6582603,,,nonstick cooking spray

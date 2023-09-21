@@ -1,0 +1,472 @@
+,id_recipe,Quantity,Unit of Measure,Ingredient
+0,6591017,1 ⅓,cups,water
+1,6591017,⅔,cup,uncooked short-grain white rice
+2,6591017,3,tablespoons,rice vinegar
+3,6591017,3,tablespoons,white sugar
+4,6591017,1 ½,teaspoons,salt
+5,6591017,4,sheets,nori seaweed sheets
+6,6591017,½,pound,"imitation crabmeat, flaked"
+7,6591017,1,,"avocado - peeled, pitted, and sliced"
+8,6591017,½,,"cucumber, peeled, cut into small strips"
+9,6591017,2,tablespoons,pickled ginger
+10,6591912,1,cup,uncooked white rice
+11,6591912,2,cups,water
+12,6591912,2,tablespoons,rice vinegar
+13,6591912,1,teaspoon,salt
+14,6591912,2,sheets,nori seaweed sheets
+15,6591912,¼,,"cucumber, peeled and sliced lengthwise"
+16,6591912,2,pieces,imitation crab legs
+17,6591912,½,(3 ounce) package,"cream cheese, sliced"
+18,6591912,1,teaspoon,minced fresh ginger root
+19,6584408,1 ¼,cups,water
+20,6584408,1,cup,uncooked glutinous white rice (sushi rice)
+21,6584408,3,tablespoons,rice vinegar
+22,6584408,1,pinch,salt
+23,6584408,4,sheets,nori (dry seaweed)
+24,6584408,½,medium,"cucumber, sliced into thin strips"
+25,6584408,1,medium,"avocado - peeled, pitted and sliced"
+26,6737729,4,sheets,nori (dry seaweed)
+27,6737729,½,pound,"sashimi-grade tuna, finely chopped"
+28,6737729,4,tablespoons,mayonnaise
+29,6737729,2,,"green onions, chopped"
+30,6737729,1,tablespoon,hot chile sauce
+31,6737729,2 ½,cups,prepared sushi rice
+32,6737729,1,tablespoon,sesame seeds
+33,6663679,2,cups,uncooked glutinous white rice
+34,6663679,2 ½,cups,water
+35,6663679,1,tablespoon,rice vinegar
+36,6663679,1,(5 ounce) can,"solid white tuna in water, drained"
+37,6663679,1,tablespoon,mayonnaise
+38,6663679,1,teaspoon,chili powder
+39,6663679,1,teaspoon,wasabi paste
+40,6663679,4,sheets,nori (dry seaweed)
+41,6663679,½,,"cucumber, finely diced"
+42,6663679,1,,"carrot, finely diced"
+43,6663679,1,,"avocado - peeled, pitted and diced"
+44,6651071,1,cup,uncooked short-grain white rice
+45,6651071,1,cup,water
+46,6651071,¼,cup,rice vinegar
+47,6651071,1,tablespoon,white sugar
+48,6651071,½,cup,"imitation crabmeat, finely chopped"
+49,6651071,¼,cup,mayonnaise
+50,6651071,8,sheets,nori (dry seaweed)
+51,6651071,2 ½,tablespoons,sesame seeds
+52,6651071,1,,"cucumber, cut into thin spears"
+53,6651071,2,,"avocados - pitted, peeled, and sliced the long way"
+54,6585272,1 ½,cups,uncooked short-grain white rice
+55,6585272,1 ½,cups,water
+56,6585272,⅓,cup,red wine vinegar
+57,6585272,2,teaspoons,white sugar
+58,6585272,1,teaspoon,salt
+59,6585272,½,,"avocado - peeled, pitted, and thinly sliced"
+60,6585272,1,teaspoon,lemon juice
+61,6585272,¼,cup,"sesame seeds, or as needed"
+62,6585272,½,,"cucumber - peeled, seeded, and cut into matchsticks"
+63,6585272,½,,"green bell pepper, seeded and cut into matchsticks"
+64,6585272,½,,"zucchini, cut into matchsticks"
+65,7182056,1,cup,sushi rice
+66,7182056,1 1/4,cups,water
+67,7182056,3,tablespoons,rice vinegar
+68,7182056,2,teaspoons,sugar
+69,7182056,1/2,teaspoon,salt
+70,7182056,2,medium,cucumbers
+71,7182056,1,(3-oz.) package,cold-smoked salmon
+72,7182056,1,,"avocado,"
+73,7182056,2,teaspoons,sesame seeds
+74,7182056,,,"soy sauce, furikake rice seasoning, Kewpie mayonnaise, prepared wasabi, and/or pickled ginger,"
+75,7111498,1 ⅓,cups,sushi rice
+76,7111498,1,(4 inch) piece,dashi kombu (dried kelp)
+77,7111498,3,cups,water
+78,7111498,2,tablespoons,rice wine
+79,7111498,2,tablespoons,sugar
+80,7111498,¾,teaspoon,salt
+81,7111498,4,,nori seaweed sheets
+82,7111498,,,desired fillings (see bottom of recipe)
+83,6577128,2,cups,Japanese short-grain white rice
+84,6577128,3,cups,water
+85,6577128,3,tablespoons,rice vinegar
+86,6577128,2 ½,tablespoons,white sugar
+87,6577128,4,sheets,nori (dry seaweed)
+88,6577128,4,ounces,yellowtail flounder
+89,6577128,¼,cup,Japanese mayonnaise (such as Kewpie®)
+90,6577128,1,tablespoon,Sriracha sauce
+91,6577128,¼,medium,"cucumber, peeled and julienned"
+92,6577128,2,tablespoons,tobiko (flying fish roe)
+93,6571943,½,pound,fully cooked breaded chicken breast tenderloins
+94,6571943,¼,cup,hot pepper sauce
+95,6571943,4,sheets,nori (dry seaweed)
+96,6571943,4,cups,cooked sushi rice
+97,6571943,1,,"carrot, peeled and cut into 4-inch matchsticks"
+98,6571943,1,,"celery stalk, cut into 4-inch matchsticks"
+99,6571943,¼,cup,spicy mayonnaise
+100,6571943,¼,cup,French-fried onions (such as French's®)
+101,6597118,¼,cup,mayonnaise
+102,6597118,1,tablespoon,chile sauce
+103,6597118,1 ½,teaspoons,togarashi (Japanese seven spice)
+104,6597118,1,teaspoon,prepared wasabi
+105,6597118,1,teaspoon,chili powder
+106,6597118,1,teaspoon,paprika
+107,6597118,3,(3 ounce) fillets,"imitation crabmeat, cut into 1 1/2-inch pieces"
+108,6597118,2,cups,cooked sushi rice
+109,6597118,3,sheets,nori (dry seaweed)
+110,6738517,2 ¼,cups,Japanese sushi-style rice
+111,6738517,1,(4 inch) piece,konbu dried kelp (Optional)
+112,6738517,3,cups,water
+113,6738517,¼,cup,rice vinegar
+114,6738517,¼,cup,white sugar
+115,6738517,1 ¼,teaspoons,salt
+116,6601113,1,cup,jasmine rice
+117,6601113,1 ½,cups,water
+118,6601113,½,cup,rice vinegar
+119,6601113,2,tablespoons,white sugar
+120,6601113,2,teaspoons,salt
+121,6601113,3,sheets,nori (dry seaweed)
+122,6601113,1,,"cucumber, sliced lengthwise"
+123,6601113,2,sticks,"imitation crab, sliced lengthwise"
+124,6596664,¾,cup,Japanese sushi-style rice
+125,6596664,¾,cup,water
+126,6596664,1 ⅓,tablespoons,rice vinegar
+127,6596664,1 ⅓,tablespoons,white sugar
+128,6596664,2 ¼,teaspoons,salt
+129,6596664,,,cooking spray
+130,6596664,8,,frozen tempura shrimp
+131,6596664,2,sheets,nori (dry seaweed)
+132,6596664,2,sticks,"imitation crabmeat, cut into 1/4-inch pieces"
+133,6596664,1,,"cucumber - peeled, seeded, and cut into 1/4-inch strips"
+134,6596664,1,,"avocado, sliced"
+135,6596664,10,ounces,"frozen unagi kabayaki (grilled eel), thawed and sliced into 2-inch strips"
+136,6577275,1,cup,Japanese sushi-style rice
+137,6577275,1,(2 inch) piece,kombu (Japanese dried kelp)
+138,6577275,1 ¼,cups,water
+139,6577275,3,tablespoons,Japanese rice wine
+140,6577275,1,tablespoon,hon mirin (Japanese mirin)
+141,6577275,¾,tablespoon,white sugar
+142,6577275,½,teaspoon,sea salt
+143,6606173,1,cup,uncooked glutinous white rice (sushi rice)
+144,6606173,1 ½,cups,water
+145,6606173,1,tablespoon,sesame oil
+146,6606173,,,salt to taste
+147,6606173,2,large,"eggs, beaten"
+148,6606173,4,sheets,sushi nori (dry seaweed)
+149,6606173,1,,"cucumber, cut into thin strips"
+150,6606173,1,,"carrot, cut into thin strips"
+151,6606173,4,slices,"American processed cheese, cut into thin strips"
+152,6606173,4,slices,"cooked ham, cut into thin strips"
+153,6606173,2,teaspoons,sesame oil
+154,6568093,6,thick slices,bacon
+155,6568093,½,pound,lean ground beef
+156,6568093,1,tablespoon,"barbeque spice rub, or to taste"
+157,6568093,4,thin slices,prosciutto
+158,6568093,2,,"jalapeno peppers, sliced into long strips"
+159,6568093,2,,sticks pepper Jack cheese
+160,6568093,2,tablespoons,"barbeque sauce, or to taste"
+161,6568093,1,cup,French-fried onions
+162,6575057,10,ounces,"imitation crabmeat, chopped"
+163,6575057,1,medium,"avocado, diced"
+164,6575057,3,cups,water
+165,6575057,3,cups,uncooked instant rice
+166,6575057,1,(8 ounce) package,"cream cheese, softened"
+167,6575057,2,tablespoons,soy sauce
+168,6575057,1,teaspoon,garlic salt
+169,6575057,1,teaspoon,ground black pepper
+170,6575057,2,cups,Italian-seasoned bread crumbs
+171,6575057,1,cup,"canola oil for frying, or as needed"
+172,6575057,3,tablespoons,mayonnaise
+173,6575057,1,tablespoon,Sriracha sauce
+174,6579938,3,ounces,"low-fat cream cheese, softened"
+175,6579938,1 ½,tablespoons,seeded and finely chopped chipotle in adobo
+176,6579938,1,large,plain flour tortilla
+177,6579938,1,large,tomato-flavored tortilla
+178,6579938,1,large,spinach-flavored tortilla
+179,6579938,¾,cup,low-fat refried black beans
+180,6579938,6,tablespoons,pico de gallo salsa
+181,6579938,1 ½,,"Avocados from Mexico, peeled, pitted and diced"
+182,6579938,¾,cup,chopped cilantro leaves
+183,6738692,½,,cucumber
+184,6738692,3 ½,ounces,"crab sticks, finely chopped"
+185,6738692,4,tablespoons,mayonnaise
+186,6738692,4,sheets,nori (dry seaweed)
+187,6738692,2 ½,cups,cooked sushi rice
+188,6738692,2 ½,tablespoons,sesame seeds
+189,6738692,1,,"avocado, sliced"
+190,6738692,4,teaspoons,tobiko (flying fish roe)
+191,6738067,1,cup,uncooked sushi rice
+192,6738067,1 ½,cups,water
+193,6738067,¼,cup,rice wine vinegar
+194,6738067,2,tablespoons,white sugar
+195,6738067,½,teaspoon,salt
+196,6738067,5,sheets,nori (dry seaweed)
+197,6738067,1,medium,"avocado, thinly sliced"
+198,6738067,1,(8 ounce) package,"cream cheese, sliced lengthwise into 10 strips"
+199,6738067,5,tablespoons,panko
+200,6738067,1,medium,"cucumber, sliced lengthwise into 5 strips"
+201,6738067,3,ounces,"smoked salmon, chopped"
+202,6738067,¼,cup,masago
+203,6738067,1,teaspoon,black sesame seeds
+204,6738067,1,teaspoon,"white sesame seeds, toasted"
+205,6738067,2,tablespoons,hoisin sauce
+206,6738067,2,tablespoons,Sriracha mayonnaise
+207,6596715,1 ½,cups,"sushi rice, or Japanese short-grain white rice"
+208,6596715,2,cups,water
+209,6596715,½,cup,rice wine vinegar
+210,6596715,¼,cup,sugar
+211,6596715,⅛,cup,sake
+212,6596715,12,ounces,"imitation crabmeat, flaked"
+213,6596715,1,cup,seeded and chopped cucumber
+214,6596715,1,,"avocado, chopped"
+215,6596715,1,tablespoon,"soy sauce, or to taste"
+216,6589904,1,cup,short-grain sushi rice
+217,6589904,2,cups,water
+218,6589904,1,pinch,salt
+219,6589904,1 ½,teaspoons,vegetable oil
+220,6589904,¼,cup,rice vinegar
+221,6589904,2,tablespoons,white sugar
+222,6589904,⅛,teaspoon,salt
+223,6589904,1,(16 ounce) package,extra-firm tofu
+224,6589904,1,tablespoon,"olive oil, or more as needed"
+225,6589904,¼,small,"onion, minced (Optional)"
+226,6589904,1,teaspoon,"garlic, minced (Optional)"
+227,6589904,¼,cup,vegan mayonnaise (such as Follow Your Heart Vegenaise)
+228,6589904,2,tablespoons,"Sriracha sauce, or to taste"
+229,6589904,2,sheets,"nori, or as needed"
+230,6589904,½,medium,"avocado - peeled, pitted, and sliced"
+231,6589904,½,cup,matchstick-sliced Savoy cabbage
+232,6589904,¼,cup,matchstick-cut carrots
+233,6589904,¼,cup,matchstick-cut seeded cucumber
+234,6663455,2 ½,cups,prepared sushi rice
+235,6663455,½,cup,"neutral-flavored oil, such as grapeseed or canola"
+236,6663455,1,pound,"sushi grade tuna, finely diced"
+237,6663455,3,tablespoons,Japanese mayonnaise (such as Kewpie®)
+238,6663455,2,tablespoons,"Sriracha, plus more for serving"
+239,6663455,1,tablespoon,soy sauce
+240,6663455,2,teaspoons,sesame oil
+241,6663455,1,teaspoon,"lime juice, or more to taste"
+242,6663455,1,,"avocado, thinly sliced"
+243,6663455,½,,"jalapeno pepper, thinly sliced"
+244,6663455,,,"sesame seeds, for garnish"
+245,6561549,6,,aburaage squares (fried tofu)
+246,6561549,2,tablespoons,all-purpose flour
+247,6561549,,,salt and freshly ground black pepper to taste
+248,6561549,2,cups,uncooked white rice
+249,6561549,5,cups,"water, divided"
+250,6561549,⅓,cup,rice vinegar
+251,6561549,2,tablespoons,olive oil
+252,6561549,5,tablespoons,white sugar
+253,6561549,3,tablespoons,soy sauce
+254,6572226,3,cups,water
+255,6572226,2,cups,sushi rice
+256,6572226,1,teaspoon,salt (Optional)
+257,6572226,½,cup,rice vinegar
+258,6572226,¼,cup,white sugar
+259,6572226,3,large,"eggs, beaten"
+260,6572226,1,,"carrot, cut into 1/4-inch pieces"
+261,6572226,½,pound,"sushi-grade ahi tuna, sliced"
+262,6572226,½,pound,"sushi-grade salmon, sliced"
+263,6572226,1,pound,cooked shrimp
+264,6572226,1,medium,"cucumber, cut into 1/4-inch pieces"
+265,6572226,1,,"avocado, diced"
+266,6572226,½,cup,diced mushrooms
+267,6572226,1,bunch,"green onions, diced"
+268,6572226,¼,cup,diced pickled ginger
+269,6593492,2,cups,uncooked short-grain white rice
+270,6593492,2,cups,water
+271,6593492,2,tablespoons,cider vinegar
+272,6593492,2,leaves,chard
+273,6593492,2,,"eggs, well beaten"
+274,6593492,2,tablespoons,"soy sauce, divided"
+275,6593492,3,tablespoons,water
+276,6593492,1,,"onion, diced"
+277,6593492,1,tablespoon,vegetable oil
+278,6593492,¾,pound,"beef tenderloin, minced"
+279,6593492,1,(5 ounce) can,"tuna, drained"
+280,6593492,1,,"carrot, julienned"
+281,6593492,1,,"cucumber, julienned"
+282,6593492,6,sheets,nori (dry seaweed)
+283,6564474,4,cups,water
+284,6564474,2,cups,uncooked white rice
+285,6564474,½,cup,seasoned rice vinegar
+286,6564474,1,teaspoon,"white sugar, or as needed"
+287,6564474,1,teaspoon,"salt, or as needed"
+288,6564474,¼,pound,hamachi (yellowtail)
+289,6564474,¼,pound,maguro (tuna)
+290,6564474,¼,pound,"cooked Ebi (shrimp), shelled and butterflied"
+291,6564474,6,,eggs
+292,6564474,½,teaspoon,white sugar
+293,6564474,⅛,teaspoon,salt
+294,6564474,1,teaspoon,wasabi paste (Optional)
+295,6564474,1,sheet,"nori, cut into 1-inch strips"
+296,6736351,1,cup,"sushi rice, rinsed"
+297,6736351,1 ¼,cups,water
+298,6736351,8,teaspoons,"rice vinegar, divided"
+299,6736351,1,tablespoon,white sugar
+300,6736351,1,ounce,1/3 less fat cream cheese at room temperature
+301,6736351,1,tablespoon,"kosher salt, divided"
+302,6736351,,,cooking spray
+303,6736351,2,tablespoons,lower-sodium soy sauce
+304,6736351,1,teaspoon,dark sesame oil
+305,6736351,¼,teaspoon,crushed red pepper
+306,6736351,1,pound,"sushi-grade ahi tuna, cubed"
+307,6736351,½,cup,"cucumber - peeled, seeded, and diced"
+308,6736351,2,medium,"green onions, thinly sliced"
+309,6736351,1,large,"avocado, diced"
+310,6736351,½,tablespoon,"black sesame seeds, lightly toasted"
+311,6566754,2,cups,cold cooked sushi rice
+312,6566754,1 ½,tablespoons,unseasoned rice vinegar
+313,6566754,1,teaspoon,white sugar
+314,6566754,¼,teaspoon,kosher salt
+315,6566754,2,sheets,toasted nori (dry seaweed)
+316,6566754,3,tablespoons,sriracha mayonnaise
+317,6566754,½,small,"avocado, thinly sliced"
+318,6566754,1,,"cucumber, cut into matchsticks"
+319,6566754,¼,cup,matchstick carrots
+320,6566754,2,tablespoons,radish matchsticks
+321,6566754,1,ounce,"smoked salmon, thinly sliced"
+322,6566754,1,ounce,cream cheese
+323,6593508,9 ¾,cups,water
+324,6593508,5 ½,cups,Japanese sushi-style white rice
+325,6593508,5 ½,tablespoons,rice vinegar
+326,6593508,5 ½,tablespoons,white sugar
+327,6593508,2 ¾,tablespoons,kosher salt
+328,6575737,1,cup,glutinous white rice (sushi rice)
+329,6575737,1 ½,cups,water
+330,6575737,¼,cup,rice wine vinegar
+331,6575737,2,tablespoons,white sugar
+332,6575737,½,teaspoon,salt
+333,6575737,1,(1 ounce) package,nori (dry seaweed)
+334,6575737,1,medium,"avocado, thinly sliced"
+335,6575737,1,(8 ounce),farmed Atlantic salmon
+336,6575737,3,stalks,"green onions, halved lengthwise"
+337,6575737,¼,cup,sriracha mayonnaise (Kikkoman)
+338,6575737,2,tablespoons,hoisin sauce
+339,6575737,2,teaspoons,black sesame seeds
+340,6575737,2,teaspoons,toasted sesame seeds
+341,6575737,½,teaspoon,"wasabi paste, or to taste"
+342,6575737,1,tablespoon,"pickled ginger, or to taste"
+343,6602090,1,pound,"cauliflower, cut into florets"
+344,6602090,5,ounces,"cream cheese, softened"
+345,6602090,1,tablespoon,rice vinegar
+346,6602090,3,teaspoons,monkfruit sugar substitute
+347,6602090,6,ounces,"sushi-grade ahi tuna, cubed"
+348,6602090,1,dash,"Sriracha hot sauce, or more to taste"
+349,6602090,3,sheets,nori (dry seaweed)
+350,6602090,1,medium,"avocado - peeled, pitted, and sliced"
+351,6602090,2,tablespoons,sesame seeds
+352,6606389,1,cup,"sushi rice, or Japanese short-grain white rice"
+353,6606389,3,,"eggs, beaten"
+354,6606389,¼,teaspoon,salt
+355,6606389,1,tablespoon,vegetable oil
+356,6606389,3,tablespoons,rice vinegar
+357,6606389,2,tablespoons,white sugar
+358,6606389,1,teaspoon,salt
+359,6606389,2,tablespoons,black sesame seeds
+360,6606389,6,sprigs,Italian parsley with long stems
+361,6562389,3,cups,"medium-grain white rice, uncooked"
+362,6562389,3,cups,water
+363,6562389,½,cup,rice vinegar
+364,6562389,½,cup,white sugar
+365,6562389,1,teaspoon,salt
+366,6562389,1,(8 ounce) package,"cream cheese, softened"
+367,6562389,6,tablespoons,mayonnaise
+368,6562389,2,cups,imitation crabmeat
+369,6562389,2,cups,thinly sliced cucumber
+370,6562389,1,medium,"avocado, thinly sliced"
+371,6562389,1,(8 ounce) package,"cold cream cheese, cut into thin strips"
+372,6562389,2,teaspoons,"sesame seeds, or to taste"
+373,6562389,1 ½,cups,soy sauce
+374,6562389,1,medium,"lime, juiced"
+375,6562389,2,medium,"oranges, juiced"
+376,6585308,1,,"long seedless cucumber, ends trimmed"
+377,6585308,1,,"carrot, shredded"
+378,6585308,1,(4 ounce) package,"cream cheese, softened"
+379,6585308,¼,cup,raisins
+380,6585308,24,,long fresh chives for tying
+381,6565116,¼,small,"cucumber, peeled"
+382,6565116,1,sheet,nori (dry seaweed)
+383,6565116,1,small,"carrot, peeled and thinly sliced"
+384,6565116,¼,small,"red bell pepper, thinly sliced"
+385,6565116,6,thin slices,avocado
+386,6590329,1,cup,uncooked medium grain white rice
+387,6590329,2,cups,water
+388,6590329,1,cup,"imitation crabmeat, shredded"
+389,6590329,1,cup,"peeled, thinly sliced cucumbers"
+390,6590329,2,medium,"avocados, thinly sliced"
+391,6590329,2,tablespoons,"teriyaki sauce, or more to taste"
+392,6590329,1,tablespoon,"black sesame seeds, or to taste"
+393,6602623,¾,cup,short-grain rice
+394,6602623,1,cup,water
+395,6602623,1,teaspoon,salt
+396,6602623,4,ounces,"cooked salmon, flaked"
+397,6602623,1,teaspoon,"soy sauce, or to taste"
+398,6602623,½,sheet,nori (dry seaweed)
+399,6592398,¾,cup,"fresh spinach, chopped"
+400,6592398,¼,cup,"cream cheese, softened"
+401,6592398,¼,cup,"shredded Cheddar cheese, or more to taste"
+402,6592398,4,,"pickled peppers, chopped"
+403,6592398,½,,"spring onion (green part only), chopped, or more to taste"
+404,6592398,2,teaspoons,garlic powder
+405,6592398,¾,teaspoon,ground black pepper
+406,6592398,2,pinches,red pepper flakes
+407,6592398,2,,flour tortillas
+408,6592398,½,pound,sliced deli turkey meat
+409,6585999,⅔,cup,water
+410,6585999,⅓,cup,"medium-grain white rice, uncooked"
+411,6585999,6,tablespoons,rice vinegar
+412,6585999,4,sheets,nori (dry seaweed)
+413,6585999,4,ounces,"smoked salmon, cut into strips"
+414,6585999,2,ounces,"cold cream cheese, cut into thin strips"
+415,6585999,4,,"scallions, sliced into thin strips"
+416,6570699,⅔,cup,"short-grain rice, rinsed"
+417,6570699,⅔,cup,water
+418,6570699,3,sheets,"nori (dry seaweed), cut into 1-inch strips"
+419,6570699,,,salt to taste
+420,6570699,,,seasoned sesame seeds to taste
+421,6570699,,,shiso with hijiki (dried seaweed flakes) to taste
+422,6565179,2,cups,water
+423,6565179,1,cup,"sushi rice, rinsed"
+424,6565179,¼,cup,seasoned rice vinegar
+425,6565179,1,tablespoon,white sugar
+426,6565179,1,teaspoon,salt
+427,6565179,1,medium,"carrot, peeled and thinly sliced into 1-inch strips"
+428,6565179,½,,"cucumber, peeled and thinly sliced into 1-inch strips"
+429,6565179,6,pieces,"imitation crab sticks, chopped, or more to taste"
+430,6565179,¼,cup,pickled ginger (Optional)
+431,6565179,2,tablespoons,water
+432,6565179,2,tablespoons,wasabi sauce
+433,6565179,1,tablespoon,vegetable oil
+434,6565179,2,,"sheets nori, torn into nickel-sized pieces"
+435,6565179,½,,"ripe avocado, cut into small pieces"
+436,6565179,1,tablespoon,"sesame seeds, or as needed (Optional)"
+437,6562641,2,tablespoons,Japanese mayonnaise
+438,6562641,2,tablespoons,Sriracha sauce
+439,6562641,2,ounces,"sushi grade tuna, finely diced"
+440,6562641,1,stalk,"scallion, minced"
+441,6562641,2,tablespoons,tobiko (flying fish roe)
+442,6562641,½,cup,cold cooked sushi rice
+443,6562641,½,sheet,nori (dry seaweed)
+444,6575006,2,sheets,nori (dry seaweed)
+445,6575006,1,cup,uncooked medium grain white rice
+446,6575006,1 ¼,cups,water
+447,6575006,1 ½,tablespoons,rice vinegar
+448,6575006,1 ½,tablespoons,white sugar
+449,6575006,1,pinch,salt
+450,6575006,3,ounces,"cold cream cheese, cut into thin strips, divided"
+451,6575006,2,teaspoons,"crushed garlic, divided"
+452,6575006,½,cup,"crushed cashews, divided"
+453,6575006,2,,"green onions, finely chopped, divided"
+454,6575006,2,ounces,"smoked salmon, cut into strips, divided"
+455,6575006,,,soy sauce
+456,6575006,,,wasabi paste
+457,6568475,1,(7.4 ounce) package,precooked brown rice
+458,6568475,2,sheets,nori (dry seaweed)
+459,6568475,,,bamboo mat
+460,6568475,1,,"cucumber, sliced into thin strips"
+461,6568475,1,,"carrot, sliced into thin strips"
+462,6562944,3,cups,uncooked instant rice
+463,6562944,3,cups,water
+464,6562944,2,tablespoons,rice vinegar
+465,6562944,1,,"avocado, halved and pitted"
+466,6562944,1,(8 ounce) package,cream cheese
+467,6562944,1,(12 ounce) package,imitation crab legs
+468,6562944,10,,nori seaweed sheets
+469,6562944,1,tablespoon,"wasabi paste, or as desired"
+470,6562944,¼,cup,"sushi ginger, or as desired"

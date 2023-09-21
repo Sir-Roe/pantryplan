@@ -1,0 +1,62 @@
+,id_recipe,Prep Time:,Cook Time:,Rest Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
+0,7563610,40 mins, 1 hr 10 mins,10 mins, 2 hrs,10 ,10,600,29g,16g,120mg,1353mg,54g,9g,11g,32g,35mg,650mg,4mg,1197mg,,,,
+1,6580300,30 mins, 1 hr 30 mins,, 2 hrs,12 ,12,296,12g,6g,35mg,484mg,31g,2g,9g,16g,6mg,461mg,2mg,506mg,4.6,28,,
+2,6664254,30 mins, 2 hrs 30 mins,, 3 hrs 15 mins,12 ,12,448,21g,10g,82mg,1400mg,37g,4g,9g,30g,17mg,442mg,4mg,876mg,4.8,"20,188",15 mins,
+3,6664293, 1 hr 25 mins, 1 hr 15 mins,, 2 hrs 50 mins,8 ,8,638,27g,13g,161mg,2053mg,54g,5g,4g,46g,13mg,637mg,5mg,785mg,4.6,351,10 mins,1 9x13-inch lasagna
+4,6738880,20 mins, 4 hrs 10 mins,, 4 hrs 30 mins,10 ,10,446,20g,10g,72mg,1420mg,36g,3g,8g,31g,11mg,453mg,3mg,715mg,4.2,"1,132",,
+5,6649446,10 mins, 1 hr 10 mins,, 1 hr 30 mins,12 ,12,377,17g,8g,90mg,870mg,26g,3g,8g,29g,2mg,332mg,2mg,463mg,4.6,"1,122",10 mins,1 9x13-inch lasagna
+6,6663480,30 mins, 1 hr,, 1 hr 35 mins,8 ,8,494,27g,14g,118mg,2200mg,23g,6g,11g,41g,39mg,806mg,5mg,1418mg,4.6,666,5 mins,1 (9x13-inch) lasagna
+7,6664364,25 mins, 1 hr,, 1 hr 40 mins,12 ,12,463,20g,9g,77mg,843mg,50g,5g,14g,23g,12mg,369mg,3mg,700mg,4.7,"1,009",15 mins,1 9x13-inch lasagna
+8,6663310,25 mins,50 mins,, 1 hr 15 mins,12 ,12,369,21g,12g,77mg,671mg,23g,2g,3g,24g,4mg,395mg,2mg,368mg,4.4,"2,505",,1 9x13-inch lasagna
+9,6650680,20 mins, 1 hr 15 mins,, 1 hr 50 mins,12 ,12,289,17g,9g,50mg,851mg,15g,2g,,20g,4mg,548mg,1mg,382mg,4.7,728,15 mins,1 9x13-inch lasagna
+10,6663912,25 mins, 1 hr,, 1 hr 35 mins,8 ,8,501,19g,9g,115mg,999mg,47g,6g,12g,36g,2mg,361mg,4mg,717mg,4.6,222,10 mins,1 9x13-inch lasagna
+11,6601349,20 mins,45 mins,, 1 hr 5 mins,8 ,8,436,14g,6g,120mg,711mg,58g,5g,12g,20g,3mg,224mg,3mg,524mg,4.3,174,,1 9x13-inch lasagna
+12,6648319,20 mins, 1 hr,, 1 hr 20 mins,6 ,6,424,27g,12g,117mg,1427mg,15g,3g,8g,30g,15mg,476mg,3mg,667mg,4.8,135,,1 8-inch baking dish
+13,6663146,30 mins, 1 hr,, 1 hr 35 mins,8 ,8,405,21g,8g,108mg,1496mg,30g,9g,12g,28g,16mg,400mg,4mg,1117mg,4.7,382,5 mins,1 9x13-inch lasagna
+14,6570797,20 mins,45 mins,, 1 hr 5 mins,12 ,12,475,29g,15g,97mg,1041mg,28g,4g,4g,27g,4mg,336mg,3mg,542mg,4.6,574,,1 9x13-inch pan
+15,6664627,25 mins, 3 hrs 15 mins,, 4 hrs,12 ,12,730,39g,20g,159mg,1514mg,50g,5g,14g,43g,5mg,524mg,4mg,846mg,4.8,445,20 mins,1 10x15-inch lasagna
+16,6738871,40 mins, 1 hr,, 1 hr 50 mins,12 ,12,391,18g,8g,94mg,1467mg,34g,4g,9g,25g,17mg,438mg,4mg,810mg,4.7,120,10 mins,1 9x13-inch lasagna
+17,6739101,25 mins, 1 hr 5 mins,, 1 hr 30 mins,6 ,6,495,26g,14g,104mg,1061mg,36g,4g,12g,28g,2mg,257mg,3mg,578mg,4.6,789,,1 9x13-inch lasagna
+18,6580896,20 mins, 1 hr 35 mins,, 2 hrs 5 mins,8 ,8,361,12g,5g,48mg,1048mg,42g,6g,13g,23g,12mg,395mg,4mg,738mg,4.6,547,10 mins,1 9x13-inch lasagna
+19,6739099,30 mins, 1 hr,, 1 hr 40 mins,8 ,8,664,30g,15g,168mg,1900mg,48g,4g,14g,51g,23mg,759mg,6mg,872mg,4.7,"2,728",10 mins,1 9x13-inch dish
+20,6738314,35 mins, 1 hr 10 mins,, 1 hr 55 mins,8 ,8,702,30g,15g,142mg,1058mg,63g,5g,12g,44g,3mg,526mg,4mg,783mg,4.5,566,10 mins,
+21,6739583,25 mins, 1 hr 10 mins,, 1 hr 35 mins,8 ,8,670,42g,22g,189mg,2106mg,31g,2g,6g,41g,11mg,888mg,5mg,602mg,4.8,151,,1 9x13-inch lasagna
+22,6663907,25 mins, 1 hr 50 mins,, 2 hrs 30 mins,12 ,12,507,25g,13g,80mg,1061mg,41g,3g,5g,31g,10mg,481mg,4mg,613mg,5.0,18,15 mins,1 9x13-inch lasagna
+23,6599335,30 mins, 1 hr 15 mins,, 1 hr 45 mins,8 ,8,954,58g,27g,157mg,1764mg,57g,3g,7g,55g,4mg,894mg,4mg,569mg,4.4,499,,1 (9x13-inch) dish
+24,6577278,30 mins, 2 hrs 30 mins,, 3 hrs 15 mins,12 ,12,366,15g,8g,57mg,1026mg,33g,4g,6g,27g,11mg,519mg,3mg,467mg,4.9,14,15 mins,1 lasagna
+25,6736680,15 mins, 1 hr 45 mins,, 2 hrs,10 ,10,647,41g,18g,174mg,2027mg,31g,4g,9g,39g,13mg,556mg,5mg,992mg,4.5,259,,10 servings
+26,6739764,15 mins, 4 hrs 5 mins,, 4 hrs 20 mins,8 ,8,544,24g,10g,91mg,1334mg,53g,7g,17g,29g,4mg,397mg,4mg,761mg,4.5,432,,8 servings
+27,6573394,20 mins,40 mins,, 1 hr,8 ,8,736,35g,15g,104mg,1453mg,63g,6g,12g,44g,4mg,604mg,5mg,780mg,4.5,234,,8 servings
+28,6739134,20 mins,25 mins,,45 mins,6 ,6,734,35g,18g,197mg,2487mg,42g,5g,12g,63g,18mg,795mg,6mg,1296mg,4.6,324,,18 stuffed shells
+29,6587724,25 mins,20 mins,,45 mins,5 ,5,447,24g,10g,79mg,899mg,33g,5g,5g,23g,7mg,141mg,4mg,571mg,4.4,601,,4 to 6 servings
+30,6602153,20 mins, 1 hr 5 mins,, 1 hr 45 mins,8 ,8,657,38g,12g,124mg,1734mg,38g,2g,5g,39g,2mg,447mg,2mg,403mg,4.9,11,20 mins,8 servings
+31,6574769,20 mins, 1 hr,, 1 hr 20 mins,8 ,8,396,16g,7g,42mg,1139mg,45g,7g,12g,21g,16mg,485mg,3mg,556mg,4.6,"1,811",,8 servings
+32,6663801,10 mins, 1 hr 10 mins,, 1 hr 30 mins,12 ,,,,,,,,,,,,,,,4.5,59,10 mins,1 (9x13-inch) dish
+33,6588682,45 mins, 1 hr 30 mins,, 2 hrs 30 mins,12 ,12,235,10g,5g,47mg,1018mg,14g,4g,8g,24g,42mg,341mg,2mg,437mg,4.3,6,15 mins,12 servings
+34,6594376,30 mins, 1 hr 30 mins,, 2 hrs,12 ,12,764,46g,22g,183mg,1726mg,44g,2g,7g,46g,2mg,620mg,3mg,589mg,4.5,165,,12 servings
+35,6600608,20 mins,30 mins,,50 mins,12 ,12,242,9g,5g,84mg,637mg,23g,2g,7g,16g,1mg,203mg,2mg,315mg,4.4,30,,1 - 9x13 inch pan
+36,6603687,20 mins,35 mins,,55 mins,7 ,7,324,15g,6g,81mg,569mg,26g,3g,5g,24g,1mg,693mg,3mg,344mg,4.4,284,,6 to 8 servings
+37,6739752,30 mins, 1 hr 30 mins,, 2 hrs,12 ,12,559,19g,10g,60mg,606mg,72g,5g,3g,26g,5mg,149mg,4mg,431mg,4.4,270,,12 servings
+38,6595638,20 mins,35 mins,,55 mins,8 ,8,326,6g,3g,69mg,768mg,34g,5g,7g,33g,15mg,302mg,4mg,719mg,4.4,162,,8 servings
+39,6584769,30 mins, 1 hr 30 mins,, 2 hrs,12 ,12,591,44g,23g,160mg,847mg,22g,2g,2g,29g,9mg,384mg,3mg,452mg,4.6,443,,12 servings
+40,6578541,20 mins, 1 hr 5 mins,, 1 hr 30 mins,6 ,6,305,10g,5g,55mg,443mg,37g,4g,6g,18g,17mg,368mg,3mg,599mg,4.6,109,5 mins,6 servings
+41,6601767,30 mins, 2 hrs 30 mins,, 3 hrs 15 mins,12 ,12,390,15g,7g,81mg,1129mg,33g,4g,6g,33g,16mg,623mg,4mg,865mg,4.6,72,15 mins,12 servings
+42,6651086,10 mins, 1 hr 5 mins,, 9 hrs 15 mins,8 ,8,559,24g,12g,94mg,1339mg,44g,4g,11g,40g,2mg,460mg,3mg,664mg,4.8,78, 8 hrs,8 servings
+43,6648913,45 mins, 1 hr 45 mins,, 2 hrs 30 mins,8 ,8,494,22g,11g,105mg,1626mg,38g,4g,9g,38g,15mg,585mg,4mg,891mg,4.7,"1,582",,1 - 9x13 inch lasagna
+44,6664114,30 mins,50 mins,, 1 hr 20 mins,9 ,9,524,22g,11g,98mg,898mg,48g,3g,10g,35g,7mg,554mg,4mg,587mg,4.1,24,,
+45,6603829,,,,,8 ,8,485,34g,15g,88mg,1108mg,27g,2g,4g,21g,2mg,347mg,2mg,283mg,4.5,588,,8 servings
+46,6741776,30 mins, 2 hrs,, 2 hrs 30 mins,8 ,8,511,16g,2g,,1074mg,70g,11g,12g,33g,37mg,1030mg,10mg,1384mg,4.4,194,,8 servings
+47,6738093,35 mins,35 mins,, 1 hr 20 mins,12 ,12,375,15g,8g,45mg,530mg,37g,4g,7g,25g,65mg,549mg,3mg,661mg,4.0,214,10 mins,12 servings
+48,6585943,20 mins,,, 4 hrs 20 mins,8 ,,,,,,,,,,,,,,,4.4,211, 4 hrs,8 servings
+49,6588266,35 mins,35 mins,, 1 hr 20 mins,10 ,10,410,15g,7g,38mg,1184mg,48g,6g,17g,22g,30mg,509mg,3mg,830mg,4.8,88,10 mins,1 9x13-inch lasagna
+50,6588850,15 mins,40 mins,,55 mins,6 ,6,560,17g,8g,49mg,1476mg,70g,6g,19g,32g,3mg,542mg,3mg,748mg,4.5,67,,6 servings
+51,6739854,15 mins,35 mins,, 1 hr,4 ,4,756,41g,21g,135mg,1600mg,46g,4g,11g,51g,6mg,570mg,5mg,750mg,4.6,29,10 mins,
+52,6592228,,,,,9 ,9,492,34g,14g,81mg,1048mg,31g,3g,7g,20g,4mg,296mg,2mg,427mg,4.4,252,,9 servings
+53,6572899,15 mins, 2 hrs 15 mins,, 2 hrs 45 mins,10 ,10,594,29g,14g,115mg,1898mg,43g,5g,10g,41g,18mg,647mg,5mg,1008mg,4.7,114,15 mins,1 9x13-inch pan
+54,6601323,10 mins,50 mins,, 1 hr,5 ,5,644,27g,14g,127mg,1087mg,59g,5g,15g,40g,3mg,681mg,4mg,806mg,4.4,494,,5 servings
+55,6579483,30 mins, 1 hr 45 mins,, 2 hrs 25 mins,8 ,8,386,21g,10g,112mg,1712mg,23g,4g,14g,29g,38mg,540mg,4mg,1067mg,4.7,78,10 mins,8 servings
+56,6579731,35 mins,45 mins,, 1 hr 20 mins,6 ,6,889,43g,20g,159mg,1866mg,71g,7g,18g,52g,8mg,825mg,4mg,935mg,4.5,73,,6 servings
+57,6737788,15 mins,25 mins,,45 mins,12 ,12,200,9g,5g,35mg,495mg,14g,1g,2g,14g,1mg,312mg,1mg,153mg,4.6,96,5 mins,
+58,6739419,30 mins,30 mins,, 1 hr,12 ,12,455,19g,9g,48mg,775mg,42g,5g,8g,31g,3mg,852mg,3mg,541mg,4.6,390,,12 servings
+59,6573793,25 mins, 1 hr 10 mins,, 1 hr 45 mins,8 ,8,373,16g,10g,56mg,773mg,39g,6g,4g,20g,55mg,331mg,2mg,937mg,4.2,151,10 mins,
+60,6737709,10 mins,30 mins,,40 mins,8 ,8,179,9g,3g,12mg,515mg,17g,2g,5g,8g,2mg,176mg,1mg,193mg,4.4,298,,

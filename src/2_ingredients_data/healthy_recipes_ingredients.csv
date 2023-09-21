@@ -1,0 +1,432 @@
+,id_recipe,Quantity,Unit of Measure,Ingredient
+0,7814108,4,6 ounce,rockfish
+1,7814108,1,tablespoon,sesame oil
+2,7814108,2,cloves,"garlic, minced"
+3,7814108,1,tablespoon,fresh ginger
+4,7814108,1,tablespoon,honey
+5,7814108,1/4,teaspoon,red pepper flakes
+6,7814108,1,tablespoon,soy sauce
+7,7814108,1,tablespoon,lime juice
+8,7814108,1/4,cup,scallions
+9,7566683,2 1/2,pounds,zucchini
+10,7566683,2,tablespoons,"kosher salt, plus more to taste"
+11,7566683,4,tablespoons,"olive oil, divided"
+12,7566683,3,cloves,crushed garlic
+13,7566683,3,tablespoons,tahini
+14,7566683,1/2,,"lemon, juiced, plus more to taste"
+15,7566683,6,leaf,"basil leaves, sliced"
+16,7566683,1/4,teaspoon,ground black pepper
+17,7566683,1/4,teaspoon,cumin
+18,7566683,1,pinch,cayenne
+19,7558651,1,cup,shredded Parmesan cheese
+20,7510177,1 large (8,ounces),sweet potato
+21,7510177,1,tablespoon,canola oil
+22,7510177,1/4,teaspoon,sea salt
+23,7510177,1/4,teaspoon freshly,ground black pepper
+24,7510177,,,cooking spray
+25,6585801,2 ½,cups,whole wheat flour
+26,6585801,¾,teaspoon,salt
+27,6585801,1,cup,water
+28,6663120,2,tablespoons,white sugar
+29,6663120,1,tablespoon,lemon juice
+30,6663120,6,ears,"corn on the cob, husks and silk removed"
+31,6649828,4,cups,water
+32,6649828,2,teaspoons,dashi granules
+33,6649828,3,tablespoons,miso paste
+34,6649828,1,(8 ounce) package,"silken tofu, diced"
+35,6649828,2,,"green onions, sliced diagonally into 1/2 inch pieces"
+36,6649651,1,bunch,kale
+37,6649651,1,tablespoon,olive oil
+38,6649651,1,teaspoon,flaked sea salt
+39,6649411,4,,"apples - peeled, cored and chopped"
+40,6649411,¾,cup,water
+41,6649411,¼,cup,white sugar
+42,6649411,½,teaspoon,ground cinnamon
+43,6649969,1 ½,cups,brown sugar
+44,6649969,1 ½,cups,ketchup
+45,6649969,½,cup,red wine vinegar
+46,6649969,½,cup,water
+47,6649969,1,tablespoon,Worcestershire sauce
+48,6649969,2 ½,tablespoons,dry mustard
+49,6649969,2,teaspoons,paprika
+50,6649969,2,teaspoons,salt
+51,6649969,1 ½,teaspoons,black pepper
+52,6649969,2,dashes,hot pepper sauce
+53,6649117,2,medium,"russet potatoes, shredded"
+54,6649117,½,medium,"onion, finely chopped"
+55,6649117,¼,cup,all-purpose flour
+56,6649117,1,,egg
+57,6649117,1,cup,"oil for frying, or as needed"
+58,6649117,,,salt and pepper to taste
+59,6649729,⅔,cup,fresh orange juice
+60,6649729,⅓,cup,fresh lemon juice
+61,6649729,⅓,cup,packed brown sugar
+62,6649729,½,teaspoon,grated orange zest
+63,6649729,½,teaspoon,grated lemon zest
+64,6649729,1,teaspoon,vanilla extract
+65,6664169,2 ¼,cups,dried split peas
+66,6664169,2,quarts,"cold water, plus more as needed"
+67,6664169,1 ½,pounds,ham bone
+68,6664169,2,,"onions, thinly sliced"
+69,6664169,½,teaspoon,salt
+70,6664169,¼,teaspoon,ground black pepper
+71,6664169,1,pinch,dried marjoram
+72,6664169,3,stalks,"celery, chopped"
+73,6664169,3,,"carrots, chopped"
+74,6664169,1,,"potato, diced"
+75,6664138,2,,"potatoes, peeled"
+76,6664138,2,cups,all-purpose flour
+77,6664138,1,,egg
+78,6650983,14,ounces,broccoli
+79,6650983,1,tablespoon,olive oil
+80,6650983,,,salt and ground black pepper to taste
+81,6648782,1,tablespoon,olive oil
+82,6648782,½,medium,"onion, chopped"
+83,6648782,2,tablespoons,dried oregano
+84,6648782,1,tablespoon,salt
+85,6648782,1,teaspoon,ground cumin
+86,6648782,2,,bay leaves
+87,6648782,2,stalks,"celery, chopped"
+88,6648782,2,,"green bell peppers, chopped"
+89,6648782,2,,"jalapeno peppers, chopped"
+90,6648782,3,cloves,"garlic, chopped"
+91,6648782,2,(4 ounce) cans,"chopped green chile peppers, drained"
+92,6648782,2,(12 ounce) packages,vegetarian burger crumbles
+93,6648782,3,(28 ounce) cans,"whole peeled tomatoes, crushed"
+94,6648782,¼,cup,chili powder
+95,6648782,1,tablespoon,ground black pepper
+96,6648782,1,(15 ounce) can,"kidney beans, drained"
+97,6648782,1,(15 ounce) can,"garbanzo beans, drained"
+98,6648782,1,(15 ounce) can,black beans
+99,6648782,1,(15 ounce) can,whole kernel corn
+100,6650121,¼,cup,maple syrup
+101,6650121,2,tablespoons,soy sauce
+102,6650121,1,clove,"garlic, minced"
+103,6650121,¼,teaspoon,garlic salt
+104,6650121,⅛,teaspoon,ground black pepper
+105,6650121,1,pound,salmon
+106,6664559,3,pounds,"small red new potatoes, halved"
+107,6664559,¼,cup,olive oil
+108,6664559,1,teaspoon,salt and freshly ground black pepper
+109,6663158,1,teaspoon,olive oil
+110,6663158,1,,"onion, chopped"
+111,6663158,2,cloves,"garlic, minced"
+112,6663158,¾,cup,uncooked white rice
+113,6663158,1 ½,cups,"low sodium, low fat vegetable broth"
+114,6663158,3 ½,cups,"canned black beans, drained"
+115,6663158,1,teaspoon,ground cumin
+116,6663158,¼,teaspoon,cayenne pepper
+117,6664277,2,tablespoons,canola oil
+118,6664277,2,,"garlic cloves, peeled"
+119,6664277,2,(15 ounce) cans,pinto beans
+120,6664277,1,teaspoon,cumin
+121,6664277,1,teaspoon,chili powder
+122,6664277,,,salt to taste
+123,6664277,½,,"lime, juiced"
+124,6650419,1 ½,teaspoons,olive oil
+125,6650419,1,pound,ground turkey
+126,6650419,1,,"onion, chopped"
+127,6650419,2,cups,water
+128,6650419,1,(28 ounce) can,canned crushed tomatoes
+129,6650419,1,(16 ounce) can,"canned kidney beans - drained, rinsed, and mashed"
+130,6650419,1,tablespoon,"garlic, minced"
+131,6650419,2,tablespoons,chili powder
+132,6650419,½,teaspoon,paprika
+133,6650419,½,teaspoon,dried oregano
+134,6650419,½,teaspoon,ground cayenne pepper
+135,6650419,½,teaspoon,ground cumin
+136,6650419,½,teaspoon,salt
+137,6650419,½,teaspoon,ground black pepper
+138,6741005,2,gallons,water
+139,6741005,1 ½,cups,canning salt
+140,6741005,⅓,cup,brown sugar
+141,6741005,¼,cup,Worcestershire sauce
+142,6741005,3,tablespoons,minced garlic
+143,6741005,1,tablespoon,ground black pepper
+144,6738865,5,tablespoons,paprika
+145,6738865,3,tablespoons,salt
+146,6738865,2,tablespoons,onion powder
+147,6738865,2,tablespoons,garlic powder
+148,6738865,2,tablespoons,dried oregano
+149,6738865,2,tablespoons,dried basil
+150,6738865,1,tablespoon,dried thyme
+151,6738865,1,tablespoon,black pepper
+152,6738865,1,tablespoon,white pepper
+153,6738865,1,tablespoon,cayenne pepper
+154,6648518,3,cups,warm water (110 degrees F/45 degrees C)
+155,6648518,2,(.25 ounce) packages,active dry yeast
+156,6648518,⅔,cup,"honey, divided"
+157,6648518,5,cups,bread flour
+158,6648518,5,tablespoons,"butter, melted, divided"
+159,6648518,1,tablespoon,salt
+160,6648518,4,cups,"whole wheat flour, or more as needed"
+161,6664086,4,(4 ounce) fillets,tilapia
+162,6664086,2,teaspoons,butter
+163,6664086,½,teaspoon,"garlic salt, or to taste"
+164,6664086,¼,teaspoon,"seafood seasoning (such as Old Bay®), or to taste"
+165,6664086,1,,"lemon, sliced"
+166,6664086,1,(16 ounce) package,frozen cauliflower with broccoli and red pepper
+167,6664086,,,salt and ground black pepper to taste
+168,6650353,⅛,cup,olive oil
+169,6650353,1,tablespoon,minced garlic
+170,6650353,½,teaspoon,dried basil
+171,6650353,½,teaspoon,dried marjoram
+172,6650353,½,teaspoon,dried dill weed
+173,6650353,½,teaspoon,dried thyme
+174,6650353,½,teaspoon,dried oregano
+175,6650353,½,teaspoon,dried parsley
+176,6650353,½,teaspoon,crushed red pepper flakes
+177,6650353,½,teaspoon,salt
+178,6650353,4,large,"potatoes, peeled and cubed"
+179,6651103,1,(16 ounce) package,bow tie pasta
+180,6651103,1,teaspoon,olive oil
+181,6651103,2,cloves,"garlic, minced"
+182,6651103,2,,"skinless, boneless chicken breasts, cut into bite-sized pieces"
+183,6651103,1,pinch,"crushed red pepper flakes, or to taste"
+184,6651103,½,cup,pesto sauce
+185,6651103,⅓,cup,"oil-packed sun-dried tomatoes, drained and cut into strips"
+186,6648334,⅓,cup,water
+187,6648334,¼,cup,lime juice
+188,6648334,2,tablespoons,olive oil
+189,6648334,4,cloves,"garlic, crushed"
+190,6648334,2,teaspoons,soy sauce
+191,6648334,1,teaspoon,salt
+192,6648334,½,teaspoon,liquid smoke flavoring
+193,6648334,½,teaspoon,cayenne pepper
+194,6648334,½,teaspoon,ground black pepper
+195,6736727,1,,"fresh pineapple, cut into chunks"
+196,6736727,2,medium,"zucchinis, cut into 1-inch slices"
+197,6736727,2,medium,"yellow squash, cut into 1-inch slices"
+198,6736727,½,pound,whole fresh mushrooms
+199,6736727,1,medium,"red onion, cut into chunks"
+200,6736727,12,,cherry tomatoes
+201,6736727,1,medium,"red bell pepper, cut into chunks"
+202,6736727,8,,"bamboo skewers, soaked in water for 20 minutes"
+203,6736727,⅓,cup,olive oil
+204,6736727,1 ½,teaspoons,dried basil
+205,6736727,¾,teaspoon,dried oregano
+206,6736727,½,teaspoon,salt
+207,6736727,⅛,teaspoon,ground black pepper
+208,6664424,4,,"baking potatoes, well scrubbed"
+209,6664424,1,tablespoon,extra virgin olive oil
+210,6664424,,,kosher salt to taste
+211,6664424,4,sheets,aluminum foil
+212,6649873,1,bunch,kale
+213,6649873,1,tablespoon,olive oil
+214,6649873,1,teaspoon,minced garlic
+215,6663460,6,large,"sweet potatoes, peeled and cut into chunks"
+216,6663460,1,cup,white sugar
+217,6663460,½,cup,brown sugar
+218,6663460,2,tablespoons,ground cinnamon
+219,6663460,1,tablespoon,"butter, softened"
+220,6663460,1,cup,"miniature marshmallows, or as needed"
+221,6737944,1 ½,pounds,fresh raspberries
+222,6737944,¼,cup,white sugar
+223,6737944,1,tablespoon,"water, or as needed (Optional)"
+224,6737944,2,teaspoons,"lemon juice, or more to taste"
+225,6648532,1,tablespoon,vegetable oil
+226,6648532,1,pound,ground turkey
+227,6648532,,,cooking spray
+228,6648532,2,(10.75 ounce) cans,low sodium tomato soup
+229,6648532,2,(15 ounce) cans,"kidney beans, drained"
+230,6648532,1,(15 ounce) can,"black beans, drained"
+231,6648532,½,medium,"onion, chopped"
+232,6648532,2,tablespoons,chili powder
+233,6648532,½,tablespoon,garlic powder
+234,6648532,½,tablespoon,ground cumin
+235,6648532,1,teaspoon,red pepper flakes
+236,6648532,1,pinch,ground black pepper
+237,6648532,1,pinch,ground allspice
+238,6648532,,,salt to taste
+239,6664101,½,cup,chopped onion
+240,6664101,½,cup,chopped green bell pepper
+241,6664101,2,(10 ounce) packages,mixed salad greens
+242,6664101,4,,"thinly sliced chicken deli meat, chopped"
+243,6664101,1,,"tomato, chopped"
+244,6664101,¼,teaspoon,onion powder
+245,6664101,3,dashes,garlic powder
+246,6664101,2,pinches,salt and ground black pepper to taste
+247,6664101,3,tablespoons,balsamic vinaigrette salad dressing
+248,6651088,2,tablespoons,olive oil
+249,6651088,3,large,sweet potatoes
+250,6651088,2,pinches,dried oregano or to taste
+251,6651088,2,pinches,salt
+252,6651088,2,pinches,ground black pepper
+253,6650991,4,tablespoons,dried basil
+254,6650991,2,tablespoons,dried oregano
+255,6650991,2,tablespoons,dried rosemary
+256,6650991,2,tablespoons,dried marjoram
+257,6650991,2,tablespoons,dried thyme
+258,6650991,2,tablespoons,red pepper flakes
+259,6650922,1,cup,strawberries
+260,6650922,1,,banana
+261,6650922,½,cup,yogurt
+262,6650922,¼,cup,pineapple juice
+263,6650922,1 ½,teaspoons,white sugar
+264,6650922,1,teaspoon,orange juice
+265,6650922,1,teaspoon,milk
+266,6651175,1,cup,soy milk
+267,6651175,½,cup,rolled oats
+268,6651175,14,,frozen strawberries
+269,6651175,1,,"banana, broken into chunks"
+270,6651175,1 ½,teaspoons,white sugar (Optional)
+271,6651175,½,teaspoon,vanilla extract (Optional)
+272,6664127,1,cup,brown sugar
+273,6664127,2,teaspoons,ground cinnamon
+274,6664127,1,,"pineapple - peeled, cored, and cut into 6 wedges"
+275,6738656,2,large,eggs
+276,6738656,2,tablespoons,all-purpose flour
+277,6738656,¼,teaspoon,baking powder
+278,6738656,½,teaspoon,salt
+279,6738656,¼,teaspoon,pepper
+280,6738656,6,medium,"potatoes, peeled and shredded"
+281,6738656,½,cup,finely chopped onion
+282,6738656,¼,cup,vegetable oil
+283,6648403,1,(15 ounce) can,tomato sauce
+284,6648403,1,(6 ounce) can,tomato paste
+285,6648403,1,tablespoon,ground oregano
+286,6648403,1 ½,teaspoons,dried minced garlic
+287,6648403,1,teaspoon,ground paprika
+288,6741703,1,cup,plain soy milk
+289,6741703,¾,cup,packed fresh spinach leaves
+290,6741703,1,large,"banana, sliced"
+291,6665040,1,quart,"strawberries, hulled"
+292,6665040,2,,"fresh peaches - peeled, pitted, and sliced"
+293,6665040,1,,"banana, broken into chunks"
+294,6665040,2,cups,ice
+295,6665040,1,cup,orange-peach-mango juice
+296,6664799,1,teaspoon,olive oil
+297,6664799,1,cup,chopped onion
+298,6664799,4,cloves,"garlic, minced"
+299,6664799,2,(14.5 ounce) cans,peeled and diced tomatoes
+300,6664799,⅜,cup,red wine
+301,6664799,2,tablespoons,tomato paste
+302,6664799,1,tablespoon,white sugar
+303,6664799,1,tablespoon,chopped fresh basil
+304,6664799,1,tablespoon,lemon juice
+305,6664799,1,teaspoon,crushed red pepper flakes
+306,6664799,½,teaspoon,Italian seasoning
+307,6664799,¼,teaspoon,ground black pepper
+308,6664799,2,tablespoons,chopped fresh parsley
+309,6566630,2,tablespoons,olive oil
+310,6566630,3,cloves,"garlic, minced"
+311,6566630,1,(28 ounce) can,crushed tomatoes
+312,6566630,1,teaspoon,dried basil
+313,6566630,,,salt and pepper to taste
+314,6578826,2,tablespoons,vegetable oil
+315,6578826,1,(8 ounce) package,fideo pasta
+316,6578826,1 ½,cups,"water, divided"
+317,6578826,1,(8 ounce) can,"tomato sauce, divided"
+318,6578826,1,tablespoon,chili powder
+319,6578826,½,teaspoon,ground cumin
+320,6578826,½,teaspoon,garlic salt
+321,6650385,,,cooking spray
+322,6650385,6,,"skinless, boneless chicken breast halves"
+323,6650385,,,salt and pepper to taste
+324,6650385,½,cup,honey
+325,6650385,½,cup,prepared mustard
+326,6650385,1,teaspoon,dried basil
+327,6650385,1,teaspoon,paprika
+328,6650385,½,teaspoon,dried parsley
+329,6649234,,,cooking spray
+330,6649234,1,(16 ounce) can,"black beans, drained and rinsed"
+331,6649234,½,,"green bell pepper, cut into 2 inch pieces"
+332,6649234,½,,"onion, cut into wedges"
+333,6649234,3,cloves,"garlic, peeled"
+334,6649234,1,,egg
+335,6649234,1,tablespoon,chili powder
+336,6649234,1,tablespoon,cumin
+337,6649234,1,teaspoon,Thai chili sauce or hot sauce
+338,6649234,½,cup,bread crumbs
+339,6664771,1 ½,pounds,"sweet onions, peeled and cut into wedges"
+340,6664771,1,pound,"tomatoes, cored and quartered"
+341,6664771,1,pound,"carrots, cut into 1-inch pieces"
+342,6664771,1,pound,"green bell pepper, cut into 1-inch pieces"
+343,6664771,½,pound,"turnips, cubed"
+344,6664771,2,tablespoons,olive oil
+345,6664771,1,pound,"celery, cut into 1-inch pieces"
+346,6664771,1,bunch,"fresh parsley, chopped"
+347,6664771,3,cloves,garlic
+348,6664771,6,,whole black peppercorns
+349,6664771,3,,whole cloves
+350,6664771,1,,bay leaf
+351,6664771,1,gallon,water
+352,6648900,3,tablespoons,mayonnaise
+353,6648900,2,cloves,"garlic, crushed"
+354,6648900,1,teaspoon,dried oregano
+355,6648900,,,salt and pepper to taste
+356,6648900,5,,"potatoes, quartered"
+357,6648230,1,cup,water
+358,6648230,3,tablespoons,cornstarch
+359,6648230,2 ½,cups,"frozen strawberries, thawed and cut into bite size pieces"
+360,6648230,¾,cup,white sugar
+361,6663794,2,cups,unbleached bread flour (such as King Arthur®)
+362,6663794,1,cup,dark rye flour
+363,6663794,3,tablespoons,dry potato flakes
+364,6663794,2,tablespoons,caraway seeds
+365,6663794,1 ½,tablespoons,demerara sugar
+366,6663794,2 ½,teaspoons,instant yeast
+367,6663794,1 ½,teaspoons,sea salt
+368,6663794,1,cup,warm water
+369,6663794,¼,cup,canola oil
+370,6663794,¼,cup,sour pickle juice
+371,6601453,1,tablespoon,"oil, peanut or sesame"
+372,6601453,2,cloves,"garlic, thinly sliced"
+373,6601453,1,pound,"fresh green beans, trimmed"
+374,6601453,2,tablespoons,oyster sauce
+375,6601453,1,tablespoon,white sugar
+376,6601453,2,teaspoons,soy sauce
+377,6665001,1,cup,all-purpose flour
+378,6665001,2,tablespoons,cornstarch
+379,6665001,1,teaspoon,baking powder
+380,6665001,½,teaspoon,salt
+381,6665001,1,cup,beer
+382,6665001,1,,egg
+383,6568102,½,cup,milk
+384,6568102,1,,"egg, beaten"
+385,6568102,½,cup,all-purpose flour
+386,6568102,½,cup,cornmeal
+387,6568102,1,pinch,garlic salt
+388,6568102,1,pinch,ground black pepper
+389,6568102,1,pinch,salt
+390,6568102,1,cup,oil for frying
+391,6568102,6,pounds,"butternut squash - peeled, seeded and sliced"
+392,6664200,2,tablespoons,olive oil
+393,6664200,1,,"yellow onion, chopped"
+394,6664200,2,tablespoons,chopped garlic
+395,6664200,1,bunch,"kale, stems removed and leaves chopped"
+396,6664200,8,cups,water
+397,6664200,6,,"white potatoes, peeled and cubed"
+398,6664200,2,(15 ounce) cans,cannellini beans (drained if desired)
+399,6664200,1,(15 ounce) can,diced tomatoes
+400,6664200,6,cubes,vegetable bouillon (such as Knorr)
+401,6664200,2,tablespoons,dried parsley
+402,6664200,1,tablespoon,Italian seasoning
+403,6664200,,,salt and pepper to taste
+404,6664793,1,,green plantain
+405,6664793,5,tablespoons,oil for frying
+406,6664793,3,cups,cold water
+407,6664793,,,salt to taste
+408,6663156,4,,ice cubes
+409,6663156,¼,,"fresh pineapple - peeled, cored and cubed"
+410,6663156,1,large,"banana, cut into chunks"
+411,6663156,1,cup,pineapple or apple juice
+412,6664020,1,tablespoon,olive oil
+413,6664020,2,teaspoons,crushed garlic
+414,6664020,¼,,"white onion, chopped"
+415,6664020,1,pound,trimmed Brussels sprouts
+416,6664020,,,salt and ground black pepper to taste
+417,6664020,1,pinch,"garlic powder, or to taste"
+418,6650807,1,(15.5 ounce) can,"garbanzo beans, drained"
+419,6650807,1,(14.5 ounce) can,"kidney beans, drained"
+420,6650807,1,(14.5 ounce) can,"black beans, drained"
+421,6650807,1,(14.5 ounce) can,"green beans, drained"
+422,6650807,1,(14.5 ounce) can,"wax beans, drained"
+423,6650807,½,cup,chopped green pepper
+424,6650807,½,cup,chopped onion
+425,6650807,½,cup,chopped celery
+426,6650807,¾,cup,white sugar
+427,6650807,½,cup,salad oil
+428,6650807,½,cup,vinegar
+429,6650807,½,teaspoon,salt
+430,6650807,½,teaspoon,ground black pepper

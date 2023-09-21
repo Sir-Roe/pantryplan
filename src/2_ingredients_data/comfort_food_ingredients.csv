@@ -1,0 +1,604 @@
+,id_recipe,Quantity,Unit of Measure,Ingredient
+0,7569687,6,cups,water
+1,7569687,7.25,ounce,macaroni and cheese
+2,7569687,1/4,cup,milk
+3,7569687,1/4,cup,"margarine, cut up"
+4,7569687,1 1/2,cups,sharp Cheddar cheese
+5,7569687,1/3,cup,onion
+6,7569687,1,,"jalapeno, seeded and chopped"
+7,7569687,1,large,"egg, lightly beaten"
+8,7569687,1,teaspoon,garlic powder
+9,7569687,1,teaspoon,onion powder
+10,7569687,1,teaspoon,paprika
+11,7569687,1,pound,"chicken meatballs, thawed"
+12,7569687,1/4,cup,panko bread crumbs
+13,7569687,1/4,cup,"barbeque sauce, or to taste"
+14,6569224,1,pound,fresh lamb kidneys
+15,6569224,2,tablespoons,butter or lard
+16,6569224,2,pounds,"round steak, cubed"
+17,6569224,2,,"onions, chopped"
+18,6569224,2,teaspoons,salt
+19,6569224,2,teaspoons,Worcestershire sauce
+20,6569224,½,teaspoon,dried thyme
+21,6569224,¼,teaspoon,ground black pepper
+22,6569224,1,,bay leaf
+23,6569224,2,cups,"water, divided"
+24,6569224,4,cups,diced potatoes
+25,6569224,6,tablespoons,all-purpose flour
+26,6569224,1,recipe,pastry for a 9 inch single crust pie
+27,7112860,2,tablespoons,"unsalted butter, melted"
+28,7112860,4,cups,shredded rotisserie chicken
+29,7112860,1,(15 ounce) package,frozen mixed vegetables
+30,7112860,1,teaspoon,"chopped fresh thyme, plus more for garnish"
+31,7112860,3/4,teaspoon,freshly ground black pepper
+32,7112860,1/4,teaspoon,"kosher salt, or to taste"
+33,7112860,1,(10.5oz) can condensed,condensed
+34,7112860,1 ½,cups,chicken broth
+35,7112860,½,cup,heavy whipping cream
+36,7112860,1,package,cheddar biscuit mix (such as Red Lobster Cheddar Bay Biscuit Mix)
+37,6825229,1,tablespoon,unsalted butter
+38,6825229,1,small,"onion, chopped"
+39,6825229,4,cups,cubed cooked chicken breast
+40,6825229,1,(15.25 ounce) can,"black beans, rinsed and drained"
+41,6825229,1,(15.2 ounce) can,"corn, drained"
+42,6825229,1,(10.5 ounce) can,condensed cream of chicken soup
+43,6825229,1,(10 ounce) can,"diced tomatoes and green chiles (such as RO*TEL®), undrained"
+44,6825229,1,(4 ounce) can,chopped green chilies
+45,6825229,1,(4 ounce) package,cream cheese
+46,6825229,⅓,cup,chopped fresh cilantro
+47,6825229,2,cups,shredded Cheddar cheese
+48,6825229,1,(10 ounce) bag,chili and cheese flavored corn chips (such as Fritos® Chili Cheese® Corn Chips)
+49,6831322,2,cups,boiling water
+50,6831322,1,cup,raw cashews
+51,6831322,¾,cup,low-sodium chicken broth
+52,6831322,1,tablespoon,fresh lime juice
+53,6831322,1,teaspoon,garlic powder
+54,6831322,½,teaspoon,salt
+55,6831322,1 ½,teaspoons,black pepper
+56,6831322,1,tablespoon,canola oil
+57,6831322,2,teaspoons,chili powder
+58,6831322,1 ½,teaspoons,"cumin seeds, crushed"
+59,6831322,1 ½,teaspoons,"oregano, crushed"
+60,6831322,2,,"onions, chopped"
+61,6831322,2,,"red bell peppers, chopped"
+62,6831322,2,,"green bell peppers, chopped"
+63,6831322,1,,"jalapeño pepper, seeded and minced"
+64,6831322,3,cups,chopped fresh tomatoes
+65,6831322,4 ½,cups,shredded cooked chicken breast
+66,6831322,8,(6 inch),"corn tortillas, cut into quarters"
+67,6831322,8,ounces,shredded Mexican-blend cheese
+68,6831322,¼,cup,sliced green onion
+69,6831322,,,"Lime wedges, for serving"
+70,6828145,6,,"bone-in, skin-on chicken thighs"
+71,6828145,2,teaspoons,"kosher salt, plus more to taste"
+72,6828145,1,tablespoon,vegetable oil
+73,6828145,2,cups,thickly sliced fresh mushrooms
+74,6828145,1,cup,diced yellow onion
+75,6828145,½,cup,sliced shallots (Optional)
+76,6828145,2,cloves,"garlic, minced"
+77,6828145,½,teaspoon,freshly ground black pepper
+78,6828145,1,pinch,cayenne
+79,6828145,2,teaspoons,all-purpose flour
+80,6828145,1 ½,cups,white wine
+81,6828145,6,sprigs,thyme
+82,6828145,1,cup,chicken broth
+83,6828145,½,cup,heavy cream
+84,6649349,1,tablespoon,Goya Extra Virgin Olive Oil
+85,6649349,½,pound,ground beef
+86,6649349,½,medium,"yellow onion, finely chopped"
+87,6649349,¼,cup,Goya Tomato Sauce
+88,6649349,6,,"Goya Spanish Olives Stuffed with Minced Pimientos, thinly sliced"
+89,6649349,2,tablespoons,Goya Sofrito
+90,6649349,1,packet,Sazon Goya with Coriander and Annatto
+91,6649349,1,teaspoon,Goya Minced Garlic
+92,6649349,½,teaspoon,Goya Dried Oregano
+93,6649349,,,"Goya Ground Black Pepper, to taste"
+94,6649349,1,(14 ounce) package,"yellow or white Goya Discos empanada discs, thawed"
+95,6649349,1,quart,"Goya Corn Oil, for frying"
+96,6665030,8,ounces,uncooked elbow macaroni
+97,6665030,¼,cup,salted butter
+98,6665030,3,tablespoons,all-purpose flour
+99,6665030,2 ½,cups,"milk, or more as needed"
+100,6665030,2,cups,shredded sharp Cheddar cheese
+101,6665030,½,cup,finely grated Parmesan cheese
+102,6665030,,,salt and ground black pepper to taste (Optional)
+103,6664922,1,large,russet potato
+104,6664922,,,salt and ground black pepper to taste
+105,6664922,1,tablespoon,butter
+106,6664922,2,tablespoons,shredded Cheddar cheese
+107,6664922,1,tablespoon,sour cream
+108,6664765,2,pounds,"baking potatoes, peeled and quartered"
+109,6664765,3,cloves,"garlic, peeled, or to taste (Optional)"
+110,6664765,1,cup,milk
+111,6664765,2,tablespoons,butter
+112,6664765,,,salt and ground black pepper to taste
+113,6664743,4,medium,"russet potatoes, thinly sliced"
+114,6664743,1,medium,"onion, sliced into rings"
+115,6664743,,,salt and ground black pepper to taste
+116,6664743,3,tablespoons,butter
+117,6664743,3,tablespoons,all-purpose flour
+118,6664743,½,teaspoon,salt
+119,6664743,2,cups,milk
+120,6664743,1 ½,cups,shredded Cheddar cheese
+121,6664604,2,pounds,"beef stew meat, cut into 1-inch pieces"
+122,6664604,¼,cup,all-purpose flour
+123,6664604,½,teaspoon,salt
+124,6664604,½,teaspoon,ground black pepper
+125,6664604,1 ½,cups,beef broth
+126,6664604,4,medium,"carrots, sliced"
+127,6664604,3,medium,"potatoes, diced"
+128,6664604,1,medium,"onion, chopped"
+129,6664604,1,stalk,"celery, chopped"
+130,6664604,1,teaspoon,Worcestershire sauce
+131,6664604,1,teaspoon,ground paprika
+132,6664604,1,clove,"garlic, minced"
+133,6664604,1,large,bay leaf
+134,6664254,1,pound,sweet Italian sausage
+135,6664254,¾,pound,lean ground beef
+136,6664254,½,cup,minced onion
+137,6664254,2,cloves,"garlic, crushed"
+138,6664254,1,(28 ounce) can,crushed tomatoes
+139,6664254,2,(6.5 ounce) cans,canned tomato sauce
+140,6664254,2,(6 ounce) cans,tomato paste
+141,6664254,½,cup,water
+142,6664254,2,tablespoons,white sugar
+143,6664254,4,tablespoons,"chopped fresh parsley, divided"
+144,6664254,1 ½,teaspoons,dried basil leaves
+145,6664254,1 ½,teaspoons,"salt, divided, or to taste"
+146,6664254,1,teaspoon,Italian seasoning
+147,6664254,½,teaspoon,fennel seeds
+148,6664254,¼,teaspoon,ground black pepper
+149,6664254,12,,lasagna noodles
+150,6664254,16,ounces,ricotta cheese
+151,6664254,1,,egg
+152,6664254,¾,pound,"mozzarella cheese, sliced"
+153,6664254,¾,cup,grated Parmesan cheese
+154,6663977,2,(14.5 ounce) cans,"green beans, drained"
+155,6663977,1,(10.5 ounce) can,condensed cream of mushroom soup
+156,6663977,1,cup,"shredded Cheddar cheese, divided"
+157,6663977,1,(6 ounce) can,French-fried onions
+158,6663603,1,pound,"skinless, boneless chicken breast halves - cubed"
+159,6663603,1,cup,sliced carrots
+160,6663603,1,cup,frozen green peas
+161,6663603,½,cup,sliced celery
+162,6663603,⅓,cup,butter
+163,6663603,⅓,cup,chopped onion
+164,6663603,⅓,cup,all-purpose flour
+165,6663603,½,teaspoon,salt
+166,6663603,¼,teaspoon,black pepper
+167,6663603,¼,teaspoon,celery seed
+168,6663603,1 ¾,cups,chicken broth
+169,6663603,⅔,cup,milk
+170,6663603,2,(9 inch),unbaked pie crusts
+171,6663440,1 ½,pounds,ground beef
+172,6663440,1,,egg
+173,6663440,1,,"onion, chopped"
+174,6663440,1,cup,milk
+175,6663440,1,cup,dried bread crumbs
+176,6663440,,,salt and pepper to taste
+177,6663440,⅓,cup,ketchup
+178,6663440,2,tablespoons,brown sugar
+179,6663440,2,tablespoons,prepared mustard
+180,6649813,1,pound,uncooked spaghetti
+181,6649813,½,cup,olive oil
+182,6649813,6,cloves,"garlic, thinly sliced"
+183,6649813,¼,teaspoon,"red pepper flakes, or to taste"
+184,6649813,,,salt and freshly ground black pepper to taste
+185,6649813,¼,cup,chopped fresh Italian parsley
+186,6649813,1,cup,finely grated Parmigiano-Reggiano cheese
+187,6649567,1,pound,lean ground beef
+188,6649567,¼,cup,chopped onion
+189,6649567,¼,cup,chopped green bell pepper
+190,6649567,¾,cup,"ketchup, or to taste"
+191,6649567,1,tablespoon,"brown sugar, or to taste"
+192,6649567,1,teaspoon,"yellow mustard, or to taste"
+193,6649567,½,teaspoon,garlic powder
+194,6649567,,,salt and ground black pepper to taste
+195,6649567,6,,"hamburger buns, split"
+196,6649718,4,large,baking potatoes
+197,6649718,8,slices,bacon
+198,6649718,1,cup,sour cream
+199,6649718,½,cup,milk
+200,6649718,4,tablespoons,butter
+201,6649718,½,teaspoon,salt
+202,6649718,½,teaspoon,pepper
+203,6649718,1,cup,"shredded Cheddar cheese, divided"
+204,6649718,8,,"green onions, sliced, divided"
+205,6650657,24,ounces,dry fettuccine pasta
+206,6650657,1,cup,butter
+207,6650657,¾,pint,heavy cream
+208,6650657,,,salt and pepper to taste
+209,6650657,1,dash,garlic salt
+210,6650657,¾,cup,grated Romano cheese
+211,6650657,½,cup,grated Parmesan cheese
+212,6649117,2,medium,"russet potatoes, shredded"
+213,6649117,½,medium,"onion, finely chopped"
+214,6649117,¼,cup,all-purpose flour
+215,6649117,1,,egg
+216,6649117,1,cup,"oil for frying, or as needed"
+217,6649117,,,salt and pepper to taste
+218,6664414,1,tablespoon,butter
+219,6664414,¼,cup,minced onion
+220,6664414,2,cloves,"garlic, minced"
+221,6664414,1 ½,teaspoons,salt
+222,6664414,1 ½,teaspoons,freshly ground black pepper
+223,6664414,2,pounds,extra-lean ground beef
+224,6664414,3,slices,"bread, toasted and crumbled"
+225,6664414,7,,"buttery round crackers, crushed"
+226,6664414,1,,"egg, lightly beaten"
+227,6664414,3 ½,tablespoons,sour cream
+228,6664414,1 ½,tablespoons,Worcestershire sauce
+229,6664414,1,(15 ounce) can,"tomato sauce, divided"
+230,6664414,¼,cup,"milk, or as needed (Optional)"
+231,6664414,3,tablespoons,ketchup
+232,6664679,1,cup,all-purpose flour
+233,6664679,¾,cup,bacon drippings
+234,6664679,1,cup,coarsely chopped celery
+235,6664679,1,large,"onion, coarsely chopped"
+236,6664679,1,large,"green bell pepper, coarsely chopped"
+237,6664679,2,cloves,"garlic, minced"
+238,6664679,1,pound,"andouille sausage, sliced"
+239,6664679,3,quarts,water
+240,6664679,6,cubes,beef bouillon
+241,6664679,1,tablespoon,white sugar
+242,6664679,,,salt to taste
+243,6664679,2,tablespoons,"hot pepper sauce (such as Tabasco®), or to taste"
+244,6664679,½,teaspoon,"Cajun seasoning blend (such as Tony Chachere's®), or to taste"
+245,6664679,4,,bay leaves
+246,6664679,½,teaspoon,dried thyme leaves
+247,6664679,1,(14.5 ounce) can,stewed tomatoes
+248,6664679,1,(6 ounce) can,tomato sauce
+249,6664679,4,teaspoons,"file powder, divided"
+250,6664679,2,tablespoons,bacon drippings
+251,6664679,2,(10 ounce) packages,"frozen cut okra, thawed"
+252,6664679,2,tablespoons,distilled white vinegar
+253,6664679,1,pound,lump crabmeat
+254,6664679,3,pounds,"uncooked medium shrimp, peeled and deveined"
+255,6664679,2,tablespoons,Worcestershire sauce
+256,6649288,1,tablespoon,butter
+257,6649288,½,cup,chopped onion
+258,6649288,½,cup,chopped celery
+259,6649288,4,(14.5 ounce) cans,chicken broth
+260,6649288,1,(14.5 ounce) can,vegetable broth
+261,6649288,½,pound,chopped cooked chicken breast
+262,6649288,1 ½,cups,egg noodles
+263,6649288,1,cup,sliced carrots
+264,6649288,½,teaspoon,dried basil
+265,6649288,½,teaspoon,dried oregano
+266,6649288,,,salt and ground black pepper to taste
+267,6648983,1,(12 ounce) package,egg noodles
+268,6648983,2,(10.5 ounce) cans,condensed cream of mushroom soup
+269,6648983,2,cups,"shredded Cheddar cheese, divided"
+270,6648983,2,(5 ounce) cans,"tuna, drained"
+271,6648983,1,cup,frozen green peas
+272,6648983,½,(4.5 ounce) can,sliced mushrooms
+273,6648983,¼,cup,chopped onion
+274,6648983,1,cup,crushed potato chips
+275,6664392,2,tablespoons,"peanut oil, divided"
+276,6664392,1,tablespoon,Cajun seasoning
+277,6664392,10,ounces,"andouille sausage, sliced into rounds"
+278,6664392,1,pound,"boneless skinless chicken breasts, cut into 1 inch pieces"
+279,6664392,1,,"onion, diced"
+280,6664392,1,small,"green bell pepper, diced"
+281,6664392,2,stalks,"celery, diced"
+282,6664392,3,cloves,"garlic, minced"
+283,6664392,1,(16 ounce) can,crushed Italian tomatoes
+284,6664392,½,teaspoon,red pepper flakes
+285,6664392,½,teaspoon,ground black pepper
+286,6664392,1,teaspoon,salt
+287,6664392,½,teaspoon,hot pepper sauce
+288,6664392,2,teaspoons,Worcestershire sauce
+289,6664392,1,teaspoon,file powder
+290,6664392,1 ¼,cups,uncooked white rice
+291,6664392,2 ½,cups,chicken broth
+292,6649620,1,pound,dry ziti pasta
+293,6649620,1,,"onion, chopped"
+294,6649620,1,pound,lean ground beef
+295,6649620,2,(26 ounce) jars,spaghetti sauce
+296,6649620,6,ounces,"provolone cheese, sliced"
+297,6649620,1 ½,cups,sour cream
+298,6649620,6,ounces,"mozzarella cheese, shredded"
+299,6649620,2,tablespoons,grated Parmesan cheese
+300,6664138,2,,"potatoes, peeled"
+301,6664138,2,cups,all-purpose flour
+302,6664138,1,,egg
+303,6648930,1,(16 ounce) package,linguine pasta
+304,6648930,2,tablespoons,butter
+305,6648930,2,tablespoons,extra-virgin olive oil
+306,6648930,2,,"shallots, finely diced"
+307,6648930,2,cloves,"garlic, minced"
+308,6648930,1,pinch,red pepper flakes (Optional)
+309,6648930,1,pound,"shrimp, peeled and deveined"
+310,6648930,1,pinch,kosher salt and freshly ground pepper
+311,6648930,½,cup,dry white wine
+312,6648930,1,,"lemon, juiced"
+313,6648930,2,tablespoons,butter
+314,6648930,2,tablespoons,extra-virgin olive oil
+315,6648930,¼,cup,finely chopped fresh parsley leaves
+316,6648930,1,teaspoon,"extra-virgin olive oil, or to taste"
+317,6649916,5,large,eggs
+318,6649916,⅓,cup,"butter, melted and slightly cooled"
+319,6649916,¼,cup,white sugar
+320,6649916,½,cup,milk
+321,6649916,¼,cup,cornstarch
+322,6649916,1,(15.25 ounce) can,"whole kernel corn, drained"
+323,6649916,2,(14.75 ounce) cans,cream-style corn
+324,6650512,5 ½,ounces,manicotti pasta
+325,6650512,1,pint,part-skim ricotta cheese
+326,6650512,8,ounces,shredded mozzarella cheese
+327,6650512,¾,cup,"grated Parmesan cheese, divided"
+328,6650512,2,large,eggs
+329,6650512,1,teaspoon,dried parsley
+330,6650512,,,salt and ground black pepper to taste
+331,6650512,1,(16 ounce) jar,spaghetti sauce
+332,6665025,1,(8 ounce) package,egg noodles
+333,6665025,1,pound,ground beef
+334,6665025,1,(10.5 ounce) can,fat-free condensed cream of mushroom soup
+335,6665025,1,tablespoon,garlic powder
+336,6665025,½,cup,sour cream
+337,6665025,,,salt and ground black pepper to taste
+338,6651067,2,cups,mashed potatoes
+339,6651067,1,cup,all-purpose flour
+340,6651067,1,,"onion, diced"
+341,6651067,1,,egg
+342,6651067,½,teaspoon,ground black pepper
+343,6651067,½,teaspoon,salt
+344,6651067,½,cup,"vegetable oil, or as needed"
+345,6573719,4,cups,hot cooked medium egg noodles
+346,6573719,2,(10.5 ounce) cans,Campbell's® Condensed Cream of Mushroom Soup (regular or 25% Lower Sodium)
+347,6573719,2,(10 ounce) cans,"tuna, drained"
+348,6573719,2,cups,frozen peas
+349,6573719,1,cup,milk
+350,6573719,2,tablespoons,dry bread crumbs
+351,6573719,1,tablespoon,"butter, melted"
+352,6663813,1,medium,baking potato
+353,6663813,1,teaspoon,olive oil
+354,6663813,½,teaspoon,salt
+355,6663813,2,teaspoons,butter
+356,6663813,1,pinch,freshly ground black pepper
+357,6663813,¼,cup,shredded Cheddar cheese
+358,6649259,4,large,potatoes
+359,6649259,1,,yellow onion
+360,6649259,1,,"egg, beaten"
+361,6649259,1,teaspoon,salt
+362,6649259,,,ground black pepper to taste
+363,6649259,2,tablespoons,"all-purpose flour, or more as needed"
+364,6649259,1,cup,"vegetable oil for frying, or as needed"
+365,6592169,3,cups,cooked shredded chicken
+366,6592169,2,cups,cooked chopped broccoli
+367,6592169,2,(10.5 ounce) cans,condensed cream of chicken soup
+368,6592169,1/2,cup,sour cream
+369,6592169,1,pinch,ground black pepper to taste
+370,6592169,2 1/2,cups,shredded Cheddar cheese
+371,6592169,1 1/2,cups,bread crumbs
+372,6592169,1/4,cup,"salted butter, melted"
+373,6663336,2,cups,frozen peas and carrots
+374,6663336,2,cups,frozen green beans
+375,6663336,1,cup,sliced celery
+376,6663336,⅔,cup,butter
+377,6663336,⅔,cup,diced onion
+378,6663336,⅔,cup,all-purpose flour
+379,6663336,1,teaspoon,salt
+380,6663336,1,teaspoon,ground black pepper
+381,6663336,½,teaspoon,celery seed
+382,6663336,½,teaspoon,onion powder
+383,6663336,½,teaspoon,Italian seasoning
+384,6663336,1 ¾,cups,chicken broth
+385,6663336,1 ⅓,cups,milk
+386,6663336,4,cups,cubed leftover cooked turkey
+387,6663336,2,(14.1 ounce) packages,pastry for a 9-inch double-crust pie
+388,6650561,3,medium,"russet potatoes, cubed"
+389,6650561,3,tablespoons,butter or margarine
+390,6650561,,,salt and ground black pepper to taste
+391,6648527,2,cups,water
+392,6648527,2,cups,uncooked instant rice
+393,6648527,2,(10 ounce) cans,"chunk chicken, drained"
+394,6648527,1,(16 ounce) package,frozen chopped broccoli
+395,6648527,1,pound,"processed cheese food, cubed"
+396,6648527,1,(10.75 ounce) can,condensed cream of mushroom soup
+397,6648527,1,(10.75 ounce) can,condensed cream of chicken soup
+398,6648527,1,cup,milk
+399,6648527,¼,cup,"butter, cubed"
+400,6648527,1,small,"white onion, chopped"
+401,6650502,1,(16 ounce) package,spaghetti
+402,6650502,1,pound,ground beef
+403,6650502,1,,"onion, chopped"
+404,6650502,1,(32 ounce) jar,meatless spaghetti sauce
+405,6650502,½,teaspoon,seasoned salt
+406,6650502,2,,eggs
+407,6650502,⅓,cup,grated Parmesan cheese
+408,6650502,5,tablespoons,"butter, melted"
+409,6650502,2,cups,small curd cottage cheese
+410,6650502,5,cups,"shredded mozzarella cheese, divided"
+411,6650844,2,,"russet potatoes, peeled"
+412,6650844,3,tablespoons,clarified butter
+413,6650844,1,pinch,"cayenne pepper, or to taste"
+414,6650844,1,pinch,"paprika, or to taste"
+415,6650844,,,salt and ground black pepper to taste
+416,6650288,1,tablespoon,olive oil
+417,6650288,1,large,"yellow onion, chopped"
+418,6650288,2,pounds,lean ground beef
+419,6650288,3,cloves,"garlic, chopped"
+420,6650288,3,cups,water
+421,6650288,2,(15 ounce) cans,tomato sauce
+422,6650288,2,(14.5 ounce) cans,diced tomatoes
+423,6650288,3,tablespoons,soy sauce
+424,6650288,2,tablespoons,dried Italian herb seasoning
+425,6650288,1,tablespoon,"seasoned salt, or to taste"
+426,6650288,3,,bay leaves
+427,6650288,2,cups,uncooked elbow macaroni
+428,6649926,,,nonstick cooking spray
+429,6649926,1,(10.5 ounce) can,condensed cream of chicken soup
+430,6649926,2,cups,sour cream
+431,6649926,1,teaspoon,salt
+432,6649926,¼,teaspoon,ground black pepper
+433,6649926,2,cups,shredded Cheddar cheese
+434,6649926,⅓,cup,sliced green onions
+435,6649926,1,(30 ounce) package,Ore-Ida® Shredded Hash Brown Potatoes
+436,6649926,2,cups,crushed corn flakes cereal
+437,6649926,¼,cup,"butter, melted"
+438,6663132,1,pound,lean ground beef
+439,6663132,1,(10.5 ounce) can,condensed cream of mushroom soup
+440,6663132,¾,cup,milk
+441,6663132,½,cup,chopped onion
+442,6663132,,,salt and ground black pepper to taste
+443,6663132,3,cups,peeled and thinly sliced potatoes
+444,6663132,1,cup,shredded Cheddar cheese
+445,6664115,¼,cup,butter
+446,6664115,1,small,"onion, chopped"
+447,6664115,3,medium,"celery ribs, chopped"
+448,6664115,3,medium,"carrots, chopped"
+449,6664115,⅔,cup,frozen peas
+450,6664115,3,tablespoons,chopped fresh parsley
+451,6664115,¼,teaspoon,dried thyme
+452,6664115,¼,cup,all-purpose flour
+453,6664115,2,cups,lower-sodium chicken broth
+454,6664115,⅔,cup,half-and-half cream
+455,6664115,,,salt and ground black pepper to taste
+456,6664115,3,cups,"cooked chicken, cut into bite-size pieces"
+457,6664115,1,(16.3 ounce) can,refrigerated flaky-style biscuits (such as Pillsbury Grands®)
+458,6664115,1,large,"egg yolk, beaten"
+459,6664115,1,tablespoon,water
+460,6650706,4,,"skinless, boneless chicken breast halves"
+461,6650706,2,tablespoons,butter
+462,6650706,2,(10.5 ounce) cans,condensed cream of chicken soup
+463,6650706,1,medium,"onion, finely diced"
+464,6650706,1,(10 ounce) package,refrigerated biscuit dough
+465,6650706,2,cups,"water, or as needed to cover"
+466,6737344,1,(2 pound) package,"frozen hash brown potatoes, thawed"
+467,6737344,1,(10.5 ounce) can,condensed cream of chicken soup
+468,6737344,2,cups,shredded Cheddar cheese
+469,6737344,1,(8 ounce) container,sour cream
+470,6737344,1,cup,"butter, melted, divided"
+471,6737344,½,cup,chopped onion
+472,6737344,½,teaspoon,salt
+473,6737344,½,teaspoon,ground black pepper
+474,6737344,1,cup,crushed cornflakes
+475,6649094,6,small,"potatoes, peeled and cut into 1/2-inch cubes"
+476,6649094,7,tablespoons,"butter, divided"
+477,6649094,⅔,pound,"leftover cooked ham, cut into 1/2-inch cubes"
+478,6649094,1,small,"onion, finely chopped"
+479,6649094,3,tablespoons,all-purpose flour
+480,6649094,1 ½,cups,milk
+481,6649094,,,salt and ground black pepper to taste
+482,6649094,1,(8 ounce) package,shredded Cheddar cheese
+483,6649094,¼,cup,bread crumbs
+484,6663597,1,tablespoon,vegetable oil
+485,6663597,1,medium,"white onion, diced"
+486,6663597,1,medium,"red bell pepper, diced"
+487,6663597,1,medium,"green bell pepper, diced"
+488,6663597,1,(10.5 ounce) can,condensed cream of mushroom soup
+489,6663597,1,(10.5 ounce) can,condensed cream of chicken soup
+490,6663597,1,(10 ounce) can,diced tomatoes with green chile peppers (such as RO*TEL®)
+491,6663597,1,cup,chicken broth
+492,6663597,2,tablespoons,sour cream
+493,6663597,2,teaspoons,ground cumin
+494,6663597,1,teaspoon,ancho chile powder
+495,6663597,½,teaspoon,dried oregano
+496,6663597,¼,teaspoon,chipotle chile powder
+497,6663597,1,(3 pound),"cooked chicken, torn into shreds or cut into chunks"
+498,6663597,1,(8 ounce) package,shredded Cheddar cheese
+499,6663597,10,(6 inch),"corn tortillas, cut into quarters"
+500,6664559,3,pounds,"small red new potatoes, halved"
+501,6664559,¼,cup,olive oil
+502,6664559,1,teaspoon,salt and freshly ground black pepper
+503,6663523,1,(3 1/2) pound,"chicken, cut into 8 pieces"
+504,6663523,1,teaspoon,black pepper
+505,6663523,1,teaspoon,salt
+506,6663523,1,teaspoon,paprika
+507,6663523,½,teaspoon,white pepper
+508,6663523,¼,teaspoon,dried rosemary
+509,6663523,¼,teaspoon,ground thyme
+510,6663523,¼,teaspoon,dried oregano
+511,6663523,¼,teaspoon,dried sage
+512,6663523,¼,teaspoon,cayenne pepper
+513,6663523,2,cups,buttermilk
+514,6565970,½,cup,white sugar
+515,6565970,1,teaspoon,ground cinnamon
+516,6565970,1,(12.4 ounce) package,refrigerated cinnamon roll dough with icing
+517,6565970,¼,cup,"unsalted butter, melted"
+518,6664122,1,pound,lean ground beef
+519,6664122,2,cups,salsa
+520,6664122,1,(16 ounce) can,"chili beans, drained"
+521,6664122,3,cups,"tortilla chips, crushed"
+522,6664122,2,cups,sour cream
+523,6664122,1,(2 ounce) can,"sliced black olives, drained"
+524,6664122,½,cup,chopped green onion
+525,6664122,½,cup,chopped fresh tomato
+526,6664122,2,cups,shredded Cheddar cheese
+527,6737172,2,tablespoons,butter
+528,6737172,1,large,"onion, chopped"
+529,6737172,3,cloves,"garlic, crushed"
+530,6737172,1 ½,pounds,lean ground beef
+531,6737172,1,(15 ounce),can crushed tomatoes
+532,6737172,1/2,cup,dry red wine
+533,6737172,1/2,cup,beef broth
+534,6737172,2,tablespoons,tomato paste
+535,6737172,2,tablespoons,chopped fresh parsley
+536,6737172,,,1/2 teaspoon ground cinnamon or 1 cinnamon stick
+537,6737172,1,,whole clove
+538,6737172,,,salt and pepper to taste
+539,6650887,2,cups,all-purpose flour
+540,6650887,1,pinch,salt
+541,6650887,2,,eggs
+542,6650887,1 ½,tablespoons,water
+543,6650887,1,teaspoon,olive oil
+544,6649410,½,cup,butter
+545,6649410,1,small,"onion, chopped"
+546,6649410,3,cloves,"garlic, chopped"
+547,6649410,1,(10 ounce) package,"frozen chopped spinach, thawed and drained"
+548,6649410,1,(4.5 ounce) can,"mushrooms, drained"
+549,6649410,1,(6 ounce) package,"herb and garlic feta, crumbled"
+550,6649410,1,(8 ounce) package,"shredded Cheddar cheese, divided"
+551,6649410,,,salt and pepper to taste
+552,6649410,1,,deep-dish pie shell
+553,6649410,4,,eggs
+554,6649410,1,cup,milk
+555,6648204,1,(12 ounce) package,jumbo pasta shells
+556,6648204,1,(32 ounce) container,ricotta cheese
+557,6648204,1,pound,"shredded mozzarella cheese, divided"
+558,6648204,8,ounces,"grated Parmesan cheese, divided"
+559,6648204,2,large,"eggs, beaten"
+560,6648204,1,tablespoon,dried parsley
+561,6648204,1,teaspoon,"salt, or more to taste"
+562,6648204,1,teaspoon,ground black pepper
+563,6648204,1,(28 ounce) jar,pasta sauce
+564,6648204,8,ounces,sliced fresh mushrooms
+565,6665064,1,quart,vegetable oil for frying
+566,6665064,4 ⅓,cups,"all-purpose flour, divided"
+567,6665064,1 ½,tablespoons,garlic salt
+568,6665064,1,tablespoon,ground black pepper
+569,6665064,1,tablespoon,paprika
+570,6665064,½,teaspoon,poultry seasoning
+571,6665064,1 ½,cups,"beer, or as needed"
+572,6665064,2,,"egg yolks, beaten"
+573,6665064,1,teaspoon,salt
+574,6665064,¼,teaspoon,ground black pepper
+575,6665064,1,(3 pound),"whole chicken, cut into pieces"
+576,6664215,6,medium,potatoes
+577,6664215,1,medium,yellow onion
+578,6664215,2,stalks,celery
+579,6664215,1 ½,cups,baby carrots
+580,6664215,1,(3 pound),beef roast
+581,6664215,3,cubes,beef bouillon
+582,6664215,½,cup,water
+583,6738880,1,pound,lean ground beef
+584,6738880,1,medium,"onion, chopped"
+585,6738880,2,teaspoons,minced garlic
+586,6738880,1,(29 ounce) can,tomato sauce
+587,6738880,1,(6 ounce) can,tomato paste
+588,6738880,1 ½,teaspoons,salt
+589,6738880,1,teaspoon,dried oregano
+590,6738880,16,ounces,shredded mozzarella cheese
+591,6738880,12,ounces,cottage cheese
+592,6738880,½,cup,grated Parmesan cheese
+593,6738880,1,(12 ounce) package,lasagna noodles
+594,6650248,1,(8 ounce) package,egg noodles
+595,6650248,2,tablespoons,butter
+596,6650248,1,(6 ounce) can,sliced mushrooms
+597,6650248,2,cups,chopped cooked turkey
+598,6650248,1,(10.75 ounce) can,condensed cream of celery soup
+599,6650248,1,cup,sour cream
+600,6650248,1,teaspoon,salt
+601,6650248,⅛,teaspoon,pepper
+602,6650248,½,cup,grated Parmesan cheese

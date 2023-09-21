@@ -1,0 +1,687 @@
+,id_recipe,Quantity,Unit of Measure,Ingredient
+0,6649002,1,pound,lean ground beef
+1,6649002,1,,"onion, diced"
+2,6649002,3,,"carrots, diced"
+3,6649002,2,tablespoons,all-purpose flour
+4,6649002,1,tablespoon,Italian seasoning
+5,6649002,½,teaspoon,ground cinnamon
+6,6649002,2,tablespoons,chopped fresh parsley
+7,6649002,1 ½,cups,beef broth
+8,6649002,1,tablespoon,tomato paste
+9,6649002,,,salt and pepper to taste
+10,6649002,4,,"potatoes, peeled and diced"
+11,6649002,1,cup,milk
+12,6649002,¼,cup,"butter, softened"
+13,6649002,¼,pound,shredded Cheddar cheese
+14,6600475,4,large,"baking potatoes, peeled and cubed"
+15,6600475,1,tablespoon,butter
+16,6600475,¼,cup,milk
+17,6600475,2,pounds,ground lamb
+18,6600475,1,tablespoon,Worcestershire sauce
+19,6600475,1,cube,beef bouillon
+20,6600475,12,,"button mushrooms, sliced"
+21,6600475,1,,"onion, finely chopped"
+22,6600475,1,(16 ounce) can,baked beans
+23,6600475,1,(12 ounce) can,canned diced tomatoes
+24,6600475,3,tablespoons,brown gravy mix (Optional)
+25,6600475,1,(15 ounce) can,"carrots, drained (Optional)"
+26,6650125,4,large,"potatoes, peeled and cubed"
+27,6650125,1,tablespoon,butter
+28,6650125,1,tablespoon,finely chopped onion
+29,6650125,¼,cup,shredded Cheddar cheese
+30,6650125,,,salt and pepper to taste
+31,6650125,5,,"carrots, chopped"
+32,6650125,1,tablespoon,vegetable oil
+33,6650125,1,,"onion, chopped"
+34,6650125,1,pound,lean ground beef
+35,6650125,2,tablespoons,all-purpose flour
+36,6650125,1,tablespoon,ketchup
+37,6650125,¾,cup,beef broth
+38,6650125,¼,cup,shredded Cheddar cheese
+39,6598278,3,large,"potatoes, peeled"
+40,6598278,¼,cup,warm milk
+41,6598278,2,tablespoons,"butter, room temperature"
+42,6598278,,,salt and ground black pepper to taste
+43,6595240,1,pound,ground beef
+44,6595240,2,cups,hot mashed potatoes
+45,6595240,4,ounces,"PHILADELPHIA Cream Cheese, cubed"
+46,6595240,1,cup,"KRAFT Shredded Cheddar Cheese, divided"
+47,6595240,2,cloves,"garlic, minced"
+48,6595240,4,cups,"frozen mixed vegetables, thawed"
+49,6595240,1,cup,beef gravy
+50,6590000,3,pounds,Yukon Gold potatoes
+51,6590000,1,tablespoon,kosher salt
+52,6590000,¼,cup,milk
+53,6590000,3,tablespoons,"salted butter, divided"
+54,6590000,1,cup,shredded white Cheddar cheese
+55,6590000,¼,cup,sour cream
+56,6590000,1,large,egg yolk
+57,6590000,2,teaspoons,"kosher salt, divided"
+58,6590000,1,teaspoon,"ground black pepper, divided"
+59,6590000,1,tablespoon,olive oil
+60,6590000,1,cup,diced onion
+61,6590000,1,cup,diced carrot
+62,6590000,1,pound,ground lamb
+63,6590000,1,pound,ground beef sirloin
+64,6590000,3,tablespoons,all-purpose flour
+65,6590000,1,teaspoon,finely chopped fresh rosemary
+66,6590000,1,teaspoon,finely chopped fresh thyme
+67,6590000,1,cup,beef stock
+68,6590000,1,tablespoon,tomato paste
+69,6590000,1,tablespoon,Worcestershire sauce
+70,6590000,1,cup,frozen green peas
+71,6590000,1,tablespoon,"chopped fresh parsley, or to taste"
+72,6737157,,,cooking spray
+73,6737157,1,tablespoon,vegetable oil
+74,6737157,1,,"onion, chopped"
+75,6737157,1,pound,lean ground beef
+76,6737157,1,teaspoon,dried basil
+77,6737157,1,cup,green beans
+78,6737157,1,cup,"tomatoes, diced"
+79,6737157,1,clove,"garlic, minced"
+80,6737157,2,,"potatoes, cooked and mashed"
+81,6737157,½,cup,water
+82,6737157,1,large,"egg, beaten"
+83,6737157,¼,cup,shredded Cheddar cheese (Optional)
+84,6651192,1,tablespoon,vegetable oil
+85,6651192,1,pound,ground beef
+86,6651192,1,cup,"onion, diced"
+87,6651192,3,cloves,"garlic, minced"
+88,6651192,½,teaspoon,salt
+89,6651192,¼,teaspoon,ground black pepper
+90,6651192,1,tablespoon,tomato paste
+91,6651192,1,tablespoon,Worcestershire sauce
+92,6651192,½,teaspoon,thyme
+93,6651192,1,cup,beef broth
+94,6651192,2,cups,frozen peas and carrots
+95,6651192,3,medium,"potatoes, peeled"
+96,6651192,½,cup,half-and-half
+97,6651192,2,tablespoons,butter
+98,6651192,¼,teaspoon,garlic salt
+99,6587345,1,tablespoon,vegetable oil
+100,6587345,1,,"onion, chopped"
+101,6587345,2,cloves,"garlic, minced"
+102,6587345,1,teaspoon,dried thyme
+103,6587345,1,teaspoon,dried rosemary
+104,6587345,1,teaspoon,salt
+105,6587345,1,teaspoon,pepper
+106,6587345,1,pound,lean ground beef
+107,6587345,4,teaspoons,all-purpose flour
+108,6587345,¼,cup,Heinz Tomato Ketchup
+109,6587345,¾,cup,Heinz® Tomato Juice
+110,6587345,2,tablespoons,Heinz Worcestershire Sauce
+111,6587345,2,tablespoons,Dijon mustard
+112,6587345,1,cup,frozen mixed vegetables (such as peas and carrots)
+113,6587345,3,cups,"cooked, warm, mashed potatoes"
+114,6587345,2,tablespoons,butter
+115,6587345,1,clove,"garlic, minced"
+116,6587345,⅔,cup,warm milk
+117,6603326,1,pound,ground beef
+118,6603326,1,medium,"onion, chopped"
+119,6603326,1,(10.75 ounce) can,Campbell's® Condensed Cream of Mushroom Soup (Regular or 98% Fat Free)
+120,6603326,1,tablespoon,ketchup
+121,6603326,⅛,teaspoon,ground black pepper
+122,6603326,1,cup,frozen peas and carrots
+123,6603326,1,cup,milk
+124,6603326,2,tablespoons,butter
+125,6603326,1 ⅓,cups,instant mashed potato flakes or buds
+126,6576269,,,cooking spray
+127,6576269,1,pound,lean ground beef
+128,6576269,½,cup,chopped onion
+129,6576269,½,cup,chopped celery
+130,6576269,1,(10.5 ounce) can,condensed vegetable soup
+131,6576269,½,teaspoon,dried thyme
+132,6576269,3,cups,mashed cooked potatoes
+133,6576269,1,cup,shredded Colby Longhorn cheese
+134,6584478,1 ¼,pounds,"Yukon Gold potatoes, peeled and cubed"
+135,6584478,3,cloves,"garlic, halved"
+136,6584478,1,pound,lean ground beef
+137,6584478,2,tablespoons,flour
+138,6584478,¾,cup,beef broth
+139,6584478,3,tablespoons,ketchup
+140,6584478,4,cups,frozen mixed vegetables
+141,6584478,½,teaspoon,black pepper
+142,6584478,½,cup,"shredded Cheddar cheese, divided"
+143,6584478,¾,cup,light sour cream
+144,6584478,1,teaspoon,salt
+145,6737310,1,pound,ground beef
+146,6737310,1,,"onion, chopped"
+147,6737310,,,salt and pepper to taste
+148,6737310,½,(32 ounce) package,tater tots
+149,6737310,1,(10.75 ounce) can,condensed cream of mushroom soup
+150,6737310,½,cup,milk
+151,6737310,1 ½,cups,shredded Cheddar cheese
+152,6571101,8,,potatoes
+153,6571101,¼,cup,butter
+154,6571101,⅔,cup,milk
+155,6571101,1,medium head,roasted garlic
+156,6571101,1,pound,"cooked, shredded chicken breast meat"
+157,6571101,½,teaspoon,salt
+158,6571101,½,teaspoon,freshly ground black pepper
+159,6571101,1,tablespoon,chopped fresh thyme
+160,6571101,1,tablespoon,chopped fresh rosemary
+161,6571101,½,cup,"red bell pepper, diced"
+162,6571101,1,cup,fresh corn kernels
+163,6571101,1,cup,shredded Cheddar cheese
+164,6663827,5,cups,"mashed, boiled potatoes"
+165,6663827,½,cup,sour cream
+166,6663827,2,ounces,cream cheese
+167,6663827,2,tablespoons,"butter, softened, divided"
+168,6663827,1,,egg yolk
+169,6663827,½,teaspoon,kosher salt
+170,6663827,½,teaspoon,freshly ground black pepper
+171,6663827,1 ½,teaspoons,olive oil
+172,6663827,1,pound,ground lamb
+173,6663827,1,pinch,salt and ground black pepper to taste
+174,6663827,1,(16 ounce) can,"stewed tomatoes with juice, chopped"
+175,6663827,1,small,"onion, chopped"
+176,6663827,1,small,"carrot, peeled and chopped"
+177,6663827,½,cup,peas
+178,6663827,1,cup,Irish stout beer (such as Guinness®)
+179,6663827,1,cube,beef bouillon
+180,6663827,1,tablespoon,all-purpose flour
+181,6663827,1,tablespoon,Worcestershire sauce
+182,6663827,¾,cup,shredded sharp Cheddar cheese
+183,6663827,2,teaspoons,chopped fresh parsley
+184,6663827,2,teaspoons,smoked paprika
+185,6571852,1 ½,pounds,ground beef
+186,6571852,1,,"onion, finely chopped"
+187,6571852,,,garlic powder to taste
+188,6571852,,,salt and pepper to taste
+189,6571852,1,(14.5 ounce) can,diced tomatoes
+190,6571852,1,(1.25 ounce) package,taco seasoning mix
+191,6571852,¾,cup,hot water
+192,6571852,1,(11 ounce) can,"whole kernel corn, drained"
+193,6571852,1,(8.5 ounce) package,corn muffin mix
+194,6571852,1,cup,shredded Cheddar cheese (Optional)
+195,6571852,1,(2.25 ounce) can,sliced black olives (Optional)
+196,6582173,4,large,"Yukon Gold potatoes, quartered"
+197,6582173,6,tablespoons,"butter, divided"
+198,6582173,1,clove,"garlic, minced"
+199,6582173,,,salt and pepper to taste
+200,6582173,1,tablespoon,olive oil
+201,6582173,1,pound,lean ground beef
+202,6582173,1,tablespoon,herbes de Provence
+203,6582173,1,teaspoon,ground nutmeg
+204,6582173,1 ½,cups,frozen peas
+205,6600440,5,,"potatoes, peeled and quartered"
+206,6600440,1,pound,lean ground beef
+207,6600440,1,(4 ounce) can,sliced mushrooms
+208,6600440,1,(15 ounce) can,mixed vegetables
+209,6600440,1,(10.75 ounce) can,condensed cream of mushroom soup
+210,6600440,1,(10.75 ounce) can,condensed cream of celery soup
+211,6600440,,,salt and pepper to taste
+212,6600440,3,tablespoons,butter
+213,6584824,4,large,"potatoes, peeled and cubed"
+214,6584824,,,salt and pepper to taste
+215,6584824,2,tablespoons,butter
+216,6584824,½,cup,half-and-half cream
+217,6584824,½,pound,ground elk meat
+218,6584824,¼,teaspoon,Italian seasoning
+219,6584824,1,small,"onion, chopped"
+220,6584824,1,,"parsnip, peeled and diced"
+221,6584824,2,cups,frozen mixed vegetables
+222,6584824,1,tablespoon,"butter, melted"
+223,6584824,¼,teaspoon,garlic powder
+224,6739094,5,,"russet potatoes, peeled and cut into 1-inch cubes"
+225,6739094,½,cup,vegan mayonnaise
+226,6739094,½,cup,soy milk
+227,6739094,¼,cup,olive oil
+228,6739094,3,tablespoons,vegan cream cheese substitute (such as Tofutti ®)
+229,6739094,2,teaspoons,salt
+230,6598443,3,,"potatoes, peeled and cubed"
+231,6598443,1,pound,lean ground beef
+232,6598443,1,large,"onion, diced"
+233,6598443,1,,"green bell pepper, chopped"
+234,6598443,2,tablespoons,margarine
+235,6598443,¼,cup,milk
+236,6598443,1,(9 inch),unbaked pie shell
+237,6598443,1,(15 ounce) can,cream-style corn
+238,6573921,7,,"potatoes, peeled and cubed"
+239,6573921,1,pound,ground round
+240,6573921,1,cup,water
+241,6573921,2,cubes,beef bouillon
+242,6573921,1,cube,chicken bouillon
+243,6573921,1,teaspoon,dried rosemary
+244,6573921,½,teaspoon,salt
+245,6573921,1,teaspoon,ground black pepper
+246,6573921,1,teaspoon,steak seasoning
+247,6573921,1,tablespoon,dried minced onion flakes
+248,6573921,1 ½,cups,frozen mixed vegetables
+249,6598154,1,pound,"potatoes, peeled and chopped"
+250,6598154,1,tablespoon,canola oil
+251,6598154,1,pound,ground beef
+252,6598154,1,large,"onion, finely chopped"
+253,6598154,1,,"red bell pepper, finely chopped"
+254,6598154,2,cloves,"garlic, finely chopped"
+255,6598154,1,(14 ounce) can,beef broth
+256,6598154,2,tablespoons,ketchup
+257,6598154,1,tablespoon,soy sauce
+258,6598154,1,tablespoon,Worcestershire sauce
+259,6598154,1,teaspoon,mild curry powder
+260,6598154,1,tablespoon,cornstarch
+261,6598154,2,,"tomatoes, coarsely chopped"
+262,6598154,1,(16 ounce) package,frozen mixed peas and carrots
+263,6598154,¼,cup,milk
+264,6598154,1,tablespoon,butter
+265,6598154,1,cup,shredded extra-sharp Cheddar cheese
+266,6598154,,,salt and pepper to taste
+267,6605539,1,pound,"leftover roast beef, cubed"
+268,6605539,2,,"onions, thinly sliced"
+269,6605539,½,cup,homemade beef gravy
+270,6605539,4,cups,mashed cooked potatoes
+271,6570556,1,tablespoon,avocado oil
+272,6570556,5,cups,diced celery
+273,6570556,5,cups,finely chopped mushrooms
+274,6570556,½,medium,"onion, diced"
+275,6570556,3,pounds,lean ground turkey
+276,6570556,1,tablespoon,dried parsley
+277,6570556,1,tablespoon,dried thyme
+278,6570556,2,teaspoons,garlic powder
+279,6570556,1,teaspoon,ground black pepper
+280,6570556,½,teaspoon,"crushed red pepper flakes, or to taste"
+281,6570556,½,teaspoon,sea salt
+282,6570556,¼,cup,almond flour
+283,6570556,1,(8 ounce) can,low-sodium tomato sauce
+284,6570556,2,medium,"zucchini, cut into 1/4-inch slices"
+285,6595662,1 ¼,pounds,"red potatoes, cut into chunks"
+286,6595662,3,large cloves,garlic
+287,6595662,1,pound,extra-lean ground beef
+288,6595662,2,tablespoons,flour
+289,6595662,4,cups,"frozen mixed vegetables (carrots, corn, green beans, peas), thawed"
+290,6595662,¾,cup,fat-free reduced-sodium beef broth
+291,6595662,2,tablespoons,ketchup
+292,6595662,¾,cup,BREAKSTONE'S Reduced Fat or KNUDSEN Light Sour Cream
+293,6595662,½,cup,"KRAFT 2% Milk Shredded Sharp Cheddar Cheese, divided"
+294,6568469,1,pound,ground beef
+295,6568469,,,salt and ground black pepper to taste
+296,6568469,1,pinch,"garlic powder, or to taste"
+297,6568469,1,pinch,"onion powder, or to taste"
+298,6568469,1,(10.75 ounce) can,cream of mushroom soup
+299,6568469,2,(15 ounce) cans,"green beans, drained"
+300,6568469,5,cups,mashed potatoes
+301,6568469,2,cups,shredded Cheddar cheese
+302,6599923,1 ½,pounds,"sweet potatoes, peeled and chopped"
+303,6599923,2,tablespoons,"soft, non-hydrogenated margarine"
+304,6599923,¼,teaspoon,fresh ground pepper
+305,6599923,2,teaspoons,Spectrum® Canola Oil
+306,6599923,1,(340 gram) package,Yves Veggie Cuisine® Original Veggie Ground Round
+307,6599923,1,,"green pepper, chopped"
+308,6599923,2,cloves,"garlic, minced"
+309,6599923,1,tablespoon,all-purpose flour
+310,6599923,1,cup,Imagine® Low Sodium Organic Vegetable Broth
+311,6599923,1,cup,"combined, Yves Veggie Cuisine® sweet peas, Yves Veggie Cuisine® whole kernel Golden Corn and carrots"
+312,6601732,1,pound,ground beef
+313,6601732,1,(14.5 ounce) can,"green beans, drained"
+314,6601732,1,(10.5 ounce) can,cream of mushroom soup
+315,6601732,½,,"onion, diced"
+316,6601732,1,cup,shredded Cheddar cheese
+317,6601732,2,cups,mashed potatoes
+318,6664279,1,(4 pound),corned beef brisket with spice packet
+319,6664279,1,medium,"yellow onion, thickly sliced"
+320,6664279,2,stalks,"celery, cut into 1-inch pieces"
+321,6664279,3,quarts,"cold water, or as needed to cover"
+322,6664279,,,kosher salt to taste
+323,6664279,2,small heads,"Savoy cabbage, cored and cut into 2-inch pieces"
+324,6664279,3,medium,"carrots, thickly sliced"
+325,6664279,5,large,"russet potatoes, quartered"
+326,6664279,½,cup,"unsalted butter, cut into slices"
+327,6664279,,,freshly ground black pepper to taste
+328,6664279,1,pinch,"cayenne pepper, or to taste"
+329,6664279,1,cup,milk
+330,6664279,¾,cup,"grated Irish Cheddar cheese, plus more to taste"
+331,6664279,1,tablespoon,"chopped scallions, or to taste"
+332,6598353,9,,potatoes - peeled and cubed
+333,6598353,1 ½,pounds,ground beef
+334,6598353,1,(6 ounce) can,tomato sauce
+335,6598353,2,tablespoons,chopped fresh parsley
+336,6598353,1,dash,Worcestershire sauce
+337,6598353,½,teaspoon,salt
+338,6598353,½,teaspoon,ground black pepper
+339,6598353,2,(15 ounce) cans,"green beans, drained"
+340,6598353,3,tablespoons,water
+341,6598353,2,tablespoons,all-purpose flour
+342,6598353,2,tablespoons,milk
+343,6595398,1,,pastry for a single pie crust
+344,6595398,4,cups,cubed cooked turkey
+345,6595398,1,(10.75 ounce) can,condensed cream of chicken soup
+346,6595398,2,cups,"water, divided"
+347,6595398,2,(1.2 ounce) packages,turkey gravy mix
+348,6595398,1,(16 ounce) package,frozen mixed vegetables
+349,6595398,4,cups,mashed potatoes
+350,6602793,½,cup,uncooked brown rice
+351,6602793,1 ⅜,cups,water
+352,6602793,1,pound,ground beef
+353,6602793,1,(10.75 ounce) can,condensed cream of mushroom soup
+354,6602793,½,cup,chopped green onion
+355,6602793,1,tablespoon,Worcestershire sauce
+356,6602793,1,teaspoon,soy sauce
+357,6602793,¼,teaspoon,ground black pepper
+358,6581120,1,large,sweet potato
+359,6581120,2,tablespoons,"unsalted butter, softened"
+360,6581120,2,tablespoons,"milk, or more as needed"
+361,6581120,½,teaspoon,"salt, or to taste"
+362,6581120,¼,teaspoon,"ground black pepper, or to taste"
+363,6581120,¼,teaspoon,dried sage
+364,6581120,1,pinch,freshly ground nutmeg
+365,6581120,½,cup,shredded sharp Cheddar cheese
+366,6571273,1 ½,pounds,lean ground beef
+367,6571273,1,cup,chopped onion
+368,6571273,2,cups,"frozen green beans, thawed"
+369,6571273,1,cup,"frozen corn niblets, thawed"
+370,6571273,1,(14.5 ounce) can,"diced tomatoes, drained"
+371,6571273,1,(12 ounce) jar,beef gravy
+372,6571273,1,teaspoon,dried thyme leaves
+373,6571273,½,teaspoon,salt
+374,6571273,1,(24 ounce) package,Simply Potatoes® Mashed Potatoes
+375,6649596,1,pound,ground beef
+376,6649596,1,,"onion, chopped"
+377,6649596,1,(10.75 ounce) can,condensed cream of mushroom soup
+378,6649596,1,cup,frozen corn
+379,6649596,1,tablespoon,ketchup
+380,6649596,¼,teaspoon,black pepper
+381,6649596,2,cups,prepared instant mashed potatoes
+382,6649596,¾,cup,shredded Cheddar cheese (Optional)
+383,6583379,4,large,"potatoes, peeled and cubed"
+384,6583379,2,tablespoons,"butter, divided"
+385,6583379,,,salt and ground black pepper to taste
+386,6583379,1,pound,ground beef
+387,6583379,1,packet,dry French onion soup mix
+388,6583379,1,cube,chicken bouillon
+389,6583379,1,cube,beef bouillon
+390,6583379,2,tablespoons,water (Optional)
+391,6583379,1,(11 ounce) can,"whole kernel corn, drained"
+392,6583379,1,(10 ounce) can,"diced carrots, drained"
+393,6583379,1,(10 ounce) can,"peas, drained"
+394,6583379,2,tablespoons,paprika
+395,6583379,1,cup,shredded Cheddar cheese
+396,6572838,1,pound,ground beef
+397,6572838,½,cup,chopped onion
+398,6572838,1,teaspoon,dried rosemary
+399,6572838,1,teaspoon,dried basil
+400,6572838,1,(8 ounce) can,tomato sauce
+401,6572838,1,(14.5 ounce) can,"diced tomatoes, drained"
+402,6572838,2,(15 ounce) cans,"mixed vegetables, drained"
+403,6572838,2,pounds,red potatoes
+404,6572838,½,cup,butter
+405,6572838,½,cup,grated Romano cheese
+406,6572838,2,tablespoons,minced garlic
+407,6572838,1,teaspoon,salt
+408,6572838,1,teaspoon,dried oregano
+409,6572838,⅓,cup,milk
+410,6594411,5,medium,"potatoes, peeled and chopped"
+411,6594411,1,pound,ground beef
+412,6594411,6,slices,American cheese
+413,6594411,1,(10.5 ounce) can,condensed golden mushroom soup
+414,6594411,3,teaspoons,butter (Optional)
+415,6650876,4,tablespoons,"salted butter, divided"
+416,6650876,1,(12 ounce) package,Impossible Burger
+417,6650876,2,medium,"shallots, chopped"
+418,6650876,2,cloves,"garlic, chopped"
+419,6650876,1,cup,"frozen peas and carrots, thawed"
+420,6650876,8,ounces,brown gravy
+421,6650876,1,tablespoon,Worcestershire sauce
+422,6650876,,,salt and ground black pepper to taste
+423,6650876,2,cups,mashed potatoes
+424,6650876,1,cup,shredded sharp Cheddar cheese
+425,6650876,1,tablespoon,chopped fresh parsley
+426,6570703,1,,"onion, cut into chunks"
+427,6570703,1,,"green bell pepper, cut into chunks"
+428,6570703,1,bunch,fresh parsley
+429,6570703,1,bunch,fresh cilantro
+430,6570703,1,bunch,culantro
+431,6570703,3,cloves,garlic
+432,6570703,1,tablespoon,"water, or as needed"
+433,6570703,1,pound,ground beef
+434,6570703,1,(1.41 ounce) package,sazon seasoning
+435,6570703,,,ground black pepper to taste
+436,6570703,1,pinch,"adobo seasoning, or to taste"
+437,6570703,,,olive oil
+438,6570703,8,,"ripe plantains, peeled and cut on the bias"
+439,6570703,4,,"eggs, beaten"
+440,6570703,2,(15 ounce) cans,"green beans, drained"
+441,6570703,4,,"eggs, beaten"
+442,6569073,8,large,"potatoes, peeled and quartered"
+443,6569073,2,,"carrots, sliced"
+444,6569073,1,(16 ounce) package,"frozen mixed vegetables, thawed"
+445,6569073,3,tablespoons,butter
+446,6569073,½,teaspoon,garlic powder
+447,6569073,½,teaspoon,dried basil
+448,6569073,½,teaspoon,dried parsley
+449,6569073,¼,teaspoon,salt
+450,6569073,¼,teaspoon,ground black pepper
+451,6569073,6,tablespoons,"milk, or more as needed"
+452,6569073,1,teaspoon,vegetable oil
+453,6569073,1,,"onion, chopped"
+454,6569073,1,(19 ounce) can,"kidney beans, drained"
+455,6569073,1,(14.5 ounce) can,"diced tomatoes, drained"
+456,6569073,1,(8 ounce) can,tomato sauce
+457,6569073,1,teaspoon,soy sauce
+458,6569073,½,teaspoon,white sugar
+459,6569073,1,cup,shredded Cheddar cheese
+460,6569073,½,teaspoon,paprika
+461,6591288,,,cooking spray
+462,6591288,1 ½,pounds,"russet potatoes, peeled and cut into 1 1/2-inch thick slices"
+463,6591288,6,tablespoons,"butter, cut into pieces"
+464,6591288,1,cup,milk
+465,6591288,,,"salt and pepper, to taste"
+466,6591288,1,tablespoon,vegetable oil
+467,6591288,1,pound,ground turkey
+468,6591288,1,medium,"onion, chopped"
+469,6591288,2,(1 ounce) packages,instant chicken gravy mix
+470,6591288,1,cup,water
+471,6591288,1,(16 ounce) package,"frozen peas and carrots, thawed"
+472,6591288,2,cups,shredded cheese of choice
+473,6589545,5,medium,"potatoes, peeled and cubed"
+474,6589545,1,cup,"shredded Cheddar cheese, divided"
+475,6589545,⅛,cup,milk
+476,6589545,1,,"green onion, chopped"
+477,6589545,1,tablespoon,salted butter
+478,6589545,1,pound,ground beef
+479,6589545,2,tablespoons,all-purpose flour
+480,6589545,¼,teaspoon,"ground black pepper, or more to taste"
+481,6589545,1,(10.5 ounce) can,condensed French onion soup
+482,6589545,¼,cup,water
+483,6589545,1,cup,frozen peas
+484,6576527,5,,"potatoes, peeled and quartered"
+485,6576527,2,tablespoons,butter
+486,6576527,¼,cup,milk
+487,6576527,½,teaspoon,garlic powder
+488,6576527,½,teaspoon,salt
+489,6576527,1,tablespoon,olive oil
+490,6576527,2,small,"onions, chopped"
+491,6576527,1,pound,ground beef
+492,6576527,3,cloves,"garlic, minced"
+493,6576527,1,teaspoon,spicy seasoned salt
+494,6576527,1,tablespoon,taco seasoning
+495,6576527,1,(10 ounce) package,frozen peas
+496,6576527,1,(10 ounce) package,frozen corn
+497,6580389,2,tablespoons,"extra virgin olive oil, divided"
+498,6580389,1,large,"yellow onion, roughly chopped"
+499,6580389,4,cloves,"garlic, crushed"
+500,6580389,2,tablespoons,curry powder
+501,6580389,2,teaspoons,ground cumin
+502,6580389,2,small,"red or green bell peppers, chopped"
+503,6580389,3,cups,"cubed eggplant, with peel"
+504,6580389,1,(15 ounce) can,diced tomatoes
+505,6580389,½,cup,water
+506,6580389,1 ¼,pounds,"small red potatoes, halved"
+507,6580389,½,cup,fat-free half and half (or milk)
+508,6580389,1,cup,frozen or fresh peas
+509,6580389,½,cup,grated Parmesan cheese
+510,6580389,1,pinch,Salt and freshly ground black pepper to taste
+511,6648714,1,tablespoon,olive oil
+512,6648714,⅔,cup,diced onion
+513,6648714,1,clove,"garlic, minced"
+514,6648714,1,pound,"cooked, shredded chicken"
+515,6648714,1,(6 ounce) can,chopped green chilies
+516,6648714,1 ½,teaspoons,chopped rosemary leaves
+517,6648714,½,teaspoon,ground thyme
+518,6648714,1,(10.75 ounce) can,condensed cream of chicken soup
+519,6648714,¾,cup,evaporated milk
+520,6648714,2,cups,canned green beans
+521,6648714,4,cups,mashed potatoes
+522,6648714,¼,cup,grated Parmesan cheese
+523,6648714,1,teaspoon,dried basil
+524,6596578,2,cups,"vegetable broth, divided"
+525,6596578,1,teaspoon,"yeast extract spread, e.g. Marmite/Vegemite"
+526,6596578,½,cup,dry lentils
+527,6596578,¼,cup,pearl barley
+528,6596578,1,large,"carrot, diced"
+529,6596578,½,,"onion, finely chopped"
+530,6596578,½,cup,"walnuts, coarsely chopped"
+531,6596578,3,,"potatoes, chopped"
+532,6596578,1,teaspoon,all-purpose flour
+533,6596578,½,teaspoon,water
+534,6596578,,,salt and pepper to taste
+535,6571402,1,pound,"sweet potatoes, peeled and chopped"
+536,6571402,½,pound,"cauliflower florets, chopped"
+537,6571402,¼,cup,chicken broth
+538,6571402,3,tablespoons,butter
+539,6571402,1,teaspoon,salt
+540,6571402,½,teaspoon,ground black pepper
+541,6595681,1,tablespoon,vegetable oil
+542,6595681,1,large,"onion, diced"
+543,6595681,1,large,"garlic clove, minced"
+544,6595681,1,pound,ground beef
+545,6595681,1,tablespoon,all-purpose flour
+546,6595681,1,(14.5 ounce) can,stewed tomatoes
+547,6595681,½,teaspoon,dried thyme
+548,6595681,1,(15 ounce) can,"peas and carrots, drained"
+549,6595681,1,(15 ounce) can,"sliced white potatoes, drained"
+550,6595681,1,tablespoon,"butter, melted"
+551,6574948,1,pound,ground beef
+552,6574948,1,(16 ounce) can,cream-style corn
+553,6574948,1,(10 ounce) package,frozen corn niblets
+554,6574948,16,slices,American cheese
+555,6574948,1 ½,pounds,mashed potatoes
+556,6600677,4,tablespoons,"olive oil, divided"
+557,6600677,2,medium,"onions, cut into medium dice"
+558,6600677,3,large cloves,"garlic, minced"
+559,6600677,1,teaspoon,ground cinnamon
+560,6600677,½,teaspoon,ground cloves
+561,6600677,2,pounds,lean ground beef or turkey
+562,6600677,2,cups,canned crushed tomatoes
+563,6600677,⅓,cup,dark or golden raisins
+564,6600677,1,pound,"eggplant, cut into 1/4-inch thick slices"
+565,6600677,,,Salt and pepper
+566,6600677,1,(24 ounce) package,"refrigerated mashed potatoes, warmed in the microwave according to instructions"
+567,6600677,1,,"large egg, beaten"
+568,6648187,1,tablespoon,olive oil
+569,6648187,2,pounds,ground turkey
+570,6648187,1,cup,chopped onion
+571,6648187,1,cup,chopped green bell pepper
+572,6648187,4,cloves,"garlic, minced"
+573,6648187,1,teaspoon,salt
+574,6648187,1,teaspoon,ground black pepper
+575,6648187,1,teaspoon,dried oregano
+576,6648187,1,teaspoon,cumin
+577,6648187,1,teaspoon,ground ancho chile powder
+578,6648187,½,teaspoon,ground cinnamon
+579,6648187,1,(15 ounce) can,diced tomatoes
+580,6648187,1,cup,canned pumpkin
+581,6648187,4,cups,"mashed, seasoned sweet potatoes"
+582,6648187,1,teaspoon,smoked paprika
+583,6574909,1,pound,lean ground beef
+584,6574909,1,,"onion, chopped"
+585,6574909,1,(28 ounce) can,peeled and crushed tomatoes
+586,6574909,2,tablespoons,vegetable oil
+587,6574909,,,salt to taste
+588,6574909,2,cups,instant mashed potato flakes
+589,6574909,1,cup,shredded Cheddar cheese
+590,6603047,1,,"butternut squash, halved lengthwise"
+591,6603047,1,tablespoon,"extra-virgin olive oil, divided"
+592,6603047,,,salt and ground black pepper to taste
+593,6603047,1,,"sweet potatoes, diced"
+594,6603047,1,medium,onion
+595,6603047,1,clove,"garlic, chopped"
+596,6603047,1,pound,"ground turkey, or more to taste"
+597,6603047,½,cup,turkey gravy
+598,6603047,1,teaspoon,Worcestershire sauce
+599,6603047,¼,teaspoon,"dried thyme, or to taste (Optional)"
+600,6603047,¼,teaspoon,"dried oregano, or to taste (Optional)"
+601,6603047,1,tablespoon,butter
+602,6603047,2,teaspoons,"milk, or to taste"
+603,6603047,½,cup,frozen corn
+604,6603047,½,cup,frozen peas
+605,6603047,¼,teaspoon,"chili powder, or to taste"
+606,6601359,6,,"potatoes, peeled and cubed"
+607,6601359,4,,"carrots, peeled and sliced"
+608,6601359,¼,cup,milk
+609,6601359,6,tablespoons,"butter, divided"
+610,6601359,,,Salt and pepper to taste
+611,6601359,1,,"onion, finely chopped"
+612,6601359,1 ½,pounds,ground beef
+613,6601359,1,(15 ounce) jar,Classico® Tomato and Basil Sauce
+614,6580243,2,large,"sweet potatoes, peeled and cubed"
+615,6580243,1,large,"russet potato, peeled and cubed"
+616,6580243,2,large,"carrots, peeled and diced"
+617,6580243,¼,cup,egg substitute
+618,6580243,⅓,cup,light sour cream
+619,6580243,,,salt and ground black pepper to taste
+620,6580243,1,tablespoon,olive oil
+621,6580243,1,pound,ground turkey
+622,6580243,½,cup,chopped onion
+623,6580243,1,stalk,"celery, chopped"
+624,6580243,1,clove,"garlic, minced"
+625,6580243,1,teaspoon,crumbled dried thyme
+626,6580243,¾,teaspoon,poultry seasoning
+627,6580243,½,cup,chicken stock
+628,6580243,½,cup,hot milk
+629,6580243,1,tablespoon,all-purpose flour
+630,6580243,1,dash,Worcestershire sauce
+631,6580243,1,dash,browning sauce
+632,6580243,1 ⅓,cups,herb-seasoned stuffing mix
+633,6580243,1,cup,peas
+634,6580243,¾,cup,corn
+635,6580243,½,teaspoon,crumbled dried thyme
+636,6580243,,,salt and ground black pepper to taste
+637,6580243,1,teaspoon,ground nutmeg
+638,6582548,2,tablespoons,olive oil
+639,6582548,2,heads,"cauliflower, stemmed and chopped"
+640,6582548,¼,cup,Greek yogurt
+641,6582548,1,(14.5 ounce) can,"chicken broth, or as needed"
+642,6582548,,,salt and ground black pepper to taste
+643,6582548,2,pounds,ground turkey
+644,6582548,2,cloves,"garlic, chopped"
+645,6582548,2,(1.25 ounce) packages,beefy onion soup mix
+646,6582548,2,tablespoons,all-purpose flour
+647,6582548,¼,cup,"water, or as needed"
+648,6582548,2,(8 ounce) bags,frozen corn
+649,6582548,1,cup,shredded fat-free Cheddar cheese
+650,6582548,¼,cup,"french-fried onions, or to taste"
+651,6741708,1,tablespoon,coconut oil
+652,6741708,1,,"red onion, chopped"
+653,6741708,1,,"white onion, chopped"
+654,6741708,1,tablespoon,ground cinnamon
+655,6741708,1,tablespoon,grated fresh ginger root
+656,6741708,2,cloves,"garlic, chopped"
+657,6741708,2,teaspoons,"cumin, divided"
+658,6741708,3,cups,cooked lentils
+659,6741708,1,(14 ounce) can,chopped tomatoes
+660,6741708,1 ½,cups,vegetable stock
+661,6741708,1,tablespoon,maple syrup
+662,6741708,2 ½,,"sweet potatoes, peeled and chopped, or to taste"
+663,6741708,⅓,cup,coconut milk
+664,6741708,1,tablespoon,"nutritional yeast, or to taste (Optional)"
+665,6578259,1,head,"cauliflower, cut into bite-sized pieces"
+666,6578259,,,cooking spray
+667,6578259,1 ½,pounds,cooked pulled pork
+668,6578259,1,(15 ounce) can,"peas, drained"
+669,6578259,½,(15 ounce) can,"sliced carrots, drained"
+670,6578259,1,(10.75 ounce) can,condensed cream of mushroom soup
+671,6578259,¼,cup,milk
+672,6578259,,,salt and ground black pepper to taste
+673,6578259,¾,cup,shredded Cheddar cheese
+674,6591355,1,tablespoon,olive oil
+675,6591355,1,pound,bulk Italian sausage
+676,6591355,2,tablespoons,sausage drippings
+677,6591355,2,tablespoons,margarine
+678,6591355,2,,"apples, cored and sliced"
+679,6591355,1,large,"onion, sliced"
+680,6591355,,,salt and ground black pepper to taste
+681,6591355,1,teaspoon,dried oregano
+682,6591355,1,tablespoon,all-purpose flour
+683,6591355,1,cup,water
+684,6591355,3,cups,prepared mashed potatoes
+685,6591355,1,tablespoon,melted margarine
