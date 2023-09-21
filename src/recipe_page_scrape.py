@@ -33,43 +33,45 @@ def scrape_recipe(soup,rkey):
     #--------------------------------------------
     #--------grab nutritional data---------------
     #--------------------------------------------
+    try:    
+        # Find the <th> element with the specified class
+        th_element = soup.find('thead', class_='mntl-nutrition-facts-label__table-head')
+        soup_head = th_element
+        # Check if the <th> element was found
 
-    # Find the <th> element with the specified class
-    th_element = soup.find('thead', class_='mntl-nutrition-facts-label__table-head')
-    soup_head = th_element
-    # Check if the <th> element was found
+        # Find the <th> element with the specified class
+        th_element = soup.find('thead', class_='mntl-nutrition-facts-label__table-head')
+        soup_head = th_element
+        # Check if the <th> element was found
+        # Find the <span> element within the <th> element
+        span_element = soup_head.find_all('span')
+        # Check if the <span> element was found
 
-    # Find the <th> element with the specified class
-    th_element = soup.find('thead', class_='mntl-nutrition-facts-label__table-head')
-    soup_head = th_element
-    # Check if the <th> element was found
-    # Find the <span> element within the <th> element
-    span_element = soup_head.find_all('span')
-    # Check if the <span> element was found
+        #2nd and 4th element are the data values
+        try:
+            recipe[span_element[0].text.strip()]=span_element[1].text.strip()
+            recipe[span_element[2].text.strip()]=span_element[3].text.strip()
+        except:
+            pass
 
-    #2nd and 4th element are the data values
-    try:
-        recipe[span_element[0].text.strip()]=span_element[1].text.strip()
-        recipe[span_element[2].text.strip()]=span_element[3].text.strip()
+        td_element = soup.find('tbody', class_="mntl-nutrition-facts-label__table-body type--cat")
+        soup_body = td_element
+
+        #------------grab the nutrition table data------------------
+
+        # Find the <td> element
+        element = soup_body.find_all('tr')
+
+        for el in element:
+            nlabel= el.find('span')
+            if nlabel:
+                nvalue=el.find_next('td')
+                nvalue=nvalue.text.strip().splitlines()
+                recipe[nvalue[0]]=nvalue[1]
+
+        soup.find('span', class_="mntl-nutrition-facts-label__table-body type--cat")
     except:
-        pass
-
-    td_element = soup.find('tbody', class_="mntl-nutrition-facts-label__table-body type--cat")
-    soup_body = td_element
-
-    #------------grab the nutrition table data------------------
-
-    # Find the <td> element
-    element = soup_body.find_all('tr')
-
-    for el in element:
-        nlabel= el.find('span')
-        if nlabel:
-            nvalue=el.find_next('td')
-            nvalue=nvalue.text.strip().splitlines()
-            recipe[nvalue[0]]=nvalue[1]
-
-    soup.find('span', class_="mntl-nutrition-facts-label__table-body type--cat")
+        print("no nutritional data found")
     #--------------------------------------------
     #-------------grab review data---------------
     #--------------------------------------------
@@ -215,4 +217,5 @@ def main():
     e_df= pd.DataFrame({'error_files':error_paths})
     e_df.to_csv(f'{errors}\error_files.csv')
 
-main()
+#main()
+scraper_engine(r"C:\Users\lmpro\Documents\GitHub\pantryplan\src\recipe_scraper_tables\zucchini_breads_urls.csv")

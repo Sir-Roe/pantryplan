@@ -1,0 +1,790 @@
+,id_recipe,Quantity,Unit of Measure,Ingredient
+0,6663152,3,cups,all-purpose flour
+1,6663152,1,teaspoon,salt
+2,6663152,1,teaspoon,baking powder
+3,6663152,1,teaspoon,baking soda
+4,6663152,1,tablespoon,ground cinnamon
+5,6663152,3,large,eggs
+6,6663152,1,cup,vegetable oil
+7,6663152,2 ¼,cups,white sugar
+8,6663152,3,teaspoons,vanilla extract
+9,6663152,2,cups,grated zucchini
+10,6663152,1,cup,chopped walnuts
+11,6648155,3,,eggs
+12,6648155,2,cups,white sugar
+13,6648155,1,cup,vegetable oil
+14,6648155,⅓,cup,unsweetened cocoa powder
+15,6648155,1 ½,teaspoons,vanilla extract
+16,6648155,2,cups,grated zucchini
+17,6648155,3,cups,all-purpose flour
+18,6648155,1,teaspoon,baking soda
+19,6648155,1,teaspoon,salt
+20,6648155,½,teaspoon,baking powder
+21,6648155,¼,teaspoon,ground cinnamon
+22,6648155,¼,teaspoon,ground nutmeg
+23,6648155,¼,teaspoon,ground cloves
+24,6648155,¼,teaspoon,ground cardamom
+25,6738205,2 ¼,cups,white sugar
+26,6738205,1,cup,vegetable oil
+27,6738205,3,large,"eggs, lightly beaten"
+28,6738205,3,teaspoons,vanilla extract
+29,6738205,2,cups,shredded zucchini
+30,6738205,3,cups,all-purpose flour
+31,6738205,1,tablespoon,ground cinnamon
+32,6738205,1,teaspoon,salt
+33,6738205,1,teaspoon,baking powder
+34,6738205,¼,teaspoon,baking soda
+35,6738205,1,pint,fresh blueberries
+36,6650021,2,,"carrots, shredded"
+37,6650021,2,,"bananas, mashed"
+38,6650021,1,,"zucchini, shredded"
+39,6650021,¼,cup,vegetable oil
+40,6650021,¼,cup,yogurt
+41,6650021,2,,eggs
+42,6650021,1,cup,whole wheat flour
+43,6650021,1 ½,teaspoons,baking soda
+44,6650021,½,cup,packed brown sugar
+45,6650021,½,cup,rolled oats
+46,6650021,½,cup,shredded coconut
+47,6650021,½,cup,chopped pecans
+48,6650021,½,cup,dried cherries
+49,6650021,1,teaspoon,ground cinnamon
+50,6650021,1,teaspoon,salt
+51,6650021,½,teaspoon,ground ginger
+52,6739003,2,(1 ounce) squares,unsweetened chocolate
+53,6739003,2,cups,white sugar
+54,6739003,2,cups,"grated, drained zucchini"
+55,6739003,1,cup,vegetable oil
+56,6739003,3,large,eggs
+57,6739003,1,teaspoon,vanilla extract
+58,6739003,2,cups,all-purpose flour
+59,6739003,1,teaspoon,baking soda
+60,6739003,1,teaspoon,salt
+61,6739003,1,teaspoon,ground cinnamon
+62,6739003,¾,cup,semisweet chocolate chips
+63,6578808,3,large,eggs
+64,6578808,1,cup,white sugar
+65,6578808,1,cup,grated zucchini
+66,6578808,¾,cup,vegetable oil
+67,6578808,2,,"bananas, mashed"
+68,6578808,⅔,cup,packed brown sugar
+69,6578808,2,teaspoons,vanilla extract
+70,6578808,3 ½,cups,all-purpose flour
+71,6578808,1,tablespoon,ground cinnamon
+72,6578808,1 ½,teaspoons,baking powder
+73,6578808,1,teaspoon,baking soda
+74,6578808,1,teaspoon,salt
+75,6578808,½,cup,dried cranberries
+76,6578808,½,cup,chopped walnuts
+77,6663858,1 ½,cups,shredded zucchini
+78,6663858,¾,cup,white sugar
+79,6663858,½,cup,vegetable oil
+80,6663858,1,,egg
+81,6663858,1 ½,cups,all-purpose flour
+82,6663858,½,teaspoon,salt
+83,6663858,½,teaspoon,baking soda
+84,6663858,¼,teaspoon,baking powder
+85,6663858,2,teaspoons,lemon zest
+86,6663858,1,teaspoon,ground cinnamon
+87,6601261,3,cups,all-purpose flour
+88,6601261,1 ½,teaspoons,baking powder
+89,6601261,1 ½,teaspoons,baking soda
+90,6601261,1,teaspoon,salt
+91,6601261,1 ½,cups,white sugar
+92,6601261,1,cup,vegetable oil
+93,6601261,4,large,eggs
+94,6601261,2,teaspoons,vanilla extract
+95,6601261,1 ½,teaspoons,ground cinnamon
+96,6601261,¾,teaspoon,ground nutmeg
+97,6601261,2,cups,"finely grated zucchini, excess moisture squeezed out"
+98,6601261,1,(8 ounce) can,"crushed pineapple, drained"
+99,6665037,3,cups,all-purpose flour
+100,6665037,3,teaspoons,ground cinnamon
+101,6665037,1,teaspoon,salt
+102,6665037,1,teaspoon,baking soda
+103,6665037,½,teaspoon,baking powder
+104,6665037,1 ¾,cups,white sugar
+105,6665037,1,cup,vegetable oil
+106,6665037,3,large,eggs
+107,6665037,1,cup,shredded zucchini
+108,6665037,1,cup,applesauce
+109,6665037,3,teaspoons,vanilla extract
+110,6665037,1,cup,chopped pecans (Optional)
+111,6584659,3 ½,cups,all-purpose flour
+112,6584659,1 ½,teaspoons,baking soda
+113,6584659,1 ½,teaspoons,salt
+114,6584659,1,teaspoon,ground cinnamon
+115,6584659,¾,teaspoon,baking powder
+116,6584659,4,,eggs
+117,6584659,2,cups,white sugar
+118,6584659,1,cup,vegetable oil
+119,6584659,2,cups,grated zucchini
+120,6584659,1,cup,raisins
+121,6584659,1,cup,chopped walnuts
+122,6584659,1,teaspoon,vanilla extract
+123,6604599,4,,eggs
+124,6604599,1,cup,white sugar
+125,6604599,1,cup,brown sugar
+126,6604599,½,cup,vegetable oil
+127,6604599,1,teaspoon,vanilla extract
+128,6604599,3 ½,cups,all-purpose flour
+129,6604599,1 ½,teaspoons,baking soda
+130,6604599,½,teaspoon,salt
+131,6604599,2,teaspoons,ground cinnamon
+132,6604599,½,cup,chopped walnuts
+133,6604599,2,cups,"peeled, chopped zucchini"
+134,6604599,1,cup,"chopped, peeled apple"
+135,6739475,⅔,cup,shortening
+136,6739475,2 ⅔,cups,white sugar
+137,6739475,4,,eggs
+138,6739475,2,cups,mashed bananas
+139,6739475,⅔,cup,water
+140,6739475,3 ⅓,cups,all-purpose flour
+141,6739475,½,teaspoon,baking powder
+142,6739475,2,teaspoons,baking soda
+143,6739475,1 ½,teaspoons,salt
+144,6739475,1,teaspoon,ground cinnamon
+145,6739475,1,teaspoon,ground cloves
+146,6739475,⅔,cup,chopped pecans
+147,6602918,3,cups,all-purpose flour
+148,6602918,¼,cup,unsweetened cocoa powder
+149,6602918,1,tablespoon,ground cinnamon
+150,6602918,1,teaspoon,baking soda
+151,6602918,½,teaspoon,baking powder
+152,6602918,1,teaspoon,salt
+153,6602918,2,cups,white sugar
+154,6602918,3,,eggs
+155,6602918,1,cup,vegetable oil
+156,6602918,2,teaspoons,vanilla extract
+157,6602918,2,cups,shredded zucchini
+158,6602918,1,cup,chopped walnuts
+159,6602918,1,cup,semisweet chocolate chips
+160,6736639,3,large,eggs
+161,6736639,2,cups,white sugar
+162,6736639,1,cup,vegetable oil
+163,6736639,2,cups,grated zucchini
+164,6736639,2,teaspoons,vanilla extract
+165,6736639,3,cups,all-purpose flour
+166,6736639,½,cup,chopped walnuts
+167,6736639,1,tablespoon,ground cinnamon
+168,6736639,1,teaspoon,salt
+169,6736639,1,teaspoon,baking soda
+170,6736639,¼,teaspoon,baking powder
+171,6572051,2,cups,white sugar
+172,6572051,1,cup,vegetable oil
+173,6572051,3,large,eggs
+174,6572051,1,teaspoon,"vanilla extract, or more to taste"
+175,6572051,2,cups,shredded zucchini
+176,6572051,3,cups,all-purpose flour
+177,6572051,1,tablespoon,ground cinnamon
+178,6572051,1,teaspoon,salt
+179,6572051,1,teaspoon,baking soda
+180,6572051,1,teaspoon,ground nutmeg
+181,6572051,¼,teaspoon,baking powder
+182,6572051,¼,teaspoon,ground cloves
+183,6572051,½,cup,chopped walnuts (Optional)
+184,6572051,½,cup,raisins (Optional)
+185,6597073,3,large,eggs
+186,6597073,3,cups,grated zucchini
+187,6597073,2,cups,white sugar
+188,6597073,1,cup,vegetable oil
+189,6597073,1,tablespoon,vanilla extract
+190,6597073,3,cups,all-purpose flour
+191,6597073,3,tablespoons,unsweetened cocoa powder
+192,6597073,1,teaspoon,salt
+193,6597073,1,teaspoon,baking soda
+194,6597073,¼,teaspoon,baking powder
+195,6597073,½,cup,chopped walnuts
+196,6597073,½,cup,chocolate chips
+197,6570420,4 ½,cups,all-purpose flour
+198,6570420,2 ½,cups,white sugar
+199,6570420,1,tablespoon,baking powder
+200,6570420,1,tablespoon,baking soda
+201,6570420,1,tablespoon,ground cinnamon
+202,6570420,1 ½,teaspoons,salt
+203,6570420,2,cups,vegetable oil
+204,6570420,6,,eggs
+205,6570420,3,cups,shredded zucchini
+206,6570420,1,(20 ounce) can,"crushed pineapple, drained"
+207,6570420,3,teaspoons,vanilla extract
+208,6577610,2,cups,sugar
+209,6577610,1,cup,vegetable oil
+210,6577610,3,,eggs
+211,6577610,1,teaspoon,vanilla extract
+212,6577610,3,cups,all-purpose flour
+213,6577610,1,teaspoon,baking soda
+214,6577610,1,teaspoon,salt
+215,6577610,½,teaspoon,baking powder
+216,6577610,1,cup,sour cream
+217,6577610,2,cups,shredded zucchini
+218,6577610,1,cup,chopped walnuts (Optional)
+219,6578544,1 ¾,cups,all-purpose flour
+220,6578544,1 ½,teaspoons,baking powder
+221,6578544,1,teaspoon,baking soda
+222,6578544,½,teaspoon,salt
+223,6578544,¼,cup,"butter, melted"
+224,6578544,1,,"egg, lightly beaten"
+225,6578544,1,cup,milk
+226,6578544,1,cup,shredded unpeeled zucchini
+227,6578544,1,clove,"garlic, minced"
+228,6578544,¾,cup,shredded Cheddar cheese
+229,6578544,¼,cup,freshly grated Parmesan cheese
+230,6578544,4,slices,"bacon, cooked crisp and crumbled"
+231,6585983,3,cups,all-purpose flour
+232,6585983,1,teaspoon,baking soda
+233,6585983,1,teaspoon,salt
+234,6585983,1,teaspoon,ground nutmeg
+235,6585983,½,teaspoon,ground cinnamon
+236,6585983,¼,teaspoon,baking powder
+237,6585983,3,,eggs
+238,6585983,2,cups,white sugar
+239,6585983,2,cups,grated zucchini
+240,6585983,1,cup,vegetable oil
+241,6585983,1,cup,chopped walnuts
+242,6585983,1,cup,semisweet chocolate chips
+243,6585983,1,tablespoon,orange zest
+244,6585983,2,teaspoons,vanilla extract
+245,6597298,2,cups,grated zucchini
+246,6597298,2 ½,cups,all-purpose flour
+247,6597298,1 ¼,cups,unsweetened coconut flakes
+248,6597298,4,teaspoons,baking powder
+249,6597298,1,teaspoon,baking soda
+250,6597298,1,pinch,salt
+251,6597298,1 ¼,cups,white sugar
+252,6597298,¾,cup,vegetable oil
+253,6597298,2,teaspoons,vanilla sugar
+254,6597298,1,teaspoon,ground cinnamon
+255,6597298,3,large,"eggs, lightly beaten"
+256,6737180,1,tablespoon,kosher salt
+257,6737180,4,cups,grated zucchini
+258,6737180,3,cups,all-purpose flour
+259,6737180,1,teaspoon,baking powder
+260,6737180,1,teaspoon,baking soda
+261,6737180,1,teaspoon,ground cinnamon
+262,6737180,½,teaspoon,ground ginger
+263,6737180,1,pinch,cayenne pepper
+264,6737180,1,pinch,freshly grated nutmeg
+265,6737180,2,large,eggs
+266,6737180,1 ½,cups,white sugar
+267,6737180,1 ½,teaspoons,vanilla extract
+268,6737180,¾,cup,"unsalted butter, melted"
+269,6737180,1,cup,chopped walnuts
+270,6577497,3,cups,all-purpose flour
+271,6577497,½,teaspoon,baking powder
+272,6577497,1,teaspoon,baking soda
+273,6577497,1,teaspoon,ground cinnamon
+274,6577497,1,pinch,ground nutmeg
+275,6577497,1,pinch,ground ginger
+276,6577497,1,pinch,ground black pepper
+277,6577497,2,cups,white sugar
+278,6577497,1,cup,vegetable oil
+279,6577497,3,,"eggs, beaten"
+280,6577497,2,teaspoons,vanilla extract
+281,6577497,2,cups,shredded zucchini
+282,6577497,½,cup,"dates, pitted and chopped"
+283,6577046,3,cups,all-purpose flour
+284,6577046,2,teaspoons,baking powder
+285,6577046,1,teaspoon,baking soda
+286,6577046,½,teaspoon,salt
+287,6577046,1,cup,white sugar
+288,6577046,½,cup,vegetable oil
+289,6577046,2,,eggs
+290,6577046,1,cup,shredded apple
+291,6577046,¾,cup,chopped walnuts
+292,6577046,½,teaspoon,vanilla extract
+293,6582435,3,cups,all-purpose flour
+294,6582435,2,teaspoons,baking soda
+295,6582435,1 ½,teaspoons,baking powder
+296,6582435,1,teaspoon,salt
+297,6582435,1,teaspoon,ground cinnamon
+298,6582435,1,teaspoon,pumpkin pie spice
+299,6582435,1,cup,vegetable oil
+300,6582435,1,cup,white sugar
+301,6582435,1,cup,light brown sugar
+302,6582435,3,large,eggs
+303,6582435,3,cups,grated unpeeled zucchini
+304,6582435,1,(20 ounce) can,"crushed pineapple, well drained"
+305,6582435,½,cup,sour cream
+306,6582435,½,cup,shredded coconut
+307,6582435,2,teaspoons,vanilla extract
+308,6590134,3,large,eggs
+309,6590134,2,cups,white sugar
+310,6590134,1,cup,vegetable oil
+311,6590134,1,tablespoon,vanilla extract
+312,6590134,2,cups,grated zucchini
+313,6590134,2,cups,all-purpose flour
+314,6590134,1 ½,teaspoons,ground cinnamon
+315,6590134,1,teaspoon,baking soda
+316,6590134,1,teaspoon,salt
+317,6590134,¼,teaspoon,baking powder
+318,6590134,½,cup,chopped walnuts (Optional)
+319,6585095,2,,"over-ripe bananas, mashed"
+320,6585095,1 ½,cups,white sugar
+321,6585095,1,cup,shredded zucchini
+322,6585095,1,cup,applesauce
+323,6585095,3,large,eggs
+324,6585095,½,cup,packed brown sugar
+325,6585095,1,teaspoon,vanilla extract
+326,6585095,2,cups,all-purpose flour
+327,6585095,1,cup,whole wheat flour
+328,6585095,1,tablespoon,ground cinnamon
+329,6585095,1,teaspoon,salt
+330,6585095,1,teaspoon,baking soda
+331,6585095,½,teaspoon,baking powder
+332,6585095,½,cup,oats
+333,6596815,3,cups,all-purpose flour
+334,6596815,3,tablespoons,flax seeds (Optional)
+335,6596815,2,teaspoons,ground cinnamon
+336,6596815,1,teaspoon,salt
+337,6596815,1,teaspoon,baking soda
+338,6596815,½,teaspoon,baking powder
+339,6596815,½,teaspoon,arrowroot powder (Optional)
+340,6596815,1,cup,unsweetened applesauce
+341,6596815,1,cup,white sugar
+342,6596815,1,cup,packed brown sugar
+343,6596815,¾,cup,vegetable oil
+344,6596815,2,teaspoons,vanilla extract
+345,6596815,2 ½,cups,shredded zucchini
+346,6577184,3,cups,all-purpose flour
+347,6577184,1,teaspoon,ground cinnamon
+348,6577184,1,teaspoon,baking soda
+349,6577184,¼,teaspoon,baking powder
+350,6577184,2,cups,white sugar
+351,6577184,1,cup,vegetable oil
+352,6577184,3,large,eggs
+353,6577184,2,cups,grated zucchini
+354,6577184,½,cup,sour cream
+355,6577184,1,cup,semisweet chocolate chips
+356,6585914,1,cup,raisins
+357,6585914,1,cup,hot water
+358,6585914,1,tablespoon,shortening for greasing
+359,6585914,1 ½,cups,white sugar
+360,6585914,1,cup,shortening
+361,6585914,3,,eggs
+362,6585914,2,cups,all-purpose flour
+363,6585914,1,tablespoon,ground cinnamon
+364,6585914,2,teaspoons,baking soda
+365,6585914,1,teaspoon,salt
+366,6585914,¼,teaspoon,baking powder
+367,6585914,2,cups,finely shredded zucchini
+368,6585914,1,cup,chopped walnuts (Optional)
+369,6585914,2,teaspoons,vanilla extract
+370,6567129,,,cooking spray
+371,6567129,1,,"ripe banana, mashed"
+372,6567129,¼,cup,"unsalted butter, melted"
+373,6567129,1,large,egg
+374,6567129,1,tablespoon,"coconut oil, melted"
+375,6567129,2,cups,shredded zucchini
+376,6567129,1,teaspoon,vanilla extract
+377,6567129,2,cups,whole wheat flour
+378,6567129,1,teaspoon,baking soda
+379,6567129,1,teaspoon,ground cinnamon
+380,6567129,1,teaspoon,ground nutmeg (Optional)
+381,6567129,1,pinch,salt
+382,6567129,¼,cup,milk
+383,6567129,4,tablespoons,brown sugar (Optional)
+384,6592643,3,large,eggs
+385,6592643,¾,cup,vegetable oil
+386,6592643,1 ⅔,cups,packed brown sugar
+387,6592643,2,cups,grated zucchini
+388,6592643,2,teaspoons,vanilla extract
+389,6592643,3,cups,all-purpose flour
+390,6592643,3,teaspoons,ground cinnamon
+391,6592643,1 ½,teaspoons,baking powder
+392,6592643,1,teaspoon,baking soda
+393,6592643,1,teaspoon,salt
+394,6592643,½,cup,raisins
+395,6592643,½,cup,chopped walnuts
+396,6571644,,,cooking spray
+397,6571644,1,cup,shredded unpeeled zucchini
+398,6571644,1,cup,shredded carrots
+399,6571644,1,large,"apple, cored and shredded"
+400,6571644,1,cup,nonfat plain yogurt
+401,6571644,1,cup,sucralose and brown sugar blend (such as Splenda® brown sugar blend)
+402,6571644,2,,eggs
+403,6571644,½,cup,unsweetened applesauce
+404,6571644,½,cup,skim milk
+405,6571644,2,tablespoons,canola oil
+406,6571644,1,,"lemon, zest only"
+407,6571644,1,,"orange, zest only"
+408,6571644,2,cups,all-purpose flour
+409,6571644,1 ½,cups,whole wheat flour
+410,6571644,1,tablespoon,baking powder
+411,6571644,1,teaspoon,baking soda
+412,6571644,1,teaspoon,salt
+413,6571644,1,teaspoon,ground cinnamon
+414,6571644,½,teaspoon,ground nutmeg
+415,6571644,½,teaspoon,ground allspice
+416,6571644,½,cup,chopped walnuts
+417,6598161,3 ¼,cups,"peeled, seeded, and diced yellow squash"
+418,6598161,1 ½,cups,white sugar
+419,6598161,½,cup,milk
+420,6598161,1,,"egg, beaten"
+421,6598161,2,tablespoons,"butter, melted"
+422,6598161,2,teaspoons,lemon extract
+423,6598161,1,cup,self-rising flour
+424,6580754,3,cups,all-purpose flour
+425,6580754,1,teaspoon,ground cinnamon
+426,6580754,1,teaspoon,salt
+427,6580754,1,teaspoon,baking soda
+428,6580754,½,teaspoon,baking powder
+429,6580754,½,teaspoon,ground nutmeg
+430,6580754,½,teaspoon,allspice
+431,6580754,1 ½,cups,white sugar
+432,6580754,1,cup,unsweetened applesauce
+433,6580754,3,,eggs
+434,6580754,2,cups,grated zucchini
+435,6580754,½,cup,grated carrots
+436,6592825,3,cups,all-purpose flour
+437,6592825,1,teaspoon,baking soda
+438,6592825,¼,teaspoon,baking powder
+439,6592825,2,cups,white sugar
+440,6592825,3,,eggs
+441,6592825,1,cup,vegetable oil
+442,6592825,2,cups,shredded zucchini
+443,6592825,1,cup,dried cranberries
+444,6592825,1,,"orange, zested"
+445,6592825,1,teaspoon,lemon extract
+446,6592825,2,teaspoons,ground cinnamon
+447,6592825,1,teaspoon,ground cloves
+448,6592825,1,teaspoon,ground nutmeg
+449,6592825,1,teaspoon,salt
+450,6592825,1,pinch,ground ginger
+451,6664894,3,cups,all-purpose flour
+452,6664894,1 ½,tablespoons,pumpkin pie spice
+453,6664894,1,teaspoon,salt
+454,6664894,1,teaspoon,baking soda
+455,6664894,1,teaspoon,baking powder
+456,6664894,3,,eggs
+457,6664894,2 ¼,cups,white sugar
+458,6664894,½,cup,vegetable oil
+459,6664894,½,cup,canned pumpkin
+460,6664894,1,tablespoon,vanilla extract
+461,6664894,2 ½,cups,grated zucchini
+462,6664894,1,cup,chopped walnuts (Optional)
+463,6583970,3,cups,self-rising flour
+464,6583970,1,tablespoon,ground cinnamon
+465,6583970,1,teaspoon,salt
+466,6583970,½,teaspoon,ground nutmeg
+467,6583970,1 ⅔,cups,white sugar
+468,6583970,½,cup,vegetable oil
+469,6583970,½,cup,melted butter
+470,6583970,½,cup,honey
+471,6583970,3,,eggs
+472,6583970,2,tablespoons,vanilla extract
+473,6583970,3,cups,grated unpeeled zucchini
+474,6583970,1,cup,chopped walnuts
+475,6583970,½,cup,flaked coconut
+476,6586284,¾,cup,all-purpose flour
+477,6586284,¼,teaspoon,salt
+478,6586284,¼,teaspoon,ground nutmeg
+479,6586284,¼,teaspoon,baking soda
+480,6586284,¼,teaspoon,baking powder
+481,6586284,½,cup,white sugar
+482,6586284,¼,cup,vegetable oil
+483,6586284,1,,large egg
+484,6586284,1,cup,grated zucchini
+485,6586284,¼,cup,raisins
+486,6585805,6,tablespoons,all-purpose flour
+487,6585805,1/4,cup,brown sugar
+488,6585805,2,tablespoons,butter
+489,6577268,1,cup,diced zucchini
+490,6577268,½,cup,canola oil
+491,6577268,2,,eggs
+492,6577268,1,teaspoon,gluten-free vanilla extract
+493,6577268,1,cup,white sugar
+494,6577268,½,cup,white rice flour
+495,6577268,½,cup,sweet rice flour
+496,6577268,½,cup,cornstarch
+497,6577268,2,tablespoons,tapioca starch
+498,6577268,1,teaspoon,baking powder
+499,6577268,1,teaspoon,ground cinnamon
+500,6577268,¾,teaspoon,baking soda
+501,6577268,½,teaspoon,xanthan gum
+502,6577268,½,teaspoon,salt
+503,6736817,,,cooking spray
+504,6736817,3 ½,cups,all-purpose flour
+505,6736817,1 ½,teaspoons,baking soda
+506,6736817,1,teaspoon,salt
+507,6736817,4,,eggs
+508,6736817,1 ½,cups,white sugar
+509,6736817,1,cup,vegetable oil
+510,6736817,½,cup,plain yogurt
+511,6736817,1,,"small lemon, zested"
+512,6736817,1,tablespoon,lemon juice
+513,6736817,2,teaspoons,vanilla extract
+514,6736817,2,cups,grated zucchini
+515,6736817,1,cup,chopped pistachio nuts
+516,6568292,1,cup,"butter, softened"
+517,6568292,1,cup,white sugar
+518,6568292,3,,eggs
+519,6568292,2,cups,grated zucchini
+520,6568292,1,cup,grated carrots
+521,6568292,3,teaspoons,vanilla extract
+522,6568292,3,cups,all-purpose flour
+523,6568292,2,teaspoons,ground nutmeg
+524,6568292,2,teaspoons,ground cinnamon
+525,6568292,1,teaspoon,salt
+526,6568292,1,teaspoon,baking soda
+527,6568292,¼,teaspoon,baking powder
+528,6568292,½,cup,raisins (Optional)
+529,6568292,½,cup,chopped walnuts (Optional)
+530,6589339,3,cups,all-purpose flour
+531,6589339,1,teaspoon,salt
+532,6589339,1,teaspoon,baking soda
+533,6589339,3,teaspoons,ground cinnamon
+534,6589339,¼,teaspoon,baking powder
+535,6589339,3,,eggs
+536,6589339,2,cups,white sugar
+537,6589339,3,teaspoons,vanilla extract
+538,6589339,1,cup,vegetable oil
+539,6589339,3,cups,grated zucchini
+540,6589339,1,cup,chopped walnuts (Optional)
+541,6601928,2 ¼,cups,all-purpose flour
+542,6601928,1,cup,white sugar
+543,6601928,2 ½,teaspoons,baking powder
+544,6601928,½,teaspoon,baking soda
+545,6601928,1,teaspoon,ground cinnamon
+546,6601928,1,teaspoon,ground nutmeg
+547,6601928,½,teaspoon,salt
+548,6601928,½,cup,shortening
+549,6601928,¼,cup,sour milk
+550,6601928,2,,"eggs, lightly beaten"
+551,6601928,1 ½,cups,shredded zucchini
+552,6601928,1,teaspoon,vanilla extract
+553,6601928,½,cup,chopped walnuts
+554,6601928,¼,cup,brown sugar
+555,6596059,3,,eggs
+556,6596059,1,cup,vegetable oil
+557,6596059,2,cups,white sugar
+558,6596059,2,teaspoons,vanilla extract
+559,6596059,2,cups,grated zucchini
+560,6596059,1,cup,crushed pineapple
+561,6596059,3,cups,all-purpose flour
+562,6596059,2,teaspoons,baking soda
+563,6596059,1,teaspoon,salt
+564,6596059,¼,teaspoon,baking powder
+565,6596059,1 ½,teaspoons,ground cinnamon
+566,6596059,¾,teaspoon,ground nutmeg
+567,6596059,1,cup,raisins
+568,6596059,1,cup,chopped walnuts
+569,6571983,,,cooking spray
+570,6571983,1,cup,brown sugar
+571,6571983,¾,cup,vanilla yogurt
+572,6571983,¼,cup,molasses
+573,6571983,¼,cup,vegetable oil
+574,6571983,3,,eggs
+575,6571983,2,teaspoons,ground cinnamon
+576,6571983,1,teaspoon,ground ginger
+577,6571983,½,teaspoon,ground nutmeg
+578,6571983,½,teaspoon,ground cloves
+579,6571983,1,teaspoon,baking soda
+580,6571983,½,teaspoon,baking powder
+581,6571983,½,teaspoon,salt
+582,6571983,2 ½,cups,shredded zucchini
+583,6571983,3,cups,all-purpose flour
+584,6595017,2,cups,all-purpose flour
+585,6595017,2,teaspoons,baking powder
+586,6595017,½,teaspoon,baking soda
+587,6595017,½,teaspoon,salt
+588,6595017,⅛,teaspoon,ground nutmeg
+589,6595017,1,,egg
+590,6595017,¾,cup,white sugar
+591,6595017,½,cup,milk
+592,6595017,½,cup,vegetable oil
+593,6595017,1,,"lemon, zested and juiced"
+594,6595017,1,cup,grated and squeezed zucchini
+595,6567765,2,cups,cake flour
+596,6567765,2,teaspoons,baking powder
+597,6567765,½,teaspoon,salt
+598,6567765,2,,eggs
+599,6567765,1,cup,white sugar
+600,6567765,½,cup,canola oil
+601,6567765,½,cup,buttermilk
+602,6567765,2,tablespoons,lemon juice
+603,6567765,1,,"lemon, zested"
+604,6567765,1,cup,grated zucchini
+605,6601839,1,teaspoon,white sugar
+606,6601839,3,,eggs
+607,6601839,2,cups,white sugar
+608,6601839,1,cup,vegetable oil
+609,6601839,1,teaspoon,vanilla extract
+610,6601839,1,teaspoon,lemon extract
+611,6601839,1,,"lemon, zested"
+612,6601839,3,cups,flour
+613,6601839,1,teaspoon,salt
+614,6601839,1,teaspoon,baking soda
+615,6601839,¼,teaspoon,baking powder
+616,6601839,2,cups,grated zucchini
+617,6590394,1,,very ripe banana
+618,6590394,2,,"eggs, beaten"
+619,6590394,⅓,cup,white sugar
+620,6590394,¼,cup,honey
+621,6590394,¼,cup,oil
+622,6590394,¼,teaspoon,vanilla extract
+623,6590394,1,cup,whole wheat flour
+624,6590394,½,cup,all-purpose flour
+625,6590394,1 ½,teaspoons,ground cinnamon
+626,6590394,1,teaspoon,baking soda
+627,6590394,¾,teaspoon,baking powder
+628,6590394,½,teaspoon,salt
+629,6590394,1,,"zucchini, grated"
+630,6590394,1,,"carrot, grated"
+631,6590394,¼,cup,semisweet chocolate chips (Optional)
+632,6739221,1 ½,cups,all-purpose flour
+633,6739221,¾,cup,whole wheat flour
+634,6739221,¾,cup,oat flour
+635,6739221,1,teaspoon,salt
+636,6739221,1,teaspoon,baking soda
+637,6739221,1,teaspoon,baking powder
+638,6739221,2 ½,teaspoons,ground cinnamon
+639,6739221,¼,teaspoon,ground nutmeg
+640,6739221,3,,eggs
+641,6739221,½,cup,vegetable oil
+642,6739221,½,cup,unsweetened applesauce
+643,6739221,1,cup,plain yogurt
+644,6739221,1,cup,white sugar
+645,6739221,¾,cup,honey
+646,6739221,2,teaspoons,vanilla extract
+647,6739221,1,cup,shredded zucchini
+648,6739221,1,cup,shredded carrots
+649,6739221,½,cup,chopped pecans (Optional)
+650,6739221,½,cup,raisins (Optional)
+651,6593049,1 ¾,cups,all-purpose flour
+652,6593049,1 ½,cups,whole wheat flour
+653,6593049,1,cup,white sugar
+654,6593049,1,cup,light brown sugar
+655,6593049,2,teaspoons,baking soda
+656,6593049,1,teaspoon,ground nutmeg
+657,6593049,1,teaspoon,ground cinnamon
+658,6593049,1,teaspoon,salt
+659,6593049,1,tablespoon,vanilla extract
+660,6593049,4,,"eggs, lightly beaten"
+661,6593049,1,cup,vegetable oil
+662,6593049,1,tablespoon,lemon juice
+663,6593049,3,cups,"shredded zucchini, squeezed dry"
+664,6590674,2 ½,cups,all-purpose flour
+665,6590674,4,tablespoons,cocoa powder
+666,6590674,1,teaspoon,salt
+667,6590674,1,teaspoon,baking soda
+668,6590674,½,teaspoon,ground cinnamon
+669,6590674,¼,teaspoon,baking powder
+670,6590674,1 ¾,cups,white sugar
+671,6590674,½,cup,"butter, softened"
+672,6590674,½,cup,vegetable oil
+673,6590674,1,teaspoon,vanilla extract
+674,6590674,3,,eggs
+675,6590674,1,(12 ounce) package,semisweet chocolate chips
+676,6590674,2,cups,grated unpeeled zucchini
+677,6590674,1,cup,chopped walnuts (Optional)
+678,6741771,1 ¾,cups,all-purpose flour
+679,6741771,¾,cup,white sugar
+680,6741771,1,teaspoon,baking powder
+681,6741771,¾,teaspoon,baking soda
+682,6741771,½,teaspoon,salt
+683,6741771,1,,"zucchini, shredded"
+684,6741771,1,(8 ounce) container,lemon yogurt
+685,6741771,6,tablespoons,"butter, melted"
+686,6741771,1,,"egg, beaten"
+687,6741771,1,tablespoon,lemon juice
+688,6741771,1,tablespoon,lemon zest
+689,6741771,⅓,cup,lemon juice
+690,6741771,¼,cup,white sugar
+691,6741771,2,teaspoons,lemon zest
+692,6592842,3,cups,all-purpose flour
+693,6592842,2,teaspoons,baking soda
+694,6592842,1,teaspoon,salt
+695,6592842,¼,teaspoon,baking powder
+696,6592842,1 ½,teaspoons,ground cinnamon
+697,6592842,2,cups,white sugar
+698,6592842,1,cup,vegetable oil
+699,6592842,3,,eggs
+700,6592842,¾,teaspoon,vanilla extract
+701,6592842,2,cups,shredded zucchini
+702,6592842,1,(8 ounce) can,"crushed pineapple, well drained"
+703,6592842,1,cup,raisins
+704,6592842,1,cup,chopped walnuts
+705,6604318,½,cup,water
+706,6604318,2,teaspoons,honey
+707,6604318,1,tablespoon,vegetable oil
+708,6604318,¾,cup,grated zucchini
+709,6604318,¾,cup,whole wheat flour
+710,6604318,2,cups,bread flour
+711,6604318,1,tablespoon,chopped fresh basil
+712,6604318,2,teaspoons,sesame seeds
+713,6604318,1,teaspoon,salt
+714,6604318,1 ½,teaspoons,active dry yeast
+715,6597540,3,cups,all-purpose flour
+716,6597540,1,teaspoon,salt
+717,6597540,1,teaspoon,baking soda
+718,6597540,2,teaspoons,baking powder
+719,6597540,1,tablespoon,ground cinnamon
+720,6597540,2,,ripe bananas
+721,6597540,½,cup,applesauce
+722,6597540,½,cup,vegetable oil
+723,6597540,1 ¼,cups,brown sugar
+724,6597540,1,cup,white sugar
+725,6597540,1,tablespoon,vanilla extract
+726,6597540,1,tablespoon,lemon juice
+727,6597540,3 ½,cups,grated zucchini
+728,6584226,1 ½,cups,self-rising flour
+729,6584226,1,teaspoon,ground cinnamon
+730,6584226,⅛,teaspoon,ground nutmeg
+731,6584226,1,cup,white sugar
+732,6584226,1,,egg
+733,6584226,1,cup,shredded unpeeled zucchini
+734,6584226,¼,cup,vegetable oil
+735,6584226,1,teaspoon,grated lemon peel
+736,6584226,½,cup,chopped walnuts
+737,6584226,1,cup,fresh raspberries
+738,6592849,1 ½,cups,all-purpose flour
+739,6592849,1 ½,cups,white whole wheat flour
+740,6592849,1,teaspoon,salt
+741,6592849,1,teaspoon,baking soda
+742,6592849,1,teaspoon,baking powder
+743,6592849,3,teaspoons,ground cinnamon
+744,6592849,3,,eggs
+745,6592849,½,cup,low-fat milk
+746,6592849,½,cup,vegetable oil
+747,6592849,1 ½,cups,white sugar
+748,6592849,3,teaspoons,vanilla extract
+749,6592849,3,cups,grated zucchini
+750,6592849,1,cup,chopped walnuts
+751,6586117,3,medium,"zucchini, cut into chunks"
+752,6586117,4 ¾,cups,all-purpose flour
+753,6586117,1 ½,teaspoons,baking powder
+754,6586117,1 ½,teaspoons,baking soda
+755,6586117,1 ½,teaspoons,salt
+756,6586117,1 ½,teaspoons,ground cinnamon
+757,6586117,1 ½,teaspoons,ground nutmeg
+758,6586117,1 ½,teaspoons,ground cloves
+759,6586117,1 ½,cups,vegetable oil
+760,6586117,6,,eggs
+761,6586117,4,cups,white sugar
+762,6599517,3,cups,gluten-free flour
+763,6599517,1,tablespoon,ground cinnamon
+764,6599517,1,teaspoon,salt
+765,6599517,1,teaspoon,baking soda
+766,6599517,1,teaspoon,baking powder
+767,6599517,1,pinch,ground nutmeg (Optional)
+768,6599517,2 ¼,cups,white sugar
+769,6599517,1,cup,applesauce
+770,6599517,3,,eggs
+771,6599517,½,cup,vegetable oil
+772,6599517,1,tablespoon,vanilla extract
+773,6599517,2,cups,shredded zucchini
+774,6562167,3,cups,all-purpose flour
+775,6562167,2,teaspoons,ground cinnamon
+776,6562167,1,teaspoon,freshly grated nutmeg
+777,6562167,1,teaspoon,baking powder
+778,6562167,1,teaspoon,baking soda
+779,6562167,1,teaspoon,salt
+780,6562167,3,,eggs
+781,6562167,2,cups,white sugar
+782,6562167,2,cups,"grated zucchini, lightly packed"
+783,6562167,1,cup,melted coconut oil
+784,6562167,¼,cup,buttermilk
+785,6562167,1,tablespoon,vanilla extract
+786,6562167,1,cup,chopped pecans
+787,6562167,18,,"maraschino cherries, chopped"
+788,6562167,2,tablespoons,maraschino cherry juice
