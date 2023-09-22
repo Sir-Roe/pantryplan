@@ -26,6 +26,11 @@ def mergeFiles(directory,table=''):
     for file in file_paths:
         df_temp =pd.read_csv(file)
         df_table = pd.concat([df_table,df_temp],ignore_index=True)
-    
+        print(f'{file} data has been appended')
     df_table.to_csv(f'{sql_dir}\{table}.csv')
-mergeFiles(rec_dir,"recipe_master")
+    print(f'{table} successfully built!')
+    
+#--------------execute function merge all data-----------
+mergeFiles(rec_dir,"recipes")
+mergeFiles(ing_dir,"recipe_ingredients")
+mergeFiles(stp_dir,"recipe_steps")
