@@ -241,4 +241,3 @@ def rerunErrors():
     e_df= pd.DataFrame({'error_files':error_paths})
     e_df.to_csv(f'{errors}\error_files.csv')
 
-rerunErrors()
