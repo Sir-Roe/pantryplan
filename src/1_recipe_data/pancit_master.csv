@@ -1,10 +1,10 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Yield:,Additional Time:
-0,6663481,15 mins,15 mins,30 mins,6 ,6,369,5g,1g,35mg,789mg,65g,7g,7g,18g,76mg,110mg,2mg,568mg,4.3,495,,
-1,6567831,15 mins,45 mins, 1 hr,6 ,6,390,17g,4g,47mg,482mg,42g,4g,5g,17g,41mg,70mg,2mg,417mg,5.0,8,6 servings,
-2,6568929,30 mins,30 mins, 1 hr,10 ,10,349,12g,2g,45mg,346mg,39g,6g,3g,22g,24mg,65mg,3mg,409mg,4.3,33,10 servings,
-3,6600666,15 mins,40 mins,55 mins,12 ,12,708,27g,10g,77mg,1085mg,83g,4g,14g,29g,4mg,85mg,5mg,622mg,3.7,17,12 servings,
-4,6574040,30 mins,20 mins,55 mins,6 ,6,316,8g,2g,98mg,486mg,40g,5g,6g,21g,47mg,102mg,3mg,490mg,,,6 servings,5 mins
-5,6736405,20 mins,20 mins,40 mins,4 ,4,488,21g,4g,119mg,394mg,44g,2g,2g,29g,35mg,122mg,3mg,589mg,4.4,175,4 servings,
-6,6581932,15 mins,20 mins,35 mins,6 ,6,329,7g,2g,101mg,425mg,51g,5g,2g,15g,21mg,71mg,2mg,421mg,4.5,2,,
-7,6604909,45 mins,15 mins, 1 hr,10 ,10,372,15g,4g,127mg,880mg,31g,2g,2g,28g,7mg,62mg,4mg,363mg,5.0,2,,
-8,6593180,10 mins,50 mins, 1 hr,4 ,4,484,8g,2g,169mg,2109mg,60g,5g,6g,40g,47mg,116mg,4mg,842mg,4.3,89,,
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Yield:,Additional Time:
+0,6663481,Quick and Easy Pancit,15 mins,15 mins,30 mins,6 ,6,369,5g,1g,35mg,789mg,65g,7g,7g,18g,76mg,110mg,2mg,568mg,4.3,496,,
+1,6567831,Authentic Filipino Pancit,15 mins,45 mins, 1 hr,6 ,6,390,17g,4g,47mg,482mg,42g,4g,5g,17g,41mg,70mg,2mg,417mg,5.0,8,6 servings,
+2,6568929,Grandma Nena's Lumpia and Pancit,30 mins,30 mins, 1 hr,10 ,10,349,12g,2g,45mg,346mg,39g,6g,3g,22g,24mg,65mg,3mg,409mg,4.3,33,10 servings,
+3,6600666,Filipino Spaghetti,15 mins,40 mins,55 mins,12 ,12,708,27g,10g,77mg,1085mg,83g,4g,14g,29g,4mg,85mg,5mg,622mg,3.7,17,12 servings,
+4,6574040,Filipino Pancit Bihon with Canton,30 mins,20 mins,55 mins,6 ,6,316,8g,2g,98mg,486mg,40g,5g,6g,21g,47mg,102mg,3mg,490mg,,,6 servings,5 mins
+5,6736405,Pork and Shrimp Pancit,20 mins,20 mins,40 mins,4 ,4,488,21g,4g,119mg,394mg,44g,2g,2g,29g,35mg,122mg,3mg,589mg,4.4,175,4 servings,
+6,6581932,Pancit Sotanghon,15 mins,20 mins,35 mins,6 ,6,329,7g,2g,101mg,425mg,51g,5g,2g,15g,21mg,71mg,2mg,421mg,4.5,2,,
+7,6604909,Pancit Molo (Filipino Wonton Soup),45 mins,15 mins, 1 hr,10 ,10,372,15g,4g,127mg,880mg,31g,2g,2g,28g,7mg,62mg,4mg,363mg,5.0,2,,
+8,6593180,Pancit,10 mins,50 mins, 1 hr,4 ,4,484,8g,2g,169mg,2109mg,60g,5g,6g,40g,47mg,116mg,4mg,842mg,4.3,89,,

@@ -1,48 +1,48 @@
-,id_recipe,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Yield:
-0,6738263,5 mins,40 mins, 2 hrs, 2 hrs 45 mins,2 ,2,503,31g,11g,121mg,1015mg,23g,1g,18g,30g,3mg,62mg,3mg,407mg,4.4,128,
-1,6650013,30 mins,30 mins,, 1 hr,4 ,4,569,19g,5g,243mg,574mg,63g,4g,7g,35g,30mg,152mg,7mg,1012mg,4.6,84,
-2,6600423,55 mins,30 mins,, 1 hr 25 mins,12 ,12,27,,,,18mg,6g,0g,,1g,,1mg,0mg,7mg,4.2,229,1 dozen
-3,6649574, 1 hr,20 mins,, 1 hr 20 mins,20 ,20,262,18g,5g,38mg,1037mg,15g,1g,1g,10g,1mg,21mg,2mg,170mg,4.4,129,
-4,6648633,5 mins,20 mins,,25 mins,4 ,4,227,12g,3g,248mg,598mg,15g,1g,9g,15g,10mg,54mg,3mg,252mg,4.4,132,8 patties
-5,6586440,20 mins, 3 hrs, 8 hrs, 11 hrs 20 mins,8 ,8,76,5g,2g,186mg,659mg,1g,0g,0g,7g,1mg,37mg,1mg,94mg,4.2,36,8 eggs
-6,6648957,30 mins,5 mins, 1 hr, 1 hr 35 mins,8 ,8,183,0g,,,82mg,43g,1g,,3g,0mg,13mg,1mg,51mg,4.3,54,8 mochi
-7,6649396,25 mins,5 mins,30 mins, 1 hr,6 ,6,439,19g,6g,55mg,1453mg,46g,2g,4g,20g,11mg,42mg,4mg,391mg,4.7,112,32 pot stickers
-8,6664052,10 mins,5 mins,,15 mins,4 ,4,65,4g,1g,,270mg,7g,3g,4g,2g,42mg,49mg,1mg,208mg,4.5,81,
-9,6650684,20 mins, 1 hr,, 1 hr 20 mins,5 ,5,540,25g,7g,103mg,2373mg,50g,2g,1g,28g,2mg,91mg,5mg,403mg,4.8,214,50 dumplings
-10,6650487, 1 hr,30 mins, 1 hr, 2 hrs 30 mins,20 ,20,169,7g,1g,46mg,315mg,16g,3g,2g,10g,17mg,38mg,1mg,232mg,4.7,243,20 egg rolls
-11,6563599,5 mins, 1 hr 55 mins,, 2 hrs,8 ,8,222,0g,,,9mg,51g,6g,38g,5g,1mg,37mg,2mg,325mg,4.3,16,
-12,6650913,10 mins,30 mins,30 mins, 1 hr 10 mins,6 ,6,382,23g,4g,99mg,848mg,7g,1g,3g,35g,9mg,27mg,1mg,658mg,4.7,154,
-13,6649046,10 mins, 2 hrs, 3 hrs, 5 hrs 10 mins,6 ,6,513,22g,8g,90mg,2421mg,49g,1g,43g,26g,3mg,57mg,3mg,504mg,4.8,111,
-14,6648899,15 mins,10 mins,,25 mins,2 ,2,361,17g,3g,73mg,1908mg,2g,1g,0g,48g,3mg,119mg,13mg,1110mg,4.8,109,2 servings
-15,6582167,15 mins,20 mins,,35 mins,4 ,4,431,34g,11g,130mg,991mg,7g,2g,2g,24g,33mg,120mg,2mg,649mg,4.6,139,4 servings
-16,6580715,20 mins,15 mins,,35 mins,8 ,8,69,5g,1g,,175mg,5g,1g,2g,2g,23mg,60mg,1mg,278mg,4.7,141,8 servings
-17,6579322,15 mins,5 mins,,20 mins,1 ,1,220,11g,3g,186mg,265mg,20g,2g,2g,10g,3mg,51mg,3mg,241mg,4.6,7,1 crêpe
-18,6739853,45 mins,30 mins,, 1 hr 15 mins,24 ,24,142,5g,3g,28mg,113mg,22g,1g,14g,2g,7mg,25mg,1mg,34mg,4.4,14,24 2-inch tarts
-19,6569147,30 mins,20 mins, 2 hrs 30 mins, 3 hrs 20 mins,12 ,12,119,8g,2g,33mg,408mg,10g,0g,9g,2g,,32mg,0mg,63mg,4.6,42,12 buns
-20,6737547,30 mins,10 mins,,40 mins,8 ,8,363,12g,4g,95mg,683mg,41g,3g,3g,23g,58mg,185mg,5mg,636mg,4.7,374,8 servings
-21,6663344,35 mins,15 mins,20 mins, 1 hr 10 mins,4 ,4,523,20g,4g,122mg,1106mg,63g,5g,7g,19g,19mg,93mg,3mg,664mg,4.4,40,4 servings
-22,6736526, 1 hr,20 mins, 1 hr, 2 hrs 20 mins,4 ,4,513,16g,5g,106mg,846mg,58g,10g,5g,32g,180mg,520mg,8mg,1222mg,4.6,40,4 bowls soup
-23,6590337,30 mins,40 mins,, 1 hr 10 mins,8 ,8,120,6g,1g,,75mg,15g,1g,0g,2g,1mg,8mg,1mg,38mg,3.8,25,8 pancakes
-24,6583300,15 mins,55 mins, 2 hrs 10 mins, 3 hrs 20 mins,24 ,24,250,11g,1g,25mg,63mg,35g,0g,14g,4g,0mg,57mg,1mg,69mg,4.6,24,1 - 9x13 inch cake
-25,6737159,50 mins,12 mins,, 1 hr 2 mins,12 ,12,411,22g,8g,152mg,454mg,16g,1g,1g,35g,6mg,55mg,5mg,471mg,4.4,96,50 potstickers
-26,6598771,25 mins,40 mins,, 1 hr 5 mins,4 ,4,314,18g,5g,69mg,935mg,19g,1g,2g,20g,25mg,27mg,9mg,263mg,4.5,2,
-27,6576559,45 mins,10 mins, 2 hrs 30 mins, 3 hrs 25 mins,32 ,32,129,5g,3g,20mg,39mg,19g,1g,7g,3g,0mg,41mg,1mg,85mg,4.8,30,32 buns
-28,6737800,30 mins,20 mins, 2 hrs, 2 hrs 50 mins,8 ,8,200,9g,2g,,366mg,25g,2g,1g,4g,5mg,26mg,2mg,109mg,4.7,40,2 pancakes
-29,6650725, 2 hrs, 6 hrs 30 mins, 15 hrs 45 mins,1 day 15 mins,12 ,12,424,6g,2g,14mg,1015mg,76g,5g,2g,15g,1mg,42mg,8mg,349mg,,,
-30,6737397,30 mins,45 mins, 1 hr, 2 hrs 15 mins,6 ,6,315,18g,5g,82mg,1608mg,19g,3g,7g,21g,35mg,257mg,4mg,672mg,4.9,28,
-31,6578067,15 mins,50 mins,, 1 hr 5 mins,48 ,48,104,2g,2g,1mg,34mg,21g,0g,13g,1g,0mg,26mg,1mg,50mg,4.4,14,96 pieces
-32,6603709,15 mins, 2 hrs,, 2 hrs 15 mins,6 ,6,578,47g,16g,54mg,1230mg,26g,1g,23g,9g,4mg,24mg,1mg,246mg,4.6,16,
-33,6738642,15 mins,5 mins,,20 mins,2 ,2,236,10g,2g,101mg,2093mg,29g,2g,16g,9g,4mg,54mg,2mg,346mg,4.4,32,2 servings
-34,6602752,15 mins,30 mins,,45 mins,5 ,5,239,15g,4g,70mg,786mg,12g,1g,2g,15g,3mg,113mg,2mg,264mg,4.7,11,5 servings
-35,6579116,20 mins,15 mins,,35 mins,24 ,24,173,11g,3g,8mg,78mg,18g,0g,8g,2g,,3mg,1mg,17mg,4.8,41,48 cookies
-36,6584452,15 mins,50 mins,, 1 hr 5 mins,4 ,4,595,23g,3g,93mg,262mg,90g,6g,35g,14g,168mg,72mg,3mg,482mg,,,4 servings
-37,6585464, 1 hr, 3 hrs 30 mins, 8 hrs, 12 hrs 30 mins,15 ,15,802,44g,10g,212mg,685mg,23g,1g,10g,75g,5mg,81mg,5mg,811mg,4.0,4,1 whole turkey
-38,6564919,10 mins,50 mins,, 1 hr,12 ,12,250,8g,6g,47mg,25mg,40g,1g,9g,4g,0mg,24mg,1mg,125mg,,,2 8-inch cakes
-39,6565495,15 mins,10 mins,30 mins,55 mins,48 ,48,57,4g,2g,,33mg,5g,1g,4g,1g,,3mg,0mg,39mg,,,4 dozen cookies
-40,6573662,30 mins, 1 hr 50 mins, 6 hrs 10 mins, 8 hrs 30 mins,8 ,8,396,13g,2g,26mg,114mg,62g,5g,10g,10g,,36mg,4mg,494mg,3.2,5,8 moon cakes
-41,6605664,40 mins,15 mins,,55 mins,12 ,12,338,18g,5g,50mg,609mg,28g,1g,4g,17g,1mg,34mg,3mg,212mg,4.1,9,48 wontons
-42,6576623,15 mins,30 mins, 1 hr, 1 hr 45 mins,4 ,4,302,11g,2g,,550mg,46g,1g,2g,5g,3mg,13mg,1mg,90mg,4.3,3,4 servings
-43,6591962, 1 hr,30 mins,30 mins, 2 hrs,4 ,4,693,27g,12g,100mg,141mg,78g,3g,5g,33g,1mg,93mg,6mg,520mg,,,16 buns
-44,6591869,20 mins, 1 hr 35 mins, 1 hr 15 mins, 3 hrs 10 mins,8 ,8,369,10g,2g,20mg,1912mg,61g,3g,11g,8g,25mg,47mg,1mg,353mg,,,1 10-inch cake
-45,6578791,12 mins,8 mins,40 mins, 1 hr,48 ,48,59,4g,1g,4mg,0mg,6g,0g,3g,1g,,2mg,0mg,19mg,3.4,5,4 dozen cookies
-46,6565612,5 mins, 1 hr 5 mins,, 1 hr 10 mins,4 ,4,271,15g,6g,60mg,953mg,18g,1g,17g,15g,6mg,26mg,1mg,179mg,,,4 servings
+,id_recipe,name,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Yield:
+0,6738263,Chinese Spareribs,5 mins,40 mins, 2 hrs, 2 hrs 45 mins,2 ,2,503,31g,11g,121mg,1015mg,23g,1g,18g,30g,3mg,62mg,3mg,407mg,4.4,128,
+1,6650013,Bibimbap (Korean Rice With Mixed Vegetables),30 mins,30 mins,, 1 hr,4 ,4,569,19g,5g,243mg,574mg,63g,4g,7g,35g,30mg,152mg,7mg,1012mg,4.6,84,
+2,6600423,Fortune Cookies,55 mins,30 mins,, 1 hr 25 mins,12 ,12,27,,,,18mg,6g,0g,,1g,,1mg,0mg,7mg,4.2,229,1 dozen
+3,6649574,Lumpia (Shanghai Version), 1 hr,20 mins,, 1 hr 20 mins,20 ,20,262,18g,5g,38mg,1037mg,15g,1g,1g,10g,1mg,21mg,2mg,170mg,4.4,129,
+4,6648633,Shrimp Egg Foo Young,5 mins,20 mins,,25 mins,4 ,4,227,12g,3g,248mg,598mg,15g,1g,9g,15g,10mg,54mg,3mg,252mg,4.4,132,8 patties
+5,6586440,Chinese Tea Leaf Eggs,20 mins, 3 hrs, 8 hrs, 11 hrs 20 mins,8 ,8,76,5g,2g,186mg,659mg,1g,0g,0g,7g,1mg,37mg,1mg,94mg,4.2,36,8 eggs
+6,6648957,Easy Mochi,30 mins,5 mins, 1 hr, 1 hr 35 mins,8 ,8,183,0g,,,82mg,43g,1g,,3g,0mg,13mg,1mg,51mg,4.3,54,8 mochi
+7,6649396,Perfect Pot Stickers,25 mins,5 mins,30 mins, 1 hr,6 ,6,439,19g,6g,55mg,1453mg,46g,2g,4g,20g,11mg,42mg,4mg,391mg,4.7,112,32 pot stickers
+8,6664052,Super Easy Stir-Fried Cabbage,10 mins,5 mins,,15 mins,4 ,4,65,4g,1g,,270mg,7g,3g,4g,2g,42mg,49mg,1mg,208mg,4.5,81,
+9,6650684,Chinese Pork Dumplings,20 mins, 1 hr,, 1 hr 20 mins,5 ,5,540,25g,7g,103mg,2373mg,50g,2g,1g,28g,2mg,91mg,5mg,403mg,4.8,214,50 dumplings
+10,6650487,Authentic Chinese Egg Rolls (from a Chinese person), 1 hr,30 mins, 1 hr, 2 hrs 30 mins,20 ,20,169,7g,1g,46mg,315mg,16g,3g,2g,10g,17mg,38mg,1mg,232mg,4.7,243,20 egg rolls
+11,6563599,Anko (Sweet Red Bean Paste),5 mins, 1 hr 55 mins,, 2 hrs,8 ,8,222,0g,,,9mg,51g,6g,38g,5g,1mg,37mg,2mg,325mg,4.3,16,
+12,6650913,Hoisin-Glazed Salmon,10 mins,30 mins,30 mins, 1 hr 10 mins,6 ,6,382,23g,4g,99mg,848mg,7g,1g,3g,35g,9mg,27mg,1mg,658mg,4.7,154,
+13,6649046,Chinese Barbeque Pork (Char Siu),10 mins, 2 hrs, 3 hrs, 5 hrs 10 mins,6 ,6,513,22g,8g,90mg,2421mg,49g,1g,43g,26g,3mg,57mg,3mg,504mg,4.8,111,
+14,6648899,Steamed Fish with Ginger,15 mins,10 mins,,25 mins,2 ,2,361,17g,3g,73mg,1908mg,2g,1g,0g,48g,3mg,119mg,13mg,1110mg,4.8,109,2 servings
+15,6582167,Chinese Lion's Head Soup,15 mins,20 mins,,35 mins,4 ,4,431,34g,11g,130mg,991mg,7g,2g,2g,24g,33mg,120mg,2mg,649mg,4.6,139,4 servings
+16,6580715,Chinese-Style Baby Bok Choy with Mushroom Sauce,20 mins,15 mins,,35 mins,8 ,8,69,5g,1g,,175mg,5g,1g,2g,2g,23mg,60mg,1mg,278mg,4.7,141,8 servings
+17,6579322,Jian Bing (Chinese Crêpes),15 mins,5 mins,,20 mins,1 ,1,220,11g,3g,186mg,265mg,20g,2g,2g,10g,3mg,51mg,3mg,241mg,4.6,7,1 crêpe
+18,6739853,Pineapple Tarts,45 mins,30 mins,, 1 hr 15 mins,24 ,24,142,5g,3g,28mg,113mg,22g,1g,14g,2g,7mg,25mg,1mg,34mg,4.4,14,24 2-inch tarts
+19,6569147,Chinese Sweet Bun Dough,30 mins,20 mins, 2 hrs 30 mins, 3 hrs 20 mins,12 ,12,119,8g,2g,33mg,408mg,10g,0g,9g,2g,,32mg,0mg,63mg,4.6,42,12 buns
+20,6737547,Homemade Wonton Soup,30 mins,10 mins,,40 mins,8 ,8,363,12g,4g,95mg,683mg,41g,3g,3g,23g,58mg,185mg,5mg,636mg,4.7,374,8 servings
+21,6663344,Tsao Mi Fun (Taiwanese Fried Rice Noodles),35 mins,15 mins,20 mins, 1 hr 10 mins,4 ,4,523,20g,4g,122mg,1106mg,63g,5g,7g,19g,19mg,93mg,3mg,664mg,4.4,40,4 servings
+22,6736526,Pork Wonton Soup, 1 hr,20 mins, 1 hr, 2 hrs 20 mins,4 ,4,513,16g,5g,106mg,846mg,58g,10g,5g,32g,180mg,520mg,8mg,1222mg,4.6,40,4 bowls soup
+23,6590337,Pan-Fried Chinese Pancakes,30 mins,40 mins,, 1 hr 10 mins,8 ,8,120,6g,1g,,75mg,15g,1g,0g,2g,1mg,8mg,1mg,38mg,3.8,25,8 pancakes
+24,6583300,Chinese Sticky Rice Cake,15 mins,55 mins, 2 hrs 10 mins, 3 hrs 20 mins,24 ,24,250,11g,1g,25mg,63mg,35g,0g,14g,4g,0mg,57mg,1mg,69mg,4.6,24,1 - 9x13 inch cake
+25,6737159,Potstickers (Chinese Dumplings),50 mins,12 mins,, 1 hr 2 mins,12 ,12,411,22g,8g,152mg,454mg,16g,1g,1g,35g,6mg,55mg,5mg,471mg,4.4,96,50 potstickers
+26,6598771,Thai-Inspired Steamed Chicken Thighs,25 mins,40 mins,, 1 hr 5 mins,4 ,4,314,18g,5g,69mg,935mg,19g,1g,2g,20g,25mg,27mg,9mg,263mg,4.5,2,
+27,6576559,Chinese Cocktail Buns,45 mins,10 mins, 2 hrs 30 mins, 3 hrs 25 mins,32 ,32,129,5g,3g,20mg,39mg,19g,1g,7g,3g,0mg,41mg,1mg,85mg,4.8,30,32 buns
+28,6737800,Chef John's Chinese Scallion Pancakes,30 mins,20 mins, 2 hrs, 2 hrs 50 mins,8 ,8,200,9g,2g,,366mg,25g,2g,1g,4g,5mg,26mg,2mg,109mg,4.7,40,2 pancakes
+29,6650725,Bánh Tét, 2 hrs, 6 hrs 30 mins, 15 hrs 45 mins,1 day 15 mins,12 ,12,424,6g,2g,14mg,1015mg,76g,5g,2g,15g,1mg,42mg,8mg,349mg,,,
+30,6737397,Lion's Head Meatballs,30 mins,45 mins, 1 hr, 2 hrs 15 mins,6 ,6,315,18g,5g,82mg,1608mg,19g,3g,7g,21g,35mg,257mg,4mg,672mg,4.9,28,
+31,6578067,Crispy Baked Gau,15 mins,50 mins,, 1 hr 5 mins,48 ,48,104,2g,2g,1mg,34mg,21g,0g,13g,1g,0mg,26mg,1mg,50mg,4.4,14,96 pieces
+32,6603709,Dong Po (Chinese Pork Belly),15 mins, 2 hrs,, 2 hrs 15 mins,6 ,6,578,47g,16g,54mg,1230mg,26g,1g,23g,9g,4mg,24mg,1mg,246mg,4.6,16,
+33,6738642,Hiyashi Chuka Noodles,15 mins,5 mins,,20 mins,2 ,2,236,10g,2g,101mg,2093mg,29g,2g,16g,9g,4mg,54mg,2mg,346mg,4.4,32,2 servings
+34,6602752,He Jia Tuan Yuan (Tofu Ball Soup for Lunar Chinese New Year),15 mins,30 mins,,45 mins,5 ,5,239,15g,4g,70mg,786mg,12g,1g,2g,15g,3mg,113mg,2mg,264mg,4.7,11,5 servings
+35,6579116,Almond Cookies (Dim Sum Variety),20 mins,15 mins,,35 mins,24 ,24,173,11g,3g,8mg,78mg,18g,0g,8g,2g,,3mg,1mg,17mg,4.8,41,48 cookies
+36,6584452,Pineapple Baked Rice (Main Course for Chinese New Year),15 mins,50 mins,, 1 hr 5 mins,4 ,4,595,23g,3g,93mg,262mg,90g,6g,35g,14g,168mg,72mg,3mg,482mg,,,4 servings
+37,6585464,General Tso's Whole Turkey, 1 hr, 3 hrs 30 mins, 8 hrs, 12 hrs 30 mins,15 ,15,802,44g,10g,212mg,685mg,23g,1g,10g,75g,5mg,81mg,5mg,811mg,4.0,4,1 whole turkey
+38,6564919,Easy Baked Chinese New Year Cake (Nian Gao),10 mins,50 mins,, 1 hr,12 ,12,250,8g,6g,47mg,25mg,40g,1g,9g,4g,0mg,24mg,1mg,125mg,,,2 8-inch cakes
+39,6565495,Easy Chinese New Year Cookies,15 mins,10 mins,30 mins,55 mins,48 ,48,57,4g,2g,,33mg,5g,1g,4g,1g,,3mg,0mg,39mg,,,4 dozen cookies
+40,6573662,Adzuki Mooncake,30 mins, 1 hr 50 mins, 6 hrs 10 mins, 8 hrs 30 mins,8 ,8,396,13g,2g,26mg,114mg,62g,5g,10g,10g,,36mg,4mg,494mg,3.2,5,8 moon cakes
+41,6605664,Beef and Sausage Fried Wontons,40 mins,15 mins,,55 mins,12 ,12,338,18g,5g,50mg,609mg,28g,1g,4g,17g,1mg,34mg,3mg,212mg,4.1,9,48 wontons
+42,6576623,Fried Rice with Lychees (Koa Pad Lin Gee),15 mins,30 mins, 1 hr, 1 hr 45 mins,4 ,4,302,11g,2g,,550mg,46g,1g,2g,5g,3mg,13mg,1mg,90mg,4.3,3,4 servings
+43,6591962,Steamed Pork Buns, 1 hr,30 mins,30 mins, 2 hrs,4 ,4,693,27g,12g,100mg,141mg,78g,3g,5g,33g,1mg,93mg,6mg,520mg,,,16 buns
+44,6591869,Chinese Steamed Daikon Cake,20 mins, 1 hr 35 mins, 1 hr 15 mins, 3 hrs 10 mins,8 ,8,369,10g,2g,20mg,1912mg,61g,3g,11g,8g,25mg,47mg,1mg,353mg,,,1 10-inch cake
+45,6578791,Chinese-Style Peanut Cookie,12 mins,8 mins,40 mins, 1 hr,48 ,48,59,4g,1g,4mg,0mg,6g,0g,3g,1g,,2mg,0mg,19mg,3.4,5,4 dozen cookies
+46,6565612,Chinese Spareribs with Pineapple,5 mins, 1 hr 5 mins,, 1 hr 10 mins,4 ,4,271,15g,6g,60mg,953mg,18g,1g,17g,15g,6mg,26mg,1mg,179mg,,,4 servings

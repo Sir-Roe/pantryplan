@@ -1,53 +1,53 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
-0,7489045,5 mins,10 mins,15 mins,4 ,4,817,46g,15g,129mg,1970mg,56g,11g,10g,48g,67mg,380mg,8mg,1421mg,5.0,3,,
-1,6650598,5 mins,25 mins,50 mins,2 ,2,300,5g,1g,118mg,1546mg,14g,1g,5g,46g,1mg,37mg,2mg,477mg,4.8,186,20 mins,
-2,6574623,20 mins,35 mins, 1 hr 10 mins,8 ,8,352,28g,9g,107mg,402mg,13g,1g,1g,12g,2mg,147mg,1mg,143mg,4.8,53,15 mins,1 9-inch quiche
-3,6580870,10 mins,, 2 hrs 10 mins,10 ,10,195,13g,7g,28mg,525mg,13g,4g,1g,7g,9mg,153mg,1mg,333mg,4.7,267, 2 hrs,
-4,6602156,15 mins,,15 mins,12 ,12,221,17g,8g,33mg,466mg,11g,3g,1g,8g,7mg,178mg,1mg,268mg,4.7,288,,12 servings
-5,6586592,10 mins, 2 hrs 13 mins, 2 hrs 28 mins,8 ,8,348,8g,2g,22mg,478mg,62g,11g,17g,15g,82mg,201mg,5mg,2492mg,4.7,11,5 mins,8 servings
-6,6587830,10 mins,50 mins, 1 hr 5 mins,6 ,6,447,31g,15g,176mg,451mg,9g,3g,2g,33g,4mg,287mg,3mg,439mg,4.5,13,5 mins,1 11x7-inch casserole
-7,6592484,10 mins,40 mins,50 mins,6 ,6,684,31g,13g,112mg,2036mg,59g,10g,11g,46g,56mg,359mg,7mg,1099mg,4.8,603,,6 servings
-8,6584574,15 mins,25 mins,40 mins,8 ,8,413,27g,13g,94mg,1037mg,15g,4g,3g,26g,4mg,252mg,3mg,561mg,4.4,355,,8 servings
-9,6600314,20 mins, 1 hr, 1 hr 20 mins,12 ,12,411,21g,10g,70mg,863mg,40g,8g,4g,19g,20mg,382mg,3mg,566mg,4.8,20,,1 9x13-inch lasagna
-10,6585702,15 mins,, 1 hr 30 mins,6 ,6,202,19g,1g,,15mg,8g,2g,5g,1g,42mg,24mg,0mg,178mg,4.4,153, 1 hr 15 mins,6 servings
-11,6585986,30 mins, 1 hr 5 mins, 1 hr 35 mins,10 ,10,278,10g,2g,112mg,925mg,16g,4g,2g,33g,24mg,96mg,14mg,872mg,5.0,2,,10 servings
-12,6589273,5 mins,15 mins,20 mins,24 ,24,7,0g,,,4mg,2g,1g,1g,0g,6mg,6mg,0mg,82mg,4.4,17,,3 cups
-13,6598412,10 mins,30 mins, 3 hrs 45 mins,8 ,8,301,22g,2g,65mg,930mg,3g,1g,1g,24g,4mg,21mg,1mg,230mg,4.4,17, 3 hrs 5 mins,8 chicken breasts
-14,6664717,15 mins,30 mins,45 mins,5 ,5,933,59g,24g,108mg,1776mg,69g,10g,10g,35g,13mg,789mg,5mg,1007mg,4.5,40,,15 enchiladas
-15,6587235,10 mins, 1 hr, 1 hr 15 mins,9 ,9,576,29g,15g,91mg,1508mg,47g,4g,4g,33g,11mg,468mg,4mg,553mg,4.4,145,5 mins,
-16,6583870,15 mins, 1 hr 15 mins, 1 hr 30 mins,10 ,10,301,9g,3g,61mg,1152mg,30g,9g,5g,28g,15mg,102mg,5mg,767mg,4.5,205,,
-17,6576849,20 mins,30 mins,50 mins,12 ,12,454,26g,9g,62mg,772mg,34g,4g,3g,21g,3mg,247mg,3mg,471mg,5.0,2,,
-18,6574097,30 mins,30 mins, 1 hr,8 ,8,520,31g,17g,98mg,698mg,32g,2g,1g,29g,5mg,477mg,3mg,332mg,4.2,335,,8 enchiladas
-19,6600178,30 mins, 1 hr, 1 hr 30 mins,8 ,8,375,17g,8g,77mg,1102mg,28g,4g,2g,28g,16mg,270mg,2mg,377mg,4.3,353,,8 servings
-20,6579160,5 mins,50 mins,55 mins,6 ,6,794,49g,24g,172mg,1915mg,40g,7g,4g,47g,7mg,491mg,6mg,747mg,4.4,158,,
-21,6595888,15 mins, 1 hr 5 mins, 1 hr 30 mins,8 ,8,480,30g,11g,72mg,1209mg,31g,2g,5g,24g,16mg,282mg,3mg,285mg,4.3,37,10 mins,8 servings
-22,6604928,25 mins,15 mins,40 mins,4 ,4,714,49g,15g,132mg,1140mg,29g,2g,2g,38g,7mg,234mg,4mg,573mg,4.6,466,,4 burgers
-23,6596022,5 mins,,5 mins,10 ,10,542,33g,7g,12mg,1077mg,53g,7g,12g,11g,13mg,233mg,2mg,319mg,4.6,36,,
-24,6587955,0 mins, 1 hr 5 mins, 1 hr 5 mins,6 ,6,156,1g,0g,2mg,1479mg,32g,3g,1g,4g,7mg,34mg,1mg,208mg,4.1,23,,
-25,6584783,10 mins,20 mins, 2 hrs 30 mins,6 ,,,,,,,,,,,,,,,4.5,44, 2 hrs,6 servings
-26,6580361,20 mins,15 mins,35 mins,4 ,4,333,16g,7g,94mg,945mg,13g,2g,4g,32g,63mg,230mg,2mg,437mg,4.6,42,,4 servings
-27,6663964,10 mins,10 mins,20 mins,8 ,8,14,0g,,,343mg,3g,1g,2g,1g,10mg,10mg,0mg,138mg,5.0,5,,1 pint
-28,6596880,25 mins,35 mins, 1 hr,6 ,6,468,12g,5g,80mg,1751mg,50g,8g,7g,40g,19mg,170mg,4mg,613mg,4.4,100,,6 servings
-29,6577641,15 mins,30 mins, 1 hr 5 mins,4 ,4,186,4g,1g,,79mg,34g,5g,3g,4g,74mg,29mg,2mg,817mg,5.0,3,20 mins,4 servings
-30,6587279,20 mins,, 2 hrs 20 mins,4 ,4,329,12g,2g,,874mg,47g,13g,1g,12g,40mg,100mg,4mg,359mg,4.6,49, 2 hrs,4 servings
-31,6582012,10 mins,35 mins,45 mins,4 ,4,403,11g,3g,90mg,1883mg,45g,10g,6g,31g,58mg,59mg,4mg,550mg,5.0,5,,4 servings
-32,6586906,30 mins,25 mins,55 mins,8 ,8,420,20g,8g,107mg,1064mg,27g,8g,4g,33g,28mg,311mg,3mg,623mg,5.0,4,,1 9x13-inch casserole
-33,6576760,20 mins,45 mins, 1 hr 10 mins,8 ,8,392,19g,7g,118mg,1029mg,30g,2g,3g,26g,13mg,69mg,4mg,475mg,4.4,27,5 mins,1 - 9x5 inch meatloaf
-34,6578030,20 mins,31 mins, 1 hr 6 mins,6 ,6,384,16g,7g,63mg,533mg,39g,3g,5g,21g,47mg,41mg,3mg,531mg,4.7,35,15 mins,6 servings
-35,6598260,20 mins,40 mins, 1 hr,12 ,12,393,14g,5g,38mg,1047mg,49g,5g,1g,19g,2mg,157mg,2mg,247mg,4.3,3,,12 tacos
-36,6588238,30 mins,8 mins,48 mins,2 ,2,789,46g,12g,49mg,1106mg,73g,23g,4g,31g,70mg,270mg,6mg,1836mg,4.6,7,10 mins,2 servings
-37,6605128,10 mins,35 mins,45 mins,4 ,4,411,18g,8g,59mg,1776mg,43g,7g,7g,21g,9mg,151mg,4mg,630mg,4.7,7,,4 servings
-38,6593675,15 mins,25 mins,40 mins,6 ,6,395,14g,5g,46mg,782mg,45g,8g,4g,23g,8mg,65mg,6mg,735mg,5.0,5,,6 servings
-39,6593546,10 mins, 1 hr, 1 hr 10 mins,4 ,4,711,57g,25g,264mg,1605mg,10g,2g,1g,39g,7mg,226mg,5mg,620mg,4.1,20,,4 servings
-40,6586961,,,,16 ,16,30,2g,0g,,31mg,3g,1g,1g,1g,22mg,14mg,0mg,138mg,4.2,13,,2 to 3 cups
-41,6600491,15 mins,,15 mins,6 ,6,263,12g,4g,21mg,438mg,25g,3g,3g,15g,4mg,97mg,2mg,399mg,3.9,22,,6 servings
-42,6568909,30 mins,15 mins,45 mins,15 ,15,449,23g,5g,32mg,379mg,58g,3g,41g,7g,1mg,117mg,2mg,265mg,3.8,13,,1 - 10x15 inch jelly roll pan
-43,6589144,25 mins,55 mins, 1 hr 45 mins,5 ,5,674,15g,2g,,1061mg,111g,21g,10g,30g,17mg,166mg,7mg,1859mg,4.5,2,25 mins,5 bowls
-44,6585529,5 mins,25 mins,30 mins,4 ,4,234,6g,1g,,211mg,55g,5g,23g,6g,46mg,41mg,3mg,441mg,3.5,2,,4 servings
-45,6584809,20 mins,30 mins,50 mins,4 ,4,247,7g,1g,82mg,81mg,15g,4g,5g,32g,124mg,71mg,4mg,650mg,5.0,1,,4 servings
-46,6575005,15 mins,10 mins,25 mins,12 ,12,239,18g,10g,64mg,704mg,5g,0g,2g,13g,1mg,154mg,1mg,200mg,4.6,90,,12 servings
-47,6605334,20 mins,35 mins,55 mins,6 ,6,219,13g,6g,69mg,379mg,18g,3g,3g,8g,58mg,97mg,1mg,488mg,4.4,11,,6 servings
-48,6576062,10 mins,25 mins,35 mins,2 ,2,244,11g,3g,186mg,538mg,19g,1g,3g,18g,0mg,451mg,8mg,238mg,5.0,1,,2 servings
-49,6580805,15 mins,25 mins,40 mins,4 ,4,598,36g,16g,64mg,967mg,48g,4g,5g,22g,32mg,510mg,3mg,395mg,4.7,26,,4 quesadillas
-50,6579361,,,,6 ,6,975,64g,31g,206mg,1624mg,47g,6g,5g,56g,78mg,756mg,5mg,898mg,4.4,71,,6 servings
-51,6590333,15 mins, 1 hr, 1 hr 15 mins,8 ,8,261,15g,5g,77mg,729mg,13g,1g,2g,17g,9mg,45mg,3mg,282mg,4.3,3,,8 slices
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
+0,7489045,Loaded Beef Nachos,5 mins,10 mins,15 mins,4 ,4,817,46g,15g,129mg,1970mg,56g,11g,10g,48g,67mg,380mg,8mg,1421mg,5.0,3,,
+1,6650598,Instant Pot Salsa Chicken,5 mins,25 mins,50 mins,2 ,2,300,5g,1g,118mg,1546mg,14g,1g,5g,46g,1mg,37mg,2mg,477mg,4.8,186,20 mins,
+2,6574623,Spinach Quiche with Chicken,20 mins,35 mins, 1 hr 10 mins,8 ,8,352,28g,9g,107mg,402mg,13g,1g,1g,12g,2mg,147mg,1mg,143mg,4.8,53,15 mins,1 9-inch quiche
+3,6580870,Mexican Layered Dip,10 mins,, 2 hrs 10 mins,10 ,10,195,13g,7g,28mg,525mg,13g,4g,1g,7g,9mg,153mg,1mg,333mg,4.7,267, 2 hrs,
+4,6602156,Seven Layer Tex Mex Dip,15 mins,,15 mins,12 ,12,221,17g,8g,33mg,466mg,11g,3g,1g,8g,7mg,178mg,1mg,268mg,4.7,288,,12 servings
+5,6586592,Calabacita con Puerco (Pork with Squash),10 mins, 2 hrs 13 mins, 2 hrs 28 mins,8 ,8,348,8g,2g,22mg,478mg,62g,11g,17g,15g,82mg,201mg,5mg,2492mg,4.7,11,5 mins,8 servings
+6,6587830,Keto Tex-Mex Ground Beef Casserole,10 mins,50 mins, 1 hr 5 mins,6 ,6,447,31g,15g,176mg,451mg,9g,3g,2g,33g,4mg,287mg,3mg,439mg,4.5,13,5 mins,1 11x7-inch casserole
+7,6592484,Tex-Mex Turkey Soup,10 mins,40 mins,50 mins,6 ,6,684,31g,13g,112mg,2036mg,59g,10g,11g,46g,56mg,359mg,7mg,1099mg,4.8,603,,6 servings
+8,6584574,Taco Bake I,15 mins,25 mins,40 mins,8 ,8,413,27g,13g,94mg,1037mg,15g,4g,3g,26g,4mg,252mg,3mg,561mg,4.4,355,,8 servings
+9,6600314,Vegetarian Mexican Lasagna,20 mins, 1 hr, 1 hr 20 mins,12 ,12,411,21g,10g,70mg,863mg,40g,8g,4g,19g,20mg,382mg,3mg,566mg,4.8,20,,1 9x13-inch lasagna
+10,6585702,Spicy Southwestern Slaw,15 mins,, 1 hr 30 mins,6 ,6,202,19g,1g,,15mg,8g,2g,5g,1g,42mg,24mg,0mg,178mg,4.4,153, 1 hr 15 mins,6 servings
+11,6585986,Sopa de Mariscos (Seafood Soup),30 mins, 1 hr 5 mins, 1 hr 35 mins,10 ,10,278,10g,2g,112mg,925mg,16g,4g,2g,33g,24mg,96mg,14mg,872mg,5.0,2,,10 servings
+12,6589273,Tomato Salsa without Onions,5 mins,15 mins,20 mins,24 ,24,7,0g,,,4mg,2g,1g,1g,0g,6mg,6mg,0mg,82mg,4.4,17,,3 cups
+13,6598412,Chili Lime Chicken,10 mins,30 mins, 3 hrs 45 mins,8 ,8,301,22g,2g,65mg,930mg,3g,1g,1g,24g,4mg,21mg,1mg,230mg,4.4,17, 3 hrs 5 mins,8 chicken breasts
+14,6664717,Tex-Mex Enchiladas,15 mins,30 mins,45 mins,5 ,5,933,59g,24g,108mg,1776mg,69g,10g,10g,35g,13mg,789mg,5mg,1007mg,4.5,40,,15 enchiladas
+15,6587235,Easy Enchilada Casserole,10 mins, 1 hr, 1 hr 15 mins,9 ,9,576,29g,15g,91mg,1508mg,47g,4g,4g,33g,11mg,468mg,4mg,553mg,4.4,145,5 mins,
+16,6583870,Buffalo Chicken Chili,15 mins, 1 hr 15 mins, 1 hr 30 mins,10 ,10,301,9g,3g,61mg,1152mg,30g,9g,5g,28g,15mg,102mg,5mg,767mg,4.5,205,,
+17,6576849,Burrito Casserole,20 mins,30 mins,50 mins,12 ,12,454,26g,9g,62mg,772mg,34g,4g,3g,21g,3mg,247mg,3mg,471mg,5.0,2,,
+18,6574097,Mild Cheesy Chicken Enchiladas,30 mins,30 mins, 1 hr,8 ,8,520,31g,17g,98mg,698mg,32g,2g,1g,29g,5mg,477mg,3mg,332mg,4.2,335,,8 enchiladas
+19,6600178,King Ranch Chicken Casserole III,30 mins, 1 hr, 1 hr 30 mins,8 ,8,375,17g,8g,77mg,1102mg,28g,4g,2g,28g,16mg,270mg,2mg,377mg,4.3,353,,8 servings
+20,6579160,Tex-Mex Beef and Cheese Enchiladas,5 mins,50 mins,55 mins,6 ,6,794,49g,24g,172mg,1915mg,40g,7g,4g,47g,7mg,491mg,6mg,747mg,4.4,158,,
+21,6595888,Tex-Mex Chicken Casserole,15 mins, 1 hr 5 mins, 1 hr 30 mins,8 ,8,480,30g,11g,72mg,1209mg,31g,2g,5g,24g,16mg,282mg,3mg,285mg,4.3,37,10 mins,8 servings
+22,6604928,Tex-Mex Burger with Cajun Mayo,25 mins,15 mins,40 mins,4 ,4,714,49g,15g,132mg,1140mg,29g,2g,2g,38g,7mg,234mg,4mg,573mg,4.6,466,,4 burgers
+23,6596022,Spicy Tex-Mex Salad,5 mins,,5 mins,10 ,10,542,33g,7g,12mg,1077mg,53g,7g,12g,11g,13mg,233mg,2mg,319mg,4.6,36,,
+24,6587955,Brown Spanish Rice,0 mins, 1 hr 5 mins, 1 hr 5 mins,6 ,6,156,1g,0g,2mg,1479mg,32g,3g,1g,4g,7mg,34mg,1mg,208mg,4.1,23,,
+25,6584783,Sizzling Steak Fajitas,10 mins,20 mins, 2 hrs 30 mins,6 ,,,,,,,,,,,,,,,4.5,44, 2 hrs,6 servings
+26,6580361,Tex Mex Stir Fry,20 mins,15 mins,35 mins,4 ,4,333,16g,7g,94mg,945mg,13g,2g,4g,32g,63mg,230mg,2mg,437mg,4.6,42,,4 servings
+27,6663964,Authentic Fire-Roasted Tex-Mex Salsa,10 mins,10 mins,20 mins,8 ,8,14,0g,,,343mg,3g,1g,2g,1g,10mg,10mg,0mg,138mg,5.0,5,,1 pint
+28,6596880,Mexican Lasagna Lite,25 mins,35 mins, 1 hr,6 ,6,468,12g,5g,80mg,1751mg,50g,8g,7g,40g,19mg,170mg,4mg,613mg,4.4,100,,6 servings
+29,6577641,Tex-Mex Air Fryer Hash Browns,15 mins,30 mins, 1 hr 5 mins,4 ,4,186,4g,1g,,79mg,34g,5g,3g,4g,74mg,29mg,2mg,817mg,5.0,3,20 mins,4 servings
+30,6587279,Mediterranean Bean Salad,20 mins,, 2 hrs 20 mins,4 ,4,329,12g,2g,,874mg,47g,13g,1g,12g,40mg,100mg,4mg,359mg,4.6,49, 2 hrs,4 servings
+31,6582012,Mexican Black Bean and Turkey Wraps,10 mins,35 mins,45 mins,4 ,4,403,11g,3g,90mg,1883mg,45g,10g,6g,31g,58mg,59mg,4mg,550mg,5.0,5,,4 servings
+32,6586906,Green Chile Chicken Casserole,30 mins,25 mins,55 mins,8 ,8,420,20g,8g,107mg,1064mg,27g,8g,4g,33g,28mg,311mg,3mg,623mg,5.0,4,,1 9x13-inch casserole
+33,6576760,No Ordinary Meatloaf,20 mins,45 mins, 1 hr 10 mins,8 ,8,392,19g,7g,118mg,1029mg,30g,2g,3g,26g,13mg,69mg,4mg,475mg,4.4,27,5 mins,1 - 9x5 inch meatloaf
+34,6578030,Cheesy Pork Taco Rice,20 mins,31 mins, 1 hr 6 mins,6 ,6,384,16g,7g,63mg,533mg,39g,3g,5g,21g,47mg,41mg,3mg,531mg,4.7,35,15 mins,6 servings
+35,6598260,Easy Tex-Mex Chicken Tacos,20 mins,40 mins, 1 hr,12 ,12,393,14g,5g,38mg,1047mg,49g,5g,1g,19g,2mg,157mg,2mg,247mg,4.3,3,,12 tacos
+36,6588238,Tex-Mex Beef Bowl with Avocado Cilantro Dressing,30 mins,8 mins,48 mins,2 ,2,789,46g,12g,49mg,1106mg,73g,23g,4g,31g,70mg,270mg,6mg,1836mg,4.6,7,10 mins,2 servings
+37,6605128,Tex-Mex Pantry Casserole,10 mins,35 mins,45 mins,4 ,4,411,18g,8g,59mg,1776mg,43g,7g,7g,21g,9mg,151mg,4mg,630mg,4.7,7,,4 servings
+38,6593675,Easy Chili Cavatappi,15 mins,25 mins,40 mins,6 ,6,395,14g,5g,46mg,782mg,45g,8g,4g,23g,8mg,65mg,6mg,735mg,5.0,5,,6 servings
+39,6593546,Tex Mex Meatloaf,10 mins, 1 hr, 1 hr 10 mins,4 ,4,711,57g,25g,264mg,1605mg,10g,2g,1g,39g,7mg,226mg,5mg,620mg,4.1,20,,4 servings
+40,6586961,Lite Brocamole,,,,16 ,16,30,2g,0g,,31mg,3g,1g,1g,1g,22mg,14mg,0mg,138mg,4.2,13,,2 to 3 cups
+41,6600491,Tex-Mex Tuna Salad,15 mins,,15 mins,6 ,6,263,12g,4g,21mg,438mg,25g,3g,3g,15g,4mg,97mg,2mg,399mg,3.9,22,,6 servings
+42,6568909,Tex-Mex Sheet Cake,30 mins,15 mins,45 mins,15 ,15,449,23g,5g,32mg,379mg,58g,3g,41g,7g,1mg,117mg,2mg,265mg,3.8,13,,1 - 10x15 inch jelly roll pan
+43,6589144,Instant Pot Vegan Tex-Mex Bowls,25 mins,55 mins, 1 hr 45 mins,5 ,5,674,15g,2g,,1061mg,111g,21g,10g,30g,17mg,166mg,7mg,1859mg,4.5,2,25 mins,5 bowls
+44,6585529,Corn and Roasted Red Pepper Salad,5 mins,25 mins,30 mins,4 ,4,234,6g,1g,,211mg,55g,5g,23g,6g,46mg,41mg,3mg,441mg,3.5,2,,4 servings
+45,6584809,Air Fryer Turkey Fajitas,20 mins,30 mins,50 mins,4 ,4,247,7g,1g,82mg,81mg,15g,4g,5g,32g,124mg,71mg,4mg,650mg,5.0,1,,4 servings
+46,6575005,Mexican Style Dip,15 mins,10 mins,25 mins,12 ,12,239,18g,10g,64mg,704mg,5g,0g,2g,13g,1mg,154mg,1mg,200mg,4.6,90,,12 servings
+47,6605334,Tex Mex Potato Soup,20 mins,35 mins,55 mins,6 ,6,219,13g,6g,69mg,379mg,18g,3g,3g,8g,58mg,97mg,1mg,488mg,4.4,11,,6 servings
+48,6576062,Air Fryer Tofu Milanesa,10 mins,25 mins,35 mins,2 ,2,244,11g,3g,186mg,538mg,19g,1g,3g,18g,0mg,451mg,8mg,238mg,5.0,1,,2 servings
+49,6580805,Andouille and Poblano Quesadillas,15 mins,25 mins,40 mins,4 ,4,598,36g,16g,64mg,967mg,48g,4g,5g,22g,32mg,510mg,3mg,395mg,4.7,26,,4 quesadillas
+50,6579361,Monster Sour Cream Enchiladas,,,,6 ,6,975,64g,31g,206mg,1624mg,47g,6g,5g,56g,78mg,756mg,5mg,898mg,4.4,71,,6 servings
+51,6590333,Mark's Surprise Meatloaf,15 mins, 1 hr, 1 hr 15 mins,8 ,8,261,15g,5g,77mg,729mg,13g,1g,2g,17g,9mg,45mg,3mg,282mg,4.3,3,,8 slices

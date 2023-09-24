@@ -1,62 +1,62 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Servings:,Servings Per Recipe,Rise Time:,Yield:,Cool Time:,Additional Time:
-0,7644701,20 mins,10 mins,30 mins,4120,244g,105g,502mg,11108mg,288g,25g,39g,189g,43mg,3815mg,17mg,3067mg,4.0,1,,,,,,
-1,7644619,15 mins,5 mins,20 mins,448,19g,5g,21mg,703mg,56g,3g,4g,12g,32mg,113mg,4mg,273mg,,,4 ,4,,,,
-2,7568835,20 mins,6 mins,26 mins,461,21g,6g,27mg,607mg,57g,3g,4g,11g,6mg,131mg,3mg,178mg,,,4 ,4,,,,
-3,7568213,30 mins,10 mins, 5 hrs 40 mins,1301,78g,30g,122mg,1530mg,104g,5g,7g,44g,10mg,869mg,3mg,652mg,4.2,5,4 ,4, 5 hrs,4 10-inch pizzas,,
-4,7565207,5 mins,20 mins,25 mins,164,5g,2g,8mg,406mg,24g,1g,2g,7g,1mg,56mg,2mg,114mg,4.7,3,15 ,15,,,,
-5,7559275,15 mins,10 mins,25 mins,569,26g,11g,71mg,1274mg,54g,2g,3g,29g,0mg,420mg,4mg,231mg,,,4 ,4,,,,
-6,7559340,15 mins,10 mins,40 mins,654,35g,18g,96mg,1241mg,57g,2g,3g,27g,0mg,526mg,3mg,189mg,,,4 ,4,,,15 mins,
-7,7508264,10 mins,15 mins,25 mins,732,16g,6g,28mg,1490mg,118g,7g,11g,29g,200mg,498mg,6mg,669mg,3.5,2,1 ,1,,1 pita pizza,,
-8,7503843,15 mins,5 mins,20 mins,443,15g,5g,28mg,712mg,61g,4g,9g,16g,22mg,212mg,4mg,486mg,,,4 ,4,,,,
-9,7504226,10 mins,12 mins,22 mins,291,16g,7g,32mg,872mg,23g,3g,4g,15g,10mg,376mg,2mg,370mg,5.0,4,4 ,4,,4 pizza boats,,
-10,7496725,10 mins,10 mins, 1 hr 50 mins,325,14g,5g,29mg,976mg,38g,2g,6g,13g,28mg,165mg,3mg,272mg,,,4 servings,4, 1 hr 30 mins,1 (12-inch) pizza,,
-11,7483839,15 mins,15 mins,30 mins,301,17g,8g,29mg,859mg,28g,1g,5g,8g,2mg,94mg,2mg,183mg,,,8 servings,8,,,,
-12,7480222,10 mins,20 mins,30 mins,321,24g,13g,66mg,632mg,14g,1g,2g,12g,3mg,250mg,1mg,178mg,4.7,15,6 ,6,,6 bread and butter pizza slices,,
-13,7369199,5 mins,18 mins,23 mins,4455,105g,17g,38mg,7719mg,746g,31g,17g,117g,1mg,328mg,45mg,1457mg,4.3,3,4 servings,4,,,,
-14,7368465,5 mins,20 mins,25 mins,287,11g,4g,15mg,439mg,41g,2g,1g,6g,0mg,16mg,3mg,80mg,4.0,1,4 ,4,,,,
-15,6583633,25 mins,15 mins,40 mins,602,37g,16g,134mg,1679mg,31g,11g,6g,44g,3mg,683mg,2mg,537mg,4.5,42,6 ,6,,6 servings,,
-16,6738665,10 mins,10 mins,20 mins,833,43g,13g,201mg,1024mg,37g,5g,5g,71g,57mg,393mg,6mg,841mg,4.8,60,1 ,1,,1 tortilla pizza,,
-17,6739222,25 mins,10 mins, 1 hr 40 mins,196,13g,8g,36mg,359mg,16g,2g,1g,5g,18mg,56mg,1mg,124mg,4.7,522,16 ,16,,1 pizza,, 1 hr 5 mins
-18,6571277,20 mins,15 mins,35 mins,385,16g,9g,58mg,1666mg,38g,2g,9g,23g,3mg,24mg,1mg,94mg,4.5,430,8 ,8,,1 (12-inch) pizza,,
-19,7255338,15 mins,18 mins,33 mins,194,14g,5g,57mg,314mg,8g,1g,2g,10g,10mg,194mg,1mg,213mg,4.6,5,6 servings,6,,,,
-20,7104308,20 mins,20 mins,45 mins,322,14g,5g,32mg,844mg,34g,1g,,14g,,,,72mg,4.5,6,8 ,8,,1 (12-inch) pizza,,5 mins
-21,6889025,15 mins,8 mins,23 mins,966,36g,16g,105mg,2660mg,101g,3g,,55g,,,,158mg,3.0,1,2 ,2,,2 personal pizzas,,
-22,6824198,10 mins,15 mins,25 mins,885,51g,23g,134mg,2225mg,60g,4g,,48g,,,,314mg,4.5,2,4 ,4,,,,
-23,6747232,20 mins,25 mins,45 mins,714,35g,13g,63mg,1495mg,64g,4g,,35g,,,,483mg,5.0,4,4 ,4,,1 (14-inch) pizza,,
-24,6746960,15 mins,10 mins,25 mins,301,19g,4g,20mg,493mg,23g,5g,,12g,,,,162mg,5.0,4,3 ,3,,,,
-25,6648965,10 mins,10 mins,20 mins,327,14g,7g,45mg,839mg,30g,1g,2g,21g,3mg,554mg,1mg,70mg,4.6,294,4 ,4,,8 pizzas,,
-26,6738734,20 mins,25 mins,45 mins,370,19g,10g,56mg,848mg,32g,5g,3g,20g,10mg,324mg,3mg,452mg,4.6,643,8 ,8,,2 Mexican pizzas,,
-27,6649786,15 mins,15 mins, 1 hr 45 mins,467,39g,14g,58mg,741mg,21g,1g,4g,9g,24mg,111mg,2mg,198mg,4.6,320,12 ,12,,1 pizza,, 1 hr 15 mins
-28,6574061,5 mins,10 mins,15 mins,158,6g,3g,13mg,514mg,20g,2g,1g,8g,5mg,165mg,1mg,165mg,4.5,68,12 ,12,,6 pizzas,,
-29,6568963,20 mins,20 mins,40 mins,590,29g,10g,48mg,1408mg,60g,3g,6g,20g,0mg,168mg,3mg,104mg,4.8,60,6 ,6,,2 12-inch pizzas,,
-30,6588932,15 mins,35 mins,50 mins,340,22g,9g,165mg,811mg,16g,0g,3g,21g,2mg,168mg,2mg,314mg,4.3,64,8 ,8,,1 12-inch pizza,,
-31,6737818,45 mins,15 mins, 3 hrs,212,11g,3g,11mg,399mg,22g,1g,1g,6g,3mg,82mg,2mg,95mg,4.7,456,16 ,16,,2 pizzas,, 2 hrs
-32,6738978,30 mins,10 mins, 16 hrs 45 mins,145,5g,2g,7mg,213mg,19g,1g,0g,6g,1mg,91mg,1mg,56mg,4.8,213,16 ,16,,2 14-inch pizzas,, 16 hrs 5 mins
-33,6651076,10 mins,10 mins,20 mins,394,20g,8g,36mg,937mg,39g,3g,4g,17g,17mg,282mg,1mg,164mg,4.7,210,6 ,6,,,,
-34,6577103,35 mins,20 mins, 1 hr 50 mins,174,6g,3g,14mg,370mg,21g,1g,,8g,3mg,177mg,2mg,169mg,4.5,181,16 ,16,,2 12-inch pizzas,,55 mins
-35,6649923,10 mins,20 mins,30 mins,511,20g,9g,55mg,1748mg,56g,2g,8g,23g,3mg,268mg,4mg,96mg,4.5,6,4 ,4,,2 small pizzas,,
-36,6663549,35 mins,35 mins, 2 hrs 30 mins,613,32g,14g,75mg,1487mg,53g,3g,5g,25g,10mg,416mg,4mg,215mg,4.7,43,10 ,10,,1 12-inch pizza,, 1 hr 20 mins
-37,6650461,15 mins,5 mins,25 mins,428,24g,7g,28mg,1085mg,40g,1g,,14g,4mg,176mg,0mg,28mg,4.5,"1,382",10 ,10,,1 16-inch pizza,,5 mins
-38,6650093,25 mins,15 mins, 1 hr 45 mins,474,27g,12g,63mg,1146mg,36g,3g,,21g,2mg,313mg,3mg,403mg,4.7,54,9 ,9,,1 14x10-inch pizza,, 1 hr 5 mins
-39,6736480,5 mins,10 mins,25 mins,126,6g,2g,7mg,439mg,14g,0g,3g,4g,2mg,75mg,1mg,57mg,4.5,70,10 ,10,,10 pizza muffins,,10 mins
-40,6579046,15 mins,15 mins,30 mins,259,6g,2g,19mg,591mg,39g,2g,5g,13g,3mg,7mg,0mg,94mg,4.7,26,6 ,6,,1 pizza,,
-41,6663446,15 mins,25 mins,45 mins,740,34g,17g,112mg,2012mg,67g,4g,14g,45g,14mg,611mg,2mg,499mg,4.6,45,4 ,4,,,,5 mins
-42,6650739,15 mins,10 mins,25 mins,626,29g,14g,92mg,1222mg,50g,9g,5g,41g,7mg,946mg,1mg,217mg,4.8,27,2 ,2,,2 pizzas,,
-43,6648437,17 mins,30 mins,50 mins,770,48g,23g,150mg,1542mg,42g,10g,4g,42g,24mg,534mg,5mg,866mg,4.5,239,4 ,4,,4 pizzas,,3 mins
-44,6591603,15 mins,15 mins,35 mins,149,4g,1g,8mg,435mg,21g,1g,3g,7g,5mg,81mg,1mg,56mg,5.0,6,8 ,8,,8 pizza cupcakes,,5 mins
-45,6664877,10 mins,10 mins,20 mins,232,6g,3g,33mg,788mg,30g,1g,1g,14g,1mg,49mg,3mg,142mg,4.6,26,4 ,4,,16 mini bagel pizzas,,
-46,6650092,30 mins,10 mins, 1 hr 45 mins,966,37g,16g,90mg,2187mg,106g,6g,6g,49g,12mg,1159mg,8mg,287mg,4.6,40,4 ,4,,4 pizzas,, 1 hr 5 mins
-47,6738222,15 mins,45 mins, 1 hr,293,16g,8g,44mg,689mg,22g,1g,3g,16g,5mg,274mg,2mg,173mg,4.6,59,8 ,8,,1 16-inch pizza,,
-48,6650762,40 mins,35 mins, 2 hrs 25 mins,397,9g,4g,49mg,1291mg,63g,5g,9g,17g,25mg,302mg,6mg,649mg,4.8,28,6 ,6,,6 servings,, 1 hr 10 mins
-49,6650044,10 mins,17 mins,27 mins,327,15g,7g,46mg,681mg,32g,1g,5g,15g,1mg,169mg,2mg,113mg,4.8,24,8 ,8,,1 pizza,,
-50,6592279, 2 hrs,20 mins, 2 hrs 20 mins,338,16g,8g,42mg,708mg,33g,3g,3g,15g,3mg,225mg,3mg,236mg,4.5,246,16 ,16,,2 to 12 - inch pizzas,,
-51,6737754,30 mins,15 mins,45 mins,506,28g,13g,220mg,2521mg,5g,1g,3g,57g,4mg,545mg,2mg,285mg,4.5,100,6 ,6,,1 -12x17-inch pizza,,
-52,6598143,20 mins,12 mins,32 mins,235,13g,5g,24mg,759mg,16g,1g,4g,11g,5mg,238mg,1mg,41mg,4.4,758,8 ,8,,16 pinwheels,,
-53,6738211,25 mins, 1 hr 5 mins, 3 hrs,444,20g,6g,23mg,780mg,51g,3g,5g,15g,3mg,259mg,4mg,276mg,4.9,18,12 ,12,,1 large pizza,, 1 hr 30 mins
-54,6585680,25 mins, 1 hr 20 mins, 1 hr 50 mins,440,28g,10g,43mg,627mg,33g,3g,3g,14g,17mg,274mg,2mg,446mg,5.0,26,8 ,8,,8 servings,,5 mins
-55,6664275,10 mins,10 mins,20 mins,457,22g,7g,61mg,767mg,38g,3g,2g,30g,8mg,213mg,1mg,151mg,4.7,313,6 ,6,,6 servings,,
-56,6584517,15 mins,15 mins, 1 hr,275,12g,2g,9mg,723mg,33g,2g,5g,8g,5mg,35mg,2mg,167mg,4.5,15,16 ,16,,16 servings,,30 mins
-57,6573875,10 mins,35 mins,45 mins,341,14g,7g,55mg,787mg,29g,3g,3g,22g,6mg,348mg,3mg,234mg,4.5,47,8 ,8,,16 mini pizzas,,
-58,6604853,15 mins,25 mins,40 mins,433,27g,17g,85mg,1141mg,22g,1g,4g,26g,14mg,459mg,2mg,296mg,4.4,16,8 ,8,,8 servings,,
-59,6576837,15 mins,25 mins,40 mins,340,22g,9g,165mg,811mg,16g,0g,3g,21g,2mg,168mg,2mg,314mg,4.4,286,8 ,8,,1 to 12 - inch pizza,,
-60,6597847,10 mins,,25 mins,337,19g,7g,31mg,1091mg,27g,1g,6g,14g,3mg,273mg,2mg,58mg,4.4,93,8 ,8,,8 pizzas,,15 mins
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Servings:,Servings Per Recipe,Rise Time:,Yield:,Cool Time:,Additional Time:
+0,7644701,Mini Pepperoni Pizza Cups,20 mins,10 mins,30 mins,4120,244g,105g,502mg,11108mg,288g,25g,39g,189g,43mg,3815mg,17mg,3067mg,4.0,1,,,,,,
+1,7644619,Summer Pizza,15 mins,5 mins,20 mins,448,19g,5g,21mg,703mg,56g,3g,4g,12g,32mg,113mg,4mg,273mg,,,4 ,4,,,,
+2,7568835,Elote Pizza,20 mins,6 mins,26 mins,461,21g,6g,27mg,607mg,57g,3g,4g,11g,6mg,131mg,3mg,178mg,,,4 ,4,,,,
+3,7568213,South Shore Bar Pizza,30 mins,10 mins, 5 hrs 40 mins,1301,78g,30g,122mg,1530mg,104g,5g,7g,44g,10mg,869mg,3mg,652mg,4.2,5,4 ,4, 5 hrs,4 10-inch pizzas,,
+4,7565207,Baguette Pizza,5 mins,20 mins,25 mins,164,5g,2g,8mg,406mg,24g,1g,2g,7g,1mg,56mg,2mg,114mg,4.7,3,15 ,15,,,,
+5,7559275,Pizza Bianca with Prosciutto,15 mins,10 mins,25 mins,569,26g,11g,71mg,1274mg,54g,2g,3g,29g,0mg,420mg,4mg,231mg,,,4 ,4,,,,
+6,7559340,Grilled Pizza Bianca,15 mins,10 mins,40 mins,654,35g,18g,96mg,1241mg,57g,2g,3g,27g,0mg,526mg,3mg,189mg,,,4 ,4,,,15 mins,
+7,7508264,Grilled Pita Pizza,10 mins,15 mins,25 mins,732,16g,6g,28mg,1490mg,118g,7g,11g,29g,200mg,498mg,6mg,669mg,3.5,2,1 ,1,,1 pita pizza,,
+8,7503843,This Bruschetta Pizza Recipe Is Full of Irresistible Italian Flavor,15 mins,5 mins,20 mins,443,15g,5g,28mg,712mg,61g,4g,9g,16g,22mg,212mg,4mg,486mg,,,4 ,4,,,,
+9,7504226,Pizza Boats,10 mins,12 mins,22 mins,291,16g,7g,32mg,872mg,23g,3g,4g,15g,10mg,376mg,2mg,370mg,5.0,4,4 ,4,,4 pizza boats,,
+10,7496725,Tavern Pizza,10 mins,10 mins, 1 hr 50 mins,325,14g,5g,29mg,976mg,38g,2g,6g,13g,28mg,165mg,3mg,272mg,,,4 servings,4, 1 hr 30 mins,1 (12-inch) pizza,,
+11,7483839,Pizza Bombs,15 mins,15 mins,30 mins,301,17g,8g,29mg,859mg,28g,1g,5g,8g,2mg,94mg,2mg,183mg,,,8 servings,8,,,,
+12,7480222,Bread and Butter Pizza,10 mins,20 mins,30 mins,321,24g,13g,66mg,632mg,14g,1g,2g,12g,3mg,250mg,1mg,178mg,4.7,15,6 ,6,,6 bread and butter pizza slices,,
+13,7369199,Chicken Parmesan Pizza,5 mins,18 mins,23 mins,4455,105g,17g,38mg,7719mg,746g,31g,17g,117g,1mg,328mg,45mg,1457mg,4.3,3,4 servings,4,,,,
+14,7368465,Pizza Dough Breadsticks,5 mins,20 mins,25 mins,287,11g,4g,15mg,439mg,41g,2g,1g,6g,0mg,16mg,3mg,80mg,4.0,1,4 ,4,,,,
+15,6583633,Lasagna Flatbread,25 mins,15 mins,40 mins,602,37g,16g,134mg,1679mg,31g,11g,6g,44g,3mg,683mg,2mg,537mg,4.5,42,6 ,6,,6 servings,,
+16,6738665,Easy Tortilla Pizza,10 mins,10 mins,20 mins,833,43g,13g,201mg,1024mg,37g,5g,5g,71g,57mg,393mg,6mg,841mg,4.8,61,1 ,1,,1 tortilla pizza,,
+17,6739222,Veggie Pizza,25 mins,10 mins, 1 hr 40 mins,196,13g,8g,36mg,359mg,16g,2g,1g,5g,18mg,56mg,1mg,124mg,4.7,522,16 ,16,,1 pizza,, 1 hr 5 mins
+18,6571277,BBQ Chicken Pizza,20 mins,15 mins,35 mins,385,16g,9g,58mg,1666mg,38g,2g,9g,23g,3mg,24mg,1mg,94mg,4.5,430,8 ,8,,1 (12-inch) pizza,,
+19,7255338,Puff Pastry Margherita Pizza,15 mins,18 mins,33 mins,194,14g,5g,57mg,314mg,8g,1g,2g,10g,10mg,194mg,1mg,213mg,4.6,5,6 servings,6,,,,
+20,7104308,Hawaiian Pizza,20 mins,20 mins,45 mins,322,14g,5g,32mg,844mg,34g,1g,,14g,,,,72mg,4.5,6,8 ,8,,1 (12-inch) pizza,,5 mins
+21,6889025,Air Fryer Pizza,15 mins,8 mins,23 mins,966,36g,16g,105mg,2660mg,101g,3g,,55g,,,,158mg,3.0,1,2 ,2,,2 personal pizzas,,
+22,6824198,Cowboy Pizza,10 mins,15 mins,25 mins,885,51g,23g,134mg,2225mg,60g,4g,,48g,,,,314mg,4.5,2,4 ,4,,,,
+23,6747232,Mushroom Pizza,20 mins,25 mins,45 mins,714,35g,13g,63mg,1495mg,64g,4g,,35g,,,,483mg,5.0,4,4 ,4,,1 (14-inch) pizza,,
+24,6746960,Spinach-Artichoke Garlic Naan Pizza,15 mins,10 mins,25 mins,301,19g,4g,20mg,493mg,23g,5g,,12g,,,,162mg,5.0,4,3 ,3,,,,
+25,6648965,Fast English Muffin Pizzas,10 mins,10 mins,20 mins,327,14g,7g,45mg,839mg,30g,1g,2g,21g,3mg,554mg,1mg,70mg,4.6,294,4 ,4,,8 pizzas,,
+26,6738734,Mexican Pizza,20 mins,25 mins,45 mins,370,19g,10g,56mg,848mg,32g,5g,3g,20g,10mg,324mg,3mg,452mg,4.6,643,8 ,8,,2 Mexican pizzas,,
+27,6649786,Vegetable Pizza,15 mins,15 mins, 1 hr 45 mins,467,39g,14g,58mg,741mg,21g,1g,4g,9g,24mg,111mg,2mg,198mg,4.6,320,12 ,12,,1 pizza,, 1 hr 15 mins
+28,6574061,Pita Pizza,5 mins,10 mins,15 mins,158,6g,3g,13mg,514mg,20g,2g,1g,8g,5mg,165mg,1mg,165mg,4.5,68,12 ,12,,6 pizzas,,
+29,6568963,Homemade Pepperoni Pizza,20 mins,20 mins,40 mins,590,29g,10g,48mg,1408mg,60g,3g,6g,20g,0mg,168mg,3mg,104mg,4.8,60,6 ,6,,2 12-inch pizzas,,
+30,6588932,Breakfast Pizza,15 mins,35 mins,50 mins,340,22g,9g,165mg,811mg,16g,0g,3g,21g,2mg,168mg,2mg,314mg,4.3,64,8 ,8,,1 12-inch pizza,,
+31,6737818,Pizza on the Grill,45 mins,15 mins, 3 hrs,212,11g,3g,11mg,399mg,22g,1g,1g,6g,3mg,82mg,2mg,95mg,4.7,456,16 ,16,,2 pizzas,, 2 hrs
+32,6738978,Brick-Oven Pizza (Brooklyn Style),30 mins,10 mins, 16 hrs 45 mins,145,5g,2g,7mg,213mg,19g,1g,0g,6g,1mg,91mg,1mg,56mg,4.8,213,16 ,16,,2 14-inch pizzas,, 16 hrs 5 mins
+33,6651076,Pesto Pizza,10 mins,10 mins,20 mins,394,20g,8g,36mg,937mg,39g,3g,4g,17g,17mg,282mg,1mg,164mg,4.7,210,6 ,6,,,,
+34,6577103,Mike's Homemade Pizza,35 mins,20 mins, 1 hr 50 mins,174,6g,3g,14mg,370mg,21g,1g,,8g,3mg,177mg,2mg,169mg,4.5,181,16 ,16,,2 12-inch pizzas,,55 mins
+35,6649923,Mexican Fiestada for School Lunch,10 mins,20 mins,30 mins,511,20g,9g,55mg,1748mg,56g,2g,8g,23g,3mg,268mg,4mg,96mg,4.5,6,4 ,4,,2 small pizzas,,
+36,6663549,Chicago Deep-Dish Pizza,35 mins,35 mins, 2 hrs 30 mins,613,32g,14g,75mg,1487mg,53g,3g,5g,25g,10mg,416mg,4mg,215mg,4.7,43,10 ,10,,1 12-inch pizza,, 1 hr 20 mins
+37,6650461,Buffalo-Style Chicken Pizza,15 mins,5 mins,25 mins,428,24g,7g,28mg,1085mg,40g,1g,,14g,4mg,176mg,0mg,28mg,4.5,"1,382",10 ,10,,1 16-inch pizza,,5 mins
+38,6650093,Detroit-Style Pizza,25 mins,15 mins, 1 hr 45 mins,474,27g,12g,63mg,1146mg,36g,3g,,21g,2mg,313mg,3mg,403mg,4.7,54,9 ,9,,1 14x10-inch pizza,, 1 hr 5 mins
+39,6736480,Easy Pepperoni Pizza Muffins,5 mins,10 mins,25 mins,126,6g,2g,7mg,439mg,14g,0g,3g,4g,2mg,75mg,1mg,57mg,4.5,70,10 ,10,,10 pizza muffins,,10 mins
+40,6579046,BBQ Pulled Pork Pizza,15 mins,15 mins,30 mins,259,6g,2g,19mg,591mg,39g,2g,5g,13g,3mg,7mg,0mg,94mg,4.7,26,6 ,6,,1 pizza,,
+41,6663446,True Cheeseburger Pizza,15 mins,25 mins,45 mins,740,34g,17g,112mg,2012mg,67g,4g,14g,45g,14mg,611mg,2mg,499mg,4.6,45,4 ,4,,,,5 mins
+42,6650739,Naan Bread Margherita Pizza with Prosciutto,15 mins,10 mins,25 mins,626,29g,14g,92mg,1222mg,50g,9g,5g,41g,7mg,946mg,1mg,217mg,4.8,27,2 ,2,,2 pizzas,,
+43,6648437,Mexican Pizza I,17 mins,30 mins,50 mins,770,48g,23g,150mg,1542mg,42g,10g,4g,42g,24mg,534mg,5mg,866mg,4.5,239,4 ,4,,4 pizzas,,3 mins
+44,6591603,Pizza Cupcakes,15 mins,15 mins,35 mins,149,4g,1g,8mg,435mg,21g,1g,3g,7g,5mg,81mg,1mg,56mg,5.0,6,8 ,8,,8 pizza cupcakes,,5 mins
+45,6664877,Easy Mini Bagel Pizzas,10 mins,10 mins,20 mins,232,6g,3g,33mg,788mg,30g,1g,1g,14g,1mg,49mg,3mg,142mg,4.6,26,4 ,4,,16 mini bagel pizzas,,
+46,6650092,Authentic Pizza Margherita,30 mins,10 mins, 1 hr 45 mins,966,37g,16g,90mg,2187mg,106g,6g,6g,49g,12mg,1159mg,8mg,287mg,4.6,40,4 ,4,,4 pizzas,, 1 hr 5 mins
+47,6738222,Jan's Jalapeno Popper Pizza,15 mins,45 mins, 1 hr,293,16g,8g,44mg,689mg,22g,1g,3g,16g,5mg,274mg,2mg,173mg,4.6,59,8 ,8,,1 16-inch pizza,,
+48,6650762,Homemade Veggie Pizza,40 mins,35 mins, 2 hrs 25 mins,397,9g,4g,49mg,1291mg,63g,5g,9g,17g,25mg,302mg,6mg,649mg,4.8,28,6 ,6,,6 servings,, 1 hr 10 mins
+49,6650044,Crab Rangoon Pizza,10 mins,17 mins,27 mins,327,15g,7g,46mg,681mg,32g,1g,5g,15g,1mg,169mg,2mg,113mg,4.8,24,8 ,8,,1 pizza,,
+50,6592279,Taco Pizza, 2 hrs,20 mins, 2 hrs 20 mins,338,16g,8g,42mg,708mg,33g,3g,3g,15g,3mg,225mg,3mg,236mg,4.5,246,16 ,16,,2 to 12 - inch pizzas,,
+51,6737754,Pepperoni Meatza,30 mins,15 mins,45 mins,506,28g,13g,220mg,2521mg,5g,1g,3g,57g,4mg,545mg,2mg,285mg,4.5,100,6 ,6,,1 -12x17-inch pizza,,
+52,6598143,Pizza Pinwheels,20 mins,12 mins,32 mins,235,13g,5g,24mg,759mg,16g,1g,4g,11g,5mg,238mg,1mg,41mg,4.4,758,8 ,8,,16 pinwheels,,
+53,6738211,Sicilian Christmas Pizza (Sfincione),25 mins, 1 hr 5 mins, 3 hrs,444,20g,6g,23mg,780mg,51g,3g,5g,15g,3mg,259mg,4mg,276mg,4.9,18,12 ,12,,1 large pizza,, 1 hr 30 mins
+54,6585680,Baked Potato Pizza,25 mins, 1 hr 20 mins, 1 hr 50 mins,440,28g,10g,43mg,627mg,33g,3g,3g,14g,17mg,274mg,2mg,446mg,5.0,26,8 ,8,,8 servings,,5 mins
+55,6664275,Chicken Pesto Pizza,10 mins,10 mins,20 mins,457,22g,7g,61mg,767mg,38g,3g,2g,30g,8mg,213mg,1mg,151mg,4.7,313,6 ,6,,6 servings,,
+56,6584517,Rhode Island-Style Pizza Strips aka Bakery Pizza,15 mins,15 mins, 1 hr,275,12g,2g,9mg,723mg,33g,2g,5g,8g,5mg,35mg,2mg,167mg,4.5,15,16 ,16,,16 servings,,30 mins
+57,6573875,Pizza Buns,10 mins,35 mins,45 mins,341,14g,7g,55mg,787mg,29g,3g,3g,22g,6mg,348mg,3mg,234mg,4.5,47,8 ,8,,16 mini pizzas,,
+58,6604853,Easy Philly Cheese Steak Pizza,15 mins,25 mins,40 mins,433,27g,17g,85mg,1141mg,22g,1g,4g,26g,14mg,459mg,2mg,296mg,4.4,16,8 ,8,,8 servings,,
+59,6576837,Breakfast Pizza I,15 mins,25 mins,40 mins,340,22g,9g,165mg,811mg,16g,0g,3g,21g,2mg,168mg,2mg,314mg,4.4,286,8 ,8,,1 to 12 - inch pizza,,
+60,6597847,Grands!® Mini Pizzas,10 mins,,25 mins,337,19g,7g,31mg,1091mg,27g,1g,6g,14g,3mg,273mg,2mg,58mg,4.4,93,8 ,8,,8 pizzas,,15 mins

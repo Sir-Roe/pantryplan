@@ -1,61 +1,61 @@
-,id_recipe,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Soak Time:,Yield:
-0,6664291,30 mins,20 mins, 1 hr 40 mins, 2 hrs 30 mins,14 ,14,52,4g,2g,22mg,363mg,4g,0g,4g,1g,0mg,9mg,0mg,23mg,4.7,"2,621",,
-1,7182311,10 mins,50 mins,, 1 hr,4 ,4,377,13g,4g,17mg,536mg,56g,3g,25g,11g,11mg,204mg,3mg,441mg,4.0,2,,
-2,7112634,20 mins,20 mins,,40 mins,32 ,32,123,7g,3g,18mg,346mg,8g,1g,,6g,,,,47mg,,,,
-3,7111023,5 mins,5 mins,, 3 hrs 10 mins,4 ,4,177,1g,0g,,487mg,30g,15g,,13g,,,,479mg,4.7,11, 3 hrs,8 flatbreads
-4,6594859,20 mins,6 mins,50 mins, 1 hr 16 mins,12 ,12,332,6g,1g,,391mg,60g,2g,4g,8g,,13mg,4mg,90mg,4.3,23,,
-5,6664814,20 mins,15 mins,25 mins, 1 hr,12 ,12,171,6g,2g,5mg,253mg,23g,1g,1g,6g,0mg,86mg,2mg,69mg,4.6,"1,425",,
-6,6649428,30 mins,10 mins, 2 hrs 35 mins, 3 hrs 15 mins,8 ,8,187,4g,1g,,511mg,33g,1g,0g,5g,,8mg,2mg,64mg,4.7,516,,8 pita breads
-7,6649350,20 mins,20 mins, 1 hr 50 mins, 2 hrs 30 mins,12 ,12,166,5g,1g,,99mg,25g,1g,0g,4g,0mg,8mg,2mg,48mg,4.5,240,,
-8,6736770,20 mins,10 mins, 9 hrs 30 mins, 10 hrs,8 ,8,47,2g,0g,,181mg,6g,0g,,1g,,2mg,1mg,19mg,4.7,31,,
-9,6738560,35 mins,15 mins, 2 hrs 30 mins, 3 hrs 20 mins,6 ,6,227,9g,5g,21mg,385mg,31g,1g,2g,6g,1mg,31mg,2mg,104mg,4.9,64,,6 naan
-10,6591419,30 mins,15 mins, 3 hrs 15 mins, 4 hrs,4 ,4,505,4g,2g,6mg,1766mg,100g,4g,5g,15g,,24mg,6mg,170mg,4.6,72,,4 flatbreads
-11,6649860,10 mins,20 mins,30 mins, 1 hr,12 ,12,225,10g,2g,6mg,311mg,26g,1g,1g,7g,1mg,84mg,2mg,65mg,4.8,24,,12 servings
-12,6648985,45 mins,30 mins, 16 hrs 40 mins, 17 hrs 55 mins,12 ,12,155,2g,0g,,762mg,28g,1g,,5g,,,,44mg,4.6,17,,
-13,6572344,20 mins,10 mins, 2 hrs 30 mins, 3 hrs,8 ,8,204,4g,1g,,438mg,36g,1g,0g,5g,,9mg,2mg,66mg,4.7,137,,8 rounds
-14,6739557,30 mins,15 mins, 2 hrs 35 mins, 3 hrs 20 mins,8 ,8,191,2g,0g,,293mg,37g,1g,1g,5g,,9mg,2mg,66mg,4.7,902,,8 pitas
-15,6587344,5 mins,1 mins,1 day,1 day 6 mins,2 ,2,225,4g,0g,,14mg,41g,8g,,7g,,109mg,4mg,285mg,5.0,1,,2 servings
-16,6601930,30 mins,20 mins,,50 mins,4 ,4,296,7g,1g,,148mg,49g,2g,1g,7g,,11mg,3mg,102mg,4.2,319,,2 to 4 servings
-17,6738126,30 mins,35 mins, 1 hr 20 mins, 2 hrs 25 mins,12 ,12,273,9g,2g,2mg,355mg,41g,3g,3g,7g,43mg,47mg,4mg,198mg,4.8,5,,1 11x17-inch focaccia
-18,6736378,30 mins,15 mins, 2 hrs 15 mins, 3 hrs,6 ,6,193,21g,3g,,586mg,1g,0g,,1g,0mg,3mg,4mg,29mg,4.8,66,,1 flat loaf
-19,6596802,,,,,12 ,12,19,0g,0g,1mg,130mg,3g,0g,2g,1g,,18mg,0mg,40mg,4.6,104,,2 medium loaves
-20,6574973,20 mins,20 mins,30 mins, 1 hr 10 mins,12 ,12,249,6g,1g,2mg,987mg,42g,2g,2g,7g,1mg,30mg,3mg,91mg,4.7,290,,1 - 10x15 inch pan
-21,6739440,40 mins,15 mins, 1 hr, 1 hr 55 mins,8 ,8,186,24g,2g,8mg,327mg,24g,1g,0g,5g,,5mg,2mg,35mg,4.7,29,,2 flatbread
-22,6605227,15 mins,25 mins, 1 hr 30 mins, 2 hrs 10 mins,8 ,8,309,8g,1g,23mg,375mg,50g,2g,2g,8g,0mg,21mg,3mg,105mg,4.3,41,,8 loaves
-23,6602664,30 mins,5 mins, 1 hr, 1 hr 35 mins,16 ,16,197,4g,1g,,439mg,34g,2g,0g,6g,1mg,29mg,3mg,63mg,,,,16 pieces
-24,6592106,20 mins,25 mins,35 mins, 1 hr 20 mins,12 ,12,193,7g,1g,16mg,201mg,29g,1g,1g,5g,0mg,10mg,2mg,66mg,4.5,167,,1 loaf
-25,6585984,30 mins,20 mins, 4 hrs 15 mins, 5 hrs 5 mins,6 ,6,314,9g,5g,23mg,494mg,50g,2g,2g,8g,0mg,63mg,3mg,126mg,3.9,67,,6 pieces
-26,6590695, 1 hr,30 mins,4 days 2 hrs,4 days 3 hrs 30 mins,12 ,12,6,0g,,,390mg,1g,0g,0g,1g,,3mg,0mg,34mg,4.6,18,,2 loaves
-27,6598893,20 mins,30 mins, 1 hr 40 mins, 2 hrs 30 mins,12 ,12,252,5g,3g,26mg,424mg,43g,2g,3g,8g,0mg,18mg,3mg,86mg,4.4,12,,12 naan breads
-28,6594557,50 mins,15 mins,, 1 hr 5 mins,8 ,8,117,11g,2g,4mg,447mg,3g,1g,1g,3g,3mg,71mg,1mg,79mg,4.7,54,,1 focaccia
-29,6581812,40 mins,20 mins,, 1 hr,10 ,10,107,10g,5g,20mg,331mg,3g,0g,1g,2g,0mg,55mg,0mg,40mg,4.6,111,,10 servings
-30,6580417,30 mins,10 mins,10 mins,50 mins,10 ,10,271,7g,1g,2mg,216mg,48g,2g,22g,6g,0mg,91mg,2mg,149mg,5.0,5,,10 hotteok
-31,6604642,30 mins,20 mins, 2 hrs, 2 hrs 50 mins,12 ,12,96,0g,0g,0mg,196mg,20g,1g,1g,3g,,8mg,1mg,42mg,4.7,30,,1 loaf
-32,6738171,30 mins,25 mins, 1 hr 40 mins, 2 hrs 35 mins,6 ,6,237,9g,6g,23mg,393mg,33g,1g,1g,5g,0mg,27mg,2mg,77mg,4.5,159,,6 generous pieces
-33,6578216,15 mins,25 mins, 1 hr 5 mins, 1 hr 45 mins,6 ,6,156,3g,0g,,99mg,31g,4g,2g,5g,,3mg,0mg,41mg,,,,6 pitas
-34,6738480,30 mins,20 mins, 2 hrs 55 mins, 3 hrs 45 mins,4 ,4,503,17g,8g,29mg,1138mg,63g,4g,3g,22g,3mg,348mg,4mg,233mg,4.8,12,,2 scacce
-35,6593207,40 mins,40 mins,40 mins, 2 hrs,4 ,4,995,59g,26g,119mg,1282mg,97g,6g,8g,20g,15mg,148mg,6mg,593mg,4.0,3,,4 servings
-36,6571309,15 mins,5 mins, 1 hr, 1 hr 20 mins,6 ,6,308,13g,2g,31mg,534mg,44g,9g,3g,6g,0mg,241mg,2mg,182mg,5.0,8,,6 pita breads
-37,6603915, 1 hr 45 mins,15 mins,, 2 hrs,4 ,4,355,14g,2g,,293mg,49g,2g,1g,7g,,11mg,3mg,103mg,4.5,147,,4 to 6 servings
-38,6649292,15 mins,25 mins,40 mins, 1 hr 20 mins,15 ,15,127,3g,1g,1mg,321mg,21g,1g,1g,3g,0mg,13mg,1mg,39mg,4.7,307,,
-39,6581281,45 mins, 1 hr,30 mins, 2 hrs 15 mins,12 ,12,560,22g,14g,76mg,803mg,61g,3g,3g,29g,17mg,711mg,3mg,522mg,5.0,2,,12 hychin
-40,6587111,30 mins,20 mins, 2 hrs, 2 hrs 50 mins,16 ,16,1,,,,436mg,0g,0g,,0g,,1mg,0mg,9mg,4.1,42,,16 pieces
-41,6586027,30 mins,25 mins,,55 mins,40 ,40,266,17g,2g,,62mg,26g,3g,0g,4g,2mg,72mg,6mg,83mg,5.0,1,,40 servings
-42,6579756,30 mins,10 mins,40 mins, 1 hr 20 mins,12 ,12,172,5g,1g,,292mg,28g,1g,0g,4g,,7mg,2mg,51mg,4.6,43,,1 dozen pita breads
-43,6591777, 2 hrs,20 mins,, 2 hrs 20 mins,12 ,12,404,4g,2g,5mg,406mg,78g,4g,1g,13g,,25mg,5mg,212mg,5.0,4,,4 flatbreads
-44,6590022,30 mins,10 mins,40 mins, 1 hr 20 mins,4 ,4,299,8g,1g,,149mg,50g,2g,1g,7g,0mg,13mg,3mg,121mg,3.0,4,,1 focaccia
-45,6663677,45 mins,40 mins, 15 hrs 30 mins, 16 hrs 55 mins,8 ,8,203,2g,0g,,483mg,40g,2g,,6g,,,,63mg,5.0,1,,2 fougasse
-46,6598518,25 mins,20 mins, 5 hrs, 5 hrs 45 mins,8 ,8,270,12g,2g,0mg,479mg,34g,2g,1g,6g,3mg,23mg,6mg,122mg,5.0,1,,1 12x16-inch focaccia
-47,6566272,30 mins,25 mins, 1 hr 25 mins, 2 hrs 20 mins,12 ,12,289,4g,2g,8mg,602mg,53g,2g,4g,9g,0mg,60mg,3mg,168mg,5.0,2,,12 flatbreads
-48,6577026,25 mins,5 mins, 1 hr 25 mins, 1 hr 55 mins,8 ,8,113,11g,7g,,684mg,4g,1g,1g,1g,,36mg,0mg,30mg,4.5,2,,8 pieces
-49,6577180,15 mins,15 mins,45 mins, 1 hr 15 mins,10 ,10,93,8g,4g,17mg,501mg,4g,0g,4g,3g,0mg,77mg,0mg,53mg,4.9,50,,10 servings
-50,6651196,10 mins,20 mins,,30 mins,12 ,12,144,8g,1g,,337mg,16g,1g,,3g,,,,25mg,,,,1 9x13-inch focaccia
-51,6580554, 3 hrs 30 mins,35 mins,, 4 hrs 5 mins,4 ,4,377,8g,1g,,295mg,63g,2g,0g,11g,,15mg,4mg,99mg,4.5,4,,1 - 8x8 inch loaf
-52,6569497,30 mins,6 mins,30 mins, 1 hr 6 mins,6 ,6,222,6g,1g,,393mg,36g,2g,1g,5g,3mg,21mg,2mg,109mg,3.0,2,,6 pancakes
-53,6562086,30 mins,10 mins, 2 hrs 10 mins, 2 hrs 50 mins,40 ,40,113,2g,0g,0mg,119mg,20g,1g,0g,3g,,5mg,1mg,43mg,5.0,1,,40 small flatbreads
-54,6567630,20 mins,5 mins, 2 hrs 25 mins, 2 hrs 50 mins,10 ,10,124,3g,0g,0mg,122mg,21g,1g,2g,3g,0mg,14mg,1mg,52mg,,,,10 pita breads
-55,6606445,30 mins,25 mins, 2 hrs 35 mins, 3 hrs 30 mins,12 ,12,386,12g,2g,,1296mg,59g,4g,4g,10g,16mg,43mg,4mg,405mg,,,,1 9x13-inch focaccia
-56,6574522,20 mins,15 mins, 9 hrs 30 mins, 10 hrs 5 mins,6 ,6,322,19g,3g,,404mg,34g,2g,0g,5g,1mg,62mg,6mg,92mg,4.7,7,,1 9x13-inch flatbread
-57,6594712, 2 hrs,40 mins,, 2 hrs 40 mins,12 ,12,315,21g,10g,99mg,680mg,25g,2g,2g,8g,7mg,66mg,2mg,219mg,4.5,4,,1 baking sheet
-58,6579091, 2 hrs,20 mins,, 2 hrs 20 mins,16 ,16,83,2g,0g,,219mg,15g,1g,0g,3g,,10mg,1mg,34mg,4.3,22,,2 loaves
-59,6648338,20 mins,25 mins, 1 hr 5 mins, 1 hr 50 mins,8 ,8,229,4g,1g,4mg,398mg,41g,2g,5g,7g,0mg,77mg,3mg,94mg,4.0,1,,8 servings
+,id_recipe,name,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Soak Time:,Yield:
+0,6664291,Naan,30 mins,20 mins, 1 hr 40 mins, 2 hrs 30 mins,14 ,14,52,4g,2g,22mg,363mg,4g,0g,4g,1g,0mg,9mg,0mg,23mg,4.7,"2,621",,
+1,7182311,Roasted Grape Flatbread,10 mins,50 mins,, 1 hr,4 ,4,377,13g,4g,17mg,536mg,56g,3g,25g,11g,11mg,204mg,3mg,441mg,4.0,2,,
+2,7112634,Tex-Mex Pork Crescent Roll Squares,20 mins,20 mins,,40 mins,32 ,32,123,7g,3g,18mg,346mg,8g,1g,,6g,,,,47mg,,,,
+3,7111023,Lentil Flatbread,5 mins,5 mins,, 3 hrs 10 mins,4 ,4,177,1g,0g,,487mg,30g,15g,,13g,,,,479mg,4.7,11, 3 hrs,8 flatbreads
+4,6594859,South African Traditional Vetkoek (Fried Bread),20 mins,6 mins,50 mins, 1 hr 16 mins,12 ,12,332,6g,1g,,391mg,60g,2g,4g,8g,,13mg,4mg,90mg,4.3,23,,
+5,6664814,Focaccia Bread,20 mins,15 mins,25 mins, 1 hr,12 ,12,171,6g,2g,5mg,253mg,23g,1g,1g,6g,0mg,86mg,2mg,69mg,4.6,"1,425",,
+6,6649428,Homemade Pita Bread,30 mins,10 mins, 2 hrs 35 mins, 3 hrs 15 mins,8 ,8,187,4g,1g,,511mg,33g,1g,0g,5g,,8mg,2mg,64mg,4.7,516,,8 pita breads
+7,6649350,Bread Machine Focaccia,20 mins,20 mins, 1 hr 50 mins, 2 hrs 30 mins,12 ,12,166,5g,1g,,99mg,25g,1g,0g,4g,0mg,8mg,2mg,48mg,4.5,240,,
+8,6736770,Lebanese Mountain Bread,20 mins,10 mins, 9 hrs 30 mins, 10 hrs,8 ,8,47,2g,0g,,181mg,6g,0g,,1g,,2mg,1mg,19mg,4.7,31,,
+9,6738560,Garlic Naan,35 mins,15 mins, 2 hrs 30 mins, 3 hrs 20 mins,6 ,6,227,9g,5g,21mg,385mg,31g,1g,2g,6g,1mg,31mg,2mg,104mg,4.9,64,,6 naan
+10,6591419,Bazlama - Turkish Flat Bread,30 mins,15 mins, 3 hrs 15 mins, 4 hrs,4 ,4,505,4g,2g,6mg,1766mg,100g,4g,5g,15g,,24mg,6mg,170mg,4.6,72,,4 flatbreads
+11,6649860,Deliciously Easy Garlic Herb Focaccia,10 mins,20 mins,30 mins, 1 hr,12 ,12,225,10g,2g,6mg,311mg,26g,1g,1g,7g,1mg,84mg,2mg,65mg,4.8,24,,12 servings
+12,6648985,No-Knead Big Bubble Focaccia,45 mins,30 mins, 16 hrs 40 mins, 17 hrs 55 mins,12 ,12,155,2g,0g,,762mg,28g,1g,,5g,,,,44mg,4.6,17,,
+13,6572344,Syrian Bread,20 mins,10 mins, 2 hrs 30 mins, 3 hrs,8 ,8,204,4g,1g,,438mg,36g,1g,0g,5g,,9mg,2mg,66mg,4.7,137,,8 rounds
+14,6739557,Peppy's Pita Bread,30 mins,15 mins, 2 hrs 35 mins, 3 hrs 20 mins,8 ,8,191,2g,0g,,293mg,37g,1g,1g,5g,,9mg,2mg,66mg,4.7,902,,8 pitas
+15,6587344,Injera (Ethiopian Teff Bread),5 mins,1 mins,1 day,1 day 6 mins,2 ,2,225,4g,0g,,14mg,41g,8g,,7g,,109mg,4mg,285mg,5.0,1,,2 servings
+16,6601930,Easiest Focaccia Recipe,30 mins,20 mins,,50 mins,4 ,4,296,7g,1g,,148mg,49g,2g,1g,7g,,11mg,3mg,102mg,4.2,319,,2 to 4 servings
+17,6738126,Decorated Focaccia Bread,30 mins,35 mins, 1 hr 20 mins, 2 hrs 25 mins,12 ,12,273,9g,2g,2mg,355mg,41g,3g,3g,7g,43mg,47mg,4mg,198mg,4.8,5,,1 11x17-inch focaccia
+18,6736378,How To Make Focaccia,30 mins,15 mins, 2 hrs 15 mins, 3 hrs,6 ,6,193,21g,3g,,586mg,1g,0g,,1g,0mg,3mg,4mg,29mg,4.8,66,,1 flat loaf
+19,6596802,Schlotsky's Bread,,,,,12 ,12,19,0g,0g,1mg,130mg,3g,0g,2g,1g,,18mg,0mg,40mg,4.6,104,,2 medium loaves
+20,6574973,Michael's Foccacia Bread,20 mins,20 mins,30 mins, 1 hr 10 mins,12 ,12,249,6g,1g,2mg,987mg,42g,2g,2g,7g,1mg,30mg,3mg,91mg,4.7,290,,1 - 10x15 inch pan
+21,6739440,Focaccia di Recco,40 mins,15 mins, 1 hr, 1 hr 55 mins,8 ,8,186,24g,2g,8mg,327mg,24g,1g,0g,5g,,5mg,2mg,35mg,4.7,29,,2 flatbread
+22,6605227,Noni Afghani,15 mins,25 mins, 1 hr 30 mins, 2 hrs 10 mins,8 ,8,309,8g,1g,23mg,375mg,50g,2g,2g,8g,0mg,21mg,3mg,105mg,4.3,41,,8 loaves
+23,6602664,Za'atar Bread,30 mins,5 mins, 1 hr, 1 hr 35 mins,16 ,16,197,4g,1g,,439mg,34g,2g,0g,6g,1mg,29mg,3mg,63mg,,,,16 pieces
+24,6592106,Homemade Focaccia Bread,20 mins,25 mins,35 mins, 1 hr 20 mins,12 ,12,193,7g,1g,16mg,201mg,29g,1g,1g,5g,0mg,10mg,2mg,66mg,4.5,167,,1 loaf
+25,6585984,Naan Bread,30 mins,20 mins, 4 hrs 15 mins, 5 hrs 5 mins,6 ,6,314,9g,5g,23mg,494mg,50g,2g,2g,8g,0mg,63mg,3mg,126mg,3.9,67,,6 pieces
+26,6590695,Ekmek Turkish Bread, 1 hr,30 mins,4 days 2 hrs,4 days 3 hrs 30 mins,12 ,12,6,0g,,,390mg,1g,0g,0g,1g,,3mg,0mg,34mg,4.6,18,,2 loaves
+27,6598893,Easy Naan,20 mins,30 mins, 1 hr 40 mins, 2 hrs 30 mins,12 ,12,252,5g,3g,26mg,424mg,43g,2g,3g,8g,0mg,18mg,3mg,86mg,4.4,12,,12 naan breads
+28,6594557,Black Olive and Rosemary Focaccia,50 mins,15 mins,, 1 hr 5 mins,8 ,8,117,11g,2g,4mg,447mg,3g,1g,1g,3g,3mg,71mg,1mg,79mg,4.7,54,,1 focaccia
+29,6581812,Garlic Cheese Flatbread,40 mins,20 mins,, 1 hr,10 ,10,107,10g,5g,20mg,331mg,3g,0g,1g,2g,0mg,55mg,0mg,40mg,4.6,111,,10 servings
+30,6580417,Hotteok,30 mins,10 mins,10 mins,50 mins,10 ,10,271,7g,1g,2mg,216mg,48g,2g,22g,6g,0mg,91mg,2mg,149mg,5.0,5,,10 hotteok
+31,6604642,Lepinja (Balkan Flatbread),30 mins,20 mins, 2 hrs, 2 hrs 50 mins,12 ,12,96,0g,0g,0mg,196mg,20g,1g,1g,3g,,8mg,1mg,42mg,4.7,30,,1 loaf
+32,6738171,Indian Naan II,30 mins,25 mins, 1 hr 40 mins, 2 hrs 35 mins,6 ,6,237,9g,6g,23mg,393mg,33g,1g,1g,5g,0mg,27mg,2mg,77mg,4.5,159,,6 generous pieces
+33,6578216,Gluten-Free Pita Flatbread,15 mins,25 mins, 1 hr 5 mins, 1 hr 45 mins,6 ,6,156,3g,0g,,99mg,31g,4g,2g,5g,,3mg,0mg,41mg,,,,6 pitas
+34,6738480,Scacce Ragusane (Sicilian Stuffed Flatbread),30 mins,20 mins, 2 hrs 55 mins, 3 hrs 45 mins,4 ,4,503,17g,8g,29mg,1138mg,63g,4g,3g,22g,3mg,348mg,4mg,233mg,4.8,12,,2 scacce
+35,6593207,Flammkuchen (Tarte Flambee),40 mins,40 mins,40 mins, 2 hrs,4 ,4,995,59g,26g,119mg,1282mg,97g,6g,8g,20g,15mg,148mg,6mg,593mg,4.0,3,,4 servings
+36,6571309,Best Gluten-Free Pita Bread,15 mins,5 mins, 1 hr, 1 hr 20 mins,6 ,6,308,13g,2g,31mg,534mg,44g,9g,3g,6g,0mg,241mg,2mg,182mg,5.0,8,,6 pita breads
+37,6603915,Fantastic Focaccia Bread, 1 hr 45 mins,15 mins,, 2 hrs,4 ,4,355,14g,2g,,293mg,49g,2g,1g,7g,,11mg,3mg,103mg,4.5,147,,4 to 6 servings
+38,6649292,Easy Focaccia,15 mins,25 mins,40 mins, 1 hr 20 mins,15 ,15,127,3g,1g,1mg,321mg,21g,1g,1g,3g,0mg,13mg,1mg,39mg,4.7,307,,
+39,6581281,Hychin,45 mins, 1 hr,30 mins, 2 hrs 15 mins,12 ,12,560,22g,14g,76mg,803mg,61g,3g,3g,29g,17mg,711mg,3mg,522mg,5.0,2,,12 hychin
+40,6587111,Pocket Bread,30 mins,20 mins, 2 hrs, 2 hrs 50 mins,16 ,16,1,,,,436mg,0g,0g,,0g,,1mg,0mg,9mg,4.1,42,,16 pieces
+41,6586027,Lebanese Zaatar (Za'atar) Bread,30 mins,25 mins,,55 mins,40 ,40,266,17g,2g,,62mg,26g,3g,0g,4g,2mg,72mg,6mg,83mg,5.0,1,,40 servings
+42,6579756,Traditional Pita Breads,30 mins,10 mins,40 mins, 1 hr 20 mins,12 ,12,172,5g,1g,,292mg,28g,1g,0g,4g,,7mg,2mg,51mg,4.6,43,,1 dozen pita breads
+43,6591777,Finnish-American Flatbread, 2 hrs,20 mins,, 2 hrs 20 mins,12 ,12,404,4g,2g,5mg,406mg,78g,4g,1g,13g,,25mg,5mg,212mg,5.0,4,,4 flatbreads
+44,6590022,Easy Rosemary Focaccia,30 mins,10 mins,40 mins, 1 hr 20 mins,4 ,4,299,8g,1g,,149mg,50g,2g,1g,7g,0mg,13mg,3mg,121mg,3.0,4,,1 focaccia
+45,6663677,Fougasse (French-Style Flatbread),45 mins,40 mins, 15 hrs 30 mins, 16 hrs 55 mins,8 ,8,203,2g,0g,,483mg,40g,2g,,6g,,,,63mg,5.0,1,,2 fougasse
+46,6598518,Sourdough Focaccia alla Genovese,25 mins,20 mins, 5 hrs, 5 hrs 45 mins,8 ,8,270,12g,2g,0mg,479mg,34g,2g,1g,6g,3mg,23mg,6mg,122mg,5.0,1,,1 12x16-inch focaccia
+47,6566272,Samoon (Iraqi Flatbread),30 mins,25 mins, 1 hr 25 mins, 2 hrs 20 mins,12 ,12,289,4g,2g,8mg,602mg,53g,2g,4g,9g,0mg,60mg,3mg,168mg,5.0,2,,12 flatbreads
+48,6577026,Best Vegan Naan,25 mins,5 mins, 1 hr 25 mins, 1 hr 55 mins,8 ,8,113,11g,7g,,684mg,4g,1g,1g,1g,,36mg,0mg,30mg,4.5,2,,8 pieces
+49,6577180,Serendipity Bread,15 mins,15 mins,45 mins, 1 hr 15 mins,10 ,10,93,8g,4g,17mg,501mg,4g,0g,4g,3g,0mg,77mg,0mg,53mg,4.9,50,,10 servings
+50,6651196,Easy Festive Focaccia,10 mins,20 mins,,30 mins,12 ,12,144,8g,1g,,337mg,16g,1g,,3g,,,,25mg,,,,1 9x13-inch focaccia
+51,6580554,Focaccia Alla Genovese, 3 hrs 30 mins,35 mins,, 4 hrs 5 mins,4 ,4,377,8g,1g,,295mg,63g,2g,0g,11g,,15mg,4mg,99mg,4.5,4,,1 - 8x8 inch loaf
+52,6569497,Traditional Chinese Scallion Pancakes,30 mins,6 mins,30 mins, 1 hr 6 mins,6 ,6,222,6g,1g,,393mg,36g,2g,1g,5g,3mg,21mg,2mg,109mg,3.0,2,,6 pancakes
+53,6562086,Turkish Flatbread,30 mins,10 mins, 2 hrs 10 mins, 2 hrs 50 mins,40 ,40,113,2g,0g,0mg,119mg,20g,1g,0g,3g,,5mg,1mg,43mg,5.0,1,,40 small flatbreads
+54,6567630,Zainab's Homemade Pita Bread,20 mins,5 mins, 2 hrs 25 mins, 2 hrs 50 mins,10 ,10,124,3g,0g,0mg,122mg,21g,1g,2g,3g,0mg,14mg,1mg,52mg,,,,10 pita breads
+55,6606445,Focaccia Barese al Pomodoro e Olive (Homemade Italian Focaccia with Tomatoes and Olives),30 mins,25 mins, 2 hrs 35 mins, 3 hrs 30 mins,12 ,12,386,12g,2g,,1296mg,59g,4g,4g,10g,16mg,43mg,4mg,405mg,,,,1 9x13-inch focaccia
+56,6574522,Manaaeesh Flatbread,20 mins,15 mins, 9 hrs 30 mins, 10 hrs 5 mins,6 ,6,322,19g,3g,,404mg,34g,2g,0g,5g,1mg,62mg,6mg,92mg,4.7,7,,1 9x13-inch flatbread
+57,6594712,Sauerkraut on Bread Dough, 2 hrs,40 mins,, 2 hrs 40 mins,12 ,12,315,21g,10g,99mg,680mg,25g,2g,2g,8g,7mg,66mg,2mg,219mg,4.5,4,,1 baking sheet
+58,6579091,Moroccan Ksra, 2 hrs,20 mins,, 2 hrs 20 mins,16 ,16,83,2g,0g,,219mg,15g,1g,0g,3g,,10mg,1mg,34mg,4.3,22,,2 loaves
+59,6648338,Basil Focaccia,20 mins,25 mins, 1 hr 5 mins, 1 hr 50 mins,8 ,8,229,4g,1g,4mg,398mg,41g,2g,5g,7g,0mg,77mg,3mg,94mg,4.0,1,,8 servings

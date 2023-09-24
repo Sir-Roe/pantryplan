@@ -1,24 +1,24 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Cholesterol,Additional Time:
-0,6585950,20 mins,20 mins,40 mins,6 ,6 sandwiches,6,384,20g,5g,425mg,37g,2g,9g,18g,12mg,155mg,4mg,484mg,4.2,103,,
-1,6736826,15 mins,45 mins, 1 hr,8 ,8 servings,8,375,24g,12g,709mg,25g,6g,1g,17g,17mg,307mg,3mg,324mg,4.3,238,54mg,
-2,6595591,20 mins,48 mins, 9 hrs 8 mins,4 ,4 servings,4,385,11g,2g,1086mg,54g,7g,7g,25g,18mg,162mg,6mg,882mg,5.0,1,, 8 hrs
-3,6578842,15 mins,15 mins,30 mins,4 ,4 servings,4,199,13g,2g,392mg,11g,1g,2g,11g,2mg,78mg,2mg,273mg,4.7,19,,
-4,6581456,10 mins,15 mins,25 mins,4 ,4 servings,4,375,12g,2g,925mg,55g,3g,20g,15g,64mg,119mg,3mg,559mg,4.3,164,,
-5,6566527,10 mins,24 mins,59 mins,4 ,4 servings,4,650,22g,4g,2298mg,90g,10g,7g,25g,6mg,159mg,6mg,632mg,5.0,2,,25 mins
-6,6563648,20 mins,25 mins,45 mins,4 ,4 servings,4,827,28g,10g,1270mg,109g,5g,10g,36g,30mg,364mg,6mg,838mg,5.0,1,31mg,
-7,6600100,10 mins,15 mins,25 mins,4 ,4 servings,4,207,13g,2g,606mg,13g,3g,3g,13g,52mg,101mg,3mg,486mg,4.2,56,,
-8,6589884,15 mins, 1 hr 25 mins, 9 hrs 40 mins,8 ,8 servings,8,356,10g,2g,884mg,48g,11g,6g,18g,36mg,149mg,4mg,994mg,4.3,4,36mg, 8 hrs
-9,6581336,30 mins,25 mins,55 mins,8 ,4 cups,8,128,9g,2g,677mg,8g,1g,2g,6g,4mg,49mg,1mg,209mg,4.6,31,3mg,
-10,6586038,20 mins,45 mins, 1 hr 25 mins,2 ,2 bowls,2,568,29g,5g,5990mg,54g,2g,5g,27g,5mg,128mg,6mg,549mg,,,,20 mins
-11,6591172,30 mins,12 mins,52 mins,18 ,18 sliders,18,288,9g,3g,1257mg,38g,1g,1g,15g,8mg,129mg,2mg,276mg,4.5,2,7mg,10 mins
-12,6568009,30 mins,44 mins, 1 hr 14 mins,6 ,6 servings,6,427,9g,2g,1005mg,72g,19g,9g,23g,47mg,196mg,8mg,1158mg,4.3,7,,
-13,6603886,10 mins,10 mins,20 mins,4 ,4 servings,4,455,28g,5g,1190mg,40g,1g,1g,17g,1mg,94mg,2mg,259mg,4.7,3,52mg,
-14,6582727,30 mins,15 mins, 2 hrs 45 mins,4 ,4 servings,4,820,35g,5g,2132mg,110g,14g,39g,27g,94mg,166mg,6mg,1517mg,4.2,22,, 2 hrs
-15,6597149,15 mins,15 mins,30 mins,2 ,2 servings,2,885,28g,5g,1411mg,112g,14g,12g,58g,50mg,406mg,16mg,2382mg,,,,
-16,6577531,15 mins,35 mins,50 mins,4 ,4 servings,4,440,29g,5g,58mg,36g,11g,1g,17g,95mg,204mg,4mg,1120mg,,,,
-17,6589378,20 mins,47 mins, 1 hr 7 mins,2 ,4 stuffed pepper halves,2,560,26g,11g,1222mg,51g,13g,9g,32g,157mg,432mg,6mg,770mg,,,50mg,
-18,6587657,20 mins,35 mins,55 mins,4 ,4 wraps,4,508,21g,3g,513mg,61g,13g,6g,25g,35mg,408mg,8mg,1002mg,,,,
-19,6586919,30 mins,10 mins,40 mins,4 ,4 servings,4,433,18g,7g,650mg,48g,11g,6g,26g,45mg,341mg,5mg,1285mg,3.8,11,35mg,
-20,6585367,25 mins,15 mins,40 mins,2 ,2 servings,2,401,19g,4g,567mg,43g,12g,15g,22g,112mg,210mg,5mg,1398mg,,,,
-21,6563710,30 mins,30 mins, 2 hrs,6 ,6 servings,6,284,13g,2g,587mg,37g,6g,8g,13g,68mg,196mg,4mg,1240mg,,,, 1 hr
-22,6563100,15 mins,20 mins,35 mins,4 ,4 servings,4,231,16g,3g,542mg,14g,1g,2g,11g,39mg,69mg,2mg,317mg,,,,
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Cholesterol,Additional Time:
+0,6585950,Vegetarian Sloppy Joes,20 mins,20 mins,40 mins,6 ,6 sandwiches,6,384,20g,5g,425mg,37g,2g,9g,18g,12mg,155mg,4mg,484mg,4.2,103,,
+1,6736826,Enchilada Casserole,15 mins,45 mins, 1 hr,8 ,8 servings,8,375,24g,12g,709mg,25g,6g,1g,17g,17mg,307mg,3mg,324mg,4.3,238,54mg,
+2,6595591,Tempeh Gyros,20 mins,48 mins, 9 hrs 8 mins,4 ,4 servings,4,385,11g,2g,1086mg,54g,7g,7g,25g,18mg,162mg,6mg,882mg,5.0,1,, 8 hrs
+3,6578842,Tempeh Tacos,15 mins,15 mins,30 mins,4 ,4 servings,4,199,13g,2g,392mg,11g,1g,2g,11g,2mg,78mg,2mg,273mg,4.7,19,,
+4,6581456,Barbeque Tempeh Sandwiches,10 mins,15 mins,25 mins,4 ,4 servings,4,375,12g,2g,925mg,55g,3g,20g,15g,64mg,119mg,3mg,559mg,4.3,164,,
+5,6566527,North African Couscous with Tempeh,10 mins,24 mins,59 mins,4 ,4 servings,4,650,22g,4g,2298mg,90g,10g,7g,25g,6mg,159mg,6mg,632mg,5.0,2,,25 mins
+6,6563648,Tempeh Pesto Pasta,20 mins,25 mins,45 mins,4 ,4 servings,4,827,28g,10g,1270mg,109g,5g,10g,36g,30mg,364mg,6mg,838mg,5.0,1,31mg,
+7,6600100,Tempeh Fajitas,10 mins,15 mins,25 mins,4 ,4 servings,4,207,13g,2g,606mg,13g,3g,3g,13g,52mg,101mg,3mg,486mg,4.2,56,,
+8,6589884,Smokey Vegetarian Cuban Black Bean Soup,15 mins, 1 hr 25 mins, 9 hrs 40 mins,8 ,8 servings,8,356,10g,2g,884mg,48g,11g,6g,18g,36mg,149mg,4mg,994mg,4.3,4,36mg, 8 hrs
+9,6581336,Tempeh Mock Tuna Salad,30 mins,25 mins,55 mins,8 ,4 cups,8,128,9g,2g,677mg,8g,1g,2g,6g,4mg,49mg,1mg,209mg,4.6,31,3mg,
+10,6586038,Vegan Banh Mi,20 mins,45 mins, 1 hr 25 mins,2 ,2 bowls,2,568,29g,5g,5990mg,54g,2g,5g,27g,5mg,128mg,6mg,549mg,,,,20 mins
+11,6591172,Buffalo Tempeh Sliders,30 mins,12 mins,52 mins,18 ,18 sliders,18,288,9g,3g,1257mg,38g,1g,1g,15g,8mg,129mg,2mg,276mg,4.5,2,7mg,10 mins
+12,6568009,Scooter's Vegan Tempeh Chili,30 mins,44 mins, 1 hr 14 mins,6 ,6 servings,6,427,9g,2g,1005mg,72g,19g,9g,23g,47mg,196mg,8mg,1158mg,4.3,7,,
+13,6603886,Buffalo Tempeh Tenders,10 mins,10 mins,20 mins,4 ,4 servings,4,455,28g,5g,1190mg,40g,1g,1g,17g,1mg,94mg,2mg,259mg,4.7,3,52mg,
+14,6582727,Tempeh Kabobs with Moroccan Couscous,30 mins,15 mins, 2 hrs 45 mins,4 ,4 servings,4,820,35g,5g,2132mg,110g,14g,39g,27g,94mg,166mg,6mg,1517mg,4.2,22,, 2 hrs
+15,6597149,Sweet and Spicy Tempeh with Long Beans,15 mins,15 mins,30 mins,2 ,2 servings,2,885,28g,5g,1411mg,112g,14g,12g,58g,50mg,406mg,16mg,2382mg,,,,
+16,6577531,Crunchy Curried Kale,15 mins,35 mins,50 mins,4 ,4 servings,4,440,29g,5g,58mg,36g,11g,1g,17g,95mg,204mg,4mg,1120mg,,,,
+17,6589378,Tempeh-Bean Stuffed Peppers,20 mins,47 mins, 1 hr 7 mins,2 ,4 stuffed pepper halves,2,560,26g,11g,1222mg,51g,13g,9g,32g,157mg,432mg,6mg,770mg,,,50mg,
+18,6587657,Tofu Scramble Wraps,20 mins,35 mins,55 mins,4 ,4 wraps,4,508,21g,3g,513mg,61g,13g,6g,25g,35mg,408mg,8mg,1002mg,,,,
+19,6586919,Tempeh Ratatouille,30 mins,10 mins,40 mins,4 ,4 servings,4,433,18g,7g,650mg,48g,11g,6g,26g,45mg,341mg,5mg,1285mg,3.8,11,35mg,
+20,6585367,Indonesian Ratatouille with Tempeh,25 mins,15 mins,40 mins,2 ,2 servings,2,401,19g,4g,567mg,43g,12g,15g,22g,112mg,210mg,5mg,1398mg,,,,
+21,6563710,Tempeh Sausage-Stuffed Acorn Squash,30 mins,30 mins, 2 hrs,6 ,6 servings,6,284,13g,2g,587mg,37g,6g,8g,13g,68mg,196mg,4mg,1240mg,,,, 1 hr
+22,6563100,Vegan Fajitas with Tempeh,15 mins,20 mins,35 mins,4 ,4 servings,4,231,16g,3g,542mg,14g,1g,2g,11g,39mg,69mg,2mg,317mg,,,,

@@ -1,21 +1,21 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Total Sugars
-0,6649770,15 mins,40 mins,55 mins,4 ,4 servings,4,586,44g,24g,98mg,1592mg,28g,3g,21g,9mg,452mg,2mg,434mg,4.6,"1,426",
-1,6649110,30 mins, 4 hrs 45 mins, 5 hrs 15 mins,8 ,,8,442,16g,9g,38mg,1539mg,57g,3g,18g,4mg,222mg,4mg,283mg,4.7,394,10g
-2,6648796,15 mins, 1 hr, 1 hr 15 mins,4 ,,4,618,36g,21g,114mg,3241mg,39g,4g,30g,31mg,759mg,3mg,543mg,4.7,"1,844",
-3,6738547,20 mins, 1 hr 25 mins, 1 hr 45 mins,6 ,6 crocks,6,792,38g,21g,86mg,2170mg,77g,7g,31g,23mg,576mg,5mg,839mg,4.8,175,16g
-4,6738883,20 mins, 1 hr 20 mins, 1 hr 40 mins,6 ,6 servings,6,460,30g,19g,82mg,1114mg,32g,3g,17g,12mg,369mg,2mg,392mg,4.8,97,7g
-5,6739063,15 mins,45 mins, 1 hr,4 ,4 servings,4,732,29g,18g,89mg,2004mg,79g,4g,33g,6mg,528mg,5mg,433mg,4.4,419,8g
-6,6602519,20 mins, 6 hrs, 6 hrs 20 mins,4 ,,4,865,41g,22g,136mg,1320mg,83g,14g,42g,48mg,739mg,6mg,1351mg,4.4,10,22g
-7,6587705,30 mins, 3 hrs 10 mins, 3 hrs 40 mins,8 ,,8,1162,79g,36g,177mg,3222mg,63g,5g,48g,13mg,380mg,7mg,802mg,4.7,7,9g
-8,6602608,15 mins,30 mins,45 mins,4 ,4 bowls,4,662,27g,16g,75mg,2389mg,69g,3g,31g,3mg,373mg,6mg,458mg,4.5,24,5g
-9,6563280,20 mins, 2 hrs 10 mins, 2 hrs 30 mins,4 ,4 servings,4,478,26g,12g,56mg,1908mg,37g,3g,21g,12mg,503mg,2mg,345mg,5.0,1,11g
-10,6584165,10 mins, 1 hr 25 mins, 1 hr 35 mins,5 ,5 servings,5,455,26g,12g,48mg,426mg,37g,4g,17g,22mg,351mg,3mg,416mg,4.9,8,12g
-11,6573079,30 mins, 2 hrs 10 mins, 2 hrs 40 mins,6 ,6 servings,6,442,22g,10g,96mg,1560mg,24g,3g,37g,8mg,130mg,4mg,670mg,4.2,6,5g
-12,6600995,20 mins, 3 hrs 40 mins, 4 hrs,8 ,,8,445,23g,11g,105mg,491mg,22g,4g,28g,31mg,292mg,5mg,624mg,3.7,3,6g
-13,6600811,10 mins, 4 hrs 10 mins, 4 hrs 20 mins,6 ,6 servings,6,120,8g,5g,20mg,585mg,10g,2g,3g,8mg,36mg,1mg,237mg,4.8,9,4g
-14,6569480,15 mins,20 mins,35 mins,8 ,8 servings,8,213,7g,4g,19mg,1094mg,26g,2g,12g,6mg,160mg,2mg,384mg,4.5,19,6g
-15,6574650,10 mins,30 mins,40 mins,6 ,6 servings,6,343,15g,9g,44mg,699mg,29g,3g,14g,8mg,355mg,1mg,341mg,4.2,49,10g
-16,6575418,15 mins, 2 hrs, 2 hrs 15 mins,8 ,8 servings,8,567,29g,16g,66mg,979mg,55g,5g,19g,18mg,369mg,4mg,637mg,4.1,15,7g
-17,6569762,10 mins, 1 hr, 1 hr 10 mins,4 ,4 servings,4,221,1g,0g,,819mg,36g,4g,7g,6mg,100mg,2mg,249mg,4.7,26,10g
-18,6571198,,,,6 ,6 servings,6,393,19g,8g,36mg,8623mg,24g,1g,26g,1mg,328mg,1mg,272mg,4.6,29,2g
-19,6591598,20 mins, 1 hr 10 mins, 1 hr 30 mins,4 ,4 servings,4,399,8g,3g,12mg,1195mg,60g,7g,14g,31mg,181mg,4mg,1167mg,,,9g
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Total Sugars
+0,6649770,Rich and Simple French Onion Soup,15 mins,40 mins,55 mins,4 ,4 servings,4,586,44g,24g,98mg,1592mg,28g,3g,21g,9mg,452mg,2mg,434mg,4.6,"1,429",
+1,6649110,Slow Cooker French Onion Soup,30 mins, 4 hrs 45 mins, 5 hrs 15 mins,8 ,,8,442,16g,9g,38mg,1539mg,57g,3g,18g,4mg,222mg,4mg,283mg,4.7,394,10g
+2,6648796,French Onion Soup Gratinée,15 mins, 1 hr, 1 hr 15 mins,4 ,,4,618,36g,21g,114mg,3241mg,39g,4g,30g,31mg,759mg,3mg,543mg,4.7,"1,844",
+3,6738547,Restaurant-Style French Onion Soup,20 mins, 1 hr 25 mins, 1 hr 45 mins,6 ,6 crocks,6,792,38g,21g,86mg,2170mg,77g,7g,31g,23mg,576mg,5mg,839mg,4.8,175,16g
+4,6738883,American French Onion Soup,20 mins, 1 hr 20 mins, 1 hr 40 mins,6 ,6 servings,6,460,30g,19g,82mg,1114mg,32g,3g,17g,12mg,369mg,2mg,392mg,4.8,97,7g
+5,6739063,French Onion Soup I,15 mins,45 mins, 1 hr,4 ,4 servings,4,732,29g,18g,89mg,2004mg,79g,4g,33g,6mg,528mg,5mg,433mg,4.4,419,8g
+6,6602519,French Onion Soup with Homemade Beef Stock,20 mins, 6 hrs, 6 hrs 20 mins,4 ,,4,865,41g,22g,136mg,1320mg,83g,14g,42g,48mg,739mg,6mg,1351mg,4.4,10,22g
+7,6587705,Beef Short Rib French Onion Soup,30 mins, 3 hrs 10 mins, 3 hrs 40 mins,8 ,,8,1162,79g,36g,177mg,3222mg,63g,5g,48g,13mg,380mg,7mg,802mg,4.7,7,9g
+8,6602608,Southern-Style French Onion Soup,15 mins,30 mins,45 mins,4 ,4 bowls,4,662,27g,16g,75mg,2389mg,69g,3g,31g,3mg,373mg,6mg,458mg,4.5,24,5g
+9,6563280,Vegetarian French Onion Soup,20 mins, 2 hrs 10 mins, 2 hrs 30 mins,4 ,4 servings,4,478,26g,12g,56mg,1908mg,37g,3g,21g,12mg,503mg,2mg,345mg,5.0,1,11g
+10,6584165,French Onion Soup with Port Wine,10 mins, 1 hr 25 mins, 1 hr 35 mins,5 ,5 servings,5,455,26g,12g,48mg,426mg,37g,4g,17g,22mg,351mg,3mg,416mg,4.9,8,12g
+11,6573079,French Onion Soup VI,30 mins, 2 hrs 10 mins, 2 hrs 40 mins,6 ,6 servings,6,442,22g,10g,96mg,1560mg,24g,3g,37g,8mg,130mg,4mg,670mg,4.2,6,5g
+12,6600995,The Ultimate Ribeye French Onion Soup,20 mins, 3 hrs 40 mins, 4 hrs,8 ,,8,445,23g,11g,105mg,491mg,22g,4g,28g,31mg,292mg,5mg,624mg,3.7,3,6g
+13,6600811,French Onion Soup (Slow Cooker),10 mins, 4 hrs 10 mins, 4 hrs 20 mins,6 ,6 servings,6,120,8g,5g,20mg,585mg,10g,2g,3g,8mg,36mg,1mg,237mg,4.8,9,4g
+14,6569480,French Onion Soup IX,15 mins,20 mins,35 mins,8 ,8 servings,8,213,7g,4g,19mg,1094mg,26g,2g,12g,6mg,160mg,2mg,384mg,4.5,19,6g
+15,6574650,French Onion Soup VII,10 mins,30 mins,40 mins,6 ,6 servings,6,343,15g,9g,44mg,699mg,29g,3g,14g,8mg,355mg,1mg,341mg,4.2,49,10g
+16,6575418,French Onion Soup with Celeriac,15 mins, 2 hrs, 2 hrs 15 mins,8 ,8 servings,8,567,29g,16g,66mg,979mg,55g,5g,19g,18mg,369mg,4mg,637mg,4.1,15,7g
+17,6569762,French Onion Soup X,10 mins, 1 hr, 1 hr 10 mins,4 ,4 servings,4,221,1g,0g,,819mg,36g,4g,7g,6mg,100mg,2mg,249mg,4.7,26,10g
+18,6571198,French Onion Soup IV,,,,6 ,6 servings,6,393,19g,8g,36mg,8623mg,24g,1g,26g,1mg,328mg,1mg,272mg,4.6,29,2g
+19,6591598,Vegetarian Stout French Onion Soup,20 mins, 1 hr 10 mins, 1 hr 30 mins,4 ,4 servings,4,399,8g,3g,12mg,1195mg,60g,7g,14g,31mg,181mg,4mg,1167mg,,,9g

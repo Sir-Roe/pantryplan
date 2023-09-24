@@ -1,62 +1,62 @@
-,id_recipe,Prep Time:,Cook Time:,Stand Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Active Time:,Yield:,Additional Time:
-0,7568285,5 mins,20 mins,3 mins,28 mins,6 ,6,409,8g,4g,106mg,812mg,73g,2g,32g,11g,12mg,210mg,3mg,261mg,4.9,10,,,
-1,7507446,10 mins,5 mins,,15 mins,6 ,6,547,20g,6g,115mg,627mg,81g,1g,54g,11g,1mg,335mg,2mg,284mg,5.0,1,,,
-2,7483030,,,,,1 portion,1,768,35g,19g,440mg,719mg,86g,2g,22g,24g,0mg,186mg,6mg,368mg,5.0,3,,,
-3,7112423,5 mins,15 mins,,20 mins,4 ,4,622,28g,15g,137mg,817mg,86g,,,9g,,,,171mg,5.0,1,,,
-4,7092709,,5 mins,,40 mins,4 ,4,458,25g,14g,96mg,630mg,49g,4g,,11g,,,,374mg,,,35 mins,8 pancakes,
-5,7506803,5 mins,5 mins,,10 mins,1 ,1,448,10g,3g,55mg,460mg,77g,6g,43g,14g,45mg,472mg,2mg,659mg,5.0,1,,1 mini pancake parfait,
-6,6597803,45 mins,15 mins,, 1 hr,4 ,4,507,16g,8g,260mg,176mg,70g,1g,43g,14g,0mg,117mg,3mg,290mg,4.6,21,,,
-7,6752324,10 mins,6 mins,,16 mins,2 ,2,314,15g,8g,124mg,498mg,40g,3g,,7g,,,,150mg,4.8,47,,4 pancakes,
-8,6649891,10 mins,15 mins,,25 mins,6 ,6,359,13g,4g,127mg,888mg,50g,1g,,11g,,,,245mg,4.8,10,,,
-9,6664867,10 mins,10 mins,,20 mins,4 ,4,247,10g,2g,51mg,804mg,34g,1g,9g,7g,0mg,183mg,2mg,142mg,4.2,"1,902",,,
-10,6664003,5 mins,10 mins,,15 mins,6 ,6,193,7g,1g,34mg,246mg,29g,2g,9g,5g,4mg,124mg,1mg,236mg,4.5,"2,666",,12 pancakes,
-11,6649033,5 mins,15 mins,,20 mins,8 ,8,158,6g,3g,38mg,504mg,22g,1g,4g,5g,0mg,140mg,1mg,92mg,4.6,"18,725",,,
-12,6740967,10 mins,10 mins,,25 mins,4 ,4,230,8g,5g,65mg,650mg,33g,1g,9g,6g,0mg,134mg,2mg,121mg,4.8,"16,943",,8 pancakes,5 mins
-13,6663763,10 mins,15 mins,,25 mins,6 ,6,268,6g,1g,34mg,592mg,45g,3g,10g,8g,2mg,200mg,3mg,247mg,4.6,"3,100",,12 pancakes,
-14,6600276,10 mins,5 mins,,15 mins,8 ,8,243,10g,2g,51mg,468mg,32g,1g,8g,7g,0mg,150mg,2mg,142mg,4.3,45,,8 pancakes,
-15,6663300,15 mins,10 mins,,25 mins,12 ,12,219,7g,4g,63mg,516mg,31g,1g,7g,7g,1mg,146mg,2mg,160mg,4.7,"3,918",,12 5-inch pancakes,
-16,6664163,10 mins,15 mins,,25 mins,13 ,13,66,3g,1g,47mg,122mg,8g,0g,2g,3g,,35mg,1mg,59mg,4.6,66,,52 mini pancakes,
-17,6648557,10 mins,10 mins,,20 mins,4 ,4,240,19g,2g,93mg,181mg,10g,3g,4g,10g,,17mg,1mg,44mg,4.3,349,,4 pancakes,
-18,6650373,10 mins,15 mins,, 1 hr 25 mins,6 ,6,146,3g,1g,37mg,397mg,25g,1g,4g,5g,0mg,150mg,2mg,108mg,4.4,"1,394",,12 pancakes, 1 hr
-19,6649622,15 mins,30 mins,,45 mins,6 ,6,236,14g,7g,210mg,190mg,18g,1g,2g,10g,0mg,80mg,2mg,153mg,4.6,496,,,
-20,6649223,5 mins,20 mins,,25 mins,4 ,4,318,12g,7g,76mg,1119mg,44g,1g,7g,9g,0mg,342mg,3mg,185mg,4.6,"1,068",,12 pancakes,
-21,6648818,5 mins,10 mins,,15 mins,3 ,3,264,5g,1g,,717mg,49g,1g,9g,5g,,191mg,3mg,58mg,4.4,889,,9 pancakes,
-22,6579510,15 mins,30 mins,, 1 hr 15 mins,4 ,4,517,23g,13g,235mg,197mg,69g,5g,51g,11g,8mg,161mg,2mg,383mg,4.5,590,,,30 mins
-23,6736311,10 mins,10 mins,,25 mins,4 ,4,196,6g,3g,57mg,444mg,26g,6g,6g,9g,1mg,164mg,2mg,309mg,4.8,190,,,5 mins
-24,6604384,10 mins,25 mins,,35 mins,4 ,4,322,14g,9g,82mg,238mg,41g,2g,9g,8g,2mg,153mg,2mg,188mg,4.4,421,,,
-25,6650038,10 mins,10 mins,,35 mins,2 ,2,554,26g,12g,141mg,1399mg,63g,2g,7g,17g,7mg,417mg,4mg,211mg,4.8,196,,,15 mins
-26,6583193,10 mins,25 mins,,35 mins,2 ,2,392,24g,13g,237mg,509mg,33g,1g,9g,12g,3mg,108mg,2mg,204mg,4.7,257,,1 9-inch pancake,
-27,6648684,30 mins,10 mins,,55 mins,8 ,8,327,18g,11g,71mg,406mg,38g,1g,,4g,0mg,89mg,1mg,88mg,4.5,104,,8 pancakes,15 mins
-28,6648442,10 mins,10 mins,,25 mins,8 ,8,90,3g,1g,25mg,191mg,14g,2g,1g,3g,,40mg,0mg,33mg,3.6,20,,,5 mins
-29,6650359,15 mins,15 mins,,30 mins,4 ,4,210,8g,5g,65mg,1027mg,27g,1g,4g,7g,1mg,93mg,2mg,156mg,4.3,"1,205",,12 6-inch pancakes,
-30,6739207,10 mins,15 mins,,25 mins,2 ,2,349,18g,10g,221mg,178mg,35g,1g,11g,12g,0mg,107mg,2mg,197mg,4.6,731,,,
-31,6739061,5 mins,10 mins,,20 mins,4 ,4,172,6g,3g,58mg,561mg,25g,1g,4g,7g,2mg,129mg,1mg,91mg,4.9,17,,,5 mins
-32,6599618,10 mins,20 mins,,30 mins,3 ,3,456,20g,12g,89mg,613mg,63g,3g,,10g,0mg,308mg,4mg,297mg,4.4,75,,6 pancakes,
-33,6582889,10 mins,20 mins,,30 mins,4 ,4,410,15g,3g,99mg,875mg,57g,7g,13g,16g,1mg,329mg,3mg,485mg,4.7,211,,,
-34,6739034,5 mins,10 mins,,15 mins,4 ,4,207,9g,2g,48mg,605mg,25g,1g,6g,6g,1mg,118mg,2mg,141mg,4.7,996,,4 pancakes,
-35,6648765,15 mins,5 mins,,20 mins,3 ,3,427,16g,5g,77mg,1052mg,66g,4g,24g,9g,6mg,292mg,3mg,422mg,4.8,157,,,
-36,6650796,10 mins,10 mins,,20 mins,4 ,4,280,10g,2g,51mg,807mg,38g,2g,12g,7g,23mg,195mg,2mg,220mg,4.1,344,,8 pancakes,
-37,6598551,10 mins,10 mins,,20 mins,2 ,2,245,18g,13g,186mg,72mg,14g,2g,7g,7g,5mg,31mg,1mg,280mg,4.1,40,,,
-38,6651049,5 mins,10 mins,,15 mins,4 ,4,210,13g,4g,148mg,284mg,10g,0g,1g,13g,,55mg,1mg,109mg,4.3,253,,,
-39,6598614,10 mins,10 mins,,20 mins,4 ,4,418,17g,10g,114mg,257mg,59g,4g,25g,12g,0mg,124mg,4mg,351mg,3.4,120,,8 pancakes,
-40,6606175,10 mins,15 mins,,25 mins,12 ,12,142,6g,1g,16mg,390mg,19g,1g,4g,5g,1mg,173mg,1mg,143mg,4.5,128,,12 4-inch pancakes,
-41,6739088,15 mins,10 mins,,30 mins,4 ,4,232,8g,5g,65mg,629mg,33g,1g,9g,6g,0mg,137mg,2mg,117mg,4.7,431,,,5 mins
-42,6568172,15 mins,30 mins,, 1 hr 5 mins,6 ,6,525,26g,13g,153mg,378mg,57g,2g,10g,14g,0mg,181mg,3mg,303mg,4.8,48,,20 blinis,20 mins
-43,6575871,10 mins,5 mins,,15 mins,6 ,6,145,4g,2g,98mg,157mg,20g,1g,4g,7g,0mg,88mg,1mg,147mg,4.6,232,,,
-44,6737608,10 mins,15 mins,,25 mins,4 ,4,282,6g,2g,51mg,361mg,49g,2g,17g,8g,1mg,230mg,3mg,216mg,4.4,139,,8 pumpkin pancakes,
-45,6663830,5 mins,10 mins,,15 mins,5 ,5,278,10g,5g,95mg,550mg,39g,1g,9g,8g,1mg,114mg,2mg,173mg,4.6,209,,5 servings,
-46,6650981,10 mins,15 mins,,25 mins,6 ,6,228,13g,3g,33mg,407mg,22g,1g,5g,4g,0mg,119mg,1mg,36mg,5.0,4,,6 small pancakes,
-47,6586951,10 mins,10 mins,,20 mins,10 ,10,139,8g,4g,51mg,280mg,15g,1g,,3g,0mg,96mg,1mg,67mg,4.3,61,,10 pancakes,
-48,6595611,10 mins,15 mins,,25 mins,4 ,4,290,13g,3g,51mg,403mg,36g,2g,4g,7g,2mg,268mg,3mg,139mg,3.5,31,,4 servings,
-49,6650269,15 mins,13 mins,,40 mins,8 ,8,277,6g,3g,12mg,694mg,50g,3g,8g,6g,5mg,144mg,2mg,272mg,4.7,65,,8 servings,12 mins
-50,6601056,10 mins,25 mins,,35 mins,10 ,10,127,5g,3g,30mg,375mg,17g,1g,3g,4g,0mg,96mg,1mg,74mg,4.4,34,,10 pancakes,
-51,6580485,10 mins,15 mins,,30 mins,6 ,6,218,10g,2g,35mg,493mg,27g,1g,6g,6g,0mg,177mg,2mg,127mg,4.1,283,,12 small pancakes,5 mins
-52,6737206,10 mins,10 mins,,30 mins,2 ,2,497,31g,6g,191mg,412mg,31g,,13g,29g,0mg,416mg,6mg,902mg,4.3,33,,2 servings,10 mins
-53,6664764,10 mins,5 mins,,15 mins,4 ,4,176,10g,5g,113mg,514mg,15g,0g,3g,7g,0mg,157mg,1mg,145mg,4.6,22,,10 pancakes,
-54,6579235,5 mins,10 mins,,15 mins,5 ,5,176,8g,2g,41mg,352mg,21g,1g,2g,5g,0mg,147mg,1mg,118mg,4.0,585,,10 (4-inch) pancakes,
-55,6589584,10 mins,15 mins,,25 mins,8 ,8,195,8g,4g,63mg,300mg,26g,1g,8g,5g,0mg,124mg,2mg,102mg,4.7,9,,8 pancakes,
-56,6739789,10 mins,,,10 mins,12 ,12,274,4g,2g,13mg,1120mg,50g,1g,9g,9g,1mg,400mg,3mg,234mg,4.8,98,,12 servings,
-57,6573960,10 mins,15 mins,,25 mins,8 ,8,123,3g,1g,25mg,297mg,20g,1g,4g,4g,1mg,114mg,1mg,86mg,4.4,83,,8 pancakes,
-58,6571081,5 mins,20 mins,,25 mins,6 ,6,264,15g,8g,154mg,136mg,26g,1g,10g,8g,0mg,73mg,2mg,132mg,4.4,209,,1 to 9 - inch cake pan,
-59,6737843,10 mins,10 mins,,20 mins,5 ,5,151,7g,0g,53mg,179mg,16g,0g,8g,8g,,49mg,1mg,82mg,5.0,6,,5 syrniki,
-60,6575098,10 mins,15 mins,,25 mins,10 ,10,101,1g,0g,19mg,150mg,21g,1g,5g,3g,,53mg,1mg,150mg,4.2,239,,10 pancakes,
+,id_recipe,name,Prep Time:,Cook Time:,Stand Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Active Time:,Yield:,Additional Time:
+0,7568285,Perfect Pancakes,5 mins,20 mins,3 mins,28 mins,6 ,6,409,8g,4g,106mg,812mg,73g,2g,32g,11g,12mg,210mg,3mg,261mg,4.9,10,,,
+1,7507446,Tres Leches Pancakes,10 mins,5 mins,,15 mins,6 ,6,547,20g,6g,115mg,627mg,81g,1g,54g,11g,1mg,335mg,2mg,284mg,5.0,1,,,
+2,7483030,Kaiserschmarren – Austrian Torn Pancakes,,,,,1 portion,1,768,35g,19g,440mg,719mg,86g,2g,22g,24g,0mg,186mg,6mg,368mg,5.0,3,,,
+3,7112423,Cake Mix Birthday Cake Pancakes,5 mins,15 mins,,20 mins,4 ,4,622,28g,15g,137mg,817mg,86g,,,9g,,,,171mg,5.0,1,,,
+4,7092709,Carrot Cake Pancakes,,5 mins,,40 mins,4 ,4,458,25g,14g,96mg,630mg,49g,4g,,11g,,,,374mg,,,35 mins,8 pancakes,
+5,7506803,Mini Pancake Parfait,5 mins,5 mins,,10 mins,1 ,1,448,10g,3g,55mg,460mg,77g,6g,43g,14g,45mg,472mg,2mg,659mg,5.0,1,,1 mini pancake parfait,
+6,6597803,Kaiserschmarrn,45 mins,15 mins,, 1 hr,4 ,4,507,16g,8g,260mg,176mg,70g,1g,43g,14g,0mg,117mg,3mg,290mg,4.6,21,,,
+7,6752324,Apple Fritter Pancakes,10 mins,6 mins,,16 mins,2 ,2,314,15g,8g,124mg,498mg,40g,3g,,7g,,,,150mg,4.8,47,,4 pancakes,
+8,6649891,Sheet Pan Buttermilk Pancakes,10 mins,15 mins,,25 mins,6 ,6,359,13g,4g,127mg,888mg,50g,1g,,11g,,,,245mg,4.8,10,,,
+9,6664867,Easy Pancakes,10 mins,10 mins,,20 mins,4 ,4,247,10g,2g,51mg,804mg,34g,1g,9g,7g,0mg,183mg,2mg,142mg,4.2,"1,904",,,
+10,6664003,Banana Pancakes,5 mins,10 mins,,15 mins,6 ,6,193,7g,1g,34mg,246mg,29g,2g,9g,5g,4mg,124mg,1mg,236mg,4.5,"2,667",,12 pancakes,
+11,6649033,Good Old-Fashioned Pancakes,5 mins,15 mins,,20 mins,8 ,8,158,6g,3g,38mg,504mg,22g,1g,4g,5g,0mg,140mg,1mg,92mg,4.6,"18,735",,,
+12,6740967,Fluffy Pancakes,10 mins,10 mins,,25 mins,4 ,4,230,8g,5g,65mg,650mg,33g,1g,9g,6g,0mg,134mg,2mg,121mg,4.8,"16,943",,8 pancakes,5 mins
+13,6663763,Pumpkin Pancakes,10 mins,15 mins,,25 mins,6 ,6,268,6g,1g,34mg,592mg,45g,3g,10g,8g,2mg,200mg,3mg,247mg,4.6,"3,100",,12 pancakes,
+14,6600276,Fluffy Flapjack Pancakes,10 mins,5 mins,,15 mins,8 ,8,243,10g,2g,51mg,468mg,32g,1g,8g,7g,0mg,150mg,2mg,142mg,4.3,45,,8 pancakes,
+15,6663300,Buttermilk Pancakes,15 mins,10 mins,,25 mins,12 ,12,219,7g,4g,63mg,516mg,31g,1g,7g,7g,1mg,146mg,2mg,160mg,4.7,"3,918",,12 5-inch pancakes,
+16,6664163,Authentic Swedish Pancakes,10 mins,15 mins,,25 mins,13 ,13,66,3g,1g,47mg,122mg,8g,0g,2g,3g,,35mg,1mg,59mg,4.6,66,,52 mini pancakes,
+17,6648557,Quick Almond Flour Pancakes,10 mins,10 mins,,20 mins,4 ,4,240,19g,2g,93mg,181mg,10g,3g,4g,10g,,17mg,1mg,44mg,4.3,349,,4 pancakes,
+18,6650373,Todd's Famous Blueberry Pancakes,10 mins,15 mins,, 1 hr 25 mins,6 ,6,146,3g,1g,37mg,397mg,25g,1g,4g,5g,0mg,150mg,2mg,108mg,4.4,"1,394",,12 pancakes, 1 hr
+19,6649622,German Pancakes,15 mins,30 mins,,45 mins,6 ,6,236,14g,7g,210mg,190mg,18g,1g,2g,10g,0mg,80mg,2mg,153mg,4.6,496,,,
+20,6649223,Old-Fashioned Pancakes,5 mins,20 mins,,25 mins,4 ,4,318,12g,7g,76mg,1119mg,44g,1g,7g,9g,0mg,342mg,3mg,185mg,4.6,"1,068",,12 pancakes,
+21,6648818,Vegan Pancakes,5 mins,10 mins,,15 mins,3 ,3,264,5g,1g,,717mg,49g,1g,9g,5g,,191mg,3mg,58mg,4.4,889,,9 pancakes,
+22,6579510,German Apple Pancake,15 mins,30 mins,, 1 hr 15 mins,4 ,4,517,23g,13g,235mg,197mg,69g,5g,51g,11g,8mg,161mg,2mg,383mg,4.5,590,,,30 mins
+23,6736311,Buckwheat Pancakes,10 mins,10 mins,,25 mins,4 ,4,196,6g,3g,57mg,444mg,26g,6g,6g,9g,1mg,164mg,2mg,309mg,4.8,190,,,5 mins
+24,6604384,Apple Pancakes,10 mins,25 mins,,35 mins,4 ,4,322,14g,9g,82mg,238mg,41g,2g,9g,8g,2mg,153mg,2mg,188mg,4.4,421,,,
+25,6650038,Lemon-Ricotta Pancakes,10 mins,10 mins,,35 mins,2 ,2,554,26g,12g,141mg,1399mg,63g,2g,7g,17g,7mg,417mg,4mg,211mg,4.8,196,,,15 mins
+26,6583193,Baked Pancakes,10 mins,25 mins,,35 mins,2 ,2,392,24g,13g,237mg,509mg,33g,1g,9g,12g,3mg,108mg,2mg,204mg,4.7,257,,1 9-inch pancake,
+27,6648684,Cinnamon Roll Pancakes,30 mins,10 mins,,55 mins,8 ,8,327,18g,11g,71mg,406mg,38g,1g,,4g,0mg,89mg,1mg,88mg,4.5,105,,8 pancakes,15 mins
+28,6648442,Fluffy Gluten-Free Pancakes,10 mins,10 mins,,25 mins,8 ,8,90,3g,1g,25mg,191mg,14g,2g,1g,3g,,40mg,0mg,33mg,3.6,20,,,5 mins
+29,6650359,Mom's Buttermilk Pancakes,15 mins,15 mins,,30 mins,4 ,4,210,8g,5g,65mg,1027mg,27g,1g,4g,7g,1mg,93mg,2mg,156mg,4.3,"1,207",,12 6-inch pancakes,
+30,6739207,Dutch Babies,10 mins,15 mins,,25 mins,2 ,2,349,18g,10g,221mg,178mg,35g,1g,11g,12g,0mg,107mg,2mg,197mg,4.6,732,,,
+31,6739061,Spelt Pancakes,5 mins,10 mins,,20 mins,4 ,4,172,6g,3g,58mg,561mg,25g,1g,4g,7g,2mg,129mg,1mg,91mg,4.9,17,,,5 mins
+32,6599618,Mini Chocolate Chip Pancakes,10 mins,20 mins,,30 mins,3 ,3,456,20g,12g,89mg,613mg,63g,3g,,10g,0mg,308mg,4mg,297mg,4.4,75,,6 pancakes,
+33,6582889,100% Whole Wheat Pancakes,10 mins,20 mins,,30 mins,4 ,4,410,15g,3g,99mg,875mg,57g,7g,13g,16g,1mg,329mg,3mg,485mg,4.7,211,,,
+34,6739034,Oatmeal Pancakes,5 mins,10 mins,,15 mins,4 ,4,207,9g,2g,48mg,605mg,25g,1g,6g,6g,1mg,118mg,2mg,141mg,4.7,996,,4 pancakes,
+35,6648765,Easy Banana Nut Pancakes,15 mins,5 mins,,20 mins,3 ,3,427,16g,5g,77mg,1052mg,66g,4g,24g,9g,6mg,292mg,3mg,422mg,4.8,157,,,
+36,6650796,Strawberry Vanilla Pancakes,10 mins,10 mins,,20 mins,4 ,4,280,10g,2g,51mg,807mg,38g,2g,12g,7g,23mg,195mg,2mg,220mg,4.1,344,,8 pancakes,
+37,6598551,Flourless Banana Pancakes,10 mins,10 mins,,20 mins,2 ,2,245,18g,13g,186mg,72mg,14g,2g,7g,7g,5mg,31mg,1mg,280mg,4.1,40,,,
+38,6651049,Cottage Cheese Pancakes,5 mins,10 mins,,15 mins,4 ,4,210,13g,4g,148mg,284mg,10g,0g,1g,13g,,55mg,1mg,109mg,4.3,253,,,
+39,6598614,Chocolate Pancakes,10 mins,10 mins,,20 mins,4 ,4,418,17g,10g,114mg,257mg,59g,4g,25g,12g,0mg,124mg,4mg,351mg,3.4,120,,8 pancakes,
+40,6606175,Peanut Butter Banana Pancakes,10 mins,15 mins,,25 mins,12 ,12,142,6g,1g,16mg,390mg,19g,1g,4g,5g,1mg,173mg,1mg,143mg,4.5,128,,12 4-inch pancakes,
+41,6739088,Fluffy and Delicious Pancakes,15 mins,10 mins,,30 mins,4 ,4,232,8g,5g,65mg,629mg,33g,1g,9g,6g,0mg,137mg,2mg,117mg,4.7,431,,,5 mins
+42,6568172,Blini (Russian Pancakes),15 mins,30 mins,, 1 hr 5 mins,6 ,6,525,26g,13g,153mg,378mg,57g,2g,10g,14g,0mg,181mg,3mg,303mg,4.8,48,,20 blinis,20 mins
+43,6575871,Pannekaken (Norwegian Pancakes),10 mins,5 mins,,15 mins,6 ,6,145,4g,2g,98mg,157mg,20g,1g,4g,7g,0mg,88mg,1mg,147mg,4.6,232,,,
+44,6737608,Simply Pumpkin Pancakes,10 mins,15 mins,,25 mins,4 ,4,282,6g,2g,51mg,361mg,49g,2g,17g,8g,1mg,230mg,3mg,216mg,4.4,139,,8 pumpkin pancakes,
+45,6663830,Cornbread Pancakes,5 mins,10 mins,,15 mins,5 ,5,278,10g,5g,95mg,550mg,39g,1g,9g,8g,1mg,114mg,2mg,173mg,4.6,209,,5 servings,
+46,6650981,Matcha Pancakes,10 mins,15 mins,,25 mins,6 ,6,228,13g,3g,33mg,407mg,22g,1g,5g,4g,0mg,119mg,1mg,36mg,5.0,4,,6 small pancakes,
+47,6586951,Cinnamon Pancakes,10 mins,10 mins,,20 mins,10 ,10,139,8g,4g,51mg,280mg,15g,1g,,3g,0mg,96mg,1mg,67mg,4.3,61,,10 pancakes,
+48,6595611,Pancakes from Scratch,10 mins,15 mins,,25 mins,4 ,4,290,13g,3g,51mg,403mg,36g,2g,4g,7g,2mg,268mg,3mg,139mg,3.5,31,,4 servings,
+49,6650269,Easy Buttermilk Baking Sheet Pancakes,15 mins,13 mins,,40 mins,8 ,8,277,6g,3g,12mg,694mg,50g,3g,8g,6g,5mg,144mg,2mg,272mg,4.7,65,,8 servings,12 mins
+50,6601056,Homemade Pancakes,10 mins,25 mins,,35 mins,10 ,10,127,5g,3g,30mg,375mg,17g,1g,3g,4g,0mg,96mg,1mg,74mg,4.4,34,,10 pancakes,
+51,6580485,Extra-Yummy Fluffy Pancakes,10 mins,15 mins,,30 mins,6 ,6,218,10g,2g,35mg,493mg,27g,1g,6g,6g,0mg,177mg,2mg,127mg,4.1,283,,12 small pancakes,5 mins
+52,6737206,Almond Meal Pancakes,10 mins,10 mins,,30 mins,2 ,2,497,31g,6g,191mg,412mg,31g,,13g,29g,0mg,416mg,6mg,902mg,4.3,33,,2 servings,10 mins
+53,6664764,Finnish Pancakes,10 mins,5 mins,,15 mins,4 ,4,176,10g,5g,113mg,514mg,15g,0g,3g,7g,0mg,157mg,1mg,145mg,4.6,22,,10 pancakes,
+54,6579235,Pancakes,5 mins,10 mins,,15 mins,5 ,5,176,8g,2g,41mg,352mg,21g,1g,2g,5g,0mg,147mg,1mg,118mg,4.0,585,,10 (4-inch) pancakes,
+55,6589584,Fluffy Japanese Pancakes,10 mins,15 mins,,25 mins,8 ,8,195,8g,4g,63mg,300mg,26g,1g,8g,5g,0mg,124mg,2mg,102mg,4.7,9,,8 pancakes,
+56,6739789,Homemade Pancake Mix,10 mins,,,10 mins,12 ,12,274,4g,2g,13mg,1120mg,50g,1g,9g,9g,1mg,400mg,3mg,234mg,4.8,99,,12 servings,
+57,6573960,Lemon-Blueberry Pancakes,10 mins,15 mins,,25 mins,8 ,8,123,3g,1g,25mg,297mg,20g,1g,4g,4g,1mg,114mg,1mg,86mg,4.4,83,,8 pancakes,
+58,6571081,Oven Pancakes,5 mins,20 mins,,25 mins,6 ,6,264,15g,8g,154mg,136mg,26g,1g,10g,8g,0mg,73mg,2mg,132mg,4.4,209,,1 to 9 - inch cake pan,
+59,6737843,Russian Cheese Pancakes (Syrniki),10 mins,10 mins,,20 mins,5 ,5,151,7g,0g,53mg,179mg,16g,0g,8g,8g,,49mg,1mg,82mg,5.0,6,,5 syrniki,
+60,6575098,Grandma's Gingerbread Pancakes,10 mins,15 mins,,25 mins,10 ,10,101,1g,0g,19mg,150mg,21g,1g,5g,3g,,53mg,1mg,150mg,4.2,239,,10 pancakes,

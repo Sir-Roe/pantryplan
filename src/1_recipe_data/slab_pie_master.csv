@@ -1,18 +1,18 @@
-,id_recipe,Prep Time:,Cook Time:,Chill Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
-0,7508367,20 mins,50 mins, 2 hrs, 3 hrs 10 mins,8 ,8,628,32g,19g,148mg,35mg,82g,5g,41g,7g,8mg,47mg,3mg,321mg,,,,
-1,6601872,15 mins,40 mins,, 3 hrs 55 mins,8 ,8,631,33g,12g,48mg,278mg,79g,3g,60g,9g,13mg,181mg,2mg,349mg,4.7,16, 3 hrs,1 (9x13-inch) pie
-2,6594629,30 mins,,,30 mins,12 ,12,440,24g,16g,46mg,481mg,53g,1g,42g,5g,0mg,95mg,1mg,162mg,4.5,80,,1 - 9x13 inch pan
-3,6603520,,,,,8 ,8,863,52g,31g,79mg,796mg,93g,2g,71g,11g,0mg,159mg,2mg,318mg,4.7,95,,1 9x13-inch pie
-4,6739162,30 mins, 1 hr,, 1 hr 30 mins,15 ,15,405,18g,8g,53mg,125mg,62g,3g,42g,3g,4mg,31mg,1mg,125mg,4.6,126,,1 (10x15-inch) pie
-5,6579176,15 mins,10 mins,, 4 hrs 25 mins,12 ,12,303,7g,2g,10mg,358mg,55g,2g,27g,7g,0mg,164mg,2mg,282mg,4.2,13, 4 hrs,1 (9x13-inch) dish
-6,6601730,15 mins,10 mins,,55 mins,12 ,12,234,11g,6g,27mg,196mg,34g,1g,13g,2g,2mg,17mg,1mg,85mg,4.8,23,30 mins,1 13x9-inch pan
-7,6575607,20 mins,20 mins,, 2 hrs 40 mins,12 ,12,378,25g,13g,58mg,391mg,34g,1g,24g,6g,0mg,84mg,1mg,185mg,4.6,49, 2 hrs,1 - 9x13 inch pie
-8,6567996,35 mins,25 mins,, 1 hr,12 ,12,310,13g,8g,47mg,133mg,47g,2g,27g,4g,5mg,47mg,1mg,92mg,4.7,24,,1 9x13-inch pie
-9,6601572,25 mins,45 mins,, 1 hr 30 mins,24 ,24,285,12g,7g,31mg,86mg,43g,1g,22g,3g,9mg,14mg,1mg,127mg,5.0,1,20 mins,24 bars
-10,6600319,20 mins,15 mins,,40 mins,12 ,12,416,27g,16g,41mg,362mg,41g,1g,29g,4g,0mg,31mg,1mg,100mg,4.6,15,5 mins,1 9x13-inch pan
-11,6583208,15 mins,45 mins,, 1 hr 30 mins,18 ,18,283,11g,4g,12mg,257mg,45g,3g,22g,3g,,18mg,1mg,60mg,5.0,3,30 mins,18 servings
-12,6584176,30 mins,45 mins,, 1 hr 35 mins,24 ,24,250,10g,3g,34mg,120mg,39g,2g,21g,3g,2mg,24mg,1mg,70mg,,,20 mins,24 servings
-13,6583593,45 mins,55 mins,, 2 hrs 10 mins,16 ,16,403,21g,11g,57mg,194mg,53g,4g,23g,5g,12mg,42mg,2mg,235mg,5.0,3,30 mins,16 servings
-14,6603601,20 mins,,, 8 hrs 20 mins,16 ,16,838,58g,23g,46mg,560mg,69g,5g,52g,19g,,58mg,3mg,474mg,4.2,6, 8 hrs,2 to 9 - inch pies
-15,6562021,30 mins, 1 hr 10 mins,, 1 hr 40 mins,24 ,24,281,17g,9g,38mg,147mg,33g,3g,13g,2g,5mg,19mg,1mg,130mg,4.7,3,,24 servings
-16,6649467,50 mins,30 mins,, 5 hrs 20 mins,24 ,24,242,11g,5g,104mg,119mg,32g,2g,16g,5g,4mg,70mg,1mg,170mg,5.0,1, 4 hrs,1 16x12-inch tart
+,id_recipe,name,Prep Time:,Cook Time:,Chill Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
+0,7508367,Croatian Apple Pie Squares,20 mins,50 mins, 2 hrs, 3 hrs 10 mins,8 ,8,628,32g,19g,148mg,35mg,82g,5g,41g,7g,8mg,47mg,3mg,321mg,,,,
+1,6601872,Blueberry Cream Cheese Pie,15 mins,40 mins,, 3 hrs 55 mins,8 ,8,631,33g,12g,48mg,278mg,79g,3g,60g,9g,13mg,181mg,2mg,349mg,4.7,16, 3 hrs,1 (9x13-inch) pie
+2,6594629,Mississippi Mud Pie I,30 mins,,,30 mins,12 ,12,440,24g,16g,46mg,481mg,53g,1g,42g,5g,0mg,95mg,1mg,162mg,4.5,80,,1 - 9x13 inch pan
+3,6603520,Next-Best-Thing-To-Robert-Redford Pie,,,,,8 ,8,863,52g,31g,79mg,796mg,93g,2g,71g,11g,0mg,159mg,2mg,318mg,4.7,95,,1 9x13-inch pie
+4,6739162,Apple Slab Pie,30 mins, 1 hr,, 1 hr 30 mins,15 ,15,405,18g,8g,53mg,125mg,62g,3g,42g,3g,4mg,31mg,1mg,125mg,4.6,126,,1 (10x15-inch) pie
+5,6579176,Graham Cracker Pudding Pie,15 mins,10 mins,, 4 hrs 25 mins,12 ,12,303,7g,2g,10mg,358mg,55g,2g,27g,7g,0mg,164mg,2mg,282mg,4.2,13, 4 hrs,1 (9x13-inch) dish
+6,6601730,Cherry Pretzel Dessert,15 mins,10 mins,,55 mins,12 ,12,234,11g,6g,27mg,196mg,34g,1g,13g,2g,2mg,17mg,1mg,85mg,4.8,23,30 mins,1 13x9-inch pan
+7,6575607,Mississippi Mud Pie II,20 mins,20 mins,, 2 hrs 40 mins,12 ,12,378,25g,13g,58mg,391mg,34g,1g,24g,6g,0mg,84mg,1mg,185mg,4.6,49, 2 hrs,1 - 9x13 inch pie
+8,6567996,Finnish Blueberry Pie,35 mins,25 mins,, 1 hr,12 ,12,310,13g,8g,47mg,133mg,47g,2g,27g,4g,5mg,47mg,1mg,92mg,4.7,24,,1 9x13-inch pie
+9,6601572,Zucchini Pie Bars,25 mins,45 mins,, 1 hr 30 mins,24 ,24,285,12g,7g,31mg,86mg,43g,1g,22g,3g,9mg,14mg,1mg,127mg,5.0,1,20 mins,24 bars
+10,6600319,Chocolate Nut Pie,20 mins,15 mins,,40 mins,12 ,12,416,27g,16g,41mg,362mg,41g,1g,29g,4g,0mg,31mg,1mg,100mg,4.6,15,5 mins,1 9x13-inch pan
+11,6583208,Easy Three-Berry Crumble Slab Pie,15 mins,45 mins,, 1 hr 30 mins,18 ,18,283,11g,4g,12mg,257mg,45g,3g,22g,3g,,18mg,1mg,60mg,5.0,3,30 mins,18 servings
+12,6584176,Easy Apple Pie Bars,30 mins,45 mins,, 1 hr 35 mins,24 ,24,250,10g,3g,34mg,120mg,39g,2g,21g,3g,2mg,24mg,1mg,70mg,,,20 mins,24 servings
+13,6583593,Autumn Apple Slab Pie,45 mins,55 mins,, 2 hrs 10 mins,16 ,16,403,21g,11g,57mg,194mg,53g,4g,23g,5g,12mg,42mg,2mg,235mg,5.0,3,30 mins,16 servings
+14,6603601,Peanut Butter Pie IX,20 mins,,, 8 hrs 20 mins,16 ,16,838,58g,23g,46mg,560mg,69g,5g,52g,19g,,58mg,3mg,474mg,4.2,6, 8 hrs,2 to 9 - inch pies
+15,6562021,Apple Crumb Pie for a Crowd,30 mins, 1 hr 10 mins,, 1 hr 40 mins,24 ,24,281,17g,9g,38mg,147mg,33g,3g,13g,2g,5mg,19mg,1mg,130mg,4.7,3,,24 servings
+16,6649467,Tieton Apricot Tart with Basil Custard,50 mins,30 mins,, 5 hrs 20 mins,24 ,24,242,11g,5g,104mg,119mg,32g,2g,16g,5g,4mg,70mg,1mg,170mg,5.0,1, 4 hrs,1 16x12-inch tart

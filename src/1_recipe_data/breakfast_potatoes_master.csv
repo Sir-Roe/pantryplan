@@ -1,63 +1,63 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Yield:,Additional Time:
-0,6664978,15 mins,35 mins,50 mins,8 ,8,320,14g,6g,82mg,1559mg,25g,3g,1g,25g,3mg,30mg,3mg,464mg,4.7,215,,
-1,6650561,5 mins,20 mins,25 mins,4 ,4,199,9g,6g,23mg,71mg,28g,4g,1g,3g,32mg,22mg,1mg,675mg,4.7,562,,
-2,6650844,15 mins,10 mins,25 mins,2 ,2,334,19g,12g,49mg,13mg,38g,5g,2g,4g,42mg,27mg,2mg,911mg,4.7,358,,
-3,6649094,15 mins,50 mins, 1 hr 5 mins,6 ,6,591,37g,21g,108mg,1044mg,40g,4g,,25g,52mg,380mg,2mg,1034mg,4.7,500,1 1 1/2-quart caserole,
-4,6664796,15 mins, 1 hr 20 mins, 1 hr 40 mins,6 ,6,616,49g,23g,260mg,1142mg,30g,2g,2g,34g,15mg,485mg,3mg,1031mg,4.4,726,1 8x8-inch casserole,5 mins
-5,7496452,20 mins, 1 hr, 1 hr 20 mins,4 ,4,414,17g,2g,0mg,1762mg,60g,7g,6g,7g,52mg,68mg,3mg,1496mg,5.0,5,,
-6,6650026,10 mins,55 mins, 1 hr 15 mins,12 ,12,314,23g,11g,188mg,609mg,12g,1g,1g,22g,5mg,269mg,2mg,421mg,4.8,936,1 9x13-inch casserole,10 mins
-7,6738656,20 mins,25 mins,45 mins,6 ,6,283,11g,2g,62mg,246mg,41g,5g,2g,7g,43mg,47mg,2mg,943mg,4.6,889,,
-8,6648941,20 mins,25 mins,45 mins,12 ,12,108,6g,3g,123mg,111mg,8g,1g,1g,6g,21mg,43mg,1mg,257mg,4.6,36,12 egg bites,
-9,6738466,25 mins, 1 hr 5 mins, 1 hr 35 mins,12 ,12,356,26g,13g,188mg,755mg,8g,1g,1g,22g,4mg,256mg,1mg,307mg,4.7,"1,275",1 9x13-inch casserole,5 mins
-10,6649685,15 mins, 1 hr, 1 hr 15 mins,12 ,12,415,27g,15g,53mg,761mg,30g,2g,1g,14g,5mg,304mg,2mg,438mg,4.6,"2,692",1 9x13-inch casserole,
-11,6651024,15 mins,10 mins,25 mins,6 ,6,198,8g,5g,20mg,308mg,29g,2g,1g,3g,6mg,71mg,1mg,274mg,4.5,25,6 scones,
-12,6739681,10 mins,15 mins,25 mins,4 ,4,217,9g,5g,110mg,540mg,28g,2g,3g,7g,9mg,52mg,1mg,407mg,4.6,117,,
-13,6582318,10 mins, 4 hrs, 4 hrs 10 mins,10 ,10,336,29g,16g,58mg,655mg,21g,1g,0g,9g,8mg,209mg,1mg,445mg,4.2,6,,
-14,6739485,20 mins, 1 hr 15 mins, 9 hrs 35 mins,8 ,8,421,33g,13g,61mg,908mg,17g,1g,,14g,7mg,170mg,1mg,486mg,4.4,486,1 9x13-inch casserole, 8 hrs
-15,6590397,10 mins,15 mins,25 mins,4 ,4,209,18g,3g,140mg,351mg,8g,2g,1g,6g,3mg,31mg,2mg,162mg,4.4,72,,
-16,6649922,10 mins,15 mins,45 mins,4 ,4,306,10g,3g,8mg,35mg,51g,4g,,6g,16mg,39mg,3mg,1167mg,4.7,117,,20 mins
-17,6571294,20 mins, 1 hr 5 mins, 1 hr 25 mins,12 ,12,449,37g,17g,251mg,579mg,17g,2g,2g,22g,29mg,312mg,2mg,573mg,4.7,60,,
-18,6739105,20 mins,30 mins,50 mins,6 ,6,252,22g,4g,124mg,54mg,11g,2g,3g,5g,10mg,35mg,1mg,293mg,4.5,211,,
-19,6595670,20 mins,35 mins, 1 hr,4 ,4,473,26g,9g,36mg,1685mg,48g,6g,5g,14g,26mg,287mg,3mg,1334mg,4.6,469,,5 mins
-20,6585797,15 mins,10 mins,25 mins,2 ,2,372,19g,4g,186mg,669mg,41g,5g,2g,11g,45mg,62mg,3mg,1040mg,4.4,76,2 waffles,
-21,6649050,15 mins,30 mins,45 mins,4 ,4,218,3g,2g,8mg,33mg,43g,5g,2g,5g,42mg,28mg,2mg,906mg,4.1,55,,
-22,6737778,10 mins,20 mins,30 mins,6 ,6,281,13g,4g,197mg,175mg,29g,3g,3g,13g,2mg,118mg,1mg,132mg,4.4,646,,
-23,6584042,20 mins,40 mins, 1 hr,8 ,8,217,8g,5g,65mg,534mg,30g,2g,5g,6g,8mg,202mg,2mg,311mg,4.4,387,,
-24,6579633,5 mins,15 mins,20 mins,4 ,4,176,9g,2g,49mg,627mg,21g,2g,3g,4g,9mg,39mg,1mg,372mg,3.6,64,,
-25,6583544,15 mins, 1 hr 15 mins, 1 hr 30 mins,8 ,8,566,40g,20g,266mg,1599mg,18g,2g,2g,32g,21mg,471mg,2mg,336mg,4.7,190,1 9x13-inch casserole,
-26,6664455,25 mins,25 mins,50 mins,12 ,12,224,18g,9g,114mg,413mg,9g,1g,0g,11g,8mg,17mg,1mg,216mg,4.6,395,12 muffins,
-27,6591059,5 mins,10 mins,15 mins,5 ,5,254,15g,6g,84mg,1350mg,24g,2g,2g,7g,15mg,109mg,1mg,492mg,4.4,178,10 pancakes,
-28,6663432,20 mins,50 mins, 1 hr 10 mins,10 ,10,481,38g,16g,228mg,1516mg,21g,2g,3g,27g,23mg,270mg,3mg,822mg,4.8,50,1 9x13-inch casserole,
-29,6739494,10 mins,30 mins,40 mins,6 ,6,434,9g,4g,48mg,718mg,66g,8g,4g,23g,74mg,58mg,4mg,1678mg,4.4,243,,
-30,6664239,25 mins, 1 hr 15 mins, 1 hr 40 mins,12 ,12,281,21g,10g,171mg,538mg,10g,1g,3g,18g,6mg,274mg,1mg,384mg,4.6,573,,
-31,6578469,10 mins,20 mins, 1 hr,4 ,4,121,4g,1g,,587mg,21g,2g,1g,3g,7mg,17mg,1mg,483mg,4.8,6,4 servings,30 mins
-32,6649857,15 mins,40 mins,55 mins,4 ,4,418,18g,9g,226mg,567mg,43g,4g,3g,22g,16mg,274mg,3mg,1105mg,4.7,84,,
-33,6648332,20 mins,17 mins,37 mins,6 ,6,165,4g,1g,18mg,390mg,24g,3g,3g,11g,40mg,26mg,2mg,680mg,4.3,21,6 servings,
-34,6738748,10 mins, 1 hr 5 mins, 1 hr 15 mins,8 ,8,522,36g,13g,330mg,1190mg,30g,3g,2g,27g,1mg,264mg,2mg,550mg,4.4,112,1 (13x9-inch) dish,
-35,6737356,20 mins,30 mins,50 mins,12 ,12,232,18g,7g,204mg,816mg,13g,1g,0g,13g,7mg,96mg,2mg,446mg,4.2,165,24 breakfast cups,
-36,6737271,15 mins,30 mins,45 mins,3 ,3,579,40g,7g,,1171mg,57g,16g,9g,22g,51mg,572mg,12mg,1765mg,4.9,52,3 servings,
-37,6648559,15 mins, 1 hr, 1 hr 15 mins,16 ,16,394,31g,18g,76mg,737mg,19g,1g,1g,11g,5mg,256mg,2mg,258mg,4.8,32,1 9x13-inch pan,
-38,6576358,20 mins,45 mins, 1 hr 5 mins,4 ,4,525,43g,22g,320mg,722mg,23g,2g,2g,28g,22mg,385mg,2mg,755mg,4.4,159,4 servings,
-39,6573515,10 mins,30 mins,40 mins,2 ,2,485,37g,14g,332mg,837mg,16g,3g,1g,21g,4mg,158mg,4mg,417mg,4.5,382,2 servings,
-40,6577896,15 mins, 1 hr 30 mins, 1 hr 45 mins,8 ,8,352,19g,7g,42mg,1364mg,33g,2g,6g,12g,16mg,94mg,1mg,760mg,4.2,300,8 servings,
-41,6663209,10 mins,30 mins,40 mins,4 ,4,160,5g,2g,154mg,94mg,16g,2g,2g,13g,21mg,39mg,2mg,536mg,4.8,22,,
-42,6567363,20 mins,40 mins, 1 hr 10 mins,6 ,6,204,10g,5g,21mg,629mg,24g,2g,,6g,,,,534mg,5.0,1,24 poppers,10 mins
-43,6588956,15 mins,25 mins,40 mins,4 ,4,355,18g,6g,204mg,286mg,36g,4g,3g,15g,38mg,179mg,3mg,906mg,4.2,174,4 servings,
-44,6582828,15 mins, 1 hr 5 mins, 1 hr 25 mins,8 ,8,395,29g,13g,178mg,936mg,17g,2g,2g,20g,2mg,346mg,1mg,339mg,4.3,7,1 2-quart casserole,5 mins
-45,6591655,30 mins,30 mins, 2 hrs 45 mins,24 ,24,404,14g,8g,49mg,318mg,65g,2g,30g,6g,1mg,20mg,2mg,100mg,4.8,392,24 rolls, 1 hr 45 mins
-46,6590538,15 mins,30 mins,45 mins,8 ,8,139,6g,4g,15mg,121mg,20g,3g,1g,2g,23mg,17mg,1mg,484mg,4.5,161,8 servings,
-47,6663343,20 mins, 4 hrs 20 mins, 12 hrs 40 mins,10 ,10,573,46g,19g,196mg,1506mg,30g,3g,2g,27g,33mg,301mg,3mg,972mg,4.3,29,1 9x13-inch baking dish, 8 hrs
-48,6738985,15 mins, 1 hr, 1 hr 15 mins,4 ,4,876,76g,43g,151mg,1104mg,58g,4g,3g,24g,25mg,560mg,4mg,1354mg,4.7,147,4 servings,
-49,6590610,30 mins,45 mins, 1 hr 15 mins,6 ,6,447,13g,6g,60mg,910mg,59g,9g,8g,27g,49mg,145mg,4mg,1293mg,3.4,18,6 servings,
-50,6568064,15 mins,17 mins,32 mins,8 ,8,239,13g,6g,168mg,381mg,16g,2g,2g,14g,16mg,158mg,2mg,468mg,4.7,67,8 servings,
-51,6602895,20 mins,20 mins,40 mins,5 ,5,291,10g,2g,74mg,42mg,43g,5g,,8g,44mg,42mg,2mg,961mg,4.2,160,10 pancakes,
-52,6739278,15 mins,35 mins,50 mins,4 ,4,609,36g,13g,175mg,2068mg,36g,6g,3g,36g,45mg,83mg,5mg,1174mg,4.8,93,,
-53,6573126,20 mins,5 mins,27 mins,4 ,4,238,14g,3g,279mg,109mg,17g,2g,1g,11g,6mg,47mg,2mg,373mg,4.2,41,4 servings,2 mins
-54,6602900,15 mins,45 mins, 1 hr,8 ,8,444,37g,19g,143mg,923mg,27g,2g,1g,17g,24mg,173mg,2mg,805mg,4.4,278,8 servings,
-55,6571048,5 mins,10 mins,15 mins,1 ,1,212,15g,6g,383mg,399mg,6g,0g,1g,13g,4mg,56mg,2mg,228mg,4.7,7,1 serving,
-56,6569635,15 mins,35 mins,50 mins,4 ,4,1163,63g,31g,437mg,3109mg,83g,7g,9g,65g,42mg,641mg,9mg,1043mg,4.7,11,4 servings,
-57,6588254,10 mins,25 mins,55 mins,4 ,4,126,6g,4g,15mg,47mg,17g,2g,1g,2g,19mg,15mg,1mg,404mg,4.6,51,4 servings,20 mins
-58,6578467,15 mins, 1 hr, 1 hr 15 mins,10 ,10,257,18g,11g,51mg,568mg,14g,1g,1g,10g,5mg,252mg,1mg,217mg,4.6,16,1 9x13-inch casserole,
-59,6583011,15 mins,25 mins,40 mins,5 ,5,289,13g,2g,74mg,1068mg,37g,5g,3g,7g,37mg,97mg,2mg,814mg,4.3,35,10 latkes,
-60,6573077,30 mins, 1 hr, 1 hr 30 mins,6 ,6,554,13g,4g,19mg,1071mg,94g,9g,3g,15g,70mg,74mg,5mg,1598mg,4.5,37,,
-61,6584781,30 mins,30 mins, 1 hr,3 ,3,527,11g,2g,110mg,74mg,94g,12g,4g,15g,98mg,103mg,5mg,2163mg,4.7,26,6 large pancakes,
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Yield:,Additional Time:
+0,6664978,Deluxe Corned Beef Hash,15 mins,35 mins,50 mins,8 ,8,320,14g,6g,82mg,1559mg,25g,3g,1g,25g,3mg,30mg,3mg,464mg,4.7,215,,
+1,6650561,Quick and Easy Home Fries,5 mins,20 mins,25 mins,4 ,4,199,9g,6g,23mg,71mg,28g,4g,1g,3g,32mg,22mg,1mg,675mg,4.7,562,,
+2,6650844,Classic Hash Browns,15 mins,10 mins,25 mins,2 ,2,334,19g,12g,49mg,13mg,38g,5g,2g,4g,42mg,27mg,2mg,911mg,4.7,358,,
+3,6649094,Leftover Ham -n- Potato Casserole,15 mins,50 mins, 1 hr 5 mins,6 ,6,591,37g,21g,108mg,1044mg,40g,4g,,25g,52mg,380mg,2mg,1034mg,4.7,500,1 1 1/2-quart caserole,
+4,6664796,Best Breakfast Casserole (Hash Browns & Eggs),15 mins, 1 hr 20 mins, 1 hr 40 mins,6 ,6,616,49g,23g,260mg,1142mg,30g,2g,2g,34g,15mg,485mg,3mg,1031mg,4.4,728,1 8x8-inch casserole,5 mins
+5,7496452,Crispy Oven-Roasted Breakfast Potatoes,20 mins, 1 hr, 1 hr 20 mins,4 ,4,414,17g,2g,0mg,1762mg,60g,7g,6g,7g,52mg,68mg,3mg,1496mg,5.0,5,,
+6,6650026,Cheesy Amish Breakfast Casserole,10 mins,55 mins, 1 hr 15 mins,12 ,12,314,23g,11g,188mg,609mg,12g,1g,1g,22g,5mg,269mg,2mg,421mg,4.8,936,1 9x13-inch casserole,10 mins
+7,6738656,German Potato Pancakes,20 mins,25 mins,45 mins,6 ,6,283,11g,2g,62mg,246mg,41g,5g,2g,7g,43mg,47mg,2mg,943mg,4.6,889,,
+8,6648941,Egg Bites,20 mins,25 mins,45 mins,12 ,12,108,6g,3g,123mg,111mg,8g,1g,1g,6g,21mg,43mg,1mg,257mg,4.6,35,12 egg bites,
+9,6738466,Sausage Casserole,25 mins, 1 hr 5 mins, 1 hr 35 mins,12 ,12,356,26g,13g,188mg,755mg,8g,1g,1g,22g,4mg,256mg,1mg,307mg,4.7,"1,275",1 9x13-inch casserole,5 mins
+10,6649685,Cheesy Ham and Hash Brown Casserole,15 mins, 1 hr, 1 hr 15 mins,12 ,12,415,27g,15g,53mg,761mg,30g,2g,1g,14g,5mg,304mg,2mg,438mg,4.6,"2,693",1 9x13-inch casserole,
+11,6651024,Potato Scones,15 mins,10 mins,25 mins,6 ,6,198,8g,5g,20mg,308mg,29g,2g,1g,3g,6mg,71mg,1mg,274mg,4.5,25,6 scones,
+12,6739681,Potato Waffles,10 mins,15 mins,25 mins,4 ,4,217,9g,5g,110mg,540mg,28g,2g,3g,7g,9mg,52mg,1mg,407mg,4.6,117,,
+13,6582318,Slow Cooker Cheesy Hash Brown Potatoes,10 mins, 4 hrs, 4 hrs 10 mins,10 ,10,336,29g,16g,58mg,655mg,21g,1g,0g,9g,8mg,209mg,1mg,445mg,4.2,6,,
+14,6739485,Christmas Brunch Casserole,20 mins, 1 hr 15 mins, 9 hrs 35 mins,8 ,8,421,33g,13g,61mg,908mg,17g,1g,,14g,7mg,170mg,1mg,486mg,4.4,486,1 9x13-inch casserole, 8 hrs
+15,6590397,Spicy Potatoes and Scrambled Eggs,10 mins,15 mins,25 mins,4 ,4,209,18g,3g,140mg,351mg,8g,2g,1g,6g,3mg,31mg,2mg,162mg,4.4,72,,
+16,6649922,Quick and Crispy Home Fries,10 mins,15 mins,45 mins,4 ,4,306,10g,3g,8mg,35mg,51g,4g,,6g,16mg,39mg,3mg,1167mg,4.7,117,,20 mins
+17,6571294,Dutch Oven Mountain Man Breakfast,20 mins, 1 hr 5 mins, 1 hr 25 mins,12 ,12,449,37g,17g,251mg,579mg,17g,2g,2g,22g,29mg,312mg,2mg,573mg,4.7,60,,
+18,6739105,Spanish Potato Omelet,20 mins,30 mins,50 mins,6 ,6,252,22g,4g,124mg,54mg,11g,2g,3g,5g,10mg,35mg,1mg,293mg,4.5,211,,
+19,6595670,"Easy, Spicy Roasted Potatoes",20 mins,35 mins, 1 hr,4 ,4,473,26g,9g,36mg,1685mg,48g,6g,5g,14g,26mg,287mg,3mg,1334mg,4.6,469,,5 mins
+20,6585797,Hash Brown Waffles,15 mins,10 mins,25 mins,2 ,2,372,19g,4g,186mg,669mg,41g,5g,2g,11g,45mg,62mg,3mg,1040mg,4.4,76,2 waffles,
+21,6649050,Irish Potato Farls,15 mins,30 mins,45 mins,4 ,4,218,3g,2g,8mg,33mg,43g,5g,2g,5g,42mg,28mg,2mg,906mg,4.1,55,,
+22,6737778,Spinach and Potato Frittata,10 mins,20 mins,30 mins,6 ,6,281,13g,4g,197mg,175mg,29g,3g,3g,13g,2mg,118mg,1mg,132mg,4.4,646,,
+23,6584042,Louisiana Sweet Potato Pancakes,20 mins,40 mins, 1 hr,8 ,8,217,8g,5g,65mg,534mg,30g,2g,5g,6g,8mg,202mg,2mg,311mg,4.4,387,,
+24,6579633,Homemade Hash Browns,5 mins,15 mins,20 mins,4 ,4,176,9g,2g,49mg,627mg,21g,2g,3g,4g,9mg,39mg,1mg,372mg,3.6,64,,
+25,6583544,Wake-Up Casserole,15 mins, 1 hr 15 mins, 1 hr 30 mins,8 ,8,566,40g,20g,266mg,1599mg,18g,2g,2g,32g,21mg,471mg,2mg,336mg,4.7,190,1 9x13-inch casserole,
+26,6664455,Amazing Muffin Cups,25 mins,25 mins,50 mins,12 ,12,224,18g,9g,114mg,413mg,9g,1g,0g,11g,8mg,17mg,1mg,216mg,4.6,395,12 muffins,
+27,6591059,Easy Leftover Potato Pancakes,5 mins,10 mins,15 mins,5 ,5,254,15g,6g,84mg,1350mg,24g,2g,2g,7g,15mg,109mg,1mg,492mg,4.4,178,10 pancakes,
+28,6663432,Sausage Hashbrown Breakfast Casserole,20 mins,50 mins, 1 hr 10 mins,10 ,10,481,38g,16g,228mg,1516mg,21g,2g,3g,27g,23mg,270mg,3mg,822mg,4.8,50,1 9x13-inch casserole,
+29,6739494,Corned Beef Hash,10 mins,30 mins,40 mins,6 ,6,434,9g,4g,48mg,718mg,66g,8g,4g,23g,74mg,58mg,4mg,1678mg,4.4,243,,
+30,6664239,Easter Breakfast Casserole,25 mins, 1 hr 15 mins, 1 hr 40 mins,12 ,12,281,21g,10g,171mg,538mg,10g,1g,3g,18g,6mg,274mg,1mg,384mg,4.6,573,,
+31,6578469,Air Fryer Seasoned Breakfast Potatoes,10 mins,20 mins, 1 hr,4 ,4,121,4g,1g,,587mg,21g,2g,1g,3g,7mg,17mg,1mg,483mg,4.8,6,4 servings,30 mins
+32,6649857,Loaded Breakfast Skillet,15 mins,40 mins,55 mins,4 ,4,418,18g,9g,226mg,567mg,43g,4g,3g,22g,16mg,274mg,3mg,1105mg,4.7,84,,
+33,6648332,Leftover Roast Beef Hash,20 mins,17 mins,37 mins,6 ,6,165,4g,1g,18mg,390mg,24g,3g,3g,11g,40mg,26mg,2mg,680mg,4.3,21,6 servings,
+34,6738748,Tater Tot and Bacon Breakfast Casserole,10 mins, 1 hr 5 mins, 1 hr 15 mins,8 ,8,522,36g,13g,330mg,1190mg,30g,3g,2g,27g,1mg,264mg,2mg,550mg,4.4,112,1 (13x9-inch) dish,
+35,6737356,Bird's Nest Breakfast Cups,20 mins,30 mins,50 mins,12 ,12,232,18g,7g,204mg,816mg,13g,1g,0g,13g,7mg,96mg,2mg,446mg,4.2,165,24 breakfast cups,
+36,6737271,Ultimate Tofu Breakfast Burrito Bowls,15 mins,30 mins,45 mins,3 ,3,579,40g,7g,,1171mg,57g,16g,9g,22g,51mg,572mg,12mg,1765mg,4.9,52,3 servings,
+37,6648559,Sallie's Cheesy Hashbrown Casserole,15 mins, 1 hr, 1 hr 15 mins,16 ,16,394,31g,18g,76mg,737mg,19g,1g,1g,11g,5mg,256mg,2mg,258mg,4.8,32,1 9x13-inch pan,
+38,6576358,Shredded Potato Quiche,20 mins,45 mins, 1 hr 5 mins,4 ,4,525,43g,22g,320mg,722mg,23g,2g,2g,28g,22mg,385mg,2mg,755mg,4.4,159,4 servings,
+39,6573515,Potato Skillet,10 mins,30 mins,40 mins,2 ,2,485,37g,14g,332mg,837mg,16g,3g,1g,21g,4mg,158mg,4mg,417mg,4.5,382,2 servings,
+40,6577896,Kielbasa and Potato Bake,15 mins, 1 hr 30 mins, 1 hr 45 mins,8 ,8,352,19g,7g,42mg,1364mg,33g,2g,6g,12g,16mg,94mg,1mg,760mg,4.2,300,8 servings,
+41,6663209,Steak and Egg Hash,10 mins,30 mins,40 mins,4 ,4,160,5g,2g,154mg,94mg,16g,2g,2g,13g,21mg,39mg,2mg,536mg,4.8,22,,
+42,6567363,Crispy (No-Fry) Potato Pancake Poppers,20 mins,40 mins, 1 hr 10 mins,6 ,6,204,10g,5g,21mg,629mg,24g,2g,,6g,,,,534mg,5.0,1,24 poppers,10 mins
+43,6588956,Potato and Cheese Frittata,15 mins,25 mins,40 mins,4 ,4,355,18g,6g,204mg,286mg,36g,4g,3g,15g,38mg,179mg,3mg,906mg,4.2,174,4 servings,
+44,6582828,Tater Tot® Breakfast Casserole,15 mins, 1 hr 5 mins, 1 hr 25 mins,8 ,8,395,29g,13g,178mg,936mg,17g,2g,2g,20g,2mg,346mg,1mg,339mg,4.3,7,1 2-quart casserole,5 mins
+45,6591655,Classic Cinnamon Rolls,30 mins,30 mins, 2 hrs 45 mins,24 ,24,404,14g,8g,49mg,318mg,65g,2g,30g,6g,1mg,20mg,2mg,100mg,4.8,392,24 rolls, 1 hr 45 mins
+46,6590538,Steve's Famous Garlic Home Fries,15 mins,30 mins,45 mins,8 ,8,139,6g,4g,15mg,121mg,20g,3g,1g,2g,23mg,17mg,1mg,484mg,4.5,161,8 servings,
+47,6663343,Easter Brunch Casserole,20 mins, 4 hrs 20 mins, 12 hrs 40 mins,10 ,10,573,46g,19g,196mg,1506mg,30g,3g,2g,27g,33mg,301mg,3mg,972mg,4.3,29,1 9x13-inch baking dish, 8 hrs
+48,6738985,Cheesy Hash Browns,15 mins, 1 hr, 1 hr 15 mins,4 ,4,876,76g,43g,151mg,1104mg,58g,4g,3g,24g,25mg,560mg,4mg,1354mg,4.7,147,4 servings,
+49,6590610,Corned Beef Hash British Style,30 mins,45 mins, 1 hr 15 mins,6 ,6,447,13g,6g,60mg,910mg,59g,9g,8g,27g,49mg,145mg,4mg,1293mg,3.4,18,6 servings,
+50,6568064,Campfire Skillet Breakfast,15 mins,17 mins,32 mins,8 ,8,239,13g,6g,168mg,381mg,16g,2g,2g,14g,16mg,158mg,2mg,468mg,4.7,67,8 servings,
+51,6602895,Easy Potato Pancakes,20 mins,20 mins,40 mins,5 ,5,291,10g,2g,74mg,42mg,43g,5g,,8g,44mg,42mg,2mg,961mg,4.2,160,10 pancakes,
+52,6739278,Chef John's Corned Beef Hash,15 mins,35 mins,50 mins,4 ,4,609,36g,13g,175mg,2068mg,36g,6g,3g,36g,45mg,83mg,5mg,1174mg,4.8,93,,
+53,6573126,Nan's Potato and Egg Frittata,20 mins,5 mins,27 mins,4 ,4,238,14g,3g,279mg,109mg,17g,2g,1g,11g,6mg,47mg,2mg,373mg,4.2,41,4 servings,2 mins
+54,6602900,Ultimate Breakfast Casserole,15 mins,45 mins, 1 hr,8 ,8,444,37g,19g,143mg,923mg,27g,2g,1g,17g,24mg,173mg,2mg,805mg,4.4,278,8 servings,
+55,6571048,Eggs n' Fries,5 mins,10 mins,15 mins,1 ,1,212,15g,6g,383mg,399mg,6g,0g,1g,13g,4mg,56mg,2mg,228mg,4.7,7,1 serving,
+56,6569635,Carne Asada Breakfast Burrito,15 mins,35 mins,50 mins,4 ,4,1163,63g,31g,437mg,3109mg,83g,7g,9g,65g,42mg,641mg,9mg,1043mg,4.7,11,4 servings,
+57,6588254,Diner-Style Baked Potato Home Fries,10 mins,25 mins,55 mins,4 ,4,126,6g,4g,15mg,47mg,17g,2g,1g,2g,19mg,15mg,1mg,404mg,4.6,51,4 servings,20 mins
+58,6578467,Potluck Potato Casserole,15 mins, 1 hr, 1 hr 15 mins,10 ,10,257,18g,11g,51mg,568mg,14g,1g,1g,10g,5mg,252mg,1mg,217mg,4.6,16,1 9x13-inch casserole,
+59,6583011,Foolproof Potato Latkes,15 mins,25 mins,40 mins,5 ,5,289,13g,2g,74mg,1068mg,37g,5g,3g,7g,37mg,97mg,2mg,814mg,4.3,35,10 latkes,
+60,6573077,Norwegian Potato Klub,30 mins, 1 hr, 1 hr 30 mins,6 ,6,554,13g,4g,19mg,1071mg,94g,9g,3g,15g,70mg,74mg,5mg,1598mg,4.5,37,,
+61,6584781,Bramboracky (Czech Savory Potato Pancakes),30 mins,30 mins, 1 hr,3 ,3,527,11g,2g,110mg,74mg,94g,12g,4g,15g,98mg,103mg,5mg,2163mg,4.7,26,6 large pancakes,

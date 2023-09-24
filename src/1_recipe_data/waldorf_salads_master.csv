@@ -1,20 +1,20 @@
-,id_recipe,Prep Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Cook Time:,Additional Time:,Yield:
-0,6599605,20 mins,20 mins,6 ,6,248,20g,3g,8mg,174mg,17g,3g,12g,2g,5mg,24mg,0mg,190mg,4.7,383,,,
-1,6599326,20 mins,40 mins,4 ,4,476,34g,5g,49mg,210mg,30g,3g,24g,18g,8mg,83mg,1mg,357mg,4.7,45,5 mins,15 mins,4 servings
-2,6593372,15 mins,45 mins,2 ,2,736,63g,8g,21mg,343mg,45g,5g,31g,7g,5mg,68mg,2mg,564mg,4.0,51,,30 mins,
-3,6585277,15 mins, 1 hr 15 mins,6 ,6,261,22g,7g,37mg,79mg,20g,4g,11g,2g,29mg,52mg,1mg,231mg,4.6,27,, 1 hr,
-4,6649196,15 mins,15 mins,4 ,4,392,27g,3g,,327mg,40g,6g,28g,6g,9mg,65mg,2mg,547mg,4.7,53,,,
-5,6602254,20 mins,20 mins,4 ,4,180,9g,1g,4mg,88mg,26g,4g,20g,3g,40mg,116mg,1mg,513mg,4.5,27,,,4 servings
-6,6663797,25 mins,25 mins,8 ,8,451,20g,3g,10mg,154mg,68g,5g,58g,5g,10mg,115mg,1mg,440mg,4.7,54,,,
-7,6596372,20 mins,50 mins,2 ,2,312,6g,1g,,55mg,70g,8g,51g,3g,10mg,70mg,1mg,641mg,4.7,15,,30 mins,2 servings
-8,6590081,10 mins,10 mins,1 ,1,266,15g,4g,11mg,515mg,30g,4g,25g,6g,29mg,101mg,2mg,453mg,4.7,31,,,
-9,6598023,20 mins, 1 hr 20 mins,12 ,12,321,29g,7g,34mg,120mg,18g,3g,14g,2g,4mg,29mg,0mg,148mg,4.4,24,, 1 hr,
-10,6596974,20 mins,35 mins,8 ,8,364,30g,7g,21mg,153mg,25g,3g,19g,3g,5mg,58mg,1mg,234mg,4.8,57,,15 mins,8 servings
-11,6594668,20 mins,20 mins,4 ,4,336,25g,3g,7mg,460mg,30g,7g,20g,4g,26mg,68mg,1mg,500mg,4.5,22,,,4 to 6 servings
-12,6738581,20 mins,20 mins,4 ,4,547,49g,10g,36mg,427mg,31g,5g,20g,5g,23mg,57mg,1mg,404mg,4.8,15,,,4 servings
-13,6581265,20 mins,20 mins,9 ,9,508,42g,8g,29mg,319mg,35g,3g,27g,2g,11mg,42mg,1mg,332mg,4.2,25,,,8 to 10 
-14,6586321,30 mins, 1 hr 30 mins,6 ,6,334,24g,4g,45mg,185mg,14g,2g,10g,17g,6mg,65mg,2mg,319mg,4.8,42,, 1 hr,6 servings
-15,6592173,20 mins, 1 hr 20 mins,4 ,4,415,32g,9g,46mg,108mg,34g,4g,26g,4g,5mg,52mg,1mg,325mg,4.8,12,, 1 hr,4 servings
-16,6648600,25 mins,25 mins,12 ,12,249,17g,4g,17mg,67mg,25g,3g,21g,3g,6mg,35mg,1mg,204mg,4.9,9,,,12 servings
-17,6573981,5 mins,5 mins,4 ,4,179,12g,3g,38mg,83mg,6g,1g,3g,13g,1mg,20mg,1mg,127mg,,,,,4 servings
-18,6591669,20 mins,50 mins,10 ,10,432,35g,4g,8mg,186mg,33g,6g,23g,3g,7mg,36mg,1mg,346mg,5.0,1,,30 mins,10 servings
+,id_recipe,name,Prep Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Cook Time:,Additional Time:,Yield:
+0,6599605,Waldorf Salad,20 mins,20 mins,6 ,6,248,20g,3g,8mg,174mg,17g,3g,12g,2g,5mg,24mg,0mg,190mg,4.7,383,,,
+1,6599326,Simply The Best Chicken Waldorf Salad,20 mins,40 mins,4 ,4,476,34g,5g,49mg,210mg,30g,3g,24g,18g,8mg,83mg,1mg,357mg,4.7,45,5 mins,15 mins,4 servings
+2,6593372,Simple Waldorf Salad,15 mins,45 mins,2 ,2,736,63g,8g,21mg,343mg,45g,5g,31g,7g,5mg,68mg,2mg,564mg,4.0,51,,30 mins,
+3,6585277,Creamy Waldorf Salad,15 mins, 1 hr 15 mins,6 ,6,261,22g,7g,37mg,79mg,20g,4g,11g,2g,29mg,52mg,1mg,231mg,4.6,27,, 1 hr,
+4,6649196,Waldorf Salad with Walnut Oil Vinaigrette,15 mins,15 mins,4 ,4,392,27g,3g,,327mg,40g,6g,28g,6g,9mg,65mg,2mg,547mg,4.7,53,,,
+5,6602254,Waldorf Salad with Yogurt,20 mins,20 mins,4 ,4,180,9g,1g,4mg,88mg,26g,4g,20g,3g,40mg,116mg,1mg,513mg,4.5,27,,,4 servings
+6,6663797,Jenny's Sweet Waldorf Salad,25 mins,25 mins,8 ,8,451,20g,3g,10mg,154mg,68g,5g,58g,5g,10mg,115mg,1mg,440mg,4.7,54,,,
+7,6596372,Autumn Waldorf Salad,20 mins,50 mins,2 ,2,312,6g,1g,,55mg,70g,8g,51g,3g,10mg,70mg,1mg,641mg,4.7,15,,30 mins,2 servings
+8,6590081,Waldorf Goat Cheese Salad,10 mins,10 mins,1 ,1,266,15g,4g,11mg,515mg,30g,4g,25g,6g,29mg,101mg,2mg,453mg,4.7,31,,,
+9,6598023,Elise's Favorite Waldorf Salad,20 mins, 1 hr 20 mins,12 ,12,321,29g,7g,34mg,120mg,18g,3g,14g,2g,4mg,29mg,0mg,148mg,4.4,24,, 1 hr,
+10,6596974,Morgan's Waldorf Salad,20 mins,35 mins,8 ,8,364,30g,7g,21mg,153mg,25g,3g,19g,3g,5mg,58mg,1mg,234mg,4.8,57,,15 mins,8 servings
+11,6594668,Waldorf Cabbage Salad,20 mins,20 mins,4 ,4,336,25g,3g,7mg,460mg,30g,7g,20g,4g,26mg,68mg,1mg,500mg,4.5,22,,,4 to 6 servings
+12,6738581,Chef John's Waldorf Salad,20 mins,20 mins,4 ,4,547,49g,10g,36mg,427mg,31g,5g,20g,5g,23mg,57mg,1mg,404mg,4.8,15,,,4 servings
+13,6581265,Waldorf Salad III,20 mins,20 mins,9 ,9,508,42g,8g,29mg,319mg,35g,3g,27g,2g,11mg,42mg,1mg,332mg,4.2,25,,,8 to 10 
+14,6586321,Sonny's Waldorf Turkey Salad,30 mins, 1 hr 30 mins,6 ,6,334,24g,4g,45mg,185mg,14g,2g,10g,17g,6mg,65mg,2mg,319mg,4.8,42,, 1 hr,6 servings
+15,6592173,Date-Marshmallow Waldorf Salad,20 mins, 1 hr 20 mins,4 ,4,415,32g,9g,46mg,108mg,34g,4g,26g,4g,5mg,52mg,1mg,325mg,4.8,12,, 1 hr,4 servings
+16,6648600,Sweet Tart Waldorf Apple Salad,25 mins,25 mins,12 ,12,249,17g,4g,17mg,67mg,25g,3g,21g,3g,6mg,35mg,1mg,204mg,4.9,9,,,12 servings
+17,6573981,Healthy Waldorf Chicken Salad,5 mins,5 mins,4 ,4,179,12g,3g,38mg,83mg,6g,1g,3g,13g,1mg,20mg,1mg,127mg,,,,,4 servings
+18,6591669,Waldorf Salad 65,20 mins,50 mins,10 ,10,432,35g,4g,8mg,186mg,33g,6g,23g,3g,7mg,36mg,1mg,346mg,5.0,1,,30 mins,10 servings

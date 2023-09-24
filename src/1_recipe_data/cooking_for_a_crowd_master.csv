@@ -1,64 +1,64 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Yield:,Additional Time:
-0,7494546,45 mins, 5 hrs 15 mins, 6 hrs,25 servings,25,513,32g,11g,174mg,359mg,4g,1g,1g,48g,26mg,43mg,4mg,547mg,,,,
-1,6586247,20 mins,15 mins,35 mins,36 ,36,90,4g,2g,12mg,131mg,13g,1g,6g,1g,1mg,22mg,1mg,36mg,4.5,430,3 dozen,
-2,6663713,15 mins,20 mins,35 mins,24 ,24,208,14g,8g,43mg,439mg,11g,1g,0g,10g,1mg,183mg,1mg,102mg,4.8,"1,002",,
-3,6649439,15 mins,35 mins,50 mins,24 ,24,175,8g,5g,20mg,55mg,26g,0g,,1g,,4mg,1mg,15mg,4.5,"3,634",1 9x13-inch pan,
-4,6663665,25 mins, 4 hrs, 4 hrs 45 mins,24 ,24,828,38g,11g,383mg,756mg,15g,1g,2g,100g,0mg,71mg,4mg,922mg,4.9,532,,20 mins
-5,6737629,5 mins,10 mins, 1 hr 15 mins,48 ,48,141,7g,2g,1mg,41mg,21g,1g,,1g,0mg,15mg,0mg,49mg,4.5,423,3 pounds, 1 hr
-6,6649366,10 mins,5 mins,45 mins,36 ,36,110,5g,2g,7mg,38mg,16g,1g,10g,2g,,11mg,0mg,67mg,4.6,"1,260",3 dozen,30 mins
-7,6649019,40 mins,25 mins, 1 hr 10 mins,15 ,15,168,11g,3g,23mg,288mg,11g,1g,1g,7g,3mg,20mg,1mg,142mg,4.8,508,30 lumpia,5 mins
-8,6650202,20 mins,15 mins, 1 hr 5 mins,36 ,36,122,3g,2g,13mg,121mg,22g,1g,15g,1g,0mg,15mg,1mg,30mg,4.7,"4,565",36 cookies,30 mins
-9,6648990,20 mins,15 mins, 2 hrs 35 mins,48 ,48,97,4g,1g,8mg,81mg,14g,0g,6g,1g,,10mg,1mg,16mg,4.5,"1,619",4 dozen, 2 hrs
-10,6649719,20 mins,20 mins, 2 hrs 40 mins,40 ,40,129,0g,,,61mg,33g,1g,28g,0g,3mg,7mg,0mg,63mg,4.7,453,Apple filling for 5 (9-inch) pies, 2 hrs
-11,6651200,15 mins,10 mins,25 mins,48 ,48,125,7g,4g,18mg,63mg,16g,1g,10g,2g,,8mg,1mg,71mg,4.7,"4,217",4 dozen,
-12,6650888,10 mins,,10 mins,25 ,25,78,5g,3g,17mg,204mg,5g,0g,2g,3g,6mg,67mg,0mg,66mg,4.7,440,,
-13,6664698,20 mins, 1 hr 5 mins,1 day 1 hr 25 mins,24 ,24,101,2g,1g,18mg,228mg,17g,1g,2g,3g,1mg,54mg,1mg,57mg,4.4,136,12 cups,1 day
-14,6649130,5 mins, 8 hrs, 8 hrs 5 mins,24 ,24,360,20g,7g,74mg,1425mg,18g,,18g,26g,,24mg,1mg,367mg,4.6,"1,424",,
-15,6663373,30 mins,,30 mins,56 ,56,66,5g,3g,13mg,178mg,4g,1g,1g,2g,4mg,54mg,0mg,96mg,4.7,"2,824",,
-16,6663864,10 mins,30 mins, 1 hr 40 mins,32 ,32,226,17g,9g,31mg,101mg,20g,1g,18g,2g,,18mg,1mg,74mg,4.7,"1,375",about 2 1/2 pounds, 1 hr
-17,6649830,15 mins,10 mins,25 mins,48 ,48,116,7g,1g,8mg,90mg,14g,1g,9g,2g,,8mg,1mg,43mg,4.4,655,48 cookies,
-18,6648843,15 mins,10 mins,45 mins,48 ,48,122,7g,4g,19mg,85mg,13g,0g,8g,1g,0mg,16mg,1mg,36mg,4.5,"1,136",4 dozen cookies,20 mins
-19,6650700,10 mins,15 mins,55 mins,35 ,35,150,10g,5g,14mg,73mg,15g,1g,12g,1g,,11mg,0mg,57mg,4.7,"1,622",,30 mins
-20,6663194,15 mins,25 mins, 1 hr,36 ,36,155,10g,5g,11mg,49mg,17g,1g,14g,2g,0mg,38mg,0mg,96mg,4.7,665,3 dozen bar cookies,20 mins
-21,6664860,25 mins,10 mins,35 mins,40 ,40,122,7g,3g,11mg,119mg,14g,1g,9g,2g,,13mg,1mg,61mg,4.8,"4,520",40 cookies,
-22,6577231,15 mins,10 mins,25 mins,72 ,72,128,6g,3g,13mg,119mg,19g,1g,12g,1g,0mg,16mg,1mg,56mg,4.7,200,6 dozen cookies,
-23,6663244,45 mins,15 mins, 1 hr,10 ,10,752,29g,9g,129mg,1449mg,81g,3g,1g,39g,19mg,143mg,6mg,643mg,4.6,380,100 dumplings,
-24,6650324,5 mins,10 mins,15 mins,48 ,48,152,8g,3g,8mg,60mg,19g,1g,14g,3g,,13mg,1mg,87mg,4.6,456,48 cookies,
-25,6650776,25 mins,10 mins, 1 hr,20 ,20,161,10g,6g,32mg,176mg,11g,1g,,6g,8mg,121mg,1mg,103mg,4.6,"1,202",,25 mins
-26,6737741,30 mins,15 mins,45 mins,48 ,48,95,5g,3g,18mg,54mg,12g,0g,3g,1g,0mg,12mg,0mg,35mg,4.7,"1,200",,
-27,6737475,5 mins,,5 mins,32 ,32,63,4g,3g,0mg,67mg,8g,0g,8g,0g,0mg,3mg,0mg,21mg,4.6,"1,107",4 cups,
-28,6741043,15 mins,40 mins, 1 hr 10 mins,36 ,36,83,3g,1g,13mg,40mg,12g,0g,5g,1g,,23mg,1mg,16mg,4.7,"1,122",36 cookies,15 mins
-29,6737110,15 mins,10 mins,25 mins,36 ,36,158,8g,4g,31mg,107mg,21g,1g,11g,2g,,14mg,1mg,81mg,4.8,358,3 dozen,
-30,6649964,45 mins,15 mins, 1 hr 15 mins,80 ,80,70,5g,2g,9mg,19mg,6g,0g,,1g,,8mg,0mg,26mg,4.6,371,80 cookies,15 mins
-31,6649752,10 mins,25 mins,35 mins,24 ,24,125,5g,1g,,246mg,18g,2g,0g,3g,,6mg,1mg,58mg,4.7,549,8 dozen,
-32,6598591,30 mins,10 mins, 1 hr,56 ,56,97,0g,,,85mg,25g,1g,21g,0g,3mg,5mg,0mg,54mg,4.6,396,7 quarts,20 mins
-33,6737504,5 mins,25 mins,45 mins,36 ,36,124,,,,9mg,32g,,25g,,,2mg,,1mg,4.6,205,,15 mins
-34,6587764,50 mins, 1 hr 10 mins, 12 hrs,112 ,112,47,,,,313mg,12g,0g,11g,0g,5mg,4mg,0mg,45mg,4.8,314,7 1/2-pints, 10 hrs
-35,6584237,15 mins,10 mins,25 mins,36 ,36,105,5g,1g,5mg,91mg,15g,0g,9g,1g,,12mg,1mg,52mg,4.7,"1,192",3 dozen,
-36,6664432,10 mins,30 mins,40 mins,32 ,32,174,7g,4g,19mg,67mg,29g,,23g,1g,0mg,50mg,0mg,66mg,4.7,530,1 pound,
-37,6603569,25 mins,10 mins,35 mins,48 ,48,25,0g,0g,16mg,11mg,5g,0g,3g,1g,,5mg,0mg,8mg,4.5,255,4 dozen,
-38,6664533,20 mins,45 mins, 1 hr 5 mins,36 ,36,236,12g,5g,37mg,95mg,31g,1g,22g,3g,0mg,14mg,1mg,52mg,4.7,625,3 dozen,
-39,6649375,25 mins,,25 mins,72 ,72,30,1g,0g,,85mg,5g,1g,1g,1g,5mg,9mg,0mg,84mg,4.7,478,,
-40,6664467,15 mins,5 mins,50 mins,24 ,24,435,23g,9g,8mg,598mg,52g,3g,28g,9g,1mg,96mg,2mg,283mg,4.8,44,,30 mins
-41,6663172,15 mins,20 mins,35 mins,72 ,72,82,4g,1g,6mg,55mg,11g,0g,7g,1g,,9mg,0mg,22mg,4.5,"1,531",72 cookies,
-42,6605506,5 mins,, 8 hrs 5 mins,32 ,32,131,14g,4g,12mg,130mg,1g,0g,,1g,0mg,25mg,0mg,36mg,4.5,338,4 cups, 8 hrs
-43,6739425,15 mins,25 mins,40 mins,60 ,60,115,6g,4g,20mg,30mg,15g,,11g,1g,0mg,20mg,,25mg,4.7,910,60 caramels,
-44,6664280,30 mins,10 mins,40 mins,36 ,36,82,4g,3g,22mg,29mg,11g,0g,5g,1g,0mg,4mg,0mg,12mg,4.6,"1,284",3 dozen,
-45,6737996,5 mins, 3 hrs, 3 hrs 5 mins,40 ,40,322,28g,4g,,2345mg,9g,5g,2g,15g,,54mg,3mg,401mg,4.6,93,5 pounds,
-46,6648704,20 mins, 1 hr 30 mins, 2 hrs 5 mins,12 ,12,233,14g,5g,52mg,536mg,11g,2g,3g,15g,6mg,33mg,2mg,458mg,4.5,72,,15 mins
-47,6599332,15 mins,20 mins, 4 hrs 35 mins,24 ,24,419,12g,11g,80mg,559mg,46g,2g,3g,20g,1mg,95mg,0mg,85mg,3.5,15,24 sandwiches, 4 hrs
-48,6664217,45 mins,15 mins, 2 hrs 10 mins,20 ,20,264,13g,7g,51mg,367mg,27g,1g,6g,9g,0mg,100mg,2mg,111mg,4.8,27,, 1 hr 10 mins
-49,6663996,30 mins,15 mins,45 mins,36 ,36,101,6g,1g,,7mg,11g,1g,6g,3g,0mg,18mg,1mg,70mg,4.4,192,3 dozen,
-50,6649194,15 mins,25 mins,45 mins,24 ,24,259,12g,8g,47mg,170mg,36g,1g,27g,2g,0mg,20mg,1mg,55mg,4.6,47,1 10x15-inch cake,5 mins
-51,6737636,15 mins,, 9 hrs 15 mins,30 ,30,181,14g,2g,,320mg,13g,0g,0g,1g,0mg,1mg,0mg,22mg,4.8,297,, 9 hrs
-52,6650898,20 mins,,30 mins,60 ,60,59,2g,2g,4mg,20mg,10g,0g,9g,0g,,3mg,0mg,14mg,4.4,306,5 dozen,10 mins
-53,6739397,10 mins,10 mins,20 mins,36 ,36,87,4g,1g,14mg,107mg,12g,0g,7g,1g,,8mg,0mg,16mg,4.6,"1,892",36 cookies,
-54,6650426,15 mins,10 mins,25 mins,36 ,36,79,4g,1g,5mg,92mg,11g,1g,6g,1g,,13mg,1mg,36mg,4.6,514,3 dozen cookies,
-55,6603320,20 mins,10 mins,30 mins,48 ,48,119,5g,3g,15mg,81mg,16g,1g,10g,1g,,8mg,0mg,41mg,4.5,667,48 cookies,
-56,6738702,15 mins,20 mins,35 mins,24 ,24,426,11g,11g,78mg,488mg,47g,2g,3g,23g,1mg,200mg,0mg,57mg,4.7,193,24 sliders,
-57,6575143,20 mins, 2 hrs, 2 hrs 30 mins,24 ,24,667,42g,15g,127mg,2918mg,28g,0g,23g,42g,86mg,32mg,2mg,775mg,4.7,338,,10 mins
-58,6581973,30 mins, 4 hrs 30 mins, 5 hrs,36 ,36,347,24g,9g,38mg,248mg,23g,3g,0g,9g,0mg,47mg,3mg,195mg,4.5,197,6 dozen tamales,
-59,6650854,15 mins,10 mins,25 mins,48 ,48,120,7g,2g,8mg,152mg,13g,1g,8g,2g,,9mg,0mg,55mg,4.6,"3,122",48 cookies,
-60,6664048,20 mins,25 mins,45 mins,36 ,36,133,10g,3g,7mg,97mg,10g,1g,0g,3g,1mg,34mg,1mg,46mg,4.7,19,36 spinach rolls,
-61,6650131,45 mins,10 mins, 10 hrs 30 mins,96 ,96,61,3g,2g,13mg,17mg,7g,0g,,1g,0mg,7mg,0mg,21mg,4.7,333,8 dozen, 9 hrs 35 mins
-62,6573177,40 mins,35 mins, 1 hr 25 mins,24 ,24,133,9g,5g,28mg,330mg,6g,0g,1g,7g,3mg,87mg,1mg,93mg,4.6,8,24 egg rolls,10 mins
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Yield:,Additional Time:
+0,7494546,Beef and Pork Guiso,45 mins, 5 hrs 15 mins, 6 hrs,25 servings,25,513,32g,11g,174mg,359mg,4g,1g,1g,48g,26mg,43mg,4mg,547mg,,,,
+1,6586247,Cranberry Pumpkin Cookies,20 mins,15 mins,35 mins,36 ,36,90,4g,2g,12mg,131mg,13g,1g,6g,1g,1mg,22mg,1mg,36mg,4.5,430,3 dozen,
+2,6663713,Baked Ham and Cheese Sliders,15 mins,20 mins,35 mins,24 ,24,208,14g,8g,43mg,439mg,11g,1g,0g,10g,1mg,183mg,1mg,102mg,4.8,"1,003",,
+3,6649439,The Best Lemon Bars,15 mins,35 mins,50 mins,24 ,24,175,8g,5g,20mg,55mg,26g,0g,,1g,,4mg,1mg,15mg,4.5,"3,634",1 9x13-inch pan,
+4,6663665,A Simply Perfect Roast Turkey,25 mins, 4 hrs, 4 hrs 45 mins,24 ,24,828,38g,11g,383mg,756mg,15g,1g,2g,100g,0mg,71mg,4mg,922mg,4.9,532,,20 mins
+5,6737629,The Original Fantasy Fudge,5 mins,10 mins, 1 hr 15 mins,48 ,48,141,7g,2g,1mg,41mg,21g,1g,,1g,0mg,15mg,0mg,49mg,4.5,423,3 pounds, 1 hr
+6,6649366,No-Bake Cookies,10 mins,5 mins,45 mins,36 ,36,110,5g,2g,7mg,38mg,16g,1g,10g,2g,,11mg,0mg,67mg,4.6,"1,260",3 dozen,30 mins
+7,6649019,Traditional Filipino Lumpia,40 mins,25 mins, 1 hr 10 mins,15 ,15,168,11g,3g,23mg,288mg,11g,1g,1g,7g,3mg,20mg,1mg,142mg,4.8,508,30 lumpia,5 mins
+8,6650202,Iced Pumpkin Cookies,20 mins,15 mins, 1 hr 5 mins,36 ,36,122,3g,2g,13mg,121mg,22g,1g,15g,1g,0mg,15mg,1mg,30mg,4.7,"4,565",36 cookies,30 mins
+9,6648990,Best Soft Christmas Cookies,20 mins,15 mins, 2 hrs 35 mins,48 ,48,97,4g,1g,8mg,81mg,14g,0g,6g,1g,,10mg,1mg,16mg,4.5,"1,619",4 dozen, 2 hrs
+10,6649719,Apple Pie Filling,20 mins,20 mins, 2 hrs 40 mins,40 ,40,129,0g,,,61mg,33g,1g,28g,0g,3mg,7mg,0mg,63mg,4.7,453,Apple filling for 5 (9-inch) pies, 2 hrs
+11,6651200,Chocolate Chocolate Chip Cookies,15 mins,10 mins,25 mins,48 ,48,125,7g,4g,18mg,63mg,16g,1g,10g,2g,,8mg,1mg,71mg,4.7,"4,217",4 dozen,
+12,6650888,Taco Dip,10 mins,,10 mins,25 ,25,78,5g,3g,17mg,204mg,5g,0g,2g,3g,6mg,67mg,0mg,66mg,4.7,440,,
+13,6664698,Old Fashioned Stuffing,20 mins, 1 hr 5 mins,1 day 1 hr 25 mins,24 ,24,101,2g,1g,18mg,228mg,17g,1g,2g,3g,1mg,54mg,1mg,57mg,4.4,136,12 cups,1 day
+14,6649130,Slow Cooker Ham,5 mins, 8 hrs, 8 hrs 5 mins,24 ,24,360,20g,7g,74mg,1425mg,18g,,18g,26g,,24mg,1mg,367mg,4.6,"1,424",,
+15,6663373,Seven-Layer Taco Dip,30 mins,,30 mins,56 ,56,66,5g,3g,13mg,178mg,4g,1g,1g,2g,4mg,54mg,0mg,96mg,4.7,"2,824",,
+16,6663864,Best Toffee Ever - Super Easy,10 mins,30 mins, 1 hr 40 mins,32 ,32,226,17g,9g,31mg,101mg,20g,1g,18g,2g,,18mg,1mg,74mg,4.7,"1,375",about 2 1/2 pounds, 1 hr
+17,6649830,Chocolate Cookies,15 mins,10 mins,25 mins,48 ,48,116,7g,1g,8mg,90mg,14g,1g,9g,2g,,8mg,1mg,43mg,4.4,655,48 cookies,
+18,6648843,White Chocolate Macadamia Nut Cookies,15 mins,10 mins,45 mins,48 ,48,122,7g,4g,19mg,85mg,13g,0g,8g,1g,0mg,16mg,1mg,36mg,4.5,"1,137",4 dozen cookies,20 mins
+19,6650700,Saltine Toffee Cookies,10 mins,15 mins,55 mins,35 ,35,150,10g,5g,14mg,73mg,15g,1g,12g,1g,,11mg,0mg,57mg,4.7,"1,622",,30 mins
+20,6663194,Seven Layer Bars,15 mins,25 mins, 1 hr,36 ,36,155,10g,5g,11mg,49mg,17g,1g,14g,2g,0mg,38mg,0mg,96mg,4.7,665,3 dozen bar cookies,20 mins
+21,6664860,Peanut Butter Cup Cookies,25 mins,10 mins,35 mins,40 ,40,122,7g,3g,11mg,119mg,14g,1g,9g,2g,,13mg,1mg,61mg,4.8,"4,521",40 cookies,
+22,6577231,Pumpkin Oatmeal Chocolate Chip Cookies,15 mins,10 mins,25 mins,72 ,72,128,6g,3g,13mg,119mg,19g,1g,12g,1g,0mg,16mg,1mg,56mg,4.7,200,6 dozen cookies,
+23,6663244,Pork Dumplings,45 mins,15 mins, 1 hr,10 ,10,752,29g,9g,129mg,1449mg,81g,3g,1g,39g,19mg,143mg,6mg,643mg,4.6,380,100 dumplings,
+24,6650324,No-Bake Peanut Butter Cookies,5 mins,10 mins,15 mins,48 ,48,152,8g,3g,8mg,60mg,19g,1g,14g,3g,,13mg,1mg,87mg,4.6,457,48 cookies,
+25,6650776,Best Ever Jalapeño Poppers,25 mins,10 mins, 1 hr,20 ,20,161,10g,6g,32mg,176mg,11g,1g,,6g,8mg,121mg,1mg,103mg,4.6,"1,202",,25 mins
+26,6737741,Mini Cheesecakes,30 mins,15 mins,45 mins,48 ,48,95,5g,3g,18mg,54mg,12g,0g,3g,1g,0mg,12mg,0mg,35mg,4.7,"1,200",,
+27,6737475,Pumpkin Fluff Dip,5 mins,,5 mins,32 ,32,63,4g,3g,0mg,67mg,8g,0g,8g,0g,0mg,3mg,0mg,21mg,4.6,"1,107",4 cups,
+28,6741043,Biscotti,15 mins,40 mins, 1 hr 10 mins,36 ,36,83,3g,1g,13mg,40mg,12g,0g,5g,1g,,23mg,1mg,16mg,4.7,"1,122",36 cookies,15 mins
+29,6737110,Lactation Cookies,15 mins,10 mins,25 mins,36 ,36,158,8g,4g,31mg,107mg,21g,1g,11g,2g,,14mg,1mg,81mg,4.8,359,3 dozen,
+30,6649964,Italian Wedding Cookies,45 mins,15 mins, 1 hr 15 mins,80 ,80,70,5g,2g,9mg,19mg,6g,0g,,1g,,8mg,0mg,26mg,4.6,371,80 cookies,15 mins
+31,6649752,Homemade Pita Chips,10 mins,25 mins,35 mins,24 ,24,125,5g,1g,,246mg,18g,2g,0g,3g,,6mg,1mg,58mg,4.7,549,8 dozen,
+32,6598591,Canned Apple Pie Filling,30 mins,10 mins, 1 hr,56 ,56,97,0g,,,85mg,25g,1g,21g,0g,3mg,5mg,0mg,54mg,4.6,396,7 quarts,20 mins
+33,6737504,Hard Candy,5 mins,25 mins,45 mins,36 ,36,124,,,,9mg,32g,,25g,,,2mg,,1mg,4.6,205,,15 mins
+34,6587764,Sweet Zucchini Relish,50 mins, 1 hr 10 mins, 12 hrs,112 ,112,47,,,,313mg,12g,0g,11g,0g,5mg,4mg,0mg,45mg,4.8,315,7 1/2-pints, 10 hrs
+35,6584237,Mom's Ginger Snaps,15 mins,10 mins,25 mins,36 ,36,105,5g,1g,5mg,91mg,15g,0g,9g,1g,,12mg,1mg,52mg,4.7,"1,192",3 dozen,
+36,6664432,Chewy Caramel,10 mins,30 mins,40 mins,32 ,32,174,7g,4g,19mg,67mg,29g,,23g,1g,0mg,50mg,0mg,66mg,4.7,530,1 pound,
+37,6603569,Homemade Lady Fingers,25 mins,10 mins,35 mins,48 ,48,25,0g,0g,16mg,11mg,5g,0g,3g,1g,,5mg,0mg,8mg,4.5,255,4 dozen,
+38,6664533,Pecan Pie Bars,20 mins,45 mins, 1 hr 5 mins,36 ,36,236,12g,5g,37mg,95mg,31g,1g,22g,3g,0mg,14mg,1mg,52mg,4.7,625,3 dozen,
+39,6649375,"Heather's Cilantro, Black Bean, and Corn Salsa",25 mins,,25 mins,72 ,72,30,1g,0g,,85mg,5g,1g,1g,1g,5mg,9mg,0mg,84mg,4.7,478,,
+40,6664467,Reindeer Food,15 mins,5 mins,50 mins,24 ,24,435,23g,9g,8mg,598mg,52g,3g,28g,9g,1mg,96mg,2mg,283mg,4.8,44,,30 mins
+41,6663172,Robbi's M&Ms Cookies,15 mins,20 mins,35 mins,72 ,72,82,4g,1g,6mg,55mg,11g,0g,7g,1g,,9mg,0mg,22mg,4.5,"1,532",72 cookies,
+42,6605506,Dill Dip,5 mins,, 8 hrs 5 mins,32 ,32,131,14g,4g,12mg,130mg,1g,0g,,1g,0mg,25mg,0mg,36mg,4.5,338,4 cups, 8 hrs
+43,6739425,Caramels,15 mins,25 mins,40 mins,60 ,60,115,6g,4g,20mg,30mg,15g,,11g,1g,0mg,20mg,,25mg,4.7,910,60 caramels,
+44,6664280,Jam Filled Butter Cookies,30 mins,10 mins,40 mins,36 ,36,82,4g,3g,22mg,29mg,11g,0g,5g,1g,0mg,4mg,0mg,12mg,4.6,"1,284",3 dozen,
+45,6737996,Boiled Peanuts,5 mins, 3 hrs, 3 hrs 5 mins,40 ,40,322,28g,4g,,2345mg,9g,5g,2g,15g,,54mg,3mg,401mg,4.6,93,5 pounds,
+46,6648704,Instant Pot Pot Roast,20 mins, 1 hr 30 mins, 2 hrs 5 mins,12 ,12,233,14g,5g,52mg,536mg,11g,2g,3g,15g,6mg,33mg,2mg,458mg,4.5,72,,15 mins
+47,6599332,Funeral Sandwiches,15 mins,20 mins, 4 hrs 35 mins,24 ,24,419,12g,11g,80mg,559mg,46g,2g,3g,20g,1mg,95mg,0mg,85mg,3.5,15,24 sandwiches, 4 hrs
+48,6664217,Texas Sausage Kolaches (Klobasneks),45 mins,15 mins, 2 hrs 10 mins,20 ,20,264,13g,7g,51mg,367mg,27g,1g,6g,9g,0mg,100mg,2mg,111mg,4.8,27,, 1 hr 10 mins
+49,6663996,Pignoli Cookies,30 mins,15 mins,45 mins,36 ,36,101,6g,1g,,7mg,11g,1g,6g,3g,0mg,18mg,1mg,70mg,4.4,192,3 dozen,
+50,6649194,Grandma's Chocolate Texas Sheet Cake,15 mins,25 mins,45 mins,24 ,24,259,12g,8g,47mg,170mg,36g,1g,27g,2g,0mg,20mg,1mg,55mg,4.6,47,1 10x15-inch cake,5 mins
+51,6737636,Alabama Fire Crackers,15 mins,, 9 hrs 15 mins,30 ,30,181,14g,2g,,320mg,13g,0g,0g,1g,0mg,1mg,0mg,22mg,4.8,297,, 9 hrs
+52,6650898,Irish Potato Candy,20 mins,,30 mins,60 ,60,59,2g,2g,4mg,20mg,10g,0g,9g,0g,,3mg,0mg,14mg,4.4,306,5 dozen,10 mins
+53,6739397,Easy Lemon Cookies,10 mins,10 mins,20 mins,36 ,36,87,4g,1g,14mg,107mg,12g,0g,7g,1g,,8mg,0mg,16mg,4.6,"1,892",36 cookies,
+54,6650426,Chocolate Oatmeal Cookies,15 mins,10 mins,25 mins,36 ,36,79,4g,1g,5mg,92mg,11g,1g,6g,1g,,13mg,1mg,36mg,4.6,514,3 dozen cookies,
+55,6603320,Oatmeal Butterscotch Cookies,20 mins,10 mins,30 mins,48 ,48,119,5g,3g,15mg,81mg,16g,1g,10g,1g,,8mg,0mg,41mg,4.5,667,48 cookies,
+56,6738702,Baked Hawaiian Sandwiches,15 mins,20 mins,35 mins,24 ,24,426,11g,11g,78mg,488mg,47g,2g,3g,23g,1mg,200mg,0mg,57mg,4.7,193,24 sliders,
+57,6575143,Rita's Sweet Holiday Baked Ham,20 mins, 2 hrs, 2 hrs 30 mins,24 ,24,667,42g,15g,127mg,2918mg,28g,0g,23g,42g,86mg,32mg,2mg,775mg,4.7,338,,10 mins
+58,6581973,Beef Tamales,30 mins, 4 hrs 30 mins, 5 hrs,36 ,36,347,24g,9g,38mg,248mg,23g,3g,0g,9g,0mg,47mg,3mg,195mg,4.5,197,6 dozen tamales,
+59,6650854,Oatmeal Peanut Butter Cookies,15 mins,10 mins,25 mins,48 ,48,120,7g,2g,8mg,152mg,13g,1g,8g,2g,,9mg,0mg,55mg,4.6,"3,122",48 cookies,
+60,6664048,Spinach Rolls with Puff Pastry,20 mins,25 mins,45 mins,36 ,36,133,10g,3g,7mg,97mg,10g,1g,0g,3g,1mg,34mg,1mg,46mg,4.7,19,36 spinach rolls,
+61,6650131,Rainbow Cookies,45 mins,10 mins, 10 hrs 30 mins,96 ,96,61,3g,2g,13mg,17mg,7g,0g,,1g,0mg,7mg,0mg,21mg,4.7,333,8 dozen, 9 hrs 35 mins
+62,6573177,Philly Cheesesteak Egg Rolls,40 mins,35 mins, 1 hr 25 mins,24 ,24,133,9g,5g,28mg,330mg,6g,0g,1g,7g,3mg,87mg,1mg,93mg,4.6,8,24 egg rolls,10 mins

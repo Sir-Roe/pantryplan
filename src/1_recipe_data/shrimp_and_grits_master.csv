@@ -1,9 +1,9 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count
-0,6664581,30 mins,45 mins, 1 hr 15 mins,8 ,8 servings,8,618,44g,20g,270mg,1635mg,16g,1g,3g,39g,66mg,250mg,4mg,596mg,4.9,"1,165"
-1,6596255,15 mins,40 mins,55 mins,6 ,,6,449,26g,15g,189mg,705mg,23g,1g,1g,30g,8mg,379mg,4mg,306mg,4.8,17
-2,6596631,25 mins, 1 hr, 1 hr 25 mins,8 ,8 servings,8,281,14g,7g,117mg,750mg,20g,2g,1g,20g,21mg,279mg,3mg,283mg,4.7,247
-3,6601442,30 mins,30 mins, 1 hr,4 ,,4,446,24g,13g,248mg,1120mg,17g,1g,11g,39g,20mg,508mg,4mg,629mg,4.6,59
-4,6599591,20 mins,30 mins,50 mins,6 ,,6,839,71g,39g,322mg,1109mg,22g,1g,2g,30g,8mg,272mg,3mg,533mg,4.9,56
-5,6585694,20 mins,20 mins,40 mins,4 ,,4,634,33g,13g,341mg,1054mg,34g,2g,3g,50g,20mg,363mg,7mg,625mg,4.6,153
-6,6592874,25 mins,25 mins,50 mins,6 ,6 servings,6,255,16g,10g,154mg,401mg,7g,1g,1g,20g,7mg,203mg,2mg,260mg,4.7,6
-7,6596494,10 mins,20 mins,30 mins,3 ,3 servings,3,469,22g,12g,148mg,867mg,40g,2g,13g,27g,10mg,448mg,3mg,644mg,3.6,8
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count
+0,6664581,Old Charleston-Style Shrimp and Grits,30 mins,45 mins, 1 hr 15 mins,8 ,8 servings,8,618,44g,20g,270mg,1635mg,16g,1g,3g,39g,66mg,250mg,4mg,596mg,4.9,"1,166"
+1,6596255,Cheesy Shrimp and Grits,15 mins,40 mins,55 mins,6 ,,6,449,26g,15g,189mg,705mg,23g,1g,1g,30g,8mg,379mg,4mg,306mg,4.8,17
+2,6596631,Spicy Shrimp and Grits,25 mins, 1 hr, 1 hr 25 mins,8 ,8 servings,8,281,14g,7g,117mg,750mg,20g,2g,1g,20g,21mg,279mg,3mg,283mg,4.7,247
+3,6601442,Shrimp and Cheesy Grits with Bacon,30 mins,30 mins, 1 hr,4 ,,4,446,24g,13g,248mg,1120mg,17g,1g,11g,39g,20mg,508mg,4mg,629mg,4.6,59
+4,6599591,Grits a Ya Ya,20 mins,30 mins,50 mins,6 ,,6,839,71g,39g,322mg,1109mg,22g,1g,2g,30g,8mg,272mg,3mg,533mg,4.9,56
+5,6585694,Garlic Cheese Grits with Shrimp,20 mins,20 mins,40 mins,4 ,,4,634,33g,13g,341mg,1054mg,34g,2g,3g,50g,20mg,363mg,7mg,625mg,4.6,153
+6,6592874,Creamy Southern Shrimp and Cheese Grits,25 mins,25 mins,50 mins,6 ,6 servings,6,255,16g,10g,154mg,401mg,7g,1g,1g,20g,7mg,203mg,2mg,260mg,4.7,6
+7,6596494,South of the Border Shrimp and Grits,10 mins,20 mins,30 mins,3 ,3 servings,3,469,22g,12g,148mg,867mg,40g,2g,13g,27g,10mg,448mg,3mg,644mg,3.6,8

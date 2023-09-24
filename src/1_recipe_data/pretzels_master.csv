@@ -1,19 +1,19 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Protein,Potassium,Average_Review,Review_Count,Additional Time:,Dietary Fiber,Total Sugars,Calcium,Iron,Vitamin C
-0,7111592,15 mins,14 mins,29 mins,8 ,8 pretzels,8,129,8g,3g,21mg,1625mg,11g,3g,9mg,5.0,1,,,,,,
-1,7108604,5 mins,,5 mins,8 ,,8,110,6g,2g,,2090mg,11g,2g,1mg,5.0,1,,,,,,
-2,6648807,40 mins,10 mins, 2 hrs,12 ,12 pretzels,12,237,2g,0g,,4681mg,49g,6g,84mg,4.6,"2,682", 1 hr 10 mins,2g,9g,12mg,3mg,
-3,6599881,40 mins,10 mins, 1 hr 20 mins,6 ,6 large pretzels,6,342,9g,5g,20mg,3099mg,57g,8g,100mg,4.6,302,30 mins,3g,1g,16mg,3mg,0mg
-4,6738151,20 mins,25 mins, 1 hr 10 mins,6 ,,6,221,3g,,,4782mg,41g,7g,10mg,5.0,22,25 mins,1g,4g,8mg,2mg,
-5,6603156,20 mins,15 mins, 1 hr 40 mins,12 ,1 dozen pretzels,12,158,2g,1g,17mg,676mg,30g,4g,64mg,4.2,41, 1 hr 5 mins,1g,2g,9mg,2mg,
-6,6601025,20 mins,15 mins, 1 hr 50 mins,12 ,12 pretzel sticks,12,216,8g,2g,7mg,1652mg,32g,4g,57mg,5.0,4, 1 hr 15 mins,1g,7g,20mg,2mg,0mg
-7,6738404,30 mins,20 mins, 3 hrs,12 ,1 dozen pretzels,12,182,2g,1g,5mg,1783mg,35g,5g,61mg,4.6,"1,561", 2 hrs 10 mins,1g,2g,11mg,2mg,
-8,6585843,15 mins,30 mins, 1 hr 50 mins,16 ,16 servings,16,166,5g,3g,22mg,2208mg,26g,4g,51mg,5.0,6, 1 hr 5 mins,1g,2g,15mg,2mg,
-9,6585996,20 mins,10 mins,30 mins,15 ,,15,160,4g,2g,21mg,210mg,27g,4g,68mg,4.3,43,,1g,1g,9mg,2mg,
-10,6595640,35 mins,20 mins, 2 hrs,12 ,12 large pretzels,12,225,7g,4g,34mg,1716mg,33g,6g,144mg,4.8,15, 1 hr 5 mins,2g,4g,49mg,2mg,0mg
-11,6664818,45 mins,15 mins, 11 hrs 50 mins,8 ,8 pretzels,8,224,4g,2g,9mg,3037mg,39g,6g,64mg,3.6,5, 10 hrs 50 mins,1g,2g,13mg,3mg,
-12,6571055,20 mins,25 mins, 2 hrs 20 mins,8 ,8 servings,8,255,9g,5g,69mg,71mg,37g,7g,159mg,3.5,6, 1 hr 35 mins,2g,9g,51mg,2mg,0mg
-13,6587009,15 mins,20 mins,35 mins,36 ,36 slices,36,123,9g,3g,21mg,877mg,6g,5g,99mg,4.8,4,,0g,1g,9mg,0mg,
-14,6663346,15 mins,35 mins,50 mins,4 ,4 pretzels,4,252,14g,8g,34mg,2253mg,25g,6g,41mg,4.0,4,,1g,,,,
-15,6585371,15 mins,20 mins,35 mins,4 ,4 servings,4,532,24g,6g,22mg,7002mg,69g,13g,75mg,5.0,3,,2g,35g,43mg,2mg,0mg
-16,6665062,10 mins,9 mins,19 mins,8 ,,8,153,9g,5g,21mg,745mg,16g,4g,26mg,4.5,2,,1g,,,,
-17,6664402,10 mins,15 mins,25 mins,4 ,,4,231,6g,3g,11mg,2956mg,37g,8g,61mg,5.0,2,,1g,,,,
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Protein,Potassium,Average_Review,Review_Count,Additional Time:,Dietary Fiber,Total Sugars,Calcium,Iron,Vitamin C
+0,7111592,Crescent Roll Pretzels,15 mins,14 mins,29 mins,8 ,8 pretzels,8,129,8g,3g,21mg,1625mg,11g,3g,9mg,5.0,1,,,,,,
+1,7108604,Air Fryer Pretzel Crescent Rolls,5 mins,,5 mins,8 ,,8,110,6g,2g,,2090mg,11g,2g,1mg,5.0,1,,,,,,
+2,6648807,Buttery Soft Pretzels,40 mins,10 mins, 2 hrs,12 ,12 pretzels,12,237,2g,0g,,4681mg,49g,6g,84mg,4.6,"2,682", 1 hr 10 mins,2g,9g,12mg,3mg,
+3,6599881,Papa Drexler's Bavarian Pretzels,40 mins,10 mins, 1 hr 20 mins,6 ,6 large pretzels,6,342,9g,5g,20mg,3099mg,57g,8g,100mg,4.6,302,30 mins,3g,1g,16mg,3mg,0mg
+4,6738151,Pizza Dough Pretzels,20 mins,25 mins, 1 hr 10 mins,6 ,,6,221,3g,,,4782mg,41g,7g,10mg,5.0,22,25 mins,1g,4g,8mg,2mg,
+5,6603156,Soft Homemade Pretzels,20 mins,15 mins, 1 hr 40 mins,12 ,1 dozen pretzels,12,158,2g,1g,17mg,676mg,30g,4g,64mg,4.2,41, 1 hr 5 mins,1g,2g,9mg,2mg,
+6,6601025,Soft Pretzel Sticks with Honey Mustard Dipping Sauce,20 mins,15 mins, 1 hr 50 mins,12 ,12 pretzel sticks,12,216,8g,2g,7mg,1652mg,32g,4g,57mg,5.0,4, 1 hr 15 mins,1g,7g,20mg,2mg,0mg
+7,6738404,Mall Pretzels,30 mins,20 mins, 3 hrs,12 ,1 dozen pretzels,12,182,2g,1g,5mg,1783mg,35g,5g,61mg,4.6,"1,561", 2 hrs 10 mins,1g,2g,11mg,2mg,
+8,6585843,Soft Pretzel Bites,15 mins,30 mins, 1 hr 50 mins,16 ,16 servings,16,166,5g,3g,22mg,2208mg,26g,4g,51mg,5.0,6, 1 hr 5 mins,1g,2g,15mg,2mg,
+9,6585996,Large Soft Pretzels (Quick),20 mins,10 mins,30 mins,15 ,,15,160,4g,2g,21mg,210mg,27g,4g,68mg,4.3,43,,1g,1g,9mg,2mg,
+10,6595640,Sourdough Soft Pretzels,35 mins,20 mins, 2 hrs,12 ,12 large pretzels,12,225,7g,4g,34mg,1716mg,33g,6g,144mg,4.8,15, 1 hr 5 mins,2g,4g,49mg,2mg,0mg
+11,6664818,Bavarian Pretzels,45 mins,15 mins, 11 hrs 50 mins,8 ,8 pretzels,8,224,4g,2g,9mg,3037mg,39g,6g,64mg,3.6,5, 10 hrs 50 mins,1g,2g,13mg,3mg,
+12,6571055,German New Year Pretzel,20 mins,25 mins, 2 hrs 20 mins,8 ,8 servings,8,255,9g,5g,69mg,71mg,37g,7g,159mg,3.5,6, 1 hr 35 mins,2g,9g,51mg,2mg,0mg
+13,6587009,Pretzel Bratwurst Bites,15 mins,20 mins,35 mins,36 ,36 slices,36,123,9g,3g,21mg,877mg,6g,5g,99mg,4.8,4,,0g,1g,9mg,0mg,
+14,6663346,Two-Ingredient Dough Soft Pretzels,15 mins,35 mins,50 mins,4 ,4 pretzels,4,252,14g,8g,34mg,2253mg,25g,6g,41mg,4.0,4,,1g,,,,
+15,6585371,Quick and Easy Pretzel Bites with Nutella® Dipping Sauce,15 mins,20 mins,35 mins,4 ,4 servings,4,532,24g,6g,22mg,7002mg,69g,13g,75mg,5.0,3,,2g,35g,43mg,2mg,0mg
+16,6665062,Two-Ingredient Dough Air Fryer Pretzel Bites,10 mins,9 mins,19 mins,8 ,,8,153,9g,5g,21mg,745mg,16g,4g,26mg,4.5,2,,1g,,,,
+17,6664402,Air Fryer Pretzel Bites,10 mins,15 mins,25 mins,4 ,,4,231,6g,3g,11mg,2956mg,37g,8g,61mg,5.0,2,,1g,,,,

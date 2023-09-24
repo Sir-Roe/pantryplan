@@ -1,7 +1,7 @@
-,id_recipe,Prep Time:,Cook Time:,Rise Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:
-0,7510692,45 mins,30 mins, 2 hrs 15 mins, 3 hrs 30 mins,8 ,8 kolaches,8,379,22g,10g,105mg,502mg,34g,1g,5g,13g,1mg,61mg,2mg,232mg,4.7,3,
-1,6650016,15 mins,10 mins,, 3 hrs 25 mins,30 ,2 1/2 dozen,30,72,4g,3g,11mg,32mg,8g,0g,4g,1g,1mg,5mg,0mg,13mg,4.5,326, 3 hrs
-2,6586994,30 mins,15 mins,, 2 hrs 30 mins,18 ,36 kolaches,18,176,14g,7g,52mg,544mg,9g,1g,4g,8g,3mg,117mg,1mg,218mg,4.6,111, 1 hr 45 mins
-3,6574582,30 mins,15 mins,, 2 hrs 5 mins,24 ,2 dozen,24,216,8g,4g,32mg,164mg,32g,1g,3g,5g,1mg,76mg,1mg,84mg,4.6,94, 1 hr 20 mins
-4,6602685,25 mins,25 mins,, 2 hrs 50 mins,48 ,4 dozen rolls or 4 fancy breads,48,104,2g,1g,8mg,103mg,18g,1g,2g,3g,,11mg,1mg,37mg,4.6,31, 2 hrs
-5,6603537,55 mins,15 mins,, 2 hrs 50 mins,20 ,20 kolaches,20,229,3g,2g,15mg,139mg,48g,2g,27g,4g,2mg,21mg,2mg,241mg,4.7,15, 1 hr 40 mins
+,id_recipe,name,Prep Time:,Cook Time:,Rise Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:
+0,7510692,Sausage Gravy Kolaches,45 mins,30 mins, 2 hrs 15 mins, 3 hrs 30 mins,8 ,8 kolaches,8,379,22g,10g,105mg,502mg,34g,1g,5g,13g,1mg,61mg,2mg,232mg,4.7,3,
+1,6650016,Cream Cheese Kolacky,15 mins,10 mins,, 3 hrs 25 mins,30 ,2 1/2 dozen,30,72,4g,3g,11mg,32mg,8g,0g,4g,1g,1mg,5mg,0mg,13mg,4.5,326, 3 hrs
+2,6586994,Breakfast Kolaches,30 mins,15 mins,, 2 hrs 30 mins,18 ,36 kolaches,18,176,14g,7g,52mg,544mg,9g,1g,4g,8g,3mg,117mg,1mg,218mg,4.6,111, 1 hr 45 mins
+3,6574582,Kolaches From the Bread Machine,30 mins,15 mins,, 2 hrs 5 mins,24 ,2 dozen,24,216,8g,4g,32mg,164mg,32g,1g,3g,5g,1mg,76mg,1mg,84mg,4.6,94, 1 hr 20 mins
+4,6602685,Basic Sweet Dough,25 mins,25 mins,, 2 hrs 50 mins,48 ,4 dozen rolls or 4 fancy breads,48,104,2g,1g,8mg,103mg,18g,1g,2g,3g,,11mg,1mg,37mg,4.6,31, 2 hrs
+5,6603537,Grandma Skeet's Prune Kolaches,55 mins,15 mins,, 2 hrs 50 mins,20 ,20 kolaches,20,229,3g,2g,15mg,139mg,48g,2g,27g,4g,2mg,21mg,2mg,241mg,4.7,15, 1 hr 40 mins

@@ -1,44 +1,44 @@
-,id_recipe,Prep Time:,Chill Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Cook Time:,Yield:
-0,7569406,30 mins,30 mins, 1 hr,4 ,4,338,12g,2g,71mg,669mg,46g,4g,3g,13g,29mg,115mg,1mg,340mg,5.0,1,,,
-1,6649723,30 mins,, 2 hrs,8 ,8,387,12g,2g,86mg,733mg,58g,8g,7g,18g,71mg,182mg,3mg,593mg,4.5,69, 1 hr 30 mins,,
-2,6739223,30 mins,, 1 hr 30 mins,8 ,8,62,2g,0g,6mg,241mg,9g,2g,4g,3g,14mg,20mg,1mg,195mg,4.6,237, 1 hr,,
-3,6738286,20 mins,, 8 hrs 20 mins,4 ,4,211,7g,1g,38mg,213mg,22g,6g,5g,21g,77mg,112mg,2mg,827mg,4.4,117, 8 hrs,,
-4,6648170,30 mins,, 2 hrs 10 mins,8 ,8,237,2g,0g,107mg,168mg,29g,4g,5g,26g,26mg,94mg,3mg,929mg,4.4,26, 1 hr,40 mins,8 servings
-5,6663151,30 mins,, 1 hr 30 mins,6 ,6,117,6g,1g,42mg,247mg,7g,2g,2g,11g,24mg,29mg,1mg,430mg,4.9,28, 1 hr,,6 servings
-6,6738570, 1 hr 30 mins,, 1 hr 30 mins,4 ,4,352,11g,2g,346mg,691mg,24g,6g,6g,41g,38mg,113mg,7mg,943mg,4.6,277,,,4 servings
-7,6583868,25 mins,, 4 hrs 25 mins,6 ,6,288,23g,4g,45mg,2253mg,6g,3g,2g,16g,13mg,22mg,27mg,535mg,3.7,35, 4 hrs,,6 servings
-8,6590157,45 mins,,55 mins,20 ,20,73,4g,1g,35mg,61mg,6g,2g,2g,6g,12mg,33mg,1mg,319mg,4.7,115,,10 mins,7 cups
-9,6581250,15 mins,,40 mins,4 ,4,163,7g,1g,86mg,981mg,19g,7g,4g,12g,43mg,74mg,3mg,584mg,4.9,8,20 mins,5 mins,4 servings
-10,6590384,20 mins,, 1 hr 20 mins,15 ,15,92,1g,0g,22mg,42mg,10g,2g,3g,13g,24mg,52mg,1mg,426mg,4.0,33, 1 hr,,15 appetizer servings.
-11,6739490,15 mins,, 1 hr 55 mins,12 ,12,148,6g,1g,45mg,57mg,10g,2g,6g,15g,33mg,43mg,1mg,442mg,4.3,7, 1 hr 40 mins,,12 servings
-12,6580985,20 mins,, 1 hr 20 mins,6 ,6,152,6g,1g,34mg,31mg,7g,2g,4g,18g,14mg,21mg,1mg,498mg,,, 1 hr,,6 servings
-13,6581347,20 mins,, 2 hrs,6 ,6,199,7g,1g,221mg,813mg,11g,4g,3g,25g,28mg,76mg,5mg,652mg,4.8,17, 1 hr 40 mins,,
-14,6600898,25 mins,, 2 hrs 25 mins,4 ,4,117,1g,0g,38mg,58mg,6g,2g,2g,21g,18mg,49mg,1mg,545mg,4.4,16, 2 hrs,,4 servings
-15,6573623,40 mins,, 2 hrs,8 ,8,159,5g,1g,63mg,491mg,14g,4g,4g,18g,46mg,74mg,2mg,566mg,,, 1 hr 20 mins,,
-16,6578827,20 mins,,50 mins,9 ,9,227,15g,2g,55mg,436mg,16g,1g,5g,8g,26mg,68mg,7mg,464mg,4.0,7,30 mins,,
-17,6738932,30 mins,, 1 hr 30 mins,12 ,12,204,3g,1g,253mg,859mg,11g,3g,2g,35g,30mg,93mg,5mg,534mg,4.3,115, 1 hr,,
-18,6575947,30 mins,, 1 hr 35 mins,12 ,12,83,4g,1g,37mg,109mg,5g,2g,2g,7g,41mg,33mg,1mg,293mg,4.9,18, 1 hr,5 mins,12 servings
-19,6591436,15 mins,,45 mins,4 ,4,210,2g,1g,346mg,503mg,9g,2g,2g,38g,20mg,97mg,6mg,500mg,5.0,6,30 mins,,
-20,6592027,30 mins,, 1 hr 30 mins,4 ,4,195,8g,1g,125mg,154mg,17g,6g,7g,16g,87mg,59mg,3mg,582mg,4.7,19, 1 hr,,4 servings
-21,6741731,45 mins,, 12 hrs 45 mins,10 ,10,224,3g,1g,216mg,649mg,18g,2g,6g,32g,30mg,99mg,4mg,542mg,5.0,3, 12 hrs,,10 servings
-22,6562980,20 mins,, 1 hr 30 mins,8 ,8,333,15g,2g,,414mg,31g,9g,3g,27g,27mg,130mg,6mg,574mg,,, 1 hr,10 mins,8 servings
-23,6571495,45 mins,, 1 hr 40 mins,4 ,4,195,1g,0g,173mg,546mg,28g,5g,12g,21g,107mg,101mg,4mg,827mg,4.0,2,55 mins,,4 servings
-24,6567925,45 mins,, 1 hr 45 mins,8 ,8,441,20g,4g,198mg,5499mg,18g,3g,4g,49g,47mg,116mg,66mg,1055mg,,, 1 hr,,8 servings
-25,6585717,20 mins,,20 mins,6 ,6,125,11g,2g,,373mg,7g,4g,2g,2g,11mg,31mg,1mg,317mg,5.0,1,,,6 servings
-26,6584015,45 mins,, 2 hrs 45 mins,6 ,6,217,3g,0g,36mg,456mg,18g,3g,13g,25g,54mg,79mg,2mg,776mg,4.6,20,, 2 hrs,6 servings
-27,6566027,20 mins,, 2 hrs 20 mins,4 ,4,109,1g,0g,34mg,247mg,10g,1g,5g,15g,15mg,46mg,3mg,368mg,4.0,1, 2 hrs,,4 servings
-28,6583431,25 mins,, 2 hrs 40 mins,4 ,4,440,29g,5g,259mg,150mg,17g,8g,5g,30g,39mg,63mg,2mg,985mg,4.1,14, 2 hrs,15 mins,4 servings
-29,6576044,20 mins,,20 mins,5 ,5,105,1g,0g,18mg,769mg,19g,1g,8g,8g,19mg,26mg,1mg,253mg,4.3,3,,,5 servings
-30,6571876,15 mins,,35 mins,12 ,12,194,10g,2g,,100mg,25g,9g,4g,3g,36mg,49mg,1mg,480mg,3.0,1,20 mins,,12 tostadas
-31,6599957,15 mins,,35 mins,6 ,6,101,3g,0g,19mg,146mg,4g,1g,1g,10g,8mg,23mg,1mg,270mg,,,15 mins,5 mins,6 servings
-32,6576004,20 mins,, 3 hrs 20 mins,8 ,8,74,1g,0g,86mg,219mg,7g,2g,3g,11g,16mg,40mg,2mg,330mg,4.8,8, 3 hrs,,8 servings
-33,6569602,25 mins,, 1 hr 25 mins,8 ,8,150,7g,1g,,307mg,22g,5g,8g,3g,27mg,55mg,1mg,428mg,4.0,1, 1 hr,,8 tostadas
-34,6602543,15 mins,,50 mins,2 ,2,147,3g,0g,,883mg,27g,6g,14g,5g,56mg,69mg,3mg,455mg,5.0,1,30 mins,5 mins,2 servings
-35,6592315,25 mins,,55 mins,6 ,6,253,17g,3g,,390mg,24g,8g,12g,7g,42mg,41mg,2mg,1222mg,4.0,1,20 mins,10 mins,6 servings
-36,6579954,20 mins,, 1 hr 20 mins,6 ,6,80,0g,0g,,7mg,20g,3g,15g,1g,73mg,25mg,1mg,303mg,3.0,2, 1 hr,,6 servings
-37,6574404,15 mins,, 1 hr 15 mins,6 ,6,190,6g,1g,115mg,629mg,22g,3g,3g,15g,23mg,64mg,2mg,329mg,4.6,59, 1 hr,,6 servings
-38,6590435,15 mins,,55 mins,8 ,8,89,4g,1g,,73mg,13g,6g,5g,3g,61mg,45mg,1mg,623mg,4.0,1,30 mins,10 mins,8 servings
-39,6650033,35 mins,, 2 hrs 15 mins,8 ,8,61,5g,1g,,457mg,3g,1g,,1g,,,,216mg,,, 1 hr 40 mins,,
-40,6650200,20 mins,, 4 hrs 20 mins,8 ,8,78,1g,,21mg,37mg,4g,1g,1g,13g,16mg,26mg,1mg,404mg,4.6,8, 4 hrs,,
-41,6598294,15 mins,,45 mins,6 ,6,171,10g,2g,,739mg,21g,9g,8g,4g,21mg,41mg,2mg,619mg,4.0,1,30 mins,,6 servings
-42,6597872,30 mins,, 6 hrs 45 mins,10 ,10,91,2g,0g,28mg,524mg,9g,1g,5g,11g,51mg,37mg,1mg,476mg,4.3,3, 6 hrs 15 mins,,5 cups
+,id_recipe,name,Prep Time:,Chill Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Cook Time:,Yield:
+0,7569406,Garlic Shrimp Aguachile,30 mins,30 mins, 1 hr,4 ,4,338,12g,2g,71mg,669mg,46g,4g,3g,13g,29mg,115mg,1mg,340mg,5.0,1,,,
+1,6649723,Mexican Ceviche,30 mins,, 2 hrs,8 ,8,387,12g,2g,86mg,733mg,58g,8g,7g,18g,71mg,182mg,3mg,593mg,4.5,69, 1 hr 30 mins,,
+2,6739223,Crab Ceviche,30 mins,, 1 hr 30 mins,8 ,8,62,2g,0g,6mg,241mg,9g,2g,4g,3g,14mg,20mg,1mg,195mg,4.6,237, 1 hr,,
+3,6738286,Ceviche,20 mins,, 8 hrs 20 mins,4 ,4,211,7g,1g,38mg,213mg,22g,6g,5g,21g,77mg,112mg,2mg,827mg,4.4,117, 8 hrs,,
+4,6648170,Ceviche Peruano,30 mins,, 2 hrs 10 mins,8 ,8,237,2g,0g,107mg,168mg,29g,4g,5g,26g,26mg,94mg,3mg,929mg,4.4,26, 1 hr,40 mins,8 servings
+5,6663151,Mahi Mahi Ceviche,30 mins,, 1 hr 30 mins,6 ,6,117,6g,1g,42mg,247mg,7g,2g,2g,11g,24mg,29mg,1mg,430mg,4.9,28, 1 hr,,6 servings
+6,6738570,Avocado Shrimp Ceviche-Estillo Sarita, 1 hr 30 mins,, 1 hr 30 mins,4 ,4,352,11g,2g,346mg,691mg,24g,6g,6g,41g,38mg,113mg,7mg,943mg,4.6,277,,,4 servings
+7,6583868,Salmon Ceviche,25 mins,, 4 hrs 25 mins,6 ,6,288,23g,4g,45mg,2253mg,6g,3g,2g,16g,13mg,22mg,27mg,535mg,3.7,35, 4 hrs,,6 servings
+8,6590157,Jose's Shrimp Ceviche,45 mins,,55 mins,20 ,20,73,4g,1g,35mg,61mg,6g,2g,2g,6g,12mg,33mg,1mg,319mg,4.7,115,,10 mins,7 cups
+9,6581250,Easy Shrimp Ceviche,15 mins,,40 mins,4 ,4,163,7g,1g,86mg,981mg,19g,7g,4g,12g,43mg,74mg,3mg,584mg,4.9,8,20 mins,5 mins,4 servings
+10,6590384,Tilapia Ceviche,20 mins,, 1 hr 20 mins,15 ,15,92,1g,0g,22mg,42mg,10g,2g,3g,13g,24mg,52mg,1mg,426mg,4.0,33, 1 hr,,15 appetizer servings.
+11,6739490,Mexican Mango and White Fish Ceviche,15 mins,, 1 hr 55 mins,12 ,12,148,6g,1g,45mg,57mg,10g,2g,6g,15g,33mg,43mg,1mg,442mg,4.3,7, 1 hr 40 mins,,12 servings
+12,6580985,Tuna Ceviche,20 mins,, 1 hr 20 mins,6 ,6,152,6g,1g,34mg,31mg,7g,2g,4g,18g,14mg,21mg,1mg,498mg,,, 1 hr,,6 servings
+13,6581347,Juicy and Spicy Ceviche,20 mins,, 2 hrs,6 ,6,199,7g,1g,221mg,813mg,11g,4g,3g,25g,28mg,76mg,5mg,652mg,4.8,17, 1 hr 40 mins,,
+14,6600898,Fresh Tuna Ceviche,25 mins,, 2 hrs 25 mins,4 ,4,117,1g,0g,38mg,58mg,6g,2g,2g,21g,18mg,49mg,1mg,545mg,4.4,16, 2 hrs,,4 servings
+15,6573623,Seafood Medley Ceviche,40 mins,, 2 hrs,8 ,8,159,5g,1g,63mg,491mg,14g,4g,4g,18g,46mg,74mg,2mg,566mg,,, 1 hr 20 mins,,
+16,6578827,Seviche,20 mins,,50 mins,9 ,9,227,15g,2g,55mg,436mg,16g,1g,5g,8g,26mg,68mg,7mg,464mg,4.0,7,30 mins,,
+17,6738932,Javi's Really Real Mexican Ceviche,30 mins,, 1 hr 30 mins,12 ,12,204,3g,1g,253mg,859mg,11g,3g,2g,35g,30mg,93mg,5mg,534mg,4.3,115, 1 hr,,
+18,6575947,City Ceviche,30 mins,, 1 hr 35 mins,12 ,12,83,4g,1g,37mg,109mg,5g,2g,2g,7g,41mg,33mg,1mg,293mg,4.9,18, 1 hr,5 mins,12 servings
+19,6591436,"Clamato Shrimp ""Ceviche"" Style",15 mins,,45 mins,4 ,4,210,2g,1g,346mg,503mg,9g,2g,2g,38g,20mg,97mg,6mg,500mg,5.0,6,30 mins,,
+20,6592027,Shrimp and Pineapple Ceviche,30 mins,, 1 hr 30 mins,4 ,4,195,8g,1g,125mg,154mg,17g,6g,7g,16g,87mg,59mg,3mg,582mg,4.7,19, 1 hr,,4 servings
+21,6741731,Sinaloa-Style Ceviche,45 mins,, 12 hrs 45 mins,10 ,10,224,3g,1g,216mg,649mg,18g,2g,6g,32g,30mg,99mg,4mg,542mg,5.0,3, 12 hrs,,10 servings
+22,6562980,Ceviche de Soya,20 mins,, 1 hr 30 mins,8 ,8,333,15g,2g,,414mg,31g,9g,3g,27g,27mg,130mg,6mg,574mg,,, 1 hr,10 mins,8 servings
+23,6571495,Shrimp Ceviche Baja Style,45 mins,, 1 hr 40 mins,4 ,4,195,1g,0g,173mg,546mg,28g,5g,12g,21g,107mg,101mg,4mg,827mg,4.0,2,55 mins,,4 servings
+24,6567925,Peruvian Salmon Ceviche,45 mins,, 1 hr 45 mins,8 ,8,441,20g,4g,198mg,5499mg,18g,3g,4g,49g,47mg,116mg,66mg,1055mg,,, 1 hr,,8 servings
+25,6585717,Vegan Hearts of Palm Ceviche,20 mins,,20 mins,6 ,6,125,11g,2g,,373mg,7g,4g,2g,2g,11mg,31mg,1mg,317mg,5.0,1,,,6 servings
+26,6584015,Halibut-Mango Ceviche,45 mins,, 2 hrs 45 mins,6 ,6,217,3g,0g,36mg,456mg,18g,3g,13g,25g,54mg,79mg,2mg,776mg,4.6,20,, 2 hrs,6 servings
+27,6566027,Scallop Ceviche,20 mins,, 2 hrs 20 mins,4 ,4,109,1g,0g,34mg,247mg,10g,1g,5g,15g,15mg,46mg,3mg,368mg,4.0,1, 2 hrs,,4 servings
+28,6583431,Citrus Ceviche,25 mins,, 2 hrs 40 mins,4 ,4,440,29g,5g,259mg,150mg,17g,8g,5g,30g,39mg,63mg,2mg,985mg,4.1,14, 2 hrs,15 mins,4 servings
+29,6576044,Poor Man's Ceviche,20 mins,,20 mins,5 ,5,105,1g,0g,18mg,769mg,19g,1g,8g,8g,19mg,26mg,1mg,253mg,4.3,3,,,5 servings
+30,6571876,Vegan Jicama Ceviche,15 mins,,35 mins,12 ,12,194,10g,2g,,100mg,25g,9g,4g,3g,36mg,49mg,1mg,480mg,3.0,1,20 mins,,12 tostadas
+31,6599957,Scallop Ceviche (Kinilaw na Scallops),15 mins,,35 mins,6 ,6,101,3g,0g,19mg,146mg,4g,1g,1g,10g,8mg,23mg,1mg,270mg,,,15 mins,5 mins,6 servings
+32,6576004,Bloody Mary Ceviche,20 mins,, 3 hrs 20 mins,8 ,8,74,1g,0g,86mg,219mg,7g,2g,3g,11g,16mg,40mg,2mg,330mg,4.8,8, 3 hrs,,8 servings
+33,6569602,Carrot Ceviche (Vegan),25 mins,, 1 hr 25 mins,8 ,8,150,7g,1g,,307mg,22g,5g,8g,3g,27mg,55mg,1mg,428mg,4.0,1, 1 hr,,8 tostadas
+34,6602543,Shiitake Mushroom Ceviche,15 mins,,50 mins,2 ,2,147,3g,0g,,883mg,27g,6g,14g,5g,56mg,69mg,3mg,455mg,5.0,1,30 mins,5 mins,2 servings
+35,6592315,Vegan Mushroom Ceviche,25 mins,,55 mins,6 ,6,253,17g,3g,,390mg,24g,8g,12g,7g,42mg,41mg,2mg,1222mg,4.0,1,20 mins,10 mins,6 servings
+36,6579954,Mango Ceviche,20 mins,, 1 hr 20 mins,6 ,6,80,0g,0g,,7mg,20g,3g,15g,1g,73mg,25mg,1mg,303mg,3.0,2, 1 hr,,6 servings
+37,6574404,Ceviche Self-Portrait,15 mins,, 1 hr 15 mins,6 ,6,190,6g,1g,115mg,629mg,22g,3g,3g,15g,23mg,64mg,2mg,329mg,4.6,59, 1 hr,,6 servings
+38,6590435,Easy Cauliflower Ceviche,15 mins,,55 mins,8 ,8,89,4g,1g,,73mg,13g,6g,5g,3g,61mg,45mg,1mg,623mg,4.0,1,30 mins,10 mins,8 servings
+39,6650033,Langostino Ceviche,35 mins,, 2 hrs 15 mins,8 ,8,61,5g,1g,,457mg,3g,1g,,1g,,,,216mg,,, 1 hr 40 mins,,
+40,6650200,Basic Ceviche,20 mins,, 4 hrs 20 mins,8 ,8,78,1g,,21mg,37mg,4g,1g,1g,13g,16mg,26mg,1mg,404mg,4.6,8, 4 hrs,,
+41,6598294,Quick Mushroom Ceviche,15 mins,,45 mins,6 ,6,171,10g,2g,,739mg,21g,9g,8g,4g,21mg,41mg,2mg,619mg,4.0,1,30 mins,,6 servings
+42,6597872,Eric and Debi's Seafood Seviche,30 mins,, 6 hrs 45 mins,10 ,10,91,2g,0g,28mg,524mg,9g,1g,5g,11g,51mg,37mg,1mg,476mg,4.3,3, 6 hrs 15 mins,,5 cups

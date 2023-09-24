@@ -1,20 +1,20 @@
-,id_recipe,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count
-0,6650668,30 mins, 1 hr,30 mins, 2 hrs,8 ,1 pavlova,8,373,22g,14g,82mg,52mg,42g,2g,37g,4g,54mg,60mg,0mg,252mg,4.8,486
-1,6588407,25 mins, 1 hr,30 mins, 1 hr 55 mins,12 ,1 9-inch pavlova,12,186,9g,6g,34mg,24mg,25g,1g,23g,2g,18mg,22mg,0mg,79mg,4.7,109
-2,6663640,15 mins,50 mins, 1 hr, 2 hrs 5 mins,8 ,1 9-inch crust,8,53,,,,87mg,13g,,13g,1g,,1mg,,30mg,4.5,34
-3,6580650,40 mins, 1 hr 15 mins,, 1 hr 55 mins,10 ,,10,282,17g,11g,54mg,49mg,28g,1g,26g,3g,41mg,44mg,0mg,186mg,5.0,12
-4,6737379,15 mins, 1 hr, 1 hr, 2 hrs 15 mins,12 ,1 pavlova,12,210,15g,9g,54mg,29mg,18g,1g,16g,2g,18mg,31mg,0mg,90mg,4.8,98
-5,6648256,25 mins, 1 hr 20 mins, 3 hrs 15 mins, 5 hrs,6 ,6 servings,6,424,19g,11g,165mg,76mg,62g,1g,58g,5g,12mg,30mg,1mg,125mg,5.0,9
-6,6594823,10 mins,45 mins,,55 mins,12 ,1 9-inch meringue,12,88,,,,38mg,22g,,21g,1g,,1mg,,14mg,4.4,30
-7,6739115,20 mins, 2 hrs,, 2 hrs 20 mins,8 ,8 servings,8,278,4g,2g,12mg,209mg,61g,1g,30g,3g,2mg,39mg,0mg,195mg,4.8,67
-8,6578522,20 mins, 1 hr 30 mins, 1 hr, 2 hrs 50 mins,8 ,8 servings,8,505,15g,9g,58mg,132mg,91g,2g,87g,7g,16mg,175mg,0mg,326mg,3.9,12
-9,6602089,20 mins, 1 hr 30 mins, 1 hr, 2 hrs 50 mins,8 ,8 servings,8,402,21g,13g,62mg,133mg,52g,3g,46g,5g,32mg,43mg,1mg,246mg,4.5,27
-10,6583768,,,,,10 ,10 servings,10,283,18g,11g,65mg,41mg,30g,2g,25g,3g,8mg,39mg,0mg,131mg,4.9,12
-11,6601345,30 mins, 1 hr, 1 hr, 2 hrs 30 mins,3 ,3 pavlovas,3,962,49g,32g,382mg,227mg,133g,7g,111g,13g,140mg,187mg,3mg,592mg,5.0,1
-12,6582478,20 mins, 1 hr 15 mins, 1 hr, 2 hrs 35 mins,16 ,16 servings,16,82,3g,2g,10mg,27mg,14g,0g,13g,1g,5mg,7mg,,47mg,5.0,2
-13,6571757,30 mins,25 mins, 2 hrs, 2 hrs 55 mins,10 ,1 9x13-inch dish,10,640,30g,18g,204mg,414mg,86g,3g,60g,8g,25mg,98mg,2mg,351mg,4.9,16
-14,6589570,20 mins, 1 hr 30 mins, 1 hr, 2 hrs 50 mins,12 ,12 servings,12,234,15g,9g,54mg,56mg,23g,1g,20g,3g,23mg,41mg,0mg,150mg,,
-15,6602504,,,,,8 ,1 8-inch pavlova,8,254,14g,9g,51mg,58mg,30g,1g,27g,4g,3mg,27mg,0mg,109mg,4.8,39
-16,6586648,30 mins,50 mins,, 1 hr 20 mins,12 ,12 servings,12,207,5g,4g,8mg,56mg,40g,1g,37g,3g,23mg,20mg,0mg,129mg,4.4,32
-17,6588137,30 mins,15 mins, 2 hrs 15 mins, 3 hrs,8 ,8 servings,8,476,17g,7g,41mg,75mg,77g,3g,70g,8g,27mg,74mg,0mg,223mg,4.5,4
-18,6570187,25 mins,15 mins,20 mins, 1 hr,12 ,1 -8x12 inch dish,12,363,19g,10g,48mg,156mg,46g,2g,37g,3g,1mg,39mg,1mg,167mg,3.5,4
+,id_recipe,name,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count
+0,6650668,Easy Pavlova,30 mins, 1 hr,30 mins, 2 hrs,8 ,1 pavlova,8,373,22g,14g,82mg,52mg,42g,2g,37g,4g,54mg,60mg,0mg,252mg,4.8,487
+1,6588407,The Best Pavlova,25 mins, 1 hr,30 mins, 1 hr 55 mins,12 ,1 9-inch pavlova,12,186,9g,6g,34mg,24mg,25g,1g,23g,2g,18mg,22mg,0mg,79mg,4.7,109
+2,6663640,Meringue Crust,15 mins,50 mins, 1 hr, 2 hrs 5 mins,8 ,1 9-inch crust,8,53,,,,87mg,13g,,13g,1g,,1mg,,30mg,4.5,34
+3,6580650,Strawberry Pavlova,40 mins, 1 hr 15 mins,, 1 hr 55 mins,10 ,,10,282,17g,11g,54mg,49mg,28g,1g,26g,3g,41mg,44mg,0mg,186mg,5.0,12
+4,6737379,Chef John's Pavlova with Strawberries,15 mins, 1 hr, 1 hr, 2 hrs 15 mins,12 ,1 pavlova,12,210,15g,9g,54mg,29mg,18g,1g,16g,2g,18mg,31mg,0mg,90mg,4.8,98
+5,6648256,Lemon Blueberry Pavlova,25 mins, 1 hr 20 mins, 3 hrs 15 mins, 5 hrs,6 ,6 servings,6,424,19g,11g,165mg,76mg,62g,1g,58g,5g,12mg,30mg,1mg,125mg,5.0,9
+6,6594823,Best Ever New Zealand Pavlova,10 mins,45 mins,,55 mins,12 ,1 9-inch meringue,12,88,,,,38mg,22g,,21g,1g,,1mg,,14mg,4.4,30
+7,6739115,Banoffee Pavlova,20 mins, 2 hrs,, 2 hrs 20 mins,8 ,8 servings,8,278,4g,2g,12mg,209mg,61g,1g,30g,3g,2mg,39mg,0mg,195mg,4.8,67
+8,6578522,Schaum Torte,20 mins, 1 hr 30 mins, 1 hr, 2 hrs 50 mins,8 ,8 servings,8,505,15g,9g,58mg,132mg,91g,2g,87g,7g,16mg,175mg,0mg,326mg,3.9,12
+9,6602089,Chocolate Pavlova,20 mins, 1 hr 30 mins, 1 hr, 2 hrs 50 mins,8 ,8 servings,8,402,21g,13g,62mg,133mg,52g,3g,46g,5g,32mg,43mg,1mg,246mg,4.5,27
+10,6583768,Meringue Cake with Whipped Cream and Raspberries,,,,,10 ,10 servings,10,283,18g,11g,65mg,41mg,30g,2g,25g,3g,8mg,39mg,0mg,131mg,4.9,12
+11,6601345,Pavlova with Winter Fruits,30 mins, 1 hr, 1 hr, 2 hrs 30 mins,3 ,3 pavlovas,3,962,49g,32g,382mg,227mg,133g,7g,111g,13g,140mg,187mg,3mg,592mg,5.0,1
+12,6582478,Mini Berry Pavlovas,20 mins, 1 hr 15 mins, 1 hr, 2 hrs 35 mins,16 ,16 servings,16,82,3g,2g,10mg,27mg,14g,0g,13g,1g,5mg,7mg,,47mg,5.0,2
+13,6571757,Strawberry Rhubarb Meringue Dessert,30 mins,25 mins, 2 hrs, 2 hrs 55 mins,10 ,1 9x13-inch dish,10,640,30g,18g,204mg,414mg,86g,3g,60g,8g,25mg,98mg,2mg,351mg,4.9,16
+14,6589570,Orange-Berry Pavlova,20 mins, 1 hr 30 mins, 1 hr, 2 hrs 50 mins,12 ,12 servings,12,234,15g,9g,54mg,56mg,23g,1g,20g,3g,23mg,41mg,0mg,150mg,,
+15,6602504,Pavlova Deluxe,,,,,8 ,1 8-inch pavlova,8,254,14g,9g,51mg,58mg,30g,1g,27g,4g,3mg,27mg,0mg,109mg,4.8,39
+16,6586648,A Drama Queen's Pavlova,30 mins,50 mins,, 1 hr 20 mins,12 ,12 servings,12,207,5g,4g,8mg,56mg,40g,1g,37g,3g,23mg,20mg,0mg,129mg,4.4,32
+17,6588137,Frozen Lemon Pavlova,30 mins,15 mins, 2 hrs 15 mins, 3 hrs,8 ,8 servings,8,476,17g,7g,41mg,75mg,77g,3g,70g,8g,27mg,74mg,0mg,223mg,4.5,4
+18,6570187,Blueberry Dessert,25 mins,15 mins,20 mins, 1 hr,12 ,1 -8x12 inch dish,12,363,19g,10g,48mg,156mg,46g,2g,37g,3g,1mg,39mg,1mg,167mg,3.5,4

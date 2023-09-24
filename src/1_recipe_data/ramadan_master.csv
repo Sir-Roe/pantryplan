@@ -1,63 +1,63 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
-0,6739695,25 mins,10 mins,35 mins,2 ,2,616,57g,25g,456mg,743mg,9g,2g,5g,20g,11mg,87mg,6mg,306mg,4.9,62,,
-1,6649428,30 mins,10 mins, 3 hrs 15 mins,8 ,8,187,4g,1g,,511mg,33g,1g,0g,5g,,8mg,2mg,64mg,4.7,516, 2 hrs 35 mins,8 pita breads
-2,6664946,20 mins,20 mins,40 mins,4 ,4,209,15g,3g,164mg,654mg,13g,3g,7g,8g,65mg,60mg,2mg,511mg,4.7,391,,
-3,6650778,15 mins,55 mins, 1 hr 10 mins,8 ,8,255,8g,3g,11mg,2223mg,42g,1g,0g,4g,6mg,20mg,1mg,124mg,4.7,94,,
-4,6736677,30 mins, 1 hr 20 mins, 1 hr 50 mins,6 ,6,832,35g,8g,134mg,1522mg,79g,5g,5g,48g,29mg,73mg,4mg,1021mg,4.3,160,,
-5,6595216,30 mins,30 mins, 2 hrs,18 ,18,258,15g,4g,21mg,346mg,24g,2g,2g,8g,14mg,21mg,2mg,307mg,4.5,243, 1 hr,18 samosas
-6,6590073,20 mins,50 mins, 2 hrs 10 mins,16 ,16,407,17g,7g,71mg,442mg,57g,4g,,9g,1mg,100mg,2mg,262mg,4.8,154, 1 hr,2 9-inch pies
-7,6649852,35 mins,25 mins, 1 hr 30 mins,4 ,4,560,23g,7g,120mg,440mg,64g,4g,9g,23g,11mg,163mg,5mg,566mg,4.6,38,30 mins,
-8,6650802,40 mins, 1 hr 30 mins, 2 hrs 10 mins,8 ,8,528,21g,8g,88mg,423mg,55g,3g,7g,29g,13mg,59mg,2mg,432mg,4.5,52,,
-9,6736949,15 mins,30 mins, 1 hr 15 mins,4 ,4,338,14g,1g,56mg,2715mg,12g,2g,5g,42g,10mg,69mg,2mg,940mg,4.6,247,30 mins,
-10,6595362,30 mins,10 mins, 4 hrs 40 mins,6 ,6,299,13g,3g,88mg,702mg,10g,2g,5g,34g,44mg,108mg,2mg,535mg,4.8,312, 4 hrs,
-11,6739357,10 mins, 6 hrs, 6 hrs 10 mins,6 ,6,208,6g,3g,10mg,35mg,37g,4g,16g,4g,1mg,29mg,2mg,140mg,4.0,416,,
-12,6576503,10 mins,50 mins, 1 hr,6 ,6,168,6g,1g,1mg,623mg,24g,4g,3g,7g,4mg,32mg,2mg,292mg,4.6,90,,
-13,6602503,25 mins,45 mins, 1 hr 10 mins,24 ,24,163,10g,2g,25mg,213mg,11g,1g,0g,8g,1mg,17mg,2mg,110mg,4.2,42,,2 dozen
-14,6579578,5 mins,30 mins,35 mins,4 ,4,513,33g,24g,10mg,99mg,48g,3g,22g,11g,2mg,195mg,4mg,627mg,4.5,205,,
-15,6650959,20 mins,10 mins, 1 hr,4 ,4,586,33g,5g,50mg,1580mg,60g,7g,8g,15g,22mg,273mg,5mg,592mg,4.6,"1,522",30 mins,
-16,6591419,30 mins,15 mins, 4 hrs,4 ,4,505,4g,2g,6mg,1766mg,100g,4g,5g,15g,,24mg,6mg,170mg,4.6,72, 3 hrs 15 mins,4 flatbreads
-17,6589421,10 mins,10 mins,20 mins,6 ,6,222,10g,2g,7mg,97mg,29g,2g,13g,6g,0mg,141mg,1mg,229mg,3.9,15,,
-18,6651004,10 mins,15 mins,40 mins,4 ,4,386,6g,3g,20mg,102mg,68g,3g,28g,15g,1mg,296mg,2mg,418mg,4.5,6,15 mins,4 servings
-19,6580037,30 mins,30 mins, 2 hrs,2 ,2,558,27g,6g,107mg,2459mg,46g,6g,18g,39g,386mg,206mg,7mg,1572mg,4.7,3, 1 hr,2 servings
-20,6573078,30 mins, 1 hr 45 mins, 2 hrs 15 mins,6 ,6,320,23g,7g,69mg,50mg,9g,2g,3g,20g,94mg,44mg,3mg,365mg,4.2,90,,6 servings
-21,6738947,20 mins,10 mins, 12 hrs 30 mins,6 ,6,271,17g,2g,,646mg,24g,7g,5g,7g,11mg,55mg,3mg,366mg,4.7,155, 12 hrs,6 servings
-22,6589726,25 mins,,25 mins,8 ,8,48,4g,1g,,297mg,4g,1g,2g,1g,17mg,25mg,1mg,155mg,4.6,14,,8 servings
-23,6572256,,,,7 ,7,295,11g,5g,69mg,417mg,40g,3g,3g,11g,2mg,102mg,3mg,260mg,4.1,71,,6 to 8 - servings
-24,6602627,30 mins,30 mins, 1 hr,8 ,8,934,62g,20g,30mg,215mg,87g,7g,50g,15g,2mg,204mg,4mg,617mg,4.6,26,,8 servings
-25,6736460,5 mins,40 mins, 3 hrs 45 mins,12 ,12,90,5g,1g,0mg,29mg,11g,3g,3g,2g,2mg,28mg,1mg,165mg,4.4,466, 3 hrs,1 1/2 cups
-26,6572344,20 mins,10 mins, 3 hrs,8 ,8,204,4g,1g,,438mg,36g,1g,0g,5g,,9mg,2mg,66mg,4.7,137, 2 hrs 30 mins,8 rounds
-27,6577462,25 mins,35 mins, 1 hr,6 ,6,321,22g,11g,115mg,115mg,8g,1g,5g,23g,6mg,50mg,2mg,324mg,4.5,92,,6 servings
-28,6600908,25 mins,,25 mins,10 ,10,206,6g,1g,,499mg,30g,9g,1g,8g,18mg,59mg,3mg,471mg,4.6,129,,10 servings
-29,6579406,10 mins, 2 hrs, 2 hrs 10 mins,8 ,8,193,7g,3g,10mg,178mg,28g,4g,3g,6g,12mg,45mg,2mg,287mg,4.5,96,,8 servings
-30,6568411,10 mins,40 mins,50 mins,4 ,4,535,22g,3g,1mg,312mg,69g,11g,4g,17g,3mg,74mg,5mg,649mg,4.3,791,,4 servings
-31,6594585,15 mins,5 mins,20 mins,6 ,6,442,15g,7g,25mg,164mg,68g,6g,17g,11g,0mg,70mg,2mg,377mg,4.4,118,,6 servings
-32,6575430,10 mins,, 2 hrs 10 mins,8 ,8,162,10g,1g,,303mg,18g,5g,2g,3g,25mg,37mg,1mg,331mg,4.5,109, 2 hrs,
-33,6581220,,,,8 ,8,320,17g,3g,2mg,171mg,41g,2g,27g,3g,0mg,54mg,1mg,210mg,4.2,10,,1 loaf
-34,6585684,10 mins, 1 hr 45 mins,1 day 1 hr 55 mins,12 ,12,390,3g,0g,,24mg,88g,9g,57g,8g,4mg,81mg,3mg,447mg,4.8,6,1 day,
-35,6590472,10 mins,35 mins, 1 hr 20 mins,6 ,6,354,14g,8g,96mg,675mg,54g,1g,37g,6g,0mg,157mg,2mg,139mg,4.3,17,35 mins,12 pancakes
-36,6596573,30 mins,20 mins,50 mins,4 ,4,725,15g,9g,59mg,213mg,105g,8g,10g,42g,257mg,90mg,6mg,844mg,4.0,4,,4 servings
-37,6738482,45 mins,5 mins, 1 hr 20 mins,28 ,28,35,2g,1g,11mg,78mg,1g,0g,0g,3g,1mg,8mg,0mg,46mg,4.7,424,30 mins,28 skewers
-38,6575693,20 mins,50 mins, 1 hr 10 mins,6 ,6,366,29g,5g,33mg,1707mg,12g,4g,6g,16g,16mg,92mg,3mg,650mg,4.4,14,,6 servings
-39,6605227,15 mins,25 mins, 2 hrs 10 mins,8 ,8,309,8g,1g,23mg,375mg,50g,2g,2g,8g,0mg,21mg,3mg,105mg,4.3,41, 1 hr 30 mins,8 loaves
-40,6578901,30 mins, 1 hr 10 mins, 1 hr 40 mins,6 ,6,1019,78g,14g,50mg,152mg,58g,7g,11g,24g,35mg,200mg,3mg,919mg,4.1,18,,6 servings
-41,6577017,10 mins,10 mins, 1 hr 20 mins,8 ,8,386,23g,15g,61mg,4mg,43g,1g,25g,3g,,11mg,1mg,33mg,4.7,9, 1 hr,
-42,6582352,15 mins, 2 hrs 30 mins, 2 hrs 45 mins,6 ,6,467,17g,6g,116mg,594mg,50g,13g,7g,29g,38mg,86mg,6mg,689mg,4.6,151,,6 servings
-43,6600283,20 mins,25 mins,45 mins,24 ,24,215,14g,8g,62mg,121mg,20g,1g,11g,3g,0mg,46mg,1mg,71mg,4.7,40,,24 cakes
-44,6573964,45 mins, 1 hr 25 mins, 2 hrs 10 mins,4 ,4,506,16g,6g,76mg,1173mg,57g,9g,9g,34g,6mg,172mg,6mg,824mg,4.3,47,,4 servings
-45,6595734,20 mins, 1 hr 10 mins, 1 hr 30 mins,6 ,6,676,29g,10g,64mg,272mg,85g,5g,4g,22g,19mg,62mg,4mg,540mg,4.0,45,,
-46,6572441,15 mins,30 mins,45 mins,4 ,4,224,4g,1g,,304mg,34g,16g,2g,13g,12mg,48mg,4mg,600mg,4.0,25,,
-47,6584357,10 mins, 1 hr 15 mins, 1 hr 25 mins,4 ,4,442,14g,7g,31mg,1080mg,64g,15g,13g,19g,21mg,113mg,5mg,777mg,4.7,51,,
-48,6571739,10 mins,30 mins, 1 hr 40 mins,4 ,4,326,22g,5g,70mg,1339mg,9g,1g,5g,25g,2mg,28mg,2mg,341mg,4.6,18, 1 hr,
-49,6592151,15 mins,5 mins,20 mins,4 ,4,235,2g,0g,,350mg,49g,6g,7g,9g,81mg,169mg,4mg,850mg,4.4,31,,
-50,6588385,20 mins,35 mins, 4 hrs 15 mins,8 ,8,410,21g,6g,85mg,577mg,30g,1g,2g,24g,3mg,26mg,3mg,233mg,4.6,5, 3 hrs 20 mins,
-51,6663588,10 mins,35 mins,45 mins,4 ,4,346,12g,3g,279mg,438mg,44g,4g,7g,17g,30mg,118mg,4mg,720mg,4.4,25,,
-52,6581794,15 mins, 2 hrs, 2 hrs 15 mins,4 ,4,339,26g,7g,58mg,337mg,11g,3g,6g,17g,16mg,90mg,2mg,520mg,4.2,5,,4 servings
-53,6569701,30 mins,26 mins, 1 hr 6 mins,40 ,40,184,14g,2g,19mg,37mg,13g,0g,10g,1g,1mg,6mg,0mg,30mg,3.0,3,10 mins,40 servings
-54,6595583,15 mins,,15 mins,36 ,36,53,3g,1g,5mg,31mg,7g,1g,5g,1g,0mg,20mg,0mg,66mg,4.2,9,,36 pieces
-55,6738044,10 mins, 3 hrs 40 mins, 3 hrs 50 mins,8 ,8,668,48g,7g,102mg,990mg,32g,4g,25g,31g,8mg,68mg,4mg,287mg,4.9,9,,
-56,6597107,20 mins,10 mins,30 mins,24 ,24,45,4g,0g,,75mg,2g,1g,0g,1g,1mg,44mg,2mg,62mg,4.6,45,,1 1/2 cups
-57,6574226,10 mins,30 mins,45 mins,8 ,8,226,6g,1g,,4mg,40g,1g,1g,4g,4mg,24mg,2mg,109mg,4.5,45,5 mins,
-58,6738352,15 mins,10 mins, 2 hrs 25 mins,6 ,6,287,24g,3g,,441mg,10g,3g,2g,5g,4mg,38mg,1mg,142mg,4.7,25, 2 hrs,
-59,6739600,30 mins,30 mins, 1 hr,3 ,3,424,32g,13g,114mg,111mg,5g,1g,2g,28g,10mg,34mg,3mg,590mg,4.5,63,,12 patties
-60,6561787,25 mins, 1 hr 30 mins, 1 hr 55 mins,4 ,4,420,26g,8g,124mg,1284mg,22g,7g,8g,25g,11mg,84mg,3mg,808mg,4.8,117,,
-61,6602266,1 mins,45 mins, 1 hr 16 mins,50 ,50,107,7g,2g,13mg,9mg,11g,1g,6g,2g,,19mg,1mg,62mg,4.7,3,30 mins,50 cookies
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
+0,6739695,Turkish Eggs (Cilbir),25 mins,10 mins,35 mins,2 ,2,616,57g,25g,456mg,743mg,9g,2g,5g,20g,11mg,87mg,6mg,306mg,4.9,62,,
+1,6649428,Homemade Pita Bread,30 mins,10 mins, 3 hrs 15 mins,8 ,8,187,4g,1g,,511mg,33g,1g,0g,5g,,8mg,2mg,64mg,4.7,516, 2 hrs 35 mins,8 pita breads
+2,6664946,Chakchouka (Shakshouka),20 mins,20 mins,40 mins,4 ,4,209,15g,3g,164mg,654mg,13g,3g,7g,8g,65mg,60mg,2mg,511mg,4.7,398,,
+3,6650778,Persian Rice,15 mins,55 mins, 1 hr 10 mins,8 ,8,255,8g,3g,11mg,2223mg,42g,1g,0g,4g,6mg,20mg,1mg,124mg,4.7,94,,
+4,6736677,Chicken Biryani,30 mins, 1 hr 20 mins, 1 hr 50 mins,6 ,6,832,35g,8g,134mg,1522mg,79g,5g,5g,48g,29mg,73mg,4mg,1021mg,4.3,160,,
+5,6595216,Beef Samosas,30 mins,30 mins, 2 hrs,18 ,18,258,15g,4g,21mg,346mg,24g,2g,2g,8g,14mg,21mg,2mg,307mg,4.5,243, 1 hr,18 samosas
+6,6590073,No-Fail Bean Pie,20 mins,50 mins, 2 hrs 10 mins,16 ,16,407,17g,7g,71mg,442mg,57g,4g,,9g,1mg,100mg,2mg,262mg,4.8,154, 1 hr,2 9-inch pies
+7,6649852,Homemade Manti (Traditional Turkish Dumplings),35 mins,25 mins, 1 hr 30 mins,4 ,4,560,23g,7g,120mg,440mg,64g,4g,9g,23g,11mg,163mg,5mg,566mg,4.6,38,30 mins,
+8,6650802,Al Kabsa (Traditional Saudi Rice and Chicken),40 mins, 1 hr 30 mins, 2 hrs 10 mins,8 ,8,528,21g,8g,88mg,423mg,55g,3g,7g,29g,13mg,59mg,2mg,432mg,4.5,52,,
+9,6736949,Indian Fish Curry,15 mins,30 mins, 1 hr 15 mins,4 ,4,338,14g,1g,56mg,2715mg,12g,2g,5g,42g,10mg,69mg,2mg,940mg,4.6,247,30 mins,
+10,6595362,Shish Tawook Grilled Chicken,30 mins,10 mins, 4 hrs 40 mins,6 ,6,299,13g,3g,88mg,702mg,10g,2g,5g,34g,44mg,108mg,2mg,535mg,4.8,312, 4 hrs,
+11,6739357,Slow Cooker Oats,10 mins, 6 hrs, 6 hrs 10 mins,6 ,6,208,6g,3g,10mg,35mg,37g,4g,16g,4g,1mg,29mg,2mg,140mg,4.0,416,,
+12,6576503,Turkish Red Lentil Soup with Mint,10 mins,50 mins, 1 hr,6 ,6,168,6g,1g,1mg,623mg,24g,4g,3g,7g,4mg,32mg,2mg,292mg,4.6,90,,
+13,6602503,Sambusa,25 mins,45 mins, 1 hr 10 mins,24 ,24,163,10g,2g,25mg,213mg,11g,1g,0g,8g,1mg,17mg,2mg,110mg,4.2,42,,2 dozen
+14,6579578,Kheer (Rice Pudding),5 mins,30 mins,35 mins,4 ,4,513,33g,24g,10mg,99mg,48g,3g,22g,11g,2mg,195mg,4mg,627mg,4.5,205,,
+15,6650959,Sean's Falafel and Cucumber Sauce,20 mins,10 mins, 1 hr,4 ,4,586,33g,5g,50mg,1580mg,60g,7g,8g,15g,22mg,273mg,5mg,592mg,4.6,"1,522",30 mins,
+16,6591419,Bazlama - Turkish Flat Bread,30 mins,15 mins, 4 hrs,4 ,4,505,4g,2g,6mg,1766mg,100g,4g,5g,15g,,24mg,6mg,170mg,4.6,72, 3 hrs 15 mins,4 flatbreads
+17,6589421,Fereni Starch Pudding,10 mins,10 mins,20 mins,6 ,6,222,10g,2g,7mg,97mg,29g,2g,13g,6g,0mg,141mg,1mg,229mg,3.9,15,,
+18,6651004,Vermicelli Pudding,10 mins,15 mins,40 mins,4 ,4,386,6g,3g,20mg,102mg,68g,3g,28g,15g,1mg,296mg,2mg,418mg,4.5,6,15 mins,4 servings
+19,6580037,Ayam Penyet Pedas (Indonesian Spicy Penyet Chicken),30 mins,30 mins, 2 hrs,2 ,2,558,27g,6g,107mg,2459mg,46g,6g,18g,39g,386mg,206mg,7mg,1572mg,4.7,3, 1 hr,2 servings
+20,6573078,Authentic Bangladeshi Beef Curry,30 mins, 1 hr 45 mins, 2 hrs 15 mins,6 ,6,320,23g,7g,69mg,50mg,9g,2g,3g,20g,94mg,44mg,3mg,365mg,4.2,90,,6 servings
+21,6738947,Chef John's Falafel,20 mins,10 mins, 12 hrs 30 mins,6 ,6,271,17g,2g,,646mg,24g,7g,5g,7g,11mg,55mg,3mg,366mg,4.7,155, 12 hrs,6 servings
+22,6589726,Middle Eastern Tomato Salad,25 mins,,25 mins,8 ,8,48,4g,1g,,297mg,4g,1g,2g,1g,17mg,25mg,1mg,155mg,4.6,14,,8 servings
+23,6572256,Pasta with Yogurt Sauce,,,,7 ,7,295,11g,5g,69mg,417mg,40g,3g,3g,11g,2mg,102mg,3mg,260mg,4.1,71,,6 to 8 - servings
+24,6602627,Om Ali,30 mins,30 mins, 1 hr,8 ,8,934,62g,20g,30mg,215mg,87g,7g,50g,15g,2mg,204mg,4mg,617mg,4.6,26,,8 servings
+25,6736460,Baba Ghanoush,5 mins,40 mins, 3 hrs 45 mins,12 ,12,90,5g,1g,0mg,29mg,11g,3g,3g,2g,2mg,28mg,1mg,165mg,4.4,466, 3 hrs,1 1/2 cups
+26,6572344,Syrian Bread,20 mins,10 mins, 3 hrs,8 ,8,204,4g,1g,,438mg,36g,1g,0g,5g,,9mg,2mg,66mg,4.7,137, 2 hrs 30 mins,8 rounds
+27,6577462,Butter Lamb Gravy,25 mins,35 mins, 1 hr,6 ,6,321,22g,11g,115mg,115mg,8g,1g,5g,23g,6mg,50mg,2mg,324mg,4.5,92,,6 servings
+28,6600908,Balela Salad,25 mins,,25 mins,10 ,10,206,6g,1g,,499mg,30g,9g,1g,8g,18mg,59mg,3mg,471mg,4.6,129,,10 servings
+29,6579406,Ash-e-jow (Iranian/Persian Barley Soup),10 mins, 2 hrs, 2 hrs 10 mins,8 ,8,193,7g,3g,10mg,178mg,28g,4g,3g,6g,12mg,45mg,2mg,287mg,4.5,96,,8 servings
+30,6568411,Lentils and Rice with Fried Onions (Mujadarrah),10 mins,40 mins,50 mins,4 ,4,535,22g,3g,1mg,312mg,69g,11g,4g,17g,3mg,74mg,5mg,649mg,4.3,791,,4 servings
+31,6594585,Sweet and Nutty Moroccan Couscous,15 mins,5 mins,20 mins,6 ,6,442,15g,7g,25mg,164mg,68g,6g,17g,11g,0mg,70mg,2mg,377mg,4.4,118,,6 servings
+32,6575430,Cucumber Tabbouleh,10 mins,, 2 hrs 10 mins,8 ,8,162,10g,1g,,303mg,18g,5g,2g,3g,25mg,37mg,1mg,331mg,4.5,109, 2 hrs,
+33,6581220,Eggless Date Cake,,,,8 ,8,320,17g,3g,2mg,171mg,41g,2g,27g,3g,0mg,54mg,1mg,210mg,4.2,10,,1 loaf
+34,6585684,Ashure,10 mins, 1 hr 45 mins,1 day 1 hr 55 mins,12 ,12,390,3g,0g,,24mg,88g,9g,57g,8g,4mg,81mg,3mg,447mg,4.8,6,1 day,
+35,6590472,Beghrir (Moroccan Pancakes),10 mins,35 mins, 1 hr 20 mins,6 ,6,354,14g,8g,96mg,675mg,54g,1g,37g,6g,0mg,157mg,2mg,139mg,4.3,17,35 mins,12 pancakes
+36,6596573,Curry Pasta - Pakistani Style,30 mins,20 mins,50 mins,4 ,4,725,15g,9g,59mg,213mg,105g,8g,10g,42g,257mg,90mg,6mg,844mg,4.0,4,,4 servings
+37,6738482,Kofta Kebabs,45 mins,5 mins, 1 hr 20 mins,28 ,28,35,2g,1g,11mg,78mg,1g,0g,0g,3g,1mg,8mg,0mg,46mg,4.7,424,30 mins,28 skewers
+38,6575693,Beef and Okra Bamia,20 mins,50 mins, 1 hr 10 mins,6 ,6,366,29g,5g,33mg,1707mg,12g,4g,6g,16g,16mg,92mg,3mg,650mg,4.4,14,,6 servings
+39,6605227,Noni Afghani,15 mins,25 mins, 2 hrs 10 mins,8 ,8,309,8g,1g,23mg,375mg,50g,2g,2g,8g,0mg,21mg,3mg,105mg,4.3,41, 1 hr 30 mins,8 loaves
+40,6578901,Upside Down (Maqluba),30 mins, 1 hr 10 mins, 1 hr 40 mins,6 ,6,1019,78g,14g,50mg,152mg,58g,7g,11g,24g,35mg,200mg,3mg,919mg,4.1,18,,6 servings
+41,6577017,Persian Halva,10 mins,10 mins, 1 hr 20 mins,8 ,8,386,23g,15g,61mg,4mg,43g,1g,25g,3g,,11mg,1mg,33mg,4.7,9, 1 hr,
+42,6582352,Harira,15 mins, 2 hrs 30 mins, 2 hrs 45 mins,6 ,6,467,17g,6g,116mg,594mg,50g,13g,7g,29g,38mg,86mg,6mg,689mg,4.6,151,,6 servings
+43,6600283,Yazdi Cakes,20 mins,25 mins,45 mins,24 ,24,215,14g,8g,62mg,121mg,20g,1g,11g,3g,0mg,46mg,1mg,71mg,4.7,40,,24 cakes
+44,6573964,Afghan Beef Raviolis (Mantwo),45 mins, 1 hr 25 mins, 2 hrs 10 mins,4 ,4,506,16g,6g,76mg,1173mg,57g,9g,9g,34g,6mg,172mg,6mg,824mg,4.3,47,,4 servings
+45,6595734,Lubia Polo (Green Bean Rice),20 mins, 1 hr 10 mins, 1 hr 30 mins,6 ,6,676,29g,10g,64mg,272mg,85g,5g,4g,22g,19mg,62mg,4mg,540mg,4.0,45,,
+46,6572441,Bengali Dhal,15 mins,30 mins,45 mins,4 ,4,224,4g,1g,,304mg,34g,16g,2g,13g,12mg,48mg,4mg,600mg,4.0,25,,
+47,6584357,Turkish Red Lentil 'Bride' Soup,10 mins, 1 hr 15 mins, 1 hr 25 mins,4 ,4,442,14g,7g,31mg,1080mg,64g,15g,13g,19g,21mg,113mg,5mg,777mg,4.7,51,,
+48,6571739,Indonesian Chicken Skewers with Peanut Sauce (Satay Ayam),10 mins,30 mins, 1 hr 40 mins,4 ,4,326,22g,5g,70mg,1339mg,9g,1g,5g,25g,2mg,28mg,2mg,341mg,4.6,18, 1 hr,
+49,6592151,Authentic Lebanese Fattoush,15 mins,5 mins,20 mins,4 ,4,235,2g,0g,,350mg,49g,6g,7g,9g,81mg,169mg,4mg,850mg,4.4,31,,
+50,6588385,Halal Cart Chicken and Rice,20 mins,35 mins, 4 hrs 15 mins,8 ,8,410,21g,6g,85mg,577mg,30g,1g,2g,24g,3mg,26mg,3mg,233mg,4.6,5, 3 hrs 20 mins,
+51,6663588,Shakshuka,10 mins,35 mins,45 mins,4 ,4,346,12g,3g,279mg,438mg,44g,4g,7g,17g,30mg,118mg,4mg,720mg,4.4,25,,
+52,6581794,Egyptian Bamia,15 mins, 2 hrs, 2 hrs 15 mins,4 ,4,339,26g,7g,58mg,337mg,11g,3g,6g,17g,16mg,90mg,2mg,520mg,4.2,5,,4 servings
+53,6569701,Balah el Sham (Egyptian Choux Pastry),30 mins,26 mins, 1 hr 6 mins,40 ,40,184,14g,2g,19mg,37mg,13g,0g,10g,1g,1mg,6mg,0mg,30mg,3.0,3,10 mins,40 servings
+54,6595583,Stuffed Dates,15 mins,,15 mins,36 ,36,53,3g,1g,5mg,31mg,7g,1g,5g,1g,0mg,20mg,0mg,66mg,4.2,9,,36 pieces
+55,6738044,Duck Fesenjān,10 mins, 3 hrs 40 mins, 3 hrs 50 mins,8 ,8,668,48g,7g,102mg,990mg,32g,4g,25g,31g,8mg,68mg,4mg,287mg,4.9,9,,
+56,6597107,Dukkah,20 mins,10 mins,30 mins,24 ,24,45,4g,0g,,75mg,2g,1g,0g,1g,1mg,44mg,2mg,62mg,4.6,45,,1 1/2 cups
+57,6574226,Indonesian Spiced Rice,10 mins,30 mins,45 mins,8 ,8,226,6g,1g,,4mg,40g,1g,1g,4g,4mg,24mg,2mg,109mg,4.5,45,5 mins,
+58,6738352,Muhammara (Roasted Pepper & Walnut Spread),15 mins,10 mins, 2 hrs 25 mins,6 ,6,287,24g,3g,,441mg,10g,3g,2g,5g,4mg,38mg,1mg,142mg,4.7,25, 2 hrs,
+59,6739600,Algerian Kefta (Meatballs),30 mins,30 mins, 1 hr,3 ,3,424,32g,13g,114mg,111mg,5g,1g,2g,28g,10mg,34mg,3mg,590mg,4.5,63,,12 patties
+60,6561787,Little Lamb Meatballs in a Spicy Eggplant Tomato Sauce,25 mins, 1 hr 30 mins, 1 hr 55 mins,4 ,4,420,26g,8g,124mg,1284mg,22g,7g,8g,25g,11mg,84mg,3mg,808mg,4.8,117,,
+61,6602266,Cornes de Gazelle (Gazelle Horns),1 mins,45 mins, 1 hr 16 mins,50 ,50,107,7g,2g,13mg,9mg,11g,1g,6g,2g,,19mg,1mg,62mg,4.7,3,30 mins,50 cookies

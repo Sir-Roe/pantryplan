@@ -1,24 +1,24 @@
-,id_recipe,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count
-0,6737579,15 mins,45 mins, 1 hr, 2 hrs,10 ,1 7x4-inch loaf,10,179,12g,5g,59mg,97mg,2g,1g,1g,16g,1mg,25mg,2mg,230mg,4.2,391
-1,6595889,10 mins, 1 hr 20 mins,10 mins, 1 hr 40 mins,4 ,,4,284,19g,8g,95mg,370mg,2g,0g,0g,24g,1mg,33mg,2mg,352mg,5.0,3
-2,6595174,15 mins,45 mins, 2 hrs 15 mins, 3 hrs 15 mins,12 ,,12,425,41g,7g,61mg,620mg,43g,3g,4g,22g,6mg,158mg,4mg,367mg,4.5,32
-3,6570657,30 mins, 1 hr 15 mins,, 1 hr 45 mins,4 ,1 loaf,4,489,21g,10g,98mg,748mg,50g,1g,48g,26g,3mg,268mg,3mg,554mg,4.6,439
-4,6599360,15 mins, 1 hr, 8 hrs 30 mins, 9 hrs 45 mins,6 ,,6,450,14g,6g,64mg,814mg,57g,2g,24g,22g,2mg,214mg,3mg,435mg,4.4,78
-5,6597000,20 mins, 2 hrs 25 mins,30 mins, 3 hrs 15 mins,6 ,6 donairs,6,517,15g,6g,70mg,659mg,67g,3g,28g,28g,4mg,166mg,4mg,510mg,3.9,35
-6,6738487,30 mins,20 mins, 1 hr, 1 hr 50 mins,6 ,,6,441,18g,6g,71mg,399mg,39g,4g,6g,30g,22mg,104mg,3mg,472mg,4.4,183
-7,6663600,20 mins, 1 hr 15 mins,, 1 hr 35 mins,8 ,1 9x5-inch loaf,8,224,14g,6g,80mg,538mg,1g,0g,0g,22g,1mg,25mg,2mg,267mg,4.7,32
-8,6738926,15 mins,40 mins, 1 hr, 1 hr 55 mins,8 ,8 servings,8,255,18g,7g,72mg,549mg,3g,1g,1g,19g,2mg,32mg,2mg,266mg,4.9,90
-9,6737175,10 mins,15 mins,,25 mins,4 ,,4,338,25g,11g,84mg,408mg,6g,1g,1g,20g,2mg,40mg,3mg,319mg,4.5,294
-10,6570277,35 mins,5 mins,,40 mins,5 ,5 gyros,5,497,24g,9g,74mg,733mg,42g,3g,9g,29g,16mg,365mg,4mg,711mg,3.9,28
-11,6589360,30 mins,20 mins, 1 hr, 1 hr 50 mins,4 ,,4,764,41g,15g,133mg,3170mg,56g,4g,12g,44g,21mg,566mg,5mg,728mg,4.7,587
-12,6572548,40 mins,10 mins, 8 hrs, 8 hrs 50 mins,6 ,6 kebabs,6,512,34g,9g,34mg,891mg,36g,2g,3g,16g,9mg,117mg,3mg,333mg,4.6,24
-13,6591756,30 mins,50 mins, 4 hrs, 5 hrs 20 mins,7 ,,7,990,65g,14g,129mg,471mg,48g,7g,6g,58g,45mg,236mg,10mg,1404mg,4.3,45
-14,6580879,30 mins, 2 hrs,15 mins, 2 hrs 45 mins,12 ,12 servings,12,402,25g,7g,91mg,1292mg,34g,3g,3g,26g,5mg,75mg,3mg,527mg,,
-15,6588631,15 mins,30 mins, 2 hrs, 2 hrs 45 mins,6 ,6 sandwiches,6,432,10g,3g,159mg,384mg,34g,2g,1g,48g,1mg,96mg,10mg,597mg,4.7,93
-16,6606092,40 mins, 2 hrs 30 mins, 6 hrs, 9 hrs 10 mins,15 ,15 servings,15,511,22g,9g,103mg,1004mg,45g,2g,15g,33g,5mg,142mg,4mg,559mg,4.3,3
-17,6595591,20 mins,48 mins, 8 hrs, 9 hrs 8 mins,4 ,4 servings,4,385,11g,2g,,1086mg,54g,7g,7g,25g,18mg,162mg,6mg,882mg,5.0,1
-18,6572133,5 mins,55 mins,5 mins, 1 hr 5 mins,16 ,,16,250,21g,7g,65mg,1654mg,1g,0g,0g,15g,0mg,17mg,2mg,267mg,5.0,3
-19,6596900,40 mins,20 mins,20 mins, 1 hr 20 mins,4 ,4 servings,4,592,38g,8g,82mg,1583mg,32g,5g,7g,32g,101mg,113mg,3mg,493mg,5.0,1
-20,6587697,10 mins,20 mins,,30 mins,4 ,4 servings,4,381,11g,2g,54mg,500mg,41g,2g,7g,28g,6mg,200mg,3mg,501mg,4.0,61
-21,6663364,20 mins, 1 hr, 4 hrs 10 mins, 5 hrs 30 mins,6 ,6 gyros,6,531,38g,5g,165mg,1111mg,35g,2g,,45g,,,,580mg,4.8,10
-22,6571732,30 mins,14 mins,,44 mins,6 ,6 servings,6,590,32g,13g,101mg,782mg,44g,2g,8g,29g,5mg,211mg,4mg,664mg,4.0,105
+,id_recipe,name,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count
+0,6737579,Traditional Gyro Meat,15 mins,45 mins, 1 hr, 2 hrs,10 ,1 7x4-inch loaf,10,179,12g,5g,59mg,97mg,2g,1g,1g,16g,1mg,25mg,2mg,230mg,4.2,391
+1,6595889,Turkish Doner Kebab,10 mins, 1 hr 20 mins,10 mins, 1 hr 40 mins,4 ,,4,284,19g,8g,95mg,370mg,2g,0g,0g,24g,1mg,33mg,2mg,352mg,5.0,3
+2,6595174,Traditional Gyros,15 mins,45 mins, 2 hrs 15 mins, 3 hrs 15 mins,12 ,,12,425,41g,7g,61mg,620mg,43g,3g,4g,22g,6mg,158mg,4mg,367mg,4.5,32
+3,6570657,Dash's Donair,30 mins, 1 hr 15 mins,, 1 hr 45 mins,4 ,1 loaf,4,489,21g,10g,98mg,748mg,50g,1g,48g,26g,3mg,268mg,3mg,554mg,4.6,439
+4,6599360,The Original Donair From the East Coast of Canada,15 mins, 1 hr, 8 hrs 30 mins, 9 hrs 45 mins,6 ,,6,450,14g,6g,64mg,814mg,57g,2g,24g,22g,2mg,214mg,3mg,435mg,4.4,78
+5,6597000,Donair,20 mins, 2 hrs 25 mins,30 mins, 3 hrs 15 mins,6 ,6 donairs,6,517,15g,6g,70mg,659mg,67g,3g,28g,28g,4mg,166mg,4mg,510mg,3.9,35
+6,6738487,Easy Chicken Gyro,30 mins,20 mins, 1 hr, 1 hr 50 mins,6 ,,6,441,18g,6g,71mg,399mg,39g,4g,6g,30g,22mg,104mg,3mg,472mg,4.4,183
+7,6663600,Gyros,20 mins, 1 hr 15 mins,, 1 hr 35 mins,8 ,1 9x5-inch loaf,8,224,14g,6g,80mg,538mg,1g,0g,0g,22g,1mg,25mg,2mg,267mg,4.7,32
+8,6738926,American Gyros,15 mins,40 mins, 1 hr, 1 hr 55 mins,8 ,8 servings,8,255,18g,7g,72mg,549mg,3g,1g,1g,19g,2mg,32mg,2mg,266mg,4.9,90
+9,6737175,Gyros Burgers,10 mins,15 mins,,25 mins,4 ,,4,338,25g,11g,84mg,408mg,6g,1g,1g,20g,2mg,40mg,3mg,319mg,4.5,294
+10,6570277,Beef Gyro,35 mins,5 mins,,40 mins,5 ,5 gyros,5,497,24g,9g,74mg,733mg,42g,3g,9g,29g,16mg,365mg,4mg,711mg,3.9,28
+11,6589360,Chicken Souvlaki Gyro Style,30 mins,20 mins, 1 hr, 1 hr 50 mins,4 ,,4,764,41g,15g,133mg,3170mg,56g,4g,12g,44g,21mg,566mg,5mg,728mg,4.7,587
+12,6572548,Turkish Kebabs,40 mins,10 mins, 8 hrs, 8 hrs 50 mins,6 ,6 kebabs,6,512,34g,9g,34mg,891mg,36g,2g,3g,16g,9mg,117mg,3mg,333mg,4.6,24
+13,6591756,Lebanese Donair,30 mins,50 mins, 4 hrs, 5 hrs 20 mins,7 ,,7,990,65g,14g,129mg,471mg,48g,7g,6g,58g,45mg,236mg,10mg,1404mg,4.3,45
+14,6580879,Easy Lamb Gyros,30 mins, 2 hrs,15 mins, 2 hrs 45 mins,12 ,12 servings,12,402,25g,7g,91mg,1292mg,34g,3g,3g,26g,5mg,75mg,3mg,527mg,,
+15,6588631,Venison Gyros,15 mins,30 mins, 2 hrs, 2 hrs 45 mins,6 ,6 sandwiches,6,432,10g,3g,159mg,384mg,34g,2g,1g,48g,1mg,96mg,10mg,597mg,4.7,93
+16,6606092,Nova Scotia Style Donair,40 mins, 2 hrs 30 mins, 6 hrs, 9 hrs 10 mins,15 ,15 servings,15,511,22g,9g,103mg,1004mg,45g,2g,15g,33g,5mg,142mg,4mg,559mg,4.3,3
+17,6595591,Tempeh Gyros,20 mins,48 mins, 8 hrs, 9 hrs 8 mins,4 ,4 servings,4,385,11g,2g,,1086mg,54g,7g,7g,25g,18mg,162mg,6mg,882mg,5.0,1
+18,6572133,Instant Pot Gyros,5 mins,55 mins,5 mins, 1 hr 5 mins,16 ,,16,250,21g,7g,65mg,1654mg,1g,0g,0g,15g,0mg,17mg,2mg,267mg,5.0,3
+19,6596900,Chicken Gyros,40 mins,20 mins,20 mins, 1 hr 20 mins,4 ,4 servings,4,592,38g,8g,82mg,1583mg,32g,5g,7g,32g,101mg,113mg,3mg,493mg,5.0,1
+20,6587697,Koula's Best Ever Chicken Gyros,10 mins,20 mins,,30 mins,4 ,4 servings,4,381,11g,2g,54mg,500mg,41g,2g,7g,28g,6mg,200mg,3mg,501mg,4.0,61
+21,6663364,Easy Oven-Roasted Chicken Gyros,20 mins, 1 hr, 4 hrs 10 mins, 5 hrs 30 mins,6 ,6 gyros,6,531,38g,5g,165mg,1111mg,35g,2g,,45g,,,,580mg,4.8,10
+22,6571732,Grilled Gyro Burgers,30 mins,14 mins,,44 mins,6 ,6 servings,6,590,32g,13g,101mg,782mg,44g,2g,8g,29g,5mg,211mg,4mg,664mg,4.0,105

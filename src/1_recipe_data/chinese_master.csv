@@ -1,64 +1,64 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
-0,6595521,15 mins,15 mins,30 mins,4 ,4,264,9g,2g,239mg,1468mg,15g,3g,2g,30g,52mg,146mg,1mg,555mg,4.4,92,,
-1,7556785,5 mins,6 mins,11 mins,4 ,4,492,36g,5g,29mg,1729mg,35g,5g,22g,8g,37mg,84mg,2mg,475mg,,,,
-2,6588320,15 mins,15 mins,50 mins,6 ,6,266,8g,1g,102mg,453mg,9g,1g,4g,38g,18mg,32mg,2mg,410mg,4.8,4,20 mins,
-3,6586440,20 mins, 3 hrs, 11 hrs 20 mins,8 ,8,76,5g,2g,186mg,659mg,1g,0g,0g,7g,1mg,37mg,1mg,94mg,4.2,36, 8 hrs,8 eggs
-4,6650587,15 mins,10 mins,25 mins,4 ,4,268,16g,4g,49mg,526mg,9g,3g,3g,23g,70mg,92mg,3mg,563mg,4.4,422,,4 servings
-5,6663259,20 mins,20 mins, 2 hrs 50 mins,4 ,4,445,11g,2g,34mg,763mg,69g,1g,37g,18g,15mg,54mg,3mg,309mg,4.5,"2,114", 2 hrs 10 mins,
-6,6649396,25 mins,5 mins, 1 hr,6 ,6,439,19g,6g,55mg,1453mg,46g,2g,4g,20g,11mg,42mg,4mg,391mg,4.7,112,30 mins,32 pot stickers
-7,6663244,45 mins,15 mins, 1 hr,10 ,10,752,29g,9g,129mg,1449mg,81g,3g,1g,39g,19mg,143mg,6mg,643mg,4.6,380,,100 dumplings
-8,6664052,10 mins,5 mins,15 mins,4 ,4,65,4g,1g,,270mg,7g,3g,4g,2g,42mg,49mg,1mg,208mg,4.5,81,,
-9,6649138,30 mins,30 mins, 1 hr 30 mins,4 ,4,437,23g,4g,66mg,596mg,25g,4g,7g,34g,6mg,49mg,2mg,621mg,4.3,"1,448",30 mins,
-10,6739239,15 mins,20 mins,35 mins,4 ,4,605,26g,4g,179mg,340mg,68g,2g,45g,26g,2mg,69mg,3mg,317mg,4.5,589,,
-11,6664507,30 mins,30 mins, 2 hrs,4 ,4,663,35g,7g,43mg,1085mg,75g,2g,52g,14g,36mg,57mg,2mg,517mg,4.7,"1,172", 1 hr,
-12,6650463,15 mins,10 mins,35 mins,4 ,4,391,12g,3g,27mg,1862mg,55g,3g,39g,18g,22mg,130mg,4mg,606mg,4.6,"1,165",10 mins,
-13,6650684,20 mins, 1 hr, 1 hr 20 mins,5 ,5,540,25g,7g,103mg,2373mg,50g,2g,1g,28g,2mg,91mg,5mg,403mg,4.8,214,,50 dumplings
-14,6648736,10 mins,35 mins, 2 hrs 45 mins,4 ,4,483,9g,3g,127mg,2250mg,54g,1g,48g,44g,5mg,42mg,3mg,805mg,4.5,117, 2 hrs,
-15,6663185,15 mins,15 mins,45 mins,4 ,4,217,8g,2g,67mg,961mg,11g,0g,9g,26g,1mg,19mg,1mg,255mg,4.5,549,15 mins,
-16,6588204,30 mins,45 mins, 4 hrs 45 mins,24 ,24,44,1g,0g,,35mg,8g,0g,1g,1g,,8mg,1mg,20mg,4.4,193, 3 hrs 30 mins,24 buns
-17,6648633,5 mins,20 mins,25 mins,4 ,4,227,12g,3g,248mg,598mg,15g,1g,9g,15g,10mg,54mg,3mg,252mg,4.4,132,,8 patties
-18,6738263,5 mins,40 mins, 2 hrs 45 mins,2 ,2,503,31g,11g,121mg,1015mg,23g,1g,18g,30g,3mg,62mg,3mg,407mg,4.4,128, 2 hrs,
-19,6648833,25 mins,25 mins,50 mins,6 ,6,634,37g,6g,101mg,1192mg,55g,1g,18g,24g,8mg,58mg,4mg,530mg,4.8,"1,413",,
-20,6665032,5 mins,10 mins,15 mins,4 ,4,121,2g,1g,48mg,409mg,24g,2g,4g,5g,6mg,11mg,1mg,178mg,4.4,98,,
-21,6740841,30 mins,10 mins, 1 hr 5 mins,6 ,6,195,6g,2g,44mg,887mg,21g,1g,,13g,1mg,30mg,2mg,195mg,4.5,413,25 mins,
-22,6664959,15 mins,15 mins,30 mins,4 ,4,312,15g,3g,69mg,972mg,17g,2g,10g,26g,32mg,25mg,4mg,647mg,4.6,"1,001",,
-23,6650487, 1 hr,30 mins, 2 hrs 30 mins,20 ,20,169,7g,1g,46mg,315mg,16g,3g,2g,10g,17mg,38mg,1mg,232mg,4.7,243, 1 hr,20 egg rolls
-24,6598160,25 mins,25 mins,50 mins,6 ,6,522,27g,5g,148mg,1055mg,35g,1g,19g,35g,3mg,82mg,2mg,375mg,4.4,418,,
-25,6736733,10 mins,10 mins,20 mins,4 ,4,76,4g,1g,149mg,1143mg,4g,0g,1g,5g,1mg,20mg,1mg,43mg,4.5,"1,081",,
-26,6588787,5 mins, 1 hr 5 mins, 9 hrs 10 mins,12 ,12,256,9g,3g,40mg,2451mg,28g,1g,25g,16g,0mg,36mg,2mg,227mg,4.5,83, 8 hrs,
-27,6737389,20 mins,30 mins,50 mins,4 ,4,319,14g,3g,157mg,585mg,17g,2g,3g,30g,25mg,72mg,2mg,453mg,5.0,3,,
-28,6584770,10 mins,10 mins,50 mins,4 ,4,156,6g,1g,58mg,556mg,2g,,0g,23g,,25mg,1mg,160mg,4.8,60,30 mins,
-29,6649385,25 mins,20 mins,45 mins,5 ,5,364,14g,4g,103mg,614mg,45g,2g,23g,15g,54mg,39mg,3mg,398mg,4.6,133,,
-30,6736776,15 mins,25 mins,40 mins,6 ,6,161,13g,3g,69mg,294mg,7g,1g,1g,4g,16mg,33mg,1mg,144mg,4.4,218,,
-31,6576517,15 mins,20 mins,35 mins,15 ,15,211,22g,4g,,203mg,3g,0g,1g,1g,30mg,7mg,0mg,67mg,,,,
-32,6648547,5 mins,10 mins,15 mins,4 ,4,255,10g,3g,83mg,516mg,26g,1g,1g,14g,2mg,31mg,2mg,172mg,4.4,"2,152",,
-33,6572517,15 mins,10 mins,25 mins,2 ,2,73,3g,0g,,911mg,11g,4g,2g,3g,20mg,52mg,2mg,303mg,4.7,70,,
-34,6663468,5 mins,10 mins,15 mins,4 ,4,271,7g,1g,,357mg,48g,1g,0g,2g,1mg,15mg,1mg,47mg,4.1,150,,
-35,6650803,35 mins,15 mins,50 mins,8 ,8,666,59g,8g,116mg,817mg,18g,1g,,17g,5mg,90mg,3mg,221mg,4.3,15,,
-36,6736830,25 mins,15 mins,40 mins,7 ,7,425,10g,3g,134mg,1060mg,48g,3g,4g,35g,48mg,60mg,4mg,504mg,4.3,421,,
-37,6650875,15 mins,10 mins,40 mins,4 ,4,404,21g,4g,112mg,546mg,27g,1g,13g,27g,0mg,48mg,2mg,261mg,4.6,77,15 mins,
-38,6649255,5 mins,20 mins,25 mins,4 ,4,308,20g,4g,237mg,989mg,5g,0g,0g,26g,3mg,52mg,3mg,274mg,4.4,166,,
-39,6574833,15 mins,15 mins,30 mins,4 ,4,415,11g,2g,37mg,794mg,55g,5g,7g,26g,73mg,60mg,4mg,762mg,4.5,149,,
-40,6649531,20 mins,15 mins,35 mins,4 ,4,307,10g,2g,66mg,833mg,23g,6g,,34g,43mg,55mg,4mg,695mg,4.4,106,,
-41,6663820,10 mins,5 mins,15 mins,4 ,4,142,4g,1g,164mg,500mg,7g,0g,4g,18g,5mg,46mg,3mg,231mg,4.4,"3,280",,
-42,6650066,10 mins,10 mins,20 mins,4 ,4,101,4g,1g,0mg,634mg,15g,1g,10g,1g,7mg,32mg,0mg,115mg,4.3,68,,
-43,6738867,30 mins,15 mins,55 mins,6 ,6,940,92g,18g,126mg,655mg,8g,1g,,22g,6mg,49mg,2mg,286mg,4.5,12,10 mins,
-44,6649142,20 mins,50 mins, 1 hr 40 mins,6 ,6,507,19g,5g,61mg,651mg,59g,6g,17g,27g,189mg,122mg,5mg,983mg,4.5,"1,045",30 mins,
-45,6605035,10 mins,10 mins,40 mins,6 ,6,306,21g,5g,44mg,243mg,13g,4g,3g,18g,43mg,46mg,3mg,501mg,3.9,176,20 mins,
-46,6736793,15 mins,10 mins, 1 hr 25 mins,4 ,4,200,12g,3g,25mg,996mg,8g,1g,4g,15g,5mg,29mg,2mg,289mg,4.6,460, 1 hr,
-47,6577946,10 mins,16 mins,26 mins,5 ,5,90,6g,1g,0mg,147mg,8g,3g,2g,3g,87mg,51mg,1mg,353mg,4.6,7,,5 cups
-48,6664840,20 mins,20 mins, 1 hr 10 mins,8 ,8,49,5g,1g,,25mg,2g,1g,1g,1g,5mg,21mg,0mg,78mg,4.2,82,30 mins,16 cakes
-49,6603098,10 mins,15 mins,25 mins,6 ,6,187,8g,1g,,224mg,29g,13g,13g,5g,10mg,41mg,1mg,927mg,4.5,288,,
-50,6649046,10 mins, 2 hrs, 5 hrs 10 mins,6 ,6,513,22g,8g,90mg,2421mg,49g,1g,43g,26g,3mg,57mg,3mg,504mg,4.8,111, 3 hrs,
-51,6648198,20 mins,35 mins,55 mins,4 ,4,297,11g,4g,82mg,515mg,23g,1g,20g,26g,12mg,35mg,2mg,573mg,4.6,309,,4 servings
-52,6664359,25 mins,20 mins,45 mins,12 ,12,421,21g,12g,202mg,190mg,48g,1g,24g,10g,0mg,86mg,2mg,158mg,4.0,187,,12 tarts
-53,6651014,15 mins,10 mins,55 mins,4 ,4,338,10g,2g,65mg,341mg,34g,1g,0g,27g,0mg,153mg,3mg,229mg,4.8,15,30 mins,4 chicken breasts
-54,6664007,20 mins,15 mins,35 mins,40 ,40,107,6g,1g,,368mg,12g,5g,2g,3g,25mg,60mg,2mg,333mg,4.1,90,,10 pounds
-55,6583477,10 mins,30 mins,40 mins,4 ,4,267,20g,6g,40mg,538mg,9g,2g,4g,12g,27mg,26mg,2mg,372mg,4.4,91,,4 servings
-56,6597661,10 mins, 4 hrs 10 mins, 4 hrs 30 mins,4 ,4,450,13g,4g,48mg,2392mg,55g,2g,38g,28g,6mg,94mg,3mg,620mg,4.0,418,10 mins,4 servings
-57,6664801,15 mins,15 mins,30 mins,4 ,4,280,22g,7g,48mg,547mg,10g,3g,4g,12g,72mg,53mg,2mg,380mg,4.3,761,,4 servings
-58,6597622,10 mins,15 mins,25 mins,4 ,4,49,1g,0g,,448mg,8g,2g,3g,3g,21mg,16mg,1mg,340mg,4.3,37,,4 servings
-59,6648899,15 mins,10 mins,25 mins,2 ,2,361,17g,3g,73mg,1908mg,2g,1g,0g,48g,3mg,119mg,13mg,1110mg,4.8,109,,2 servings
-60,6581530,15 mins,15 mins,30 mins,2 ,2,322,30g,7g,41mg,838mg,2g,0g,1g,9g,2mg,24mg,1mg,197mg,4.3,169,,2 servings
-61,6582167,15 mins,20 mins,35 mins,4 ,4,431,34g,11g,130mg,991mg,7g,2g,2g,24g,33mg,120mg,2mg,649mg,4.6,139,,4 servings
-62,6582079,45 mins,6 mins,51 mins,6 ,6,194,8g,2g,42mg,712mg,14g,2g,2g,16g,15mg,39mg,2mg,459mg,4.4,98,,6 servings
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
+0,6595521,Shrimp with Broccoli in Garlic Sauce,15 mins,15 mins,30 mins,4 ,4,264,9g,2g,239mg,1468mg,15g,3g,2g,30g,52mg,146mg,1mg,555mg,4.4,92,,
+1,7556785,Copycat Panda Express Chow Mein,5 mins,6 mins,11 mins,4 ,4,492,36g,5g,29mg,1729mg,35g,5g,22g,8g,37mg,84mg,2mg,475mg,,,,
+2,6588320,Chicken in Black Bean Sauce,15 mins,15 mins,50 mins,6 ,6,266,8g,1g,102mg,453mg,9g,1g,4g,38g,18mg,32mg,2mg,410mg,4.8,4,20 mins,
+3,6586440,Chinese Tea Leaf Eggs,20 mins, 3 hrs, 11 hrs 20 mins,8 ,8,76,5g,2g,186mg,659mg,1g,0g,0g,7g,1mg,37mg,1mg,94mg,4.2,36, 8 hrs,8 eggs
+4,6650587,Quick Beef Stir-Fry,15 mins,10 mins,25 mins,4 ,4,268,16g,4g,49mg,526mg,9g,3g,3g,23g,70mg,92mg,3mg,563mg,4.4,422,,4 servings
+5,6663259,Asian Orange Chicken,20 mins,20 mins, 2 hrs 50 mins,4 ,4,445,11g,2g,34mg,763mg,69g,1g,37g,18g,15mg,54mg,3mg,309mg,4.5,"2,114", 2 hrs 10 mins,
+6,6649396,Perfect Pot Stickers,25 mins,5 mins, 1 hr,6 ,6,439,19g,6g,55mg,1453mg,46g,2g,4g,20g,11mg,42mg,4mg,391mg,4.7,112,30 mins,32 pot stickers
+7,6663244,Pork Dumplings,45 mins,15 mins, 1 hr,10 ,10,752,29g,9g,129mg,1449mg,81g,3g,1g,39g,19mg,143mg,6mg,643mg,4.6,380,,100 dumplings
+8,6664052,Super Easy Stir-Fried Cabbage,10 mins,5 mins,15 mins,4 ,4,65,4g,1g,,270mg,7g,3g,4g,2g,42mg,49mg,1mg,208mg,4.5,81,,
+9,6649138,Kung Pao Chicken,30 mins,30 mins, 1 hr 30 mins,4 ,4,437,23g,4g,66mg,596mg,25g,4g,7g,34g,6mg,49mg,2mg,621mg,4.3,"1,448",30 mins,
+10,6739239,Honey Walnut Shrimp,15 mins,20 mins,35 mins,4 ,4,605,26g,4g,179mg,340mg,68g,2g,45g,26g,2mg,69mg,3mg,317mg,4.5,589,,
+11,6664507,Sweet and Sour Pork,30 mins,30 mins, 2 hrs,4 ,4,663,35g,7g,43mg,1085mg,75g,2g,52g,14g,36mg,57mg,2mg,517mg,4.7,"1,172", 1 hr,
+12,6650463,Mongolian Beef and Spring Onions,15 mins,10 mins,35 mins,4 ,4,391,12g,3g,27mg,1862mg,55g,3g,39g,18g,22mg,130mg,4mg,606mg,4.6,"1,165",10 mins,
+13,6650684,Chinese Pork Dumplings,20 mins, 1 hr, 1 hr 20 mins,5 ,5,540,25g,7g,103mg,2373mg,50g,2g,1g,28g,2mg,91mg,5mg,403mg,4.8,214,,50 dumplings
+14,6648736,Char Siu (Chinese BBQ Pork),10 mins,35 mins, 2 hrs 45 mins,4 ,4,483,9g,3g,127mg,2250mg,54g,1g,48g,44g,5mg,42mg,3mg,805mg,4.5,117, 2 hrs,
+15,6663185,Grilled Asian Chicken,15 mins,15 mins,45 mins,4 ,4,217,8g,2g,67mg,961mg,11g,0g,9g,26g,1mg,19mg,1mg,255mg,4.5,549,15 mins,
+16,6588204,Chinese Steamed Buns,30 mins,45 mins, 4 hrs 45 mins,24 ,24,44,1g,0g,,35mg,8g,0g,1g,1g,,8mg,1mg,20mg,4.4,193, 3 hrs 30 mins,24 buns
+17,6648633,Shrimp Egg Foo Young,5 mins,20 mins,25 mins,4 ,4,227,12g,3g,248mg,598mg,15g,1g,9g,15g,10mg,54mg,3mg,252mg,4.4,132,,8 patties
+18,6738263,Chinese Spareribs,5 mins,40 mins, 2 hrs 45 mins,2 ,2,503,31g,11g,121mg,1015mg,23g,1g,18g,30g,3mg,62mg,3mg,407mg,4.4,128, 2 hrs,
+19,6648833,General Tso's Chicken,25 mins,25 mins,50 mins,6 ,6,634,37g,6g,101mg,1192mg,55g,1g,18g,24g,8mg,58mg,4mg,530mg,4.8,"1,413",,
+20,6665032,Easy Chinese Corn Soup,5 mins,10 mins,15 mins,4 ,4,121,2g,1g,48mg,409mg,24g,2g,4g,5g,6mg,11mg,1mg,178mg,4.4,98,,
+21,6740841,Wonton Soup,30 mins,10 mins, 1 hr 5 mins,6 ,6,195,6g,2g,44mg,887mg,21g,1g,,13g,1mg,30mg,2mg,195mg,4.5,413,25 mins,
+22,6664959,Chinese Pepper Steak,15 mins,15 mins,30 mins,4 ,4,312,15g,3g,69mg,972mg,17g,2g,10g,26g,32mg,25mg,4mg,647mg,4.6,"1,001",,
+23,6650487,Authentic Chinese Egg Rolls (from a Chinese person), 1 hr,30 mins, 2 hrs 30 mins,20 ,20,169,7g,1g,46mg,315mg,16g,3g,2g,10g,17mg,38mg,1mg,232mg,4.7,243, 1 hr,20 egg rolls
+24,6598160,General Tao Chicken,25 mins,25 mins,50 mins,6 ,6,522,27g,5g,148mg,1055mg,35g,1g,19g,35g,3mg,82mg,2mg,375mg,4.4,418,,
+25,6736733,Restaurant Style Egg Drop Soup,10 mins,10 mins,20 mins,4 ,4,76,4g,1g,149mg,1143mg,4g,0g,1g,5g,1mg,20mg,1mg,43mg,4.5,"1,081",,
+26,6588787,Chinese Chicken Wings,5 mins, 1 hr 5 mins, 9 hrs 10 mins,12 ,12,256,9g,3g,40mg,2451mg,28g,1g,25g,16g,0mg,36mg,2mg,227mg,4.5,83, 8 hrs,
+27,6737389,Moo Shu Chicken,20 mins,30 mins,50 mins,4 ,4,319,14g,3g,157mg,585mg,17g,2g,3g,30g,25mg,72mg,2mg,453mg,5.0,3,,
+28,6584770,"Velveting Chicken Breast, Chinese Restaurant Style",10 mins,10 mins,50 mins,4 ,4,156,6g,1g,58mg,556mg,2g,,0g,23g,,25mg,1mg,160mg,4.8,60,30 mins,
+29,6649385,Crispy Ginger Beef,25 mins,20 mins,45 mins,5 ,5,364,14g,4g,103mg,614mg,45g,2g,23g,15g,54mg,39mg,3mg,398mg,4.6,133,,
+30,6736776,Easy Chinese Fried Noodles,15 mins,25 mins,40 mins,6 ,6,161,13g,3g,69mg,294mg,7g,1g,1g,4g,16mg,33mg,1mg,144mg,4.4,218,,
+31,6576517,Chinese Black Bean Sauce,15 mins,20 mins,35 mins,15 ,15,211,22g,4g,,203mg,3g,0g,1g,1g,30mg,7mg,0mg,67mg,,,,
+32,6648547,Chinese Chicken Fried Rice,5 mins,10 mins,15 mins,4 ,4,255,10g,3g,83mg,516mg,26g,1g,1g,14g,2mg,31mg,2mg,172mg,4.4,"2,152",,
+33,6572517,Spicy Szechuan Green Beans,15 mins,10 mins,25 mins,2 ,2,73,3g,0g,,911mg,11g,4g,2g,3g,20mg,52mg,2mg,303mg,4.7,70,,
+34,6663468,Quick Chinese-Style Vermicelli (Rice Noodles),5 mins,10 mins,15 mins,4 ,4,271,7g,1g,,357mg,48g,1g,0g,2g,1mg,15mg,1mg,47mg,4.1,150,,
+35,6650803,Daddy's Shrimp Toast,35 mins,15 mins,50 mins,8 ,8,666,59g,8g,116mg,817mg,18g,1g,,17g,5mg,90mg,3mg,221mg,4.3,15,,
+36,6736830,Chinese Chicken Fried Rice,25 mins,15 mins,40 mins,7 ,7,425,10g,3g,134mg,1060mg,48g,3g,4g,35g,48mg,60mg,4mg,504mg,4.3,421,,
+37,6650875,Bang Bang Chicken,15 mins,10 mins,40 mins,4 ,4,404,21g,4g,112mg,546mg,27g,1g,13g,27g,0mg,48mg,2mg,261mg,4.6,77,15 mins,
+38,6649255,Shrimp with Lobster Sauce,5 mins,20 mins,25 mins,4 ,4,308,20g,4g,237mg,989mg,5g,0g,0g,26g,3mg,52mg,3mg,274mg,4.4,166,,
+39,6574833,Pork Lo Mein,15 mins,15 mins,30 mins,4 ,4,415,11g,2g,37mg,794mg,55g,5g,7g,26g,73mg,60mg,4mg,762mg,4.5,149,,
+40,6649531,Moo Goo Gai Pan,20 mins,15 mins,35 mins,4 ,4,307,10g,2g,66mg,833mg,23g,6g,,34g,43mg,55mg,4mg,695mg,4.4,106,,
+41,6663820,Szechwan Shrimp,10 mins,5 mins,15 mins,4 ,4,142,4g,1g,164mg,500mg,7g,0g,4g,18g,5mg,46mg,3mg,231mg,4.4,"3,280",,
+42,6650066,Chinese Broccoli,10 mins,10 mins,20 mins,4 ,4,101,4g,1g,0mg,634mg,15g,1g,10g,1g,7mg,32mg,0mg,115mg,4.3,68,,
+43,6738867,Taiwanese Popcorn Chicken,30 mins,15 mins,55 mins,6 ,6,940,92g,18g,126mg,655mg,8g,1g,,22g,6mg,49mg,2mg,286mg,4.5,12,10 mins,
+44,6649142,Crispy Orange Beef,20 mins,50 mins, 1 hr 40 mins,6 ,6,507,19g,5g,61mg,651mg,59g,6g,17g,27g,189mg,122mg,5mg,983mg,4.5,"1,045",30 mins,
+45,6605035,Szechuan Beef,10 mins,10 mins,40 mins,6 ,6,306,21g,5g,44mg,243mg,13g,4g,3g,18g,43mg,46mg,3mg,501mg,3.9,176,20 mins,
+46,6736793,"Super-Simple, Super-Spicy Mongolian Beef",15 mins,10 mins, 1 hr 25 mins,4 ,4,200,12g,3g,25mg,996mg,8g,1g,4g,15g,5mg,29mg,2mg,289mg,4.6,460, 1 hr,
+47,6577946,Broccoli and Carrot Stir Fry,10 mins,16 mins,26 mins,5 ,5,90,6g,1g,0mg,147mg,8g,3g,2g,3g,87mg,51mg,1mg,353mg,4.6,7,,5 cups
+48,6664840,Green Onion Cakes,20 mins,20 mins, 1 hr 10 mins,8 ,8,49,5g,1g,,25mg,2g,1g,1g,1g,5mg,21mg,0mg,78mg,4.2,82,30 mins,16 cakes
+49,6603098,Chinese Eggplant with Garlic Sauce,10 mins,15 mins,25 mins,6 ,6,187,8g,1g,,224mg,29g,13g,13g,5g,10mg,41mg,1mg,927mg,4.5,288,,
+50,6649046,Chinese Barbeque Pork (Char Siu),10 mins, 2 hrs, 5 hrs 10 mins,6 ,6,513,22g,8g,90mg,2421mg,49g,1g,43g,26g,3mg,57mg,3mg,504mg,4.8,111, 3 hrs,
+51,6648198,Sweet and Sour Pork Tenderloin,20 mins,35 mins,55 mins,4 ,4,297,11g,4g,82mg,515mg,23g,1g,20g,26g,12mg,35mg,2mg,573mg,4.6,309,,4 servings
+52,6664359,Hong Kong Style Egg Tarts,25 mins,20 mins,45 mins,12 ,12,421,21g,12g,202mg,190mg,48g,1g,24g,10g,0mg,86mg,2mg,158mg,4.0,187,,12 tarts
+53,6651014,Easy Fried Chinese Chicken Balls,15 mins,10 mins,55 mins,4 ,4,338,10g,2g,65mg,341mg,34g,1g,0g,27g,0mg,153mg,3mg,229mg,4.8,15,30 mins,4 chicken breasts
+54,6664007,Chinese Green Bean Stir-Fry,20 mins,15 mins,35 mins,40 ,40,107,6g,1g,,368mg,12g,5g,2g,3g,25mg,60mg,2mg,333mg,4.1,90,,10 pounds
+55,6583477,Beef with Vegetables,10 mins,30 mins,40 mins,4 ,4,267,20g,6g,40mg,538mg,9g,2g,4g,12g,27mg,26mg,2mg,372mg,4.4,91,,4 servings
+56,6597661,Slow Cooker Mongolian Beef,10 mins, 4 hrs 10 mins, 4 hrs 30 mins,4 ,4,450,13g,4g,48mg,2392mg,55g,2g,38g,28g,6mg,94mg,3mg,620mg,4.0,418,10 mins,4 servings
+57,6664801,Black Pepper Beef and Cabbage Stir Fry,15 mins,15 mins,30 mins,4 ,4,280,22g,7g,48mg,547mg,10g,3g,4g,12g,72mg,53mg,2mg,380mg,4.3,761,,4 servings
+58,6597622,Stir-Fried Mushrooms with Baby Corn,10 mins,15 mins,25 mins,4 ,4,49,1g,0g,,448mg,8g,2g,3g,3g,21mg,16mg,1mg,340mg,4.3,37,,4 servings
+59,6648899,Steamed Fish with Ginger,15 mins,10 mins,25 mins,2 ,2,361,17g,3g,73mg,1908mg,2g,1g,0g,48g,3mg,119mg,13mg,1110mg,4.8,109,,2 servings
+60,6581530,Stir-Fry Pork with Ginger,15 mins,15 mins,30 mins,2 ,2,322,30g,7g,41mg,838mg,2g,0g,1g,9g,2mg,24mg,1mg,197mg,4.3,169,,2 servings
+61,6582167,Chinese Lion's Head Soup,15 mins,20 mins,35 mins,4 ,4,431,34g,11g,130mg,991mg,7g,2g,2g,24g,33mg,120mg,2mg,649mg,4.6,139,,4 servings
+62,6582079,Pork Chop Suey,45 mins,6 mins,51 mins,6 ,6,194,8g,2g,42mg,712mg,14g,2g,2g,16g,15mg,39mg,2mg,459mg,4.4,98,,6 servings

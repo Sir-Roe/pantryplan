@@ -1,63 +1,63 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Yield:,Additional Time:
-0,6664296,5 mins,10 mins,15 mins,5 ,5,670,29g,17g,91mg,940mg,57g,2g,4g,37g,0mg,858mg,4mg,225mg,4.5,618,,
-1,6663713,15 mins,20 mins,35 mins,24 ,24,208,14g,8g,43mg,439mg,11g,1g,0g,10g,1mg,183mg,1mg,102mg,4.8,"1,003",,
-2,6650035,10 mins,20 mins,30 mins,4 ,4,216,9g,5g,111mg,235mg,26g,1g,2g,7g,0mg,56mg,2mg,115mg,4.6,"4,162",8 crêpes,
-3,6648910,25 mins,20 mins,45 mins,12 ,12,88,8g,5g,22mg,82mg,2g,0g,0g,3g,1mg,36mg,0mg,86mg,4.6,"4,336",12 large mushrooms,
-4,6649259,10 mins,15 mins,25 mins,6 ,6,283,8g,1g,31mg,415mg,47g,6g,3g,7g,50mg,39mg,2mg,1077mg,4.6,290,,
-5,6649705,15 mins,, 6 hrs 15 mins,6 ,6,682,47g,15g,48mg,1183mg,53g,3g,3g,13g,4mg,168mg,4mg,336mg,4.7,"1,433",1 bread bowl with dip, 6 hrs
-6,6665006,5 mins,15 mins,20 mins,4 ,4,534,24g,12g,60mg,146mg,73g,3g,61g,5g,8mg,133mg,1mg,537mg,4.8,"1,121",,
-7,6650464,10 mins,10 mins,20 mins,6 ,6,189,14g,3g,5mg,528mg,14g,5g,7g,4g,73mg,85mg,1mg,391mg,4.7,727,,
-8,6663774,15 mins, 3 hrs, 3 hrs 15 mins,10 ,10,189,10g,3g,34mg,1687mg,14g,5g,5g,12g,50mg,209mg,1mg,389mg,4.8,171,,
-9,6649396,25 mins,5 mins, 1 hr,6 ,6,439,19g,6g,55mg,1453mg,46g,2g,4g,20g,11mg,42mg,4mg,391mg,4.7,112,32 pot stickers,30 mins
-10,6648931,30 mins, 3 hrs, 3 hrs 30 mins,16 ,16,246,15g,6g,45mg,387mg,16g,2g,2g,12g,1mg,61mg,2mg,242mg,4.5,302,16 tamales,
-11,6649462,5 mins,,5 mins,2 ,2,207,1g,0g,,269mg,0g,0g,,0g,,,,10mg,4.6,91,,
-12,6663122,5 mins,35 mins,40 mins,6 ,,,,,,,,,,,,,,,4.8,316,3 cups,
-13,6737419,10 mins,20 mins,30 mins,16 ,16,219,18g,2g,2mg,206mg,13g,2g,8g,5g,0mg,38mg,1mg,171mg,4.8,432,4 cups,
-14,6663297,10 mins, 1 hr 5 mins, 1 hr 15 mins,4 ,4,148,6g,4g,15mg,1375mg,24g,3g,19g,1g,51mg,47mg,1mg,266mg,4.7,554,,
-15,6649773,20 mins,30 mins,50 mins,4 ,4,374,22g,12g,162mg,319mg,8g,1g,2g,26g,4mg,217mg,4mg,768mg,4.8,112,,
-16,6649449,10 mins, 1 hr, 1 hr 10 mins,12 ,12,328,27g,2g,,150mg,22g,4g,18g,4g,0mg,28mg,1mg,160mg,4.9,"2,301",1 pound,
-17,6740861,30 mins,30 mins, 1 hr,16 ,16,248,17g,11g,66mg,652mg,5g,1g,2g,16g,6mg,352mg,6mg,244mg,4.8,166,,
-18,6648649,10 mins,20 mins,30 mins,8 ,8,164,8g,3g,111mg,235mg,17g,0g,5g,6g,0mg,66mg,1mg,115mg,4.8,"1,191",8 crepes,
-19,6568102,25 mins,15 mins,40 mins,4 ,4,501,9g,2g,49mg,145mg,105g,15g,17g,12g,143mg,374mg,6mg,2524mg,4.5,184,,
-20,6737130,5 mins,15 mins,20 mins,4 ,4,356,25g,15g,223mg,1987mg,1g,,,32g,,89mg,16mg,485mg,4.8,197,,
-21,6651130,5 mins,,5 mins,1 ,,,,,,,,,,,,,,,4.6,69,,
-22,6736791,15 mins,20 mins, 1 hr 45 mins,60 ,,,,,,,,,,,,,,,4.8,35,7 750-milliliter bottles, 1 hr 10 mins
-23,6738466,25 mins, 1 hr 5 mins, 1 hr 35 mins,12 ,12,356,26g,13g,188mg,755mg,8g,1g,1g,22g,4mg,256mg,1mg,307mg,4.7,"1,275",1 9x13-inch casserole,5 mins
-24,6649685,15 mins, 1 hr, 1 hr 15 mins,12 ,12,415,27g,15g,53mg,761mg,30g,2g,1g,14g,5mg,304mg,2mg,438mg,4.6,"2,692",1 9x13-inch casserole,
-25,6664091,20 mins, 2 hrs, 2 hrs 25 mins,8 ,8,663,41g,21g,159mg,1074mg,47g,3g,2g,27g,5mg,55mg,5mg,579mg,4.7,125,1 9-inch pie,5 mins
-26,6663940,15 mins,,15 mins,10 ,10,104,7g,3g,18mg,179mg,2g,0g,0g,7g,7mg,225mg,0mg,102mg,4.7,326,,
-27,6738727,15 mins,20 mins,50 mins,4 ,4,306,4g,1g,345mg,1415mg,19g,2g,10g,48g,29mg,175mg,6mg,702mg,4.9,151,,15 mins
-28,6584641,15 mins,30 mins, 1 hr 45 mins,14 ,14,151,10g,5g,70mg,136mg,9g,0g,0g,7g,1mg,45mg,1mg,98mg,4.6,20,14 filled crepes, 1 hr
-29,6563758,5 mins,10 mins,15 mins,6 ,,,,,,,,,,,,,,,4.3,160,,
-30,6649020,15 mins,,15 mins,8 ,8,81,8g,1g,,359mg,3g,0g,0g,1g,4mg,11mg,0mg,18mg,4.6,234,1 cup,
-31,6649991,10 mins,30 mins,40 mins,2 ,2,388,14g,2g,,981mg,63g,10g,1g,4g,39mg,43mg,2mg,1849mg,4.5,119,,
-32,6738141,5 mins,,35 mins,15 ,,,,,,,,,,,,,,,3.8,95,,30 mins
-33,6581973,30 mins, 4 hrs 30 mins, 5 hrs,36 ,36,347,24g,9g,38mg,248mg,23g,3g,0g,9g,0mg,47mg,3mg,195mg,4.5,197,6 dozen tamales,
-34,6648954,15 mins,35 mins,50 mins,8 ,8,52,0g,0g,0mg,848mg,11g,3g,5g,2g,18mg,43mg,2mg,237mg,4.5,72,,
-35,6570475,25 mins, 1 hr, 1 hr 55 mins,6 ,6,191,5g,1g,,257mg,35g,8g,6g,4g,38mg,62mg,3mg,1022mg,4.6,311,,30 mins
-36,6738212,5 mins,,5 mins,24 ,24,100,0g,,,41mg,24g,0g,,1g,61mg,15mg,0mg,174mg,4.5,76,24 8-ounce cups,
-37,6583423,15 mins, 3 hrs, 3 hrs 25 mins,6 ,6,244,9g,3g,80mg,972mg,13g,5g,6g,28g,24mg,61mg,3mg,658mg,4.0,3,,10 mins
-38,6736424, 1 hr, 1 hr 30 mins,21 days 15 hrs 20 mins,144 ,144,39,0g,,,1470mg,9g,4g,,2g,58mg,64mg,1mg,268mg,4.6,29,36 pints,21 days 12 hrs 50 mins
-39,6585416,10 mins,30 mins,45 mins,2 ,2,208,12g,7g,31mg,274mg,24g,7g,17g,4g,12mg,43mg,2mg,803mg,4.6,77,,5 mins
-40,6649222,40 mins,25 mins, 9 hrs 25 mins,16 ,16,228,13g,8g,90mg,246mg,22g,1g,1g,5g,,16mg,2mg,66mg,4.3,57,2 9x5-inch loaves, 8 hrs 20 mins
-41,6738802,5 mins,10 mins, 1 hr 15 mins,8 ,8,79,3g,1g,49mg,30mg,10g,0g,2g,4g,0mg,44mg,1mg,74mg,4.8,"1,204",8 crêpes, 1 hr
-42,6649325,20 mins,40 mins, 1 hr,5 ,5,407,22g,3g,0mg,478mg,50g,8g,8g,7g,67mg,108mg,3mg,1322mg,4.7,905,,
-43,6651189,20 mins,20 mins, 1 hr 40 mins,8 ,8,304,22g,8g,49mg,261mg,17g,1g,3g,9g,,62mg,1mg,85mg,4.9,177,, 1 hr
-44,6586220,20 mins, 8 hrs 10 mins, 8 hrs 30 mins,8 ,8,225,5g,2g,139mg,1679mg,32g,6g,6g,14g,126mg,173mg,3mg,390mg,4.1,67,,
-45,6737184,10 mins,10 mins,35 mins,4 ,4,89,6g,2g,4mg,268mg,6g,2g,0g,3g,14mg,70mg,0mg,33mg,4.0,82,,15 mins
-46,6603490,10 mins,,10 mins,56 ,56,277,6g,4g,22mg,61mg,20g,0g,,4g,0mg,130mg,0mg,187mg,4.8,11,,
-47,6663126,20 mins,35 mins,55 mins,4 ,4,343,8g,5g,21mg,979mg,57g,2g,3g,7g,16mg,104mg,1mg,300mg,4.6,601,,
-48,6648247,25 mins,40 mins, 4 hrs 55 mins,12 ,12,528,36g,21g,188mg,256mg,40g,1g,20g,10g,,91mg,2mg,116mg,4.5,400,1 9-inch cheesecake, 3 hrs 50 mins
-49,6591666,15 mins,25 mins, 1 hr 40 mins,16 ,16,116,10g,6g,121mg,135mg,1g,0g,0g,5g,6mg,7mg,3mg,84mg,4.6,36,, 1 hr
-50,6648890,10 mins,50 mins, 1 hr,4 ,4,320,12g,7g,31mg,97mg,57g,11g,20g,3g,27mg,133mg,3mg,1124mg,4.6,163,,
-51,6648829,30 mins,25 mins,55 mins,2 ,2,396,21g,12g,249mg,190mg,42g,0g,36g,8g,1mg,67mg,1mg,134mg,4.9,88,2 soufflés,
-52,6583170,45 mins, 1 hr, 1 hr 45 mins,36 ,36,41,1g,1g,1mg,23mg,8g,0g,7g,1g,0mg,6mg,0mg,21mg,4.8,176,36 mushrooms,
-53,6596377,15 mins, 8 hrs 20 mins, 16 hrs 35 mins,16 ,16,431,25g,10g,51mg,1177mg,31g,5g,1g,21g,12mg,57mg,5mg,718mg,4.8,196,, 8 hrs
-54,6648855,20 mins,30 mins,50 mins,32 ,32,78,3g,1g,8mg,157mg,11g,1g,9g,3g,0mg,25mg,0mg,128mg,4.6,376,32 stuffed dates,
-55,6648984,15 mins,35 mins,50 mins,6 ,6,185,11g,3g,189mg,670mg,15g,4g,3g,10g,49mg,102mg,3mg,598mg,4.8,286,,
-56,6581277,15 mins,30 mins,45 mins,4 ,4,322,12g,7g,31mg,207mg,52g,7g,16g,4g,6mg,74mg,1mg,770mg,4.4,94,,
-57,6586042,15 mins,50 mins, 1 hr 5 mins,8 ,8,712,51g,18g,125mg,462mg,28g,2g,1g,33g,3mg,35mg,3mg,628mg,4.2,31,1 (9-inch) pie,
-58,6606420,4 mins,1 mins,5 mins,1 ,1,275,15g,9g,106mg,131mg,27g,0g,18g,9g,3mg,318mg,0mg,454mg,4.6,37,1 serving,
-59,6589061,15 mins, 1 hr, 1 hr 15 mins,8 ,8,416,20g,7g,67mg,2228mg,32g,7g,6g,26g,26mg,107mg,6mg,809mg,4.8,117,8 servings,
-60,6650048,15 mins,30 mins, 1 hr,18 ,18,687,0g,,,9mg,103g,2g,99g,1g,15mg,33mg,1mg,162mg,4.8,14,18 servings,15 mins
-61,6739147,10 mins,35 mins,45 mins,12 ,12,92,3g,2g,9mg,88mg,13g,1g,1g,3g,12mg,64mg,1mg,291mg,4.6,360,12 individual potatoes au gratin,
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Yield:,Additional Time:
+0,6664296,Cheese Fondue,5 mins,10 mins,15 mins,5 ,5,670,29g,17g,91mg,940mg,57g,2g,4g,37g,0mg,858mg,4mg,225mg,4.5,618,,
+1,6663713,Baked Ham and Cheese Sliders,15 mins,20 mins,35 mins,24 ,24,208,14g,8g,43mg,439mg,11g,1g,0g,10g,1mg,183mg,1mg,102mg,4.8,"1,003",,
+2,6650035,Basic Crêpes,10 mins,20 mins,30 mins,4 ,4,216,9g,5g,111mg,235mg,26g,1g,2g,7g,0mg,56mg,2mg,115mg,4.6,"4,163",8 crêpes,
+3,6648910,Mouth-Watering Stuffed Mushrooms,25 mins,20 mins,45 mins,12 ,12,88,8g,5g,22mg,82mg,2g,0g,0g,3g,1mg,36mg,0mg,86mg,4.6,"4,336",12 large mushrooms,
+4,6649259,Potato Pancakes,10 mins,15 mins,25 mins,6 ,6,283,8g,1g,31mg,415mg,47g,6g,3g,7g,50mg,39mg,2mg,1077mg,4.6,290,,
+5,6649705,Best Spinach Dip Ever,15 mins,, 6 hrs 15 mins,6 ,6,682,47g,15g,48mg,1183mg,53g,3g,3g,13g,4mg,168mg,4mg,336mg,4.7,"1,433",1 bread bowl with dip, 6 hrs
+6,6665006,Bananas Foster,5 mins,15 mins,20 mins,4 ,4,534,24g,12g,60mg,146mg,73g,3g,61g,5g,8mg,133mg,1mg,537mg,4.8,"1,121",,
+7,6650464,Southern Fried Cabbage,10 mins,10 mins,20 mins,6 ,6,189,14g,3g,5mg,528mg,14g,5g,7g,4g,73mg,85mg,1mg,391mg,4.7,727,,
+8,6663774,Southern-Style Collard Greens,15 mins, 3 hrs, 3 hrs 15 mins,10 ,10,189,10g,3g,34mg,1687mg,14g,5g,5g,12g,50mg,209mg,1mg,389mg,4.8,171,,
+9,6649396,Perfect Pot Stickers,25 mins,5 mins, 1 hr,6 ,6,439,19g,6g,55mg,1453mg,46g,2g,4g,20g,11mg,42mg,4mg,391mg,4.7,112,32 pot stickers,30 mins
+10,6648931,Real Homemade Tamales,30 mins, 3 hrs, 3 hrs 30 mins,16 ,16,246,15g,6g,45mg,387mg,16g,2g,2g,12g,1mg,61mg,2mg,242mg,4.5,302,16 tamales,
+11,6649462,Dirty Martini,5 mins,,5 mins,2 ,2,207,1g,0g,,269mg,0g,0g,,0g,,,,10mg,4.6,91,,
+12,6663122,Gluehwein,5 mins,35 mins,40 mins,6 ,,,,,,,,,,,,,,,4.8,316,3 cups,
+13,6737419,"Sweet, Salty, Spicy Party Nuts",10 mins,20 mins,30 mins,16 ,16,219,18g,2g,2mg,206mg,13g,2g,8g,5g,0mg,38mg,1mg,171mg,4.8,432,4 cups,
+14,6663297,Grandma Jeanette's Amazing German Red Cabbage,10 mins, 1 hr 5 mins, 1 hr 15 mins,4 ,4,148,6g,4g,15mg,1375mg,24g,3g,19g,1g,51mg,47mg,1mg,266mg,4.7,554,,
+15,6649773,How to Make Coquilles Saint-Jacques,20 mins,30 mins,50 mins,4 ,4,374,22g,12g,162mg,319mg,8g,1g,2g,26g,4mg,217mg,4mg,768mg,4.8,112,,
+16,6649449,Sugar Coated Pecans,10 mins, 1 hr, 1 hr 10 mins,12 ,12,328,27g,2g,,150mg,22g,4g,18g,4g,0mg,28mg,1mg,160mg,4.9,"2,301",1 pound,
+17,6740861,Rockin' Oysters Rockefeller,30 mins,30 mins, 1 hr,16 ,16,248,17g,11g,66mg,652mg,5g,1g,2g,16g,6mg,352mg,6mg,244mg,4.8,166,,
+18,6648649,Dessert Crepes,10 mins,20 mins,30 mins,8 ,8,164,8g,3g,111mg,235mg,17g,0g,5g,6g,0mg,66mg,1mg,115mg,4.8,"1,191",8 crepes,
+19,6568102,Country Fried Squash,25 mins,15 mins,40 mins,4 ,4,501,9g,2g,49mg,145mg,105g,15g,17g,12g,143mg,374mg,6mg,2524mg,4.5,184,,
+20,6737130,Steamed Lobster Tails,5 mins,15 mins,20 mins,4 ,4,356,25g,15g,223mg,1987mg,1g,,,32g,,89mg,16mg,485mg,4.8,197,,
+21,6651130,Pumpkin Spice Martini,5 mins,,5 mins,1 ,,,,,,,,,,,,,,,4.6,69,,
+22,6736791,Old-Fashioned Swedish Glögg,15 mins,20 mins, 1 hr 45 mins,60 ,,,,,,,,,,,,,,,4.8,35,7 750-milliliter bottles, 1 hr 10 mins
+23,6738466,Sausage Casserole,25 mins, 1 hr 5 mins, 1 hr 35 mins,12 ,12,356,26g,13g,188mg,755mg,8g,1g,1g,22g,4mg,256mg,1mg,307mg,4.7,"1,275",1 9x13-inch casserole,5 mins
+24,6649685,Cheesy Ham and Hash Brown Casserole,15 mins, 1 hr, 1 hr 15 mins,12 ,12,415,27g,15g,53mg,761mg,30g,2g,1g,14g,5mg,304mg,2mg,438mg,4.6,"2,693",1 9x13-inch casserole,
+25,6664091,Tourtière (French Canadian Meat Pie),20 mins, 2 hrs, 2 hrs 25 mins,8 ,8,663,41g,21g,159mg,1074mg,47g,3g,2g,27g,5mg,55mg,5mg,579mg,4.7,125,1 9-inch pie,5 mins
+26,6663940,Best Caprese Skewers,15 mins,,15 mins,10 ,10,104,7g,3g,18mg,179mg,2g,0g,0g,7g,7mg,225mg,0mg,102mg,4.7,326,,
+27,6738727,Chef John's Shrimp Cocktail,15 mins,20 mins,50 mins,4 ,4,306,4g,1g,345mg,1415mg,19g,2g,10g,48g,29mg,175mg,6mg,702mg,4.9,151,,15 mins
+28,6584641,Easy Savory Crêpes,15 mins,30 mins, 1 hr 45 mins,14 ,14,151,10g,5g,70mg,136mg,9g,0g,0g,7g,1mg,45mg,1mg,98mg,4.6,20,14 filled crepes, 1 hr
+29,6563758,Hot Spiked Cider,5 mins,10 mins,15 mins,6 ,,,,,,,,,,,,,,,4.3,160,,
+30,6649020,Kalamata Olive Tapenade,15 mins,,15 mins,8 ,8,81,8g,1g,,359mg,3g,0g,0g,1g,4mg,11mg,0mg,18mg,4.6,234,1 cup,
+31,6649991,Roasted Yams,10 mins,30 mins,40 mins,2 ,2,388,14g,2g,,981mg,63g,10g,1g,4g,39mg,43mg,2mg,1849mg,4.5,119,,
+32,6738141,Pudding Shots,5 mins,,35 mins,15 ,,,,,,,,,,,,,,,3.8,96,,30 mins
+33,6581973,Beef Tamales,30 mins, 4 hrs 30 mins, 5 hrs,36 ,36,347,24g,9g,38mg,248mg,23g,3g,0g,9g,0mg,47mg,3mg,195mg,4.5,197,6 dozen tamales,
+34,6648954,Bavarian Sauerkraut,15 mins,35 mins,50 mins,8 ,8,52,0g,0g,0mg,848mg,11g,3g,5g,2g,18mg,43mg,2mg,237mg,4.5,73,,
+35,6570475,Roasted Vegetable Medley,25 mins, 1 hr, 1 hr 55 mins,6 ,6,191,5g,1g,,257mg,35g,8g,6g,4g,38mg,62mg,3mg,1022mg,4.6,311,,30 mins
+36,6738212,Party Punch,5 mins,,5 mins,24 ,24,100,0g,,,41mg,24g,0g,,1g,61mg,15mg,0mg,174mg,4.5,76,24 8-ounce cups,
+37,6583423,Pork and Sauerkraut,15 mins, 3 hrs, 3 hrs 25 mins,6 ,6,244,9g,3g,80mg,972mg,13g,5g,6g,28g,24mg,61mg,3mg,658mg,4.0,3,,10 mins
+38,6736424,Sauerkraut for Canning, 1 hr, 1 hr 30 mins,21 days 15 hrs 20 mins,144 ,144,39,0g,,,1470mg,9g,4g,,2g,58mg,64mg,1mg,268mg,4.6,29,36 pints,21 days 12 hrs 50 mins
+39,6585416,Beets on the Grill,10 mins,30 mins,45 mins,2 ,2,208,12g,7g,31mg,274mg,24g,7g,17g,4g,12mg,43mg,2mg,803mg,4.6,77,,5 mins
+40,6649222,Brioche,40 mins,25 mins, 9 hrs 25 mins,16 ,16,228,13g,8g,90mg,246mg,22g,1g,1g,5g,,16mg,2mg,66mg,4.3,58,2 9x5-inch loaves, 8 hrs 20 mins
+41,6738802,Crêpes,5 mins,10 mins, 1 hr 15 mins,8 ,8,79,3g,1g,49mg,30mg,10g,0g,2g,4g,0mg,44mg,1mg,74mg,4.8,"1,204",8 crêpes, 1 hr
+42,6649325,Ethiopian Cabbage Dish,20 mins,40 mins, 1 hr,5 ,5,407,22g,3g,0mg,478mg,50g,8g,8g,7g,67mg,108mg,3mg,1322mg,4.7,905,,
+43,6651189,Baked Stuffed Brie with Cranberries & Walnuts,20 mins,20 mins, 1 hr 40 mins,8 ,8,304,22g,8g,49mg,261mg,17g,1g,3g,9g,,62mg,1mg,85mg,4.9,177,, 1 hr
+44,6586220,Menudo Rojo (Red Menudo),20 mins, 8 hrs 10 mins, 8 hrs 30 mins,8 ,8,225,5g,2g,139mg,1679mg,32g,6g,6g,14g,126mg,173mg,3mg,390mg,4.1,67,,
+45,6737184,Artichoke Hearts Gratin,10 mins,10 mins,35 mins,4 ,4,89,6g,2g,4mg,268mg,6g,2g,0g,3g,14mg,70mg,0mg,33mg,4.0,82,,15 mins
+46,6603490,Moose Milk,10 mins,,10 mins,56 ,56,277,6g,4g,22mg,61mg,20g,0g,,4g,0mg,130mg,0mg,187mg,4.8,11,,
+47,6663126,Butternut Squash Risotto,20 mins,35 mins,55 mins,4 ,4,343,8g,5g,21mg,979mg,57g,2g,3g,7g,16mg,104mg,1mg,300mg,4.6,602,,
+48,6648247,Tiramisu Cheesecake,25 mins,40 mins, 4 hrs 55 mins,12 ,12,528,36g,21g,188mg,256mg,40g,1g,20g,10g,,91mg,2mg,116mg,4.5,400,1 9-inch cheesecake, 3 hrs 50 mins
+49,6591666,Liver Pâté,15 mins,25 mins, 1 hr 40 mins,16 ,16,116,10g,6g,121mg,135mg,1g,0g,0g,5g,6mg,7mg,3mg,84mg,4.6,36,, 1 hr
+50,6648890,Baked Acorn Squash,10 mins,50 mins, 1 hr,4 ,4,320,12g,7g,31mg,97mg,57g,11g,20g,3g,27mg,133mg,3mg,1124mg,4.6,163,,
+51,6648829,Grand Marnier Soufflé,30 mins,25 mins,55 mins,2 ,2,396,21g,12g,249mg,190mg,42g,0g,36g,8g,1mg,67mg,1mg,134mg,4.9,88,2 soufflés,
+52,6583170,Meringue Mushrooms,45 mins, 1 hr, 1 hr 45 mins,36 ,36,41,1g,1g,1mg,23mg,8g,0g,7g,1g,0mg,6mg,0mg,21mg,4.8,176,36 mushrooms,
+53,6596377,Dave's Georgia Black-Eyed Peas,15 mins, 8 hrs 20 mins, 16 hrs 35 mins,16 ,16,431,25g,10g,51mg,1177mg,31g,5g,1g,21g,12mg,57mg,5mg,718mg,4.8,196,, 8 hrs
+54,6648855,Bacon-Wrapped Dates Stuffed with Blue Cheese,20 mins,30 mins,50 mins,32 ,32,78,3g,1g,8mg,157mg,11g,1g,9g,3g,0mg,25mg,0mg,128mg,4.6,376,32 stuffed dates,
+55,6648984,Chef John's Shakshuka,15 mins,35 mins,50 mins,6 ,6,185,11g,3g,189mg,670mg,15g,4g,3g,10g,49mg,102mg,3mg,598mg,4.8,286,,
+56,6581277,Cinnamon Sweet Potato Slices,15 mins,30 mins,45 mins,4 ,4,322,12g,7g,31mg,207mg,52g,7g,16g,4g,6mg,74mg,1mg,770mg,4.4,94,,
+57,6586042,Pork Pie,15 mins,50 mins, 1 hr 5 mins,8 ,8,712,51g,18g,125mg,462mg,28g,2g,1g,33g,3mg,35mg,3mg,628mg,4.2,31,1 (9-inch) pie,
+58,6606420,Eggnog Latte,4 mins,1 mins,5 mins,1 ,1,275,15g,9g,106mg,131mg,27g,0g,18g,9g,3mg,318mg,0mg,454mg,4.6,37,1 serving,
+59,6589061,Black-Eyed Pea Soup,15 mins, 1 hr, 1 hr 15 mins,8 ,8,416,20g,7g,67mg,2228mg,32g,7g,6g,26g,26mg,107mg,6mg,809mg,4.8,117,8 servings,
+60,6650048,Coal Region Boilo,15 mins,30 mins, 1 hr,18 ,18,687,0g,,,9mg,103g,2g,99g,1g,15mg,33mg,1mg,162mg,4.8,14,18 servings,15 mins
+61,6739147,Muffin Tin Potatoes Gratin,10 mins,35 mins,45 mins,12 ,12,92,3g,2g,9mg,88mg,13g,1g,1g,3g,12mg,64mg,1mg,291mg,4.6,360,12 individual potatoes au gratin,

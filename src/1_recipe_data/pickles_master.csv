@@ -1,59 +1,59 @@
-,id_recipe,Prep Time:,Additional Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Cook Time:,Yield:
-0,6574145,15 mins,30 mins,45 mins,8 ,8,28,0g,0g,0mg,174mg,7g,2g,4g,1g,28mg,31mg,1mg,181mg,,,,
-1,7509784,15 mins,,21 mins,6 ,6,206,10g,2g,66mg,854mg,23g,2g,2g,6g,2mg,89mg,2mg,164mg,5.0,1,6 mins,
-2,6649594,10 mins,15 mins,50 mins,60 ,60,60,0g,,,176mg,14g,2g,12g,1g,4mg,15mg,1mg,246mg,4.5,279,25 mins,10 (1-pint) jars
-3,6650098,15 mins,14 days 8 hrs,14 days 8 hrs 35 mins,48 ,48,8,,,,2mg,2g,1g,0g,1g,4mg,11mg,0mg,55mg,4.6,170,20 mins,6 (1/2-pint) jars
-4,6588212,40 mins,,45 mins,32 ,32,14,0g,,,83mg,3g,0g,2g,0g,0mg,1mg,1mg,30mg,4.6,61,5 mins,1 1/2 cups
-5,6648783,10 mins,3 days,3 days 20 mins,12 ,12,13,0g,,,444mg,3g,0g,2g,0g,2mg,13mg,5mg,86mg,4.6,387,10 mins,
-6,6738384,5 mins,10 mins,20 mins,2 ,2,99,1g,0g,,2884mg,24g,2g,21g,1g,32mg,19mg,1mg,164mg,4.8,467,5 mins,2 (8-ounce) jars
-7,6648311, 1 hr, 3 hrs, 4 hrs 30 mins,50 ,50,105,0g,0g,,938mg,26g,1g,22g,1g,8mg,26mg,1mg,194mg,4.8,434,30 mins,8 quarts
-8,6581206,10 mins, 12 hrs, 12 hrs 35 mins,24 ,24,10,,,,585mg,2g,1g,0g,1g,6mg,26mg,0mg,92mg,4.7,101,25 mins,3 pints
-9,6664971,45 mins,2 days 8 hrs,2 days 8 hrs 45 mins,10 ,10,233,24g,3g,,306mg,6g,2g,3g,1g,60mg,31mg,1mg,210mg,4.8,265,,
-10,6600959,30 mins,1 day 4 hrs,1 day 5 hrs,96 ,96,20,0g,,,2mg,5g,0g,5g,0g,2mg,3mg,0mg,34mg,4.6,91,30 mins,3 quarts
-11,6649433,25 mins, 1 hr, 1 hr 50 mins,24 ,24,49,0g,,,147mg,12g,0g,11g,0g,22mg,3mg,0mg,54mg,4.7,23,25 mins,3 (1/2-pint) jars
-12,6650034,10 mins,40 mins,50 mins,8 ,8,51,2g,0g,,329mg,9g,1g,7g,1g,2mg,31mg,1mg,96mg,4.0,9,,
-13,6736720,15 mins,10 days 2 hrs,10 days 2 hrs 15 mins,12 ,12,70,0g,0g,,728mg,17g,1g,12g,2g,10mg,50mg,1mg,338mg,4.6,288,,
-14,6564975,30 mins, 2 hrs, 2 hrs 50 mins,15 ,15,41,0g,,,2157mg,10g,0g,9g,0g,1mg,12mg,0mg,33mg,4.5,62,20 mins,2 pints
-15,6565847,10 mins, 12 hrs, 12 hrs 25 mins,32 ,32,11,,,,85mg,3g,1g,2g,0g,1mg,6mg,0mg,58mg,4.4,43,15 mins,4 cups
-16,6736424, 1 hr,21 days 12 hrs 50 mins,21 days 15 hrs 20 mins,144 ,144,39,0g,,,1470mg,9g,4g,,2g,58mg,64mg,1mg,268mg,4.6,29, 1 hr 30 mins,36 pints
-17,6605452,30 mins, 2 hrs, 3 hrs 5 mins,35 ,35,35,0g,,,1585mg,9g,1g,6g,1g,4mg,22mg,0mg,163mg,4.3,193,35 mins,7 quarts
-18,6575182,5 mins, 1 hr 30 mins, 1 hr 45 mins,16 ,16,8,0g,0g,0mg,133mg,1g,0g,1g,0g,0mg,6mg,0mg,21mg,4.9,13,10 mins,2 cups
-19,6586332,10 mins,1 day,1 day 20 mins,24 ,24,39,0g,,,488mg,9g,0g,,0g,1mg,7mg,0mg,64mg,4.3,77,10 mins,1 quart
-20,6597793,5 mins,30 mins, 1 hr,6 ,6,19,,,,1745mg,5g,0g,2g,0g,1mg,5mg,0mg,49mg,4.1,139,25 mins,
-21,6739848,25 mins,1 day,1 day 40 mins,64 ,64,27,,,,92mg,7g,0g,,0g,2mg,2mg,,22mg,4.7,431,15 mins,
-22,6564952,45 mins,3 days 2 hrs,3 days 2 hrs 45 mins,24 ,24,9,0g,,,19mg,2g,0g,1g,0g,7mg,20mg,0mg,80mg,4.4,5,,3 pints
-23,6587610,10 mins,45 mins, 1 hr,48 ,48,5,0g,,,146mg,1g,0g,1g,0g,4mg,1mg,0mg,21mg,4.8,67,5 mins,1 1/2 quarts
-24,6738735,30 mins, 12 hrs, 12 hrs 55 mins,80 ,80,5,0g,,,2mg,1g,1g,,0g,10mg,2mg,0mg,39mg,4.3,87,25 mins,5 pints
-25,6582349,10 mins, 8 hrs, 8 hrs 25 mins,6 ,6,62,0g,,,70mg,15g,1g,14g,1g,76mg,6mg,0mg,126mg,4.9,19,15 mins,
-26,6663390,30 mins, 12 hrs, 13 hrs 15 mins,40 ,40,88,,,,2mg,23g,0g,,0g,15mg,11mg,0mg,14mg,4.9,57,45 mins,5 quarts
-27,6581616,25 mins,7 days,7 days 25 mins,24 ,24,28,0g,,,678mg,7g,3g,3g,1g,35mg,41mg,8mg,182mg,4.8,5,,3 pounds of sauerkraut
-28,6587765,45 mins, 20 hrs, 21 hrs 15 mins,32 ,32,78,0g,0g,0mg,21mg,19g,1g,15g,1g,3mg,20mg,0mg,159mg,3.6,16,30 mins,4 quarts
-29,6650191,15 mins, 2 hrs, 2 hrs 20 mins,48 ,48,38,0g,,,361mg,10g,0g,9g,0g,3mg,6mg,0mg,40mg,4.9,181,5 mins,2 pints
-30,6663664,15 mins,5 mins,25 mins,4 ,4,17,0g,,,591mg,4g,0g,3g,0g,3mg,11mg,1mg,38mg,4.9,10,5 mins,4 servings
-31,6649603,30 mins, 4 hrs, 4 hrs 55 mins,4 ,4,525,2g,0g,,9mg,130g,7g,115g,4g,51mg,92mg,2mg,741mg,4.7,41,25 mins,4 pints
-32,6564764, 1 hr,1 day,1 day 1 hr,160 ,160,60,6g,0g,,384mg,2g,1g,1g,1g,24mg,7mg,0mg,80mg,5.0,1,,5 quarts
-33,6590449, 1 hr,, 1 hr 45 mins,18 ,18,307,1g,0g,,820mg,74g,9g,65g,5g,15mg,61mg,3mg,993mg,4.8,88,45 mins,6 quarts
-34,6582454,20 mins,2 days,2 days 20 mins,4 ,4,304,0g,0g,,3494mg,77g,2g,69g,2g,9mg,41mg,0mg,350mg,4.8,78,,4 servings
-35,6739130,30 mins,9 days,9 days 30 mins,8 ,8,53,0g,,,964mg,12g,3g,8g,2g,6mg,28mg,1mg,386mg,5.0,5,,2 jars
-36,6586139,15 mins, 20 hrs, 21 hrs 15 mins,24 ,24,136,1g,0g,,4624mg,34g,1g,25g,1g,13mg,29mg,0mg,136mg,4.4,14, 1 hr,6 pints
-37,6579658,30 mins, 14 hrs, 14 hrs 35 mins,64 ,64,54,0g,,,359mg,14g,0g,13g,0g,1mg,3mg,0mg,33mg,4.7,28,5 mins,64 ounces
-38,6567453, 3 hrs,7 days 1 hr,7 days 5 hrs,128 ,128,78,,,,1740mg,20g,0g,19g,0g,1mg,15mg,0mg,54mg,4.0,8, 1 hr,8 quarts
-39,6563073, 1 hr,3 days 11 hrs,3 days 14 hrs 15 mins,48 ,48,63,0g,,,14mg,16g,1g,11g,1g,2mg,34mg,0mg,112mg,3.8,12, 2 hrs 15 mins,6 pint jars
-40,6562043,45 mins,21 days,21 days 1 hr,16 ,16,58,0g,,,3mg,14g,1g,9g,1g,18mg,28mg,0mg,80mg,4.3,33,15 mins,1 pint
-41,6595762,20 mins,1 day 11 hrs,1 day 11 hrs 25 mins,100 ,100,67,,,,26mg,17g,0g,17g,0g,1mg,8mg,0mg,48mg,4.8,6,5 mins,5 1/2 quarts
-42,6595667,30 mins,7 days,7 days 45 mins,12 ,12,46,1g,0g,,882mg,6g,2g,1g,1g,10mg,43mg,1mg,274mg,4.2,13,15 mins,2 quarts
-43,6590254, 3 hrs,, 3 hrs 20 mins,50 ,50,23,0g,0g,0mg,14mg,5g,0g,5g,0g,0mg,5mg,0mg,11mg,4.6,11,20 mins,5 quarts
-44,6592844,30 mins, 13 hrs 30 mins, 14 hrs 20 mins,28 ,28,82,0g,0g,0mg,2024mg,19g,1g,16g,1g,3mg,19mg,0mg,108mg,4.8,16,20 mins,7 pints
-45,6589252,20 mins,2 days 3 hrs,2 days 3 hrs 20 mins,20 ,20,30,0g,0g,,114mg,6g,1g,1g,2g,23mg,76mg,1mg,233mg,4.4,7,,5 cups
-46,6566233,15 mins,,30 mins,16 ,16,106,4g,1g,,145mg,18g,2g,14g,1g,20mg,23mg,1mg,241mg,4.3,52,15 mins,16 servings
-47,6738924,20 mins,,30 mins,24 ,24,37,,,,97mg,9g,0g,9g,0g,1mg,4mg,0mg,26mg,4.8,373,10 mins,3 cups
-48,6579131,10 mins,2 days 1 hr,2 days 1 hr 20 mins,8 ,8,21,0g,0g,,875mg,4g,2g,2g,2g,4mg,21mg,1mg,138mg,4.9,8,10 mins,1 quart
-49,6741601,40 mins,1 day 23 hrs,2 days 2 hrs 15 mins,80 ,80,85,,,,8mg,22g,0g,20g,0g,1mg,12mg,0mg,60mg,4.8,52, 2 hrs 35 mins,10 pint jars
-50,6575595,30 mins,,35 mins,32 ,32,42,1g,0g,,3481mg,7g,3g,1g,2g,13mg,58mg,1mg,186mg,3.8,53,5 mins,8 pints
-51,6601913,30 mins,3 days,3 days 35 mins,96 ,96,106,2g,0g,,2348mg,21g,8g,11g,4g,104mg,68mg,3mg,613mg,4.4,5,5 mins,6 pints
-52,6738934,5 mins,7 days,7 days 5 mins,8 ,8,69,0g,0g,,1451mg,17g,1g,14g,1g,8mg,10mg,1mg,130mg,4.1,22,,1 quart
-53,6648648,10 mins, 8 hrs 10 mins, 8 hrs 30 mins,24 ,24,24,,,,323mg,5g,0g,4g,0g,1mg,7mg,0mg,47mg,4.9,10,10 mins,6 cups
-54,6578036,15 mins, 1 hr, 1 hr 20 mins,12 ,12,30,0g,,,14mg,7g,1g,6g,0g,7mg,9mg,0mg,97mg,4.6,45,5 mins,12 servings
-55,6576256,25 mins,1 day,1 day 35 mins,32 ,32,28,,,,13mg,7g,,2g,0g,3mg,10mg,0mg,23mg,4.2,13,10 mins,4 pints
-56,6740926,5 mins, 8 hrs, 8 hrs 40 mins,96 ,96,27,0g,,,1mg,7g,0g,6g,0g,1mg,4mg,0mg,19mg,4.9,54,35 mins,6 to 8 - oz jars
-57,6566268,45 mins, 12 hrs 10 mins, 14 hrs,6 ,6,424,1g,0g,,877mg,103g,11g,92g,6g,19mg,63mg,3mg,1233mg,4.7,7, 1 hr 5 mins,6 16-ounce jars
+,id_recipe,name,Prep Time:,Additional Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Cook Time:,Yield:
+0,6574145,Atchara (Filipino Pickled Red Cabbage),15 mins,30 mins,45 mins,8 ,8,28,0g,0g,0mg,174mg,7g,2g,4g,1g,28mg,31mg,1mg,181mg,,,,
+1,7509784,Air Fryer Crispy Pickle Chips with Creole Dipping Sauce,15 mins,,21 mins,6 ,6,206,10g,2g,66mg,854mg,23g,2g,2g,6g,2mg,89mg,2mg,164mg,5.0,1,6 mins,
+2,6649594,Pickled Beets,10 mins,15 mins,50 mins,60 ,60,60,0g,,,176mg,14g,2g,12g,1g,4mg,15mg,1mg,246mg,4.5,279,25 mins,10 (1-pint) jars
+3,6650098,Crisp Pickled Green Beans,15 mins,14 days 8 hrs,14 days 8 hrs 35 mins,48 ,48,8,,,,2mg,2g,1g,0g,1g,4mg,11mg,0mg,55mg,4.6,170,20 mins,6 (1/2-pint) jars
+4,6588212,Homemade Pickled Ginger (Gari),40 mins,,45 mins,32 ,32,14,0g,,,83mg,3g,0g,2g,0g,0mg,1mg,1mg,30mg,4.6,61,5 mins,1 1/2 cups
+5,6648783,Refrigerator Dill Pickles,10 mins,3 days,3 days 20 mins,12 ,12,13,0g,,,444mg,3g,0g,2g,0g,2mg,13mg,5mg,86mg,4.6,387,10 mins,
+6,6738384,Quick Pickled Jalapeño Rings,5 mins,10 mins,20 mins,2 ,2,99,1g,0g,,2884mg,24g,2g,21g,1g,32mg,19mg,1mg,164mg,4.8,467,5 mins,2 (8-ounce) jars
+7,6648311,Bread and Butter Pickles, 1 hr, 3 hrs, 4 hrs 30 mins,50 ,50,105,0g,0g,,938mg,26g,1g,22g,1g,8mg,26mg,1mg,194mg,4.8,435,30 mins,8 quarts
+8,6581206,Grandma Oma's Pickled Okra,10 mins, 12 hrs, 12 hrs 35 mins,24 ,24,10,,,,585mg,2g,1g,0g,1g,6mg,26mg,0mg,92mg,4.7,101,25 mins,3 pints
+9,6664971,Hot Italian Giardiniera,45 mins,2 days 8 hrs,2 days 8 hrs 45 mins,10 ,10,233,24g,3g,,306mg,6g,2g,3g,1g,60mg,31mg,1mg,210mg,4.8,265,,
+10,6600959,Zucchini Pickles,30 mins,1 day 4 hrs,1 day 5 hrs,96 ,96,20,0g,,,2mg,5g,0g,5g,0g,2mg,3mg,0mg,34mg,4.6,91,30 mins,3 quarts
+11,6649433,Sweet and Spicy Pepper Relish,25 mins, 1 hr, 1 hr 50 mins,24 ,24,49,0g,,,147mg,12g,0g,11g,0g,22mg,3mg,0mg,54mg,4.7,23,25 mins,3 (1/2-pint) jars
+12,6650034,Japanese-Style Pickled Cucumber (Sunomono),10 mins,40 mins,50 mins,8 ,8,51,2g,0g,,329mg,9g,1g,7g,1g,2mg,31mg,1mg,96mg,4.0,9,,
+13,6736720,Spicy Refrigerator Dill Pickles,15 mins,10 days 2 hrs,10 days 2 hrs 15 mins,12 ,12,70,0g,0g,,728mg,17g,1g,12g,2g,10mg,50mg,1mg,338mg,4.6,288,,
+14,6564975,Pickled Asparagus,30 mins, 2 hrs, 2 hrs 50 mins,15 ,15,41,0g,,,2157mg,10g,0g,9g,0g,1mg,12mg,0mg,33mg,4.5,62,20 mins,2 pints
+15,6565847,Vinegar Pickled Carrots,10 mins, 12 hrs, 12 hrs 25 mins,32 ,32,11,,,,85mg,3g,1g,2g,0g,1mg,6mg,0mg,58mg,4.4,44,15 mins,4 cups
+16,6736424,Sauerkraut for Canning, 1 hr,21 days 12 hrs 50 mins,21 days 15 hrs 20 mins,144 ,144,39,0g,,,1470mg,9g,4g,,2g,58mg,64mg,1mg,268mg,4.6,29, 1 hr 30 mins,36 pints
+17,6605452,Pop's Dill Pickles,30 mins, 2 hrs, 3 hrs 5 mins,35 ,35,35,0g,,,1585mg,9g,1g,6g,1g,4mg,22mg,0mg,163mg,4.3,193,35 mins,7 quarts
+18,6575182,Pickled Red Onions,5 mins, 1 hr 30 mins, 1 hr 45 mins,16 ,16,8,0g,0g,0mg,133mg,1g,0g,1g,0g,0mg,6mg,0mg,21mg,4.9,13,10 mins,2 cups
+19,6586332,Summertime Sweet Pickles,10 mins,1 day,1 day 20 mins,24 ,24,39,0g,,,488mg,9g,0g,,0g,1mg,7mg,0mg,64mg,4.3,77,10 mins,1 quart
+20,6597793,Pickled Onions,5 mins,30 mins, 1 hr,6 ,6,19,,,,1745mg,5g,0g,2g,0g,1mg,5mg,0mg,49mg,4.1,139,25 mins,
+21,6739848,Homemade Refrigerator Pickles,25 mins,1 day,1 day 40 mins,64 ,64,27,,,,92mg,7g,0g,,0g,2mg,2mg,,22mg,4.7,431,15 mins,
+22,6564952,Traditional Kimchi,45 mins,3 days 2 hrs,3 days 2 hrs 45 mins,24 ,24,9,0g,,,19mg,2g,0g,1g,0g,7mg,20mg,0mg,80mg,4.4,5,,3 pints
+23,6587610,Pickled Jalapeños,10 mins,45 mins, 1 hr,48 ,48,5,0g,,,146mg,1g,0g,1g,0g,4mg,1mg,0mg,21mg,4.8,67,5 mins,1 1/2 quarts
+24,6738735,Pickled Hot Peppers,30 mins, 12 hrs, 12 hrs 55 mins,80 ,80,5,0g,,,2mg,1g,1g,,0g,10mg,2mg,0mg,39mg,4.3,87,25 mins,5 pints
+25,6582349,Pickled Peppers,10 mins, 8 hrs, 8 hrs 25 mins,6 ,6,62,0g,,,70mg,15g,1g,14g,1g,76mg,6mg,0mg,126mg,4.9,19,15 mins,
+26,6663390,Nana's Southern Pickled Peaches,30 mins, 12 hrs, 13 hrs 15 mins,40 ,40,88,,,,2mg,23g,0g,,0g,15mg,11mg,0mg,14mg,4.9,57,45 mins,5 quarts
+27,6581616,Easy Homemade Sauerkraut,25 mins,7 days,7 days 25 mins,24 ,24,28,0g,,,678mg,7g,3g,3g,1g,35mg,41mg,8mg,182mg,4.8,5,,3 pounds of sauerkraut
+28,6587765,Mustard Pickles,45 mins, 20 hrs, 21 hrs 15 mins,32 ,32,78,0g,0g,0mg,21mg,19g,1g,15g,1g,3mg,20mg,0mg,159mg,3.6,16,30 mins,4 quarts
+29,6650191,Chef John's Bread and Butter Pickles,15 mins, 2 hrs, 2 hrs 20 mins,48 ,48,38,0g,,,361mg,10g,0g,9g,0g,3mg,6mg,0mg,40mg,4.9,181,5 mins,2 pints
+30,6663664,Quick Pickled Radishes,15 mins,5 mins,25 mins,4 ,4,17,0g,,,591mg,4g,0g,3g,0g,3mg,11mg,1mg,38mg,4.9,10,5 mins,4 servings
+31,6649603,Pickled Squash,30 mins, 4 hrs, 4 hrs 55 mins,4 ,4,525,2g,0g,,9mg,130g,7g,115g,4g,51mg,92mg,2mg,741mg,4.7,41,25 mins,4 pints
+32,6564764,Pickled Banana Peppers, 1 hr,1 day,1 day 1 hr,160 ,160,60,6g,0g,,384mg,2g,1g,1g,1g,24mg,7mg,0mg,80mg,5.0,1,,5 quarts
+33,6590449,Canned Spiced Pickled Beets, 1 hr,, 1 hr 45 mins,18 ,18,307,1g,0g,,820mg,74g,9g,65g,5g,15mg,61mg,3mg,993mg,4.8,88,45 mins,6 quarts
+34,6582454,Mona's Easy Refrigerator Pickles,20 mins,2 days,2 days 20 mins,4 ,4,304,0g,0g,,3494mg,77g,2g,69g,2g,9mg,41mg,0mg,350mg,4.8,79,,4 servings
+35,6739130,Raw Fermented Beets,30 mins,9 days,9 days 30 mins,8 ,8,53,0g,,,964mg,12g,3g,8g,2g,6mg,28mg,1mg,386mg,5.0,5,,2 jars
+36,6586139,Watermelon Pickles,15 mins, 20 hrs, 21 hrs 15 mins,24 ,24,136,1g,0g,,4624mg,34g,1g,25g,1g,13mg,29mg,0mg,136mg,4.4,14, 1 hr,6 pints
+37,6579658,Sweet Dill Pickles,30 mins, 14 hrs, 14 hrs 35 mins,64 ,64,54,0g,,,359mg,14g,0g,13g,0g,1mg,3mg,0mg,33mg,4.7,28,5 mins,64 ounces
+38,6567453,Eight-Day Icicle Pickles, 3 hrs,7 days 1 hr,7 days 5 hrs,128 ,128,78,,,,1740mg,20g,0g,19g,0g,1mg,15mg,0mg,54mg,4.0,8, 1 hr,8 quarts
+39,6563073,Red-Hot Cinnamon Pickles, 1 hr,3 days 11 hrs,3 days 14 hrs 15 mins,48 ,48,63,0g,,,14mg,16g,1g,11g,1g,2mg,34mg,0mg,112mg,3.8,12, 2 hrs 15 mins,6 pint jars
+40,6562043,Pickled Garlic,45 mins,21 days,21 days 1 hr,16 ,16,58,0g,,,3mg,14g,1g,9g,1g,18mg,28mg,0mg,80mg,4.3,33,15 mins,1 pint
+41,6595762,Lime Pickles,20 mins,1 day 11 hrs,1 day 11 hrs 25 mins,100 ,100,67,,,,26mg,17g,0g,17g,0g,1mg,8mg,0mg,48mg,4.8,6,5 mins,5 1/2 quarts
+42,6595667,Spicy Pickled Okra,30 mins,7 days,7 days 45 mins,12 ,12,46,1g,0g,,882mg,6g,2g,1g,1g,10mg,43mg,1mg,274mg,4.2,13,15 mins,2 quarts
+43,6590254,Blue Ribbon Horseradish Pickles, 3 hrs,, 3 hrs 20 mins,50 ,50,23,0g,0g,0mg,14mg,5g,0g,5g,0g,0mg,5mg,0mg,11mg,4.6,11,20 mins,5 quarts
+44,6592844,Crisp Bread and Butter Pickles,30 mins, 13 hrs 30 mins, 14 hrs 20 mins,28 ,28,82,0g,0g,0mg,2024mg,19g,1g,16g,1g,3mg,19mg,0mg,108mg,4.8,16,20 mins,7 pints
+45,6589252,Korean Kimchi,20 mins,2 days 3 hrs,2 days 3 hrs 20 mins,20 ,20,30,0g,0g,,114mg,6g,1g,1g,2g,23mg,76mg,1mg,233mg,4.4,7,,5 cups
+46,6566233,Marinated Carrots,15 mins,,30 mins,16 ,16,106,4g,1g,,145mg,18g,2g,14g,1g,20mg,23mg,1mg,241mg,4.3,52,15 mins,16 servings
+47,6738924,Microwave Bread and Butter Pickles,20 mins,,30 mins,24 ,24,37,,,,97mg,9g,0g,9g,0g,1mg,4mg,0mg,26mg,4.8,373,10 mins,3 cups
+48,6579131,Quick-Pickled Spicy Asparagus,10 mins,2 days 1 hr,2 days 1 hr 20 mins,8 ,8,21,0g,0g,,875mg,4g,2g,2g,2g,4mg,21mg,1mg,138mg,4.9,8,10 mins,1 quart
+49,6741601,Christmas Red Pickles,40 mins,1 day 23 hrs,2 days 2 hrs 15 mins,80 ,80,85,,,,8mg,22g,0g,20g,0g,1mg,12mg,0mg,60mg,4.8,52, 2 hrs 35 mins,10 pint jars
+50,6575595,Dilly Beans,30 mins,,35 mins,32 ,32,42,1g,0g,,3481mg,7g,3g,1g,2g,13mg,58mg,1mg,186mg,3.8,53,5 mins,8 pints
+51,6601913,Mexican Pickled Jalapenos,30 mins,3 days,3 days 35 mins,96 ,96,106,2g,0g,,2348mg,21g,8g,11g,4g,104mg,68mg,3mg,613mg,4.4,5,5 mins,6 pints
+52,6738934,Carolyn's KOOL-AID Pickles,5 mins,7 days,7 days 5 mins,8 ,8,69,0g,0g,,1451mg,17g,1g,14g,1g,8mg,10mg,1mg,130mg,4.1,22,,1 quart
+53,6648648,Perfect Pickled Onions,10 mins, 8 hrs 10 mins, 8 hrs 30 mins,24 ,24,24,,,,323mg,5g,0g,4g,0g,1mg,7mg,0mg,47mg,4.9,10,10 mins,6 cups
+54,6578036,Pickled Jalapenos and Carrots,15 mins, 1 hr, 1 hr 20 mins,12 ,12,30,0g,,,14mg,7g,1g,6g,0g,7mg,9mg,0mg,97mg,4.6,45,5 mins,12 servings
+55,6576256,Traditional English Pickled Onions,25 mins,1 day,1 day 35 mins,32 ,32,28,,,,13mg,7g,,2g,0g,3mg,10mg,0mg,23mg,4.2,13,10 mins,4 pints
+56,6740926,Catherine's Pickled Blueberries,5 mins, 8 hrs, 8 hrs 40 mins,96 ,96,27,0g,,,1mg,7g,0g,6g,0g,1mg,4mg,0mg,19mg,4.9,54,35 mins,6 to 8 - oz jars
+57,6566268,Homemade Pickled Beets,45 mins, 12 hrs 10 mins, 14 hrs,6 ,6,424,1g,0g,,877mg,103g,11g,92g,6g,19mg,63mg,3mg,1233mg,4.7,7, 1 hr 5 mins,6 16-ounce jars

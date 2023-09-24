@@ -1,64 +1,64 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Protein,Potassium,Average_Review,Review_Count,Yield:,Additional Time:,Vitamin C,Calcium,Iron,Total Sugars
-0,6753853,10 mins,15 mins,25 mins,2 ,2,787,33g,10g,82mg,470mg,90g,6g,32g,843mg,5.0,8,,,,,,
-1,6822295,30 mins,10 mins,40 mins,8 ,8,166,12g,5g,41mg,47mg,4g,1g,10g,208mg,5.0,1,8 tacos,,,,,
-2,6651006,20 mins,35 mins, 2 hrs 15 mins,8 ,8,390,31g,12g,91mg,617mg,5g,1g,21g,349mg,4.8,"2,320",, 1 hr 20 mins,4mg,62mg,2mg,
-3,6664293, 1 hr 25 mins, 1 hr 15 mins, 2 hrs 50 mins,8 ,8,638,27g,13g,161mg,2053mg,54g,5g,46g,785mg,4.6,351,1 9x13-inch lasagna,10 mins,13mg,637mg,5mg,4g
-4,6651165,30 mins,30 mins, 1 hr,8 ,8,613,53g,15g,149mg,333mg,7g,0g,27g,315mg,4.7,"1,617",,,1mg,190mg,2mg,0g
-5,6737604,10 mins,20 mins,35 mins,4 ,4,457,33g,13g,114mg,634mg,8g,1g,30g,402mg,4.8,42,16 meatballs,5 mins,1mg,146mg,3mg,
-6,6649019,40 mins,25 mins, 1 hr 10 mins,15 ,15,168,11g,3g,23mg,288mg,11g,1g,7g,142mg,4.8,508,30 lumpia,5 mins,3mg,20mg,1mg,1g
-7,6649166,25 mins,15 mins,40 mins,8 ,8,334,21g,5g,40mg,220mg,23g,2g,14g,240mg,4.4,714,8 egg rolls,,7mg,56mg,2mg,1g
-8,6663409,10 mins,10 mins,20 mins,6 ,6,409,32g,12g,109mg,861mg,3g,0g,26g,447mg,4.7,805,6 patties,,1mg,31mg,2mg,2g
-9,6598248,20 mins,15 mins, 12 hrs 35 mins,12 ,12,243,16g,6g,74mg,640mg,2g,1g,21g,338mg,4.7,242,3 pounds, 12 hrs,2mg,33mg,2mg,1g
-10,6650132,25 mins,25 mins,50 mins,8 ,8,381,24g,7g,36mg,577mg,28g,3g,14g,291mg,4.5,104,1 9-inch pie,,6mg,21mg,3mg,1g
-11,6649396,25 mins,5 mins, 1 hr,6 ,6,439,19g,6g,55mg,1453mg,46g,2g,20g,391mg,4.7,112,32 pot stickers,30 mins,11mg,42mg,4mg,4g
-12,6584971,30 mins,10 mins,40 mins,6 ,6,392,17g,6g,35mg,660mg,45g,4g,15g,394mg,4.8,13,6 tacos,,25mg,127mg,3mg,5g
-13,6663244,45 mins,15 mins, 1 hr,10 ,10,752,29g,9g,129mg,1449mg,81g,3g,39g,643mg,4.6,380,100 dumplings,,19mg,143mg,6mg,1g
-14,6650684,20 mins, 1 hr, 1 hr 20 mins,5 ,5,540,25g,7g,103mg,2373mg,50g,2g,28g,403mg,4.8,214,50 dumplings,,2mg,91mg,5mg,1g
-15,6649798,40 mins,40 mins, 2 hrs,8 ,8,405,27g,8g,55mg,749mg,22g,2g,18g,263mg,4.4,205,1 9-inch pie,40 mins,1mg,22mg,2mg,1g
-16,6738218,25 mins, 1 hr, 1 hr 35 mins,6 ,6,309,21g,11g,108mg,794mg,12g,1g,17g,290mg,4.7,802,,10 mins,1mg,65mg,2mg,3g
-17,6664091,20 mins, 2 hrs, 2 hrs 25 mins,8 ,8,663,41g,21g,159mg,1074mg,47g,3g,27g,579mg,4.7,125,1 9-inch pie,5 mins,5mg,55mg,5mg,2g
-18,6649574, 1 hr,20 mins, 1 hr 20 mins,20 ,20,262,18g,5g,38mg,1037mg,15g,1g,10g,170mg,4.4,129,,,1mg,21mg,2mg,1g
-19,6650487, 1 hr,30 mins, 2 hrs 30 mins,20 ,20,169,7g,1g,46mg,315mg,16g,3g,10g,232mg,4.7,243,20 egg rolls, 1 hr,17mg,38mg,1mg,2g
-20,6576490,45 mins,,45 mins,64 ,64,93,4g,2g,46mg,472mg,1g,0g,12g,182mg,4.6,67,8 1-pound packages,,0mg,7mg,2mg,1g
-21,6584213,15 mins,30 mins,45 mins,4 ,4,690,46g,18g,223mg,1097mg,2g,1g,63g,879mg,4.6,80,,,3mg,55mg,5mg,0g
-22,6648596,15 mins,50 mins, 1 hr 5 mins,16 ,16,403,30g,15g,202mg,459mg,17g,0g,17g,174mg,4.5,270,,,1mg,225mg,2mg,1g
-23,6565403,30 mins, 3 hrs 15 mins, 3 hrs 45 mins,20 ,20,296,17g,6g,51mg,788mg,16g,3g,15g,965mg,4.6,116,,,21mg,42mg,3mg,11g
-24,6597762,15 mins, 4 hrs, 4 hrs 15 mins,6 ,6,526,46g,17g,77mg,1377mg,14g,3g,14g,402mg,4.4,156,,,16mg,56mg,3mg,
-25,6604385,20 mins,55 mins, 1 hr 35 mins,6 ,6,316,9g,3g,50mg,2253mg,42g,11g,22g,1610mg,4.6,35,,20 mins,91mg,137mg,5mg,16g
-26,6605716,30 mins,,1 day 30 mins,80 ,80,326,27g,9g,82mg,336mg,1g,0g,19g,351mg,4.4,116,20 pounds sausage,1 day,2mg,20mg,1mg,0g
-27,6649029,10 mins, 1 hr 20 mins, 1 hr 30 mins,9 ,9,472,20g,7g,59mg,463mg,47g,4g,23g,574mg,4.4,328,,,13mg,51mg,4mg,7g
-28,6583280,20 mins,15 mins,35 mins,15 ,15,193,17g,7g,42mg,372mg,2g,,9g,136mg,4.5,52,45 rye bread pizzas,,1mg,109mg,1mg,
-29,6739851,20 mins, 3 hrs 15 mins, 3 hrs 35 mins,16 ,16,380,19g,6g,90mg,836mg,25g,2g,29g,641mg,4.7,508,,,20mg,50mg,3mg,11g
-30,6649255,5 mins,20 mins,25 mins,4 ,4,308,20g,4g,237mg,989mg,5g,0g,26g,274mg,4.4,166,,,3mg,52mg,3mg,0g
-31,6581829,35 mins, 1 hr 5 mins, 1 hr 55 mins,8 ,8,402,21g,8g,147mg,504mg,19g,1g,33g,570mg,4.6,159,2 9x5-inch meatloaves,15 mins,13mg,77mg,3mg,11g
-32,6586490,10 mins, 1 hr 30 mins, 1 hr 40 mins,8 ,8,760,43g,16g,224mg,310mg,41g,1g,51g,835mg,4.6,99,,,2mg,172mg,3mg,31g
-33,6568291,25 mins,30 mins, 1 hr 10 mins,4 ,4,417,29g,9g,135mg,284mg,13g,1g,25g,422mg,4.5,30,24 meatballs,15 mins,1mg,61mg,2mg,
-34,6581763,20 mins, 2 hrs 45 mins, 3 hrs 15 mins,8 ,8,485,32g,9g,85mg,565mg,31g,2g,18g,467mg,4.6,284,1 9-inch deep-dish pie,10 mins,5mg,35mg,2mg,3g
-35,6570926,15 mins,25 mins,45 mins,24 ,24,70,3g,1g,5mg,273mg,9g,0g,3g,39mg,3.5,4,24 potstickers,5 mins,0mg,8mg,1mg,0g
-36,6586042,15 mins,50 mins, 1 hr 5 mins,8 ,8,712,51g,18g,125mg,462mg,28g,2g,33g,628mg,4.2,31,1 (9-inch) pie,,3mg,35mg,3mg,1g
-37,6597965, 1 hr,10 mins, 1 hr 10 mins,6 ,6,550,31g,8g,75mg,60mg,43g,1g,25g,273mg,4.3,42,6 servings,,8mg,17mg,2mg,1g
-38,6574206,10 mins, 1 hr 10 mins, 1 hr 20 mins,12 ,12,101,6g,2g,26mg,45mg,4g,0g,8g,145mg,4.3,50,,,1mg,37mg,1mg,2g
-39,6738910,30 mins,45 mins, 2 hrs 15 mins,6 ,6,479,36g,17g,194mg,1206mg,10g,1g,28g,429mg,4.6,610,, 1 hr,1mg,76mg,3mg,2g
-40,6597522,30 mins, 1 hr 30 mins, 2 hrs,8 ,8,595,32g,11g,91mg,1575mg,48g,12g,35g,1687mg,4.7,352,8 servings,,111mg,159mg,7mg,13g
-41,6665018,20 mins,10 mins,40 mins,4 ,4,272,16g,6g,117mg,138mg,9g,1g,22g,351mg,4.4,65,,10 mins,8mg,40mg,3mg,2g
-42,6664053,25 mins, 3 hrs 5 mins, 3 hrs 30 mins,8 ,8,315,15g,5g,119mg,1075mg,12g,2g,32g,686mg,4.5,44,,,37mg,56mg,4mg,3g
-43,6650975,45 mins, 1 hr 15 mins, 2 hrs 15 mins,9 ,9,404,17g,7g,75mg,1025mg,38g,4g,25g,1355mg,4.4,38,18 golabki,15 mins,116mg,117mg,3mg,18g
-44,6649955,30 mins,30 mins, 1 hr,12 ,12,154,5g,1g,15mg,201mg,20g,1g,7g,105mg,4.5,373,12 spring rolls,,3mg,24mg,1mg,0g
-45,6663175,15 mins, 1 hr, 1 hr 15 mins,8 ,8,408,23g,10g,136mg,702mg,18g,1g,30g,309mg,4.5,210,8 servings,,1mg,285mg,3mg,2g
-46,6594910,10 mins,20 mins,30 mins,8 ,8,287,21g,9g,78mg,146mg,8g,1g,17g,320mg,4.4,132,,,6mg,49mg,1mg,2g
-47,6589216,30 mins,15 mins,45 mins,10 ,10,184,9g,2g,38mg,546mg,19g,1g,8g,156mg,4.4,203,30 gyoza,,7mg,30mg,2mg,1g
-48,6569236,,,,8 ,8,646,33g,12g,173mg,1388mg,46g,1g,40g,780mg,4.6,63,8 servings,,5mg,96mg,4mg,36g
-49,6591182, 1 hr,24 mins, 1 hr 24 mins,12 ,12,266,14g,3g,59mg,727mg,23g,1g,12g,230mg,4.7,62,4 dozen wontons,,2mg,41mg,2mg,1g
-50,6571545,10 mins,15 mins,25 mins,6 ,6,315,22g,8g,98mg,852mg,1g,0g,27g,403mg,4.7,159,6 servings,,1mg,33mg,2mg,0g
-51,6596288,10 mins,10 mins,20 mins,12 ,12,229,15g,5g,61mg,631mg,6g,0g,17g,283mg,4.5,32,,,1mg,30mg,1mg,4g
-52,6575458,5 mins,15 mins,20 mins,4 ,4,293,9g,2g,6mg,686mg,46g,1g,6g,98mg,4.4,90,,,1mg,25mg,2mg,0g
-53,6582167,15 mins,20 mins,35 mins,4 ,4,431,34g,11g,130mg,991mg,7g,2g,24g,649mg,4.6,139,4 servings,,33mg,120mg,2mg,2g
-54,6591097,30 mins, 1 hr 30 mins, 2 hrs,8 ,8,556,37g,14g,101mg,2096mg,32g,7g,26g,876mg,4.5,265,8 to 10 servings,,110mg,102mg,5mg,17g
-55,6664809,20 mins,20 mins,40 mins,2 ,2,463,22g,7g,76mg,1202mg,38g,7g,27g,931mg,4.6,30,2 servings,,91mg,137mg,4mg,13g
-56,6605133, 5 hrs,10 mins, 6 hrs 30 mins,20 ,20,511,36g,12g,70mg,1036mg,29g,4g,18g,222mg,4.6,107,, 1 hr 20 mins,2mg,21mg,3mg,2g
-57,6582596,10 mins,30 mins,55 mins,10 ,10,356,16g,6g,61mg,1091mg,30g,4g,23g,721mg,4.6,29,,15 mins,41mg,86mg,4mg,9g
-58,6741676, 1 hr,30 mins, 1 hr 35 mins,8 ,8,724,51g,13g,86mg,227mg,41g,9g,34g,1220mg,5.0,4,8 servings,5 mins,107mg,231mg,4mg,23g
-59,6598282,15 mins,15 mins,30 mins,2 ,2,353,30g,6g,27mg,340mg,12g,4g,12g,436mg,4.0,5,2 servings,,40mg,49mg,2mg,6g
-60,6593600,40 mins,20 mins, 1 hr,5 ,5,344,18g,5g,66mg,139mg,26g,2g,20g,377mg,4.5,13,40 dumplings,,6mg,27mg,3mg,3g
-61,6589075,25 mins, 1 hr 10 mins, 1 hr 40 mins,8 ,8,310,17g,5g,125mg,783mg,15g,2g,26g,448mg,4.6,70,8 servings,5 mins,12mg,58mg,3mg,5g
-62,6591007,20 mins,30 mins,50 mins,25 ,25,64,1g,0g,11mg,151mg,10g,0g,3g,37mg,4.7,30,25 dumplings,,0mg,10mg,1mg,0g
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Protein,Potassium,Average_Review,Review_Count,Yield:,Additional Time:,Vitamin C,Calcium,Iron,Total Sugars
+0,6753853,Spicy Pumpkin Pork Noodles,10 mins,15 mins,25 mins,2 ,2,787,33g,10g,82mg,470mg,90g,6g,32g,843mg,5.0,8,,,,,,
+1,6822295,Ground Pork Tacos with Pineapple Salsa,30 mins,10 mins,40 mins,8 ,8,166,12g,5g,41mg,47mg,4g,1g,10g,208mg,5.0,1,8 tacos,,,,,
+2,6651006,Chef John's Italian Meatballs,20 mins,35 mins, 2 hrs 15 mins,8 ,8,390,31g,12g,91mg,617mg,5g,1g,21g,349mg,4.8,"2,322",, 1 hr 20 mins,4mg,62mg,2mg,
+3,6664293,Homemade Lasagna, 1 hr 25 mins, 1 hr 15 mins, 2 hrs 50 mins,8 ,8,638,27g,13g,161mg,2053mg,54g,5g,46g,785mg,4.6,351,1 9x13-inch lasagna,10 mins,13mg,637mg,5mg,4g
+4,6651165,The Best Meatballs,30 mins,30 mins, 1 hr,8 ,8,613,53g,15g,149mg,333mg,7g,0g,27g,315mg,4.7,"1,618",,,1mg,190mg,2mg,0g
+5,6737604,Air Fryer Meatballs,10 mins,20 mins,35 mins,4 ,4,457,33g,13g,114mg,634mg,8g,1g,30g,402mg,4.8,42,16 meatballs,5 mins,1mg,146mg,3mg,
+6,6649019,Traditional Filipino Lumpia,40 mins,25 mins, 1 hr 10 mins,15 ,15,168,11g,3g,23mg,288mg,11g,1g,7g,142mg,4.8,508,30 lumpia,5 mins,3mg,20mg,1mg,1g
+7,6649166,Best Egg Rolls,25 mins,15 mins,40 mins,8 ,8,334,21g,5g,40mg,220mg,23g,2g,14g,240mg,4.4,714,8 egg rolls,,7mg,56mg,2mg,1g
+8,6663409,Homemade Breakfast Sausage,10 mins,10 mins,20 mins,6 ,6,409,32g,12g,109mg,861mg,3g,0g,26g,447mg,4.7,805,6 patties,,1mg,31mg,2mg,2g
+9,6598248,Homemade Sweet Italian Sausage (Mild or Hot),20 mins,15 mins, 12 hrs 35 mins,12 ,12,243,16g,6g,74mg,640mg,2g,1g,21g,338mg,4.7,243,3 pounds, 12 hrs,2mg,33mg,2mg,1g
+10,6650132,Meat Pie,25 mins,25 mins,50 mins,8 ,8,381,24g,7g,36mg,577mg,28g,3g,14g,291mg,4.5,104,1 9-inch pie,,6mg,21mg,3mg,1g
+11,6649396,Perfect Pot Stickers,25 mins,5 mins, 1 hr,6 ,6,439,19g,6g,55mg,1453mg,46g,2g,20g,391mg,4.7,112,32 pot stickers,30 mins,11mg,42mg,4mg,4g
+12,6584971,Phenomenal Pork Tacos,30 mins,10 mins,40 mins,6 ,6,392,17g,6g,35mg,660mg,45g,4g,15g,394mg,4.8,13,6 tacos,,25mg,127mg,3mg,5g
+13,6663244,Pork Dumplings,45 mins,15 mins, 1 hr,10 ,10,752,29g,9g,129mg,1449mg,81g,3g,39g,643mg,4.6,380,100 dumplings,,19mg,143mg,6mg,1g
+14,6650684,Chinese Pork Dumplings,20 mins, 1 hr, 1 hr 20 mins,5 ,5,540,25g,7g,103mg,2373mg,50g,2g,28g,403mg,4.8,214,50 dumplings,,2mg,91mg,5mg,1g
+15,6649798,French Canadian Tourtière,40 mins,40 mins, 2 hrs,8 ,8,405,27g,8g,55mg,749mg,22g,2g,18g,263mg,4.4,205,1 9-inch pie,40 mins,1mg,22mg,2mg,1g
+16,6738218,Swedish Meatballs (Svenska Kottbullar),25 mins, 1 hr, 1 hr 35 mins,6 ,6,309,21g,11g,108mg,794mg,12g,1g,17g,290mg,4.7,803,,10 mins,1mg,65mg,2mg,3g
+17,6664091,Tourtière (French Canadian Meat Pie),20 mins, 2 hrs, 2 hrs 25 mins,8 ,8,663,41g,21g,159mg,1074mg,47g,3g,27g,579mg,4.7,125,1 9-inch pie,5 mins,5mg,55mg,5mg,2g
+18,6649574,Lumpia (Shanghai Version), 1 hr,20 mins, 1 hr 20 mins,20 ,20,262,18g,5g,38mg,1037mg,15g,1g,10g,170mg,4.4,129,,,1mg,21mg,2mg,1g
+19,6650487,Authentic Chinese Egg Rolls (from a Chinese person), 1 hr,30 mins, 2 hrs 30 mins,20 ,20,169,7g,1g,46mg,315mg,16g,3g,10g,232mg,4.7,243,20 egg rolls, 1 hr,17mg,38mg,1mg,2g
+20,6576490,Bulk Venison Breakfast Sausage,45 mins,,45 mins,64 ,64,93,4g,2g,46mg,472mg,1g,0g,12g,182mg,4.6,67,8 1-pound packages,,0mg,7mg,2mg,1g
+21,6584213,Serbian Ćevapčići,15 mins,30 mins,45 mins,4 ,4,690,46g,18g,223mg,1097mg,2g,1g,63g,879mg,4.6,80,,,3mg,55mg,5mg,0g
+22,6648596,Southern Grits Casserole,15 mins,50 mins, 1 hr 5 mins,16 ,16,403,30g,15g,202mg,459mg,17g,0g,17g,174mg,4.5,270,,,1mg,225mg,2mg,1g
+23,6565403,Old Italian Meat Sauce,30 mins, 3 hrs 15 mins, 3 hrs 45 mins,20 ,20,296,17g,6g,51mg,788mg,16g,3g,15g,965mg,4.6,116,,,21mg,42mg,3mg,11g
+24,6597762,Slow Cooker Sauerkraut and Sausage,15 mins, 4 hrs, 4 hrs 15 mins,6 ,6,526,46g,17g,77mg,1377mg,14g,3g,14g,402mg,4.4,156,,,16mg,56mg,3mg,
+25,6604385,Instant Pot Basic Cabbage Rolls,20 mins,55 mins, 1 hr 35 mins,6 ,6,316,9g,3g,50mg,2253mg,42g,11g,22g,1610mg,4.6,35,,20 mins,91mg,137mg,5mg,16g
+26,6605716,Hot Italian Sausage,30 mins,,1 day 30 mins,80 ,80,326,27g,9g,82mg,336mg,1g,0g,19g,351mg,4.4,116,20 pounds sausage,1 day,2mg,20mg,1mg,0g
+27,6649029,Bolognese Sauce,10 mins, 1 hr 20 mins, 1 hr 30 mins,9 ,9,472,20g,7g,59mg,463mg,47g,4g,23g,574mg,4.4,329,,,13mg,51mg,4mg,7g
+28,6583280,Rye Bread Party Pizzas,20 mins,15 mins,35 mins,15 ,15,193,17g,7g,42mg,372mg,2g,,9g,136mg,4.5,52,45 rye bread pizzas,,1mg,109mg,1mg,
+29,6739851,Brunswick Stew,20 mins, 3 hrs 15 mins, 3 hrs 35 mins,16 ,16,380,19g,6g,90mg,836mg,25g,2g,29g,641mg,4.7,508,,,20mg,50mg,3mg,11g
+30,6649255,Shrimp with Lobster Sauce,5 mins,20 mins,25 mins,4 ,4,308,20g,4g,237mg,989mg,5g,0g,26g,274mg,4.4,166,,,3mg,52mg,3mg,0g
+31,6581829,Tennessee Meatloaf,35 mins, 1 hr 5 mins, 1 hr 55 mins,8 ,8,402,21g,8g,147mg,504mg,19g,1g,33g,570mg,4.6,159,2 9x5-inch meatloaves,15 mins,13mg,77mg,3mg,11g
+32,6586490,Ham Loaf,10 mins, 1 hr 30 mins, 1 hr 40 mins,8 ,8,760,43g,16g,224mg,310mg,41g,1g,51g,835mg,4.6,99,,,2mg,172mg,3mg,31g
+33,6568291,Frikadeller (Danish Meatballs),25 mins,30 mins, 1 hr 10 mins,4 ,4,417,29g,9g,135mg,284mg,13g,1g,25g,422mg,4.5,30,24 meatballs,15 mins,1mg,61mg,2mg,
+34,6581763,Tourtière (French Canadian Meat Pie),20 mins, 2 hrs 45 mins, 3 hrs 15 mins,8 ,8,485,32g,9g,85mg,565mg,31g,2g,18g,467mg,4.6,284,1 9-inch deep-dish pie,10 mins,5mg,35mg,2mg,3g
+35,6570926,Air Fryer Potstickers,15 mins,25 mins,45 mins,24 ,24,70,3g,1g,5mg,273mg,9g,0g,3g,39mg,3.5,4,24 potstickers,5 mins,0mg,8mg,1mg,0g
+36,6586042,Pork Pie,15 mins,50 mins, 1 hr 5 mins,8 ,8,712,51g,18g,125mg,462mg,28g,2g,33g,628mg,4.2,31,1 (9-inch) pie,,3mg,35mg,3mg,1g
+37,6597965,Filipino Lumpia, 1 hr,10 mins, 1 hr 10 mins,6 ,6,550,31g,8g,75mg,60mg,43g,1g,25g,273mg,4.3,43,6 servings,,8mg,17mg,2mg,1g
+38,6574206,Cretons,10 mins, 1 hr 10 mins, 1 hr 20 mins,12 ,12,101,6g,2g,26mg,45mg,4g,0g,8g,145mg,4.3,50,,,1mg,37mg,1mg,2g
+39,6738910,Chef John's Swedish Meatballs,30 mins,45 mins, 2 hrs 15 mins,6 ,6,479,36g,17g,194mg,1206mg,10g,1g,28g,429mg,4.6,610,, 1 hr,1mg,76mg,3mg,2g
+40,6597522,Habanero Hellfire Chili,30 mins, 1 hr 30 mins, 2 hrs,8 ,8,595,32g,11g,91mg,1575mg,48g,12g,35g,1687mg,4.7,352,8 servings,,111mg,159mg,7mg,13g
+41,6665018,German Hamburgers (Frikadellen),20 mins,10 mins,40 mins,4 ,4,272,16g,6g,117mg,138mg,9g,1g,22g,351mg,4.4,65,,10 mins,8mg,40mg,3mg,2g
+42,6664053,Sarma (Stuffed Cabbage),25 mins, 3 hrs 5 mins, 3 hrs 30 mins,8 ,8,315,15g,5g,119mg,1075mg,12g,2g,32g,686mg,4.5,44,,,37mg,56mg,4mg,3g
+43,6650975,Golabki (Stuffed Cabbage Rolls),45 mins, 1 hr 15 mins, 2 hrs 15 mins,9 ,9,404,17g,7g,75mg,1025mg,38g,4g,25g,1355mg,4.4,38,18 golabki,15 mins,116mg,117mg,3mg,18g
+44,6649955,Baked Pork Spring Rolls,30 mins,30 mins, 1 hr,12 ,12,154,5g,1g,15mg,201mg,20g,1g,7g,105mg,4.5,373,12 spring rolls,,3mg,24mg,1mg,0g
+45,6663175,Cheesy Meatloaf,15 mins, 1 hr, 1 hr 15 mins,8 ,8,408,23g,10g,136mg,702mg,18g,1g,30g,309mg,4.5,210,8 servings,,1mg,285mg,3mg,2g
+46,6594910,Fast Creamy Tomato Penne,10 mins,20 mins,30 mins,8 ,8,287,21g,9g,78mg,146mg,8g,1g,17g,320mg,4.4,132,,,6mg,49mg,1mg,2g
+47,6589216,Gyoza,30 mins,15 mins,45 mins,10 ,10,184,9g,2g,38mg,546mg,19g,1g,8g,156mg,4.4,203,30 gyoza,,7mg,30mg,2mg,1g
+48,6569236,Ham Balls,,,,8 ,8,646,33g,12g,173mg,1388mg,46g,1g,40g,780mg,4.6,63,8 servings,,5mg,96mg,4mg,36g
+49,6591182,Grandma's Crispy Pork Wontons, 1 hr,24 mins, 1 hr 24 mins,12 ,12,266,14g,3g,59mg,727mg,23g,1g,12g,230mg,4.7,62,4 dozen wontons,,2mg,41mg,2mg,1g
+50,6571545,Italian Style Sausage,10 mins,15 mins,25 mins,6 ,6,315,22g,8g,98mg,852mg,1g,0g,27g,403mg,4.7,159,6 servings,,1mg,33mg,2mg,0g
+51,6596288,Maple Breakfast Sausage,10 mins,10 mins,20 mins,12 ,12,229,15g,5g,61mg,631mg,6g,0g,17g,283mg,4.5,32,,,1mg,30mg,1mg,4g
+52,6575458,Garlic Rice,5 mins,15 mins,20 mins,4 ,4,293,9g,2g,6mg,686mg,46g,1g,6g,98mg,4.4,90,,,1mg,25mg,2mg,0g
+53,6582167,Chinese Lion's Head Soup,15 mins,20 mins,35 mins,4 ,4,431,34g,11g,130mg,991mg,7g,2g,24g,649mg,4.6,139,4 servings,,33mg,120mg,2mg,2g
+54,6591097,Slovak Stuffed Cabbage,30 mins, 1 hr 30 mins, 2 hrs,8 ,8,556,37g,14g,101mg,2096mg,32g,7g,26g,876mg,4.5,265,8 to 10 servings,,110mg,102mg,5mg,17g
+55,6664809,Egg Roll in a Bowl,20 mins,20 mins,40 mins,2 ,2,463,22g,7g,76mg,1202mg,38g,7g,27g,931mg,4.6,30,2 servings,,91mg,137mg,4mg,13g
+56,6605133,The Sarge's Goetta - German Breakfast Treat, 5 hrs,10 mins, 6 hrs 30 mins,20 ,20,511,36g,12g,70mg,1036mg,29g,4g,18g,222mg,4.6,107,, 1 hr 20 mins,2mg,21mg,3mg,2g
+57,6582596,Instant Pot Cabbage Roll Soup,10 mins,30 mins,55 mins,10 ,10,356,16g,6g,61mg,1091mg,30g,4g,23g,721mg,4.6,29,,15 mins,41mg,86mg,4mg,9g
+58,6741676,Chiles en Nogada (Mexican Stuffed Poblano Peppers in Walnut Sauce), 1 hr,30 mins, 1 hr 35 mins,8 ,8,724,51g,13g,86mg,227mg,41g,9g,34g,1220mg,5.0,4,8 servings,5 mins,107mg,231mg,4mg,23g
+59,6598282,Pork and Bamboo Shoots,15 mins,15 mins,30 mins,2 ,2,353,30g,6g,27mg,340mg,12g,4g,12g,436mg,4.0,5,2 servings,,40mg,49mg,2mg,6g
+60,6593600,Dim Sum Asian Dumplings,40 mins,20 mins, 1 hr,5 ,5,344,18g,5g,66mg,139mg,26g,2g,20g,377mg,4.5,13,40 dumplings,,6mg,27mg,3mg,3g
+61,6589075,My Favorite Pork Turkey Meatloaf,25 mins, 1 hr 10 mins, 1 hr 40 mins,8 ,8,310,17g,5g,125mg,783mg,15g,2g,26g,448mg,4.6,70,8 servings,5 mins,12mg,58mg,3mg,5g
+62,6591007,Hawaiian Pork Hash,20 mins,30 mins,50 mins,25 ,25,64,1g,0g,11mg,151mg,10g,0g,3g,37mg,4.7,30,25 dumplings,,0mg,10mg,1mg,0g

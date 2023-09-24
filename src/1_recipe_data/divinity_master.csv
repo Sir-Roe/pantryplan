@@ -1,8 +1,8 @@
-,id_recipe,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Calcium,Potassium,Average_Review,Review_Count,Iron,Vitamin C,Cholesterol
-0,6574665,20 mins,30 mins, 12 hrs, 12 hrs 50 mins,48 ,4 dozen,48,67,1g,0g,5mg,15g,0g,12g,0g,3mg,10mg,4.6,208,,,
-1,6596732,20 mins,30 mins, 8 hrs, 8 hrs 50 mins,18 ,1 1/2 dozen,18,114,,,44mg,29g,,25g,0g,2mg,7mg,4.4,110,,,
-2,6569539,20 mins,15 mins,,35 mins,40 ,2 divinity rolls,40,84,2g,0g,21mg,18g,0g,14g,1g,2mg,24mg,3.4,16,0mg,,
-3,6602957,15 mins,3 mins,15 mins,33 mins,24 ,2 dozen divinity pieces,24,79,,,8mg,20g,,18g,0g,1mg,5mg,3.8,10,,,
-4,6597324,,,,,4 ,4 servings,4,611,,,200mg,157g,,136g,2g,9mg,32mg,4.2,53,,,
-5,6605135,5 mins,20 mins,,25 mins,24 ,24 candies,24,174,4g,0g,27mg,37g,1g,31g,1g,5mg,26mg,4.6,20,0mg,0mg,
-6,6583810,10 mins,7 mins,,17 mins,32 ,2 pounds,32,112,6g,1g,15mg,15g,1g,14g,1g,37mg,70mg,4.7,3,0mg,0mg,3mg
+,id_recipe,name,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Calcium,Potassium,Average_Review,Review_Count,Iron,Vitamin C,Cholesterol
+0,6574665,Divinity,20 mins,30 mins, 12 hrs, 12 hrs 50 mins,48 ,4 dozen,48,67,1g,0g,5mg,15g,0g,12g,0g,3mg,10mg,4.6,208,,,
+1,6596732,Old-Fashioned Divinity Candy,20 mins,30 mins, 8 hrs, 8 hrs 50 mins,18 ,1 1/2 dozen,18,114,,,44mg,29g,,25g,0g,2mg,7mg,4.4,110,,,
+2,6569539,Peanut Butter Divinity Roll,20 mins,15 mins,,35 mins,40 ,2 divinity rolls,40,84,2g,0g,21mg,18g,0g,14g,1g,2mg,24mg,3.4,16,0mg,,
+3,6602957,Microwave Divinity,15 mins,3 mins,15 mins,33 mins,24 ,2 dozen divinity pieces,24,79,,,8mg,20g,,18g,0g,1mg,5mg,3.8,10,,,
+4,6597324,Bill's Divinity,,,,,4 ,4 servings,4,611,,,200mg,157g,,136g,2g,9mg,32mg,4.2,53,,,
+5,6605135,Gelatin Divinity,5 mins,20 mins,,25 mins,24 ,24 candies,24,174,4g,0g,27mg,37g,1g,31g,1g,5mg,26mg,4.6,20,0mg,0mg,
+6,6583810,Georgia Nuggets,10 mins,7 mins,,17 mins,32 ,2 pounds,32,112,6g,1g,15mg,15g,1g,14g,1g,37mg,70mg,4.7,3,0mg,0mg,3mg

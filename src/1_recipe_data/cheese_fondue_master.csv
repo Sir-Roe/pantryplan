@@ -1,14 +1,14 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Yield:,Additional Time:
-0,6664296,5 mins,10 mins,15 mins,5 ,5,670,29g,17g,91mg,940mg,57g,2g,4g,37g,0mg,858mg,4mg,225mg,4.5,618,,
-1,6597286,15 mins,10 mins,25 mins,24 ,24,113,8g,5g,27mg,120mg,1g,,0g,7g,,228mg,0mg,31mg,4.4,247,,
-2,6592672,10 mins,15 mins,25 mins,6 ,6,332,23g,15g,75mg,505mg,7g,0g,1g,20g,0mg,576mg,1mg,88mg,4.5,76,,
-3,6582888,5 mins,10 mins,15 mins,8 ,8,248,19g,12g,60mg,368mg,3g,0g,1g,15g,1mg,415mg,1mg,79mg,4.5,27,8 servings,
-4,6576518,5 mins,10 mins,15 mins,64 ,64,49,4g,2g,12mg,72mg,1g,,0g,3g,0mg,86mg,0mg,25mg,3.9,210,8 cups,
-5,6605647,5 mins,5 mins,10 mins,14 ,14,116,6g,3g,17mg,307mg,11g,0g,1g,6g,0mg,87mg,1mg,71mg,4.6,36,14 servings,
-6,6649730,10 mins,15 mins,25 mins,10 ,10,215,14g,9g,46mg,179mg,3g,,1g,13g,0mg,461mg,0mg,67mg,5.0,1,10 servings,
-7,6602184,15 mins,10 mins,25 mins,8 ,8,197,16g,10g,51mg,143mg,3g,,1g,8g,0mg,201mg,1mg,84mg,,,3 cups,
-8,6650097,15 mins,10 mins,25 mins,6 ,6,428,25g,13g,97mg,1221mg,17g,3g,6g,31g,15mg,561mg,2mg,238mg,5.0,11,6 servings,
-9,6648184,15 mins,15 mins,30 mins,4 ,4,902,49g,29g,156mg,1358mg,47g,5g,4g,52g,25mg,1619mg,3mg,788mg,5.0,1,4 servings,
-10,6581234,15 mins,10 mins,25 mins,8 ,8,223,16g,10g,53mg,250mg,4g,0g,1g,15g,1mg,429mg,0mg,66mg,4.1,34,8 servings,
-11,6567744,10 mins,26 mins,36 mins,12 ,12,273,26g,16g,90mg,259mg,4g,0g,1g,7g,0mg,149mg,0mg,53mg,3.0,1,3 cups,
-12,6562069,,,20 mins,10 ,10,279,15g,8g,40mg,420mg,23g,1g,7g,12g,1mg,193mg,1mg,188mg,3.5,2,,20 mins
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Yield:,Additional Time:
+0,6664296,Cheese Fondue,5 mins,10 mins,15 mins,5 ,5,670,29g,17g,91mg,940mg,57g,2g,4g,37g,0mg,858mg,4mg,225mg,4.5,618,,
+1,6597286,Best Formula Three-Cheese Fondue,15 mins,10 mins,25 mins,24 ,24,113,8g,5g,27mg,120mg,1g,,0g,7g,,228mg,0mg,31mg,4.4,247,,
+2,6592672,Beer Cheese Fondue,10 mins,15 mins,25 mins,6 ,6,332,23g,15g,75mg,505mg,7g,0g,1g,20g,0mg,576mg,1mg,88mg,4.5,76,,
+3,6582888,Cheddar-Beer Fondue,5 mins,10 mins,15 mins,8 ,8,248,19g,12g,60mg,368mg,3g,0g,1g,15g,1mg,415mg,1mg,79mg,4.5,27,8 servings,
+4,6576518,Basic Fondue,5 mins,10 mins,15 mins,64 ,64,49,4g,2g,12mg,72mg,1g,,0g,3g,0mg,86mg,0mg,25mg,3.9,210,8 cups,
+5,6605647,Parmesan Fondue,5 mins,5 mins,10 mins,14 ,14,116,6g,3g,17mg,307mg,11g,0g,1g,6g,0mg,87mg,1mg,71mg,4.6,36,14 servings,
+6,6649730,Classic Cheese Fondue,10 mins,15 mins,25 mins,10 ,10,215,14g,9g,46mg,179mg,3g,,1g,13g,0mg,461mg,0mg,67mg,5.0,1,10 servings,
+7,6602184,Crab Cheese Fondue,15 mins,10 mins,25 mins,8 ,8,197,16g,10g,51mg,143mg,3g,,1g,8g,0mg,201mg,1mg,84mg,,,3 cups,
+8,6650097,Easy Pizza Fondue,15 mins,10 mins,25 mins,6 ,6,428,25g,13g,97mg,1221mg,17g,3g,6g,31g,15mg,561mg,2mg,238mg,5.0,11,6 servings,
+9,6648184,Swiss Fondue,15 mins,15 mins,30 mins,4 ,4,902,49g,29g,156mg,1358mg,47g,5g,4g,52g,25mg,1619mg,3mg,788mg,5.0,1,4 servings,
+10,6581234,Tarek's Irish Stout Fondue,15 mins,10 mins,25 mins,8 ,8,223,16g,10g,53mg,250mg,4g,0g,1g,15g,1mg,429mg,0mg,66mg,4.1,34,8 servings,
+11,6567744,Quick Fontina Cheese Fondue,10 mins,26 mins,36 mins,12 ,12,273,26g,16g,90mg,259mg,4g,0g,1g,7g,0mg,149mg,0mg,53mg,3.0,1,3 cups,
+12,6562069,Hillshire Farm Lit'l Smokies and Brie Fondue,,,20 mins,10 ,10,279,15g,8g,40mg,420mg,23g,1g,7g,12g,1mg,193mg,1mg,188mg,3.5,2,,20 mins

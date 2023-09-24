@@ -1,18 +1,18 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
-0,6648157,25 mins, 1 hr 15 mins, 1 hr 40 mins,4 ,4,532,21g,5g,18mg,1396mg,38g,8g,9g,57g,109mg,367mg,11mg,761mg,4.4,283,,
-1,6598783,15 mins,10 mins,35 mins,8 ,8,126,3g,1g,,571mg,12g,3g,2g,15g,0mg,46mg,3mg,120mg,5.0,7,10 mins,16 sausage patties
-2,6573124,20 mins, 1 hr 30 mins, 1 hr 50 mins,9 ,9,225,5g,1g,42mg,814mg,31g,5g,6g,15g,13mg,85mg,4mg,547mg,4.6,155,,8 to 10 servings
-3,6591616,10 mins, 1 hr, 1 hr 10 mins,6 ,6,582,5g,1g,,2000mg,74g,28g,11g,68g,38mg,257mg,17mg,614mg,4.6,286,,6 to 8 servings
-4,6602690,30 mins,30 mins, 1 hr 5 mins,12 ,12,437,28g,7g,,1216mg,32g,4g,3g,14g,1mg,76mg,3mg,224mg,5.0,1,5 mins,12 empanadas
-5,6569309,20 mins,45 mins, 1 hr 5 mins,8 ,8,487,18g,10g,45mg,1807mg,36g,8g,6g,51g,12mg,475mg,10mg,468mg,4.6,140,,8 servings
-6,6577853,10 mins,20 mins,30 mins,5 ,5,182,3g,0g,,664mg,23g,8g,13g,16g,52mg,136mg,6mg,522mg,4.0,36,,5 servings
-7,6603253,45 mins,35 mins, 1 hr 20 mins,8 ,8,420,20g,9g,41mg,383mg,41g,7g,8g,21g,27mg,261mg,2mg,513mg,3.9,15,,1 casserole
-8,6576330,,,,8 ,8,339,5g,0g,1mg,1420mg,51g,13g,13g,36g,12mg,154mg,8mg,1003mg,4.1,18,,8 servings
-9,6582414,5 mins,20 mins,25 mins,2 ,2,273,3g,0g,,268mg,46g,10g,5g,21g,44mg,111mg,4mg,1152mg,,,,2 potato skins
-10,6591294,25 mins, 3 hrs 20 mins, 3 hrs 45 mins,9 ,9,177,2g,0g,,854mg,27g,8g,9g,12g,34mg,93mg,4mg,546mg,3.9,29,,9 servings
-11,6572137,20 mins,30 mins,50 mins,12 ,12,224,7g,2g,,457mg,24g,5g,1g,20g,24mg,62mg,4mg,303mg,,,,12 enchiladas
-12,6589180,10 mins,30 mins,40 mins,6 ,6,560,17g,8g,36mg,1375mg,21g,7g,3g,94g,1mg,305mg,17mg,203mg,3.8,14,,6 servings
-13,6579330,30 mins,30 mins, 1 hr 30 mins,4 ,4,469,16g,3g,,1246mg,66g,15g,6g,19g,46mg,135mg,6mg,1333mg,,,30 mins,4 servings
-14,6562498,10 mins, 2 hrs, 2 hrs 10 mins,4 ,4,351,3g,1g,8mg,1111mg,54g,23g,10g,40g,12mg,257mg,8mg,1283mg,,,,4 servings
-15,6562984,10 mins, 1 hr 10 mins, 1 hr 20 mins,8 ,8,312,14g,6g,27mg,1074mg,20g,4g,3g,32g,18mg,265mg,5mg,433mg,,,,1 2-quart casserole
-16,6596438,45 mins, 1 hr, 1 hr 45 mins,8 ,8,253,11g,4g,13mg,718mg,27g,9g,7g,13g,29mg,148mg,5mg,406mg,4.7,114,,8 servings
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
+0,6648157,Stuffed Bell Peppers,25 mins, 1 hr 15 mins, 1 hr 40 mins,4 ,4,532,21g,5g,18mg,1396mg,38g,8g,9g,57g,109mg,367mg,11mg,761mg,4.4,283,,
+1,6598783,Vegan Breakfast Sausage,15 mins,10 mins,35 mins,8 ,8,126,3g,1g,,571mg,12g,3g,2g,15g,0mg,46mg,3mg,120mg,5.0,7,10 mins,16 sausage patties
+2,6573124,Vegetarian Meatloaf with Vegetables,20 mins, 1 hr 30 mins, 1 hr 50 mins,9 ,9,225,5g,1g,42mg,814mg,31g,5g,6g,15g,13mg,85mg,4mg,547mg,4.6,155,,8 to 10 servings
+3,6591616,Vegetarian Chili,10 mins, 1 hr, 1 hr 10 mins,6 ,6,582,5g,1g,,2000mg,74g,28g,11g,68g,38mg,257mg,17mg,614mg,4.6,286,,6 to 8 servings
+4,6602690,Vegan Puerto Rican Empanadas,30 mins,30 mins, 1 hr 5 mins,12 ,12,437,28g,7g,,1216mg,32g,4g,3g,14g,1mg,76mg,3mg,224mg,5.0,1,5 mins,12 empanadas
+5,6569309,Vegetarian Burrito Casserole,20 mins,45 mins, 1 hr 5 mins,8 ,8,487,18g,10g,45mg,1807mg,36g,8g,6g,51g,12mg,475mg,10mg,468mg,4.6,140,,8 servings
+6,6577853,Unstuffed Cabbage,10 mins,20 mins,30 mins,5 ,5,182,3g,0g,,664mg,23g,8g,13g,16g,52mg,136mg,6mg,522mg,4.0,36,,5 servings
+7,6603253,Eggplant Pasta Bake,45 mins,35 mins, 1 hr 20 mins,8 ,8,420,20g,9g,41mg,383mg,41g,7g,8g,21g,27mg,261mg,2mg,513mg,3.9,15,,1 casserole
+8,6576330,Granny's Easy Chili,,,,8 ,8,339,5g,0g,1mg,1420mg,51g,13g,13g,36g,12mg,154mg,8mg,1003mg,4.1,18,,8 servings
+9,6582414,Vegan Air Fryer Potato Skins,5 mins,20 mins,25 mins,2 ,2,273,3g,0g,,268mg,46g,10g,5g,21g,44mg,111mg,4mg,1152mg,,,,2 potato skins
+10,6591294,Vegetarian Pumpkin Spinach Chili,25 mins, 3 hrs 20 mins, 3 hrs 45 mins,9 ,9,177,2g,0g,,854mg,27g,8g,9g,12g,34mg,93mg,4mg,546mg,3.9,29,,9 servings
+11,6572137,Vegan Pasilla Enchiladas with Avocado and TVP,20 mins,30 mins,50 mins,12 ,12,224,7g,2g,,457mg,24g,5g,1g,20g,24mg,62mg,4mg,303mg,,,,12 enchiladas
+12,6589180,Jean's Swedish Faux Meatballs,10 mins,30 mins,40 mins,6 ,6,560,17g,8g,36mg,1375mg,21g,7g,3g,94g,1mg,305mg,17mg,203mg,3.8,14,,6 servings
+13,6579330,Vegan Chili Cheese Fries,30 mins,30 mins, 1 hr 30 mins,4 ,4,469,16g,3g,,1246mg,66g,15g,6g,19g,46mg,135mg,6mg,1333mg,,,30 mins,4 servings
+14,6562498,Slow Cooker Meatless Taco Filling,10 mins, 2 hrs, 2 hrs 10 mins,4 ,4,351,3g,1g,8mg,1111mg,54g,23g,10g,40g,12mg,257mg,8mg,1283mg,,,,4 servings
+15,6562984,Meatless Potato Casserole,10 mins, 1 hr 10 mins, 1 hr 20 mins,8 ,8,312,14g,6g,27mg,1074mg,20g,4g,3g,32g,18mg,265mg,5mg,433mg,,,,1 2-quart casserole
+16,6596438,Wicked Good Veggie Chili,45 mins, 1 hr, 1 hr 45 mins,8 ,8,253,11g,4g,13mg,718mg,27g,9g,7g,13g,29mg,148mg,5mg,406mg,4.7,114,,8 servings

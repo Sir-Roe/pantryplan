@@ -1,62 +1,62 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:
-0,7372869,10 mins,55 mins, 1 hr 5 mins,8 ,1 Pie,8,400,14g,4g,47mg,291mg,64g,3g,40g,6g,7mg,145mg,2mg,346mg,5.0,2,
-1,6737266,30 mins, 1 hr, 1 hr 30 mins,8 ,1 9-inch pie,8,290,9g,3g,4mg,130mg,51g,2g,34g,3g,5mg,56mg,1mg,197mg,4.8,"1,329",
-2,6664688,20 mins,35 mins, 1 hr 25 mins,8 ,1 9-inch pie,8,437,19g,6g,33mg,259mg,64g,5g,33g,5g,57mg,72mg,2mg,341mg,4.6,"1,035",30 mins
-3,6650106,20 mins, 1 hr, 2 hrs 20 mins,8 ,1 9-inch pie,8,342,11g,4g,74mg,159mg,57g,2g,42g,5g,15mg,64mg,1mg,217mg,4.5,223, 1 hr
-4,6595604,15 mins,55 mins, 1 hr 10 mins,8 ,8 servings,8,493,20g,10g,51mg,188mg,75g,2g,52g,5g,5mg,107mg,2mg,274mg,4.7,309,
-5,6573744,45 mins, 1 hr, 1 hr 45 mins,16 ,2 to 9 - inch pies,16,554,27g,7g,24mg,44mg,74g,4g,32g,6g,21mg,34mg,3mg,204mg,4.8,109,
-6,6603911,30 mins,50 mins, 1 hr 20 mins,8 ,1 9-inch pie,8,506,19g,10g,41mg,148mg,81g,3g,51g,5g,27mg,48mg,2mg,216mg,4.8,100,
-7,6737320,,,,8 ,1 9-inch pie,8,287,8g,2g,,132mg,54g,2g,21g,2g,5mg,37mg,1mg,181mg,4.8,80,
-8,6649933,,,,8 ,1 to 9 - inch pie,8,237,5g,1g,,104mg,48g,3g,37g,1g,6mg,32mg,1mg,186mg,4.2,50,
-9,6602095,15 mins,45 mins, 3 hrs,8 ,1 pie,8,324,15g,4g,,310mg,45g,4g,17g,4g,9mg,51mg,2mg,209mg,4.7,32, 2 hrs
-10,6602850,15 mins,40 mins, 2 hrs 10 mins,8 ,1 9-inch pie,8,442,18g,6g,8mg,257mg,69g,4g,41g,4g,41mg,56mg,2mg,259mg,4.6,82, 1 hr 15 mins
-11,6588324,30 mins,55 mins, 4 hrs 25 mins,8 ,1 9-inch pie,8,391,15g,4g,,244mg,61g,4g,36g,4g,34mg,50mg,2mg,233mg,4.7,167, 3 hrs
-12,6576984,,,,8 ,1 to 9 - inch pie,8,427,22g,7g,13mg,325mg,54g,3g,24g,4g,10mg,45mg,2mg,184mg,4.8,125,
-13,6570795,25 mins, 1 hr, 1 hr 35 mins,8 ,1 9-inch pie,8,291,11g,4g,11mg,151mg,46g,2g,,3g,4mg,74mg,1mg,204mg,4.9,16,10 mins
-14,6649886,10 mins,30 mins,40 mins,12 ,1 9-inch pie,12,194,11g,3g,,169mg,22g,3g,5g,2g,15mg,16mg,1mg,106mg,3.5,4,
-15,6570888,15 mins,5 mins, 1 hr 20 mins,8 ,8 servings,8,211,7g,4g,15mg,122mg,36g,2g,26g,1g,35mg,22mg,1mg,131mg,4.6,24, 1 hr
-16,6575233,20 mins, 1 hr 5 mins, 1 hr 25 mins,8 ,1 9x9-inch pan,8,332,14g,8g,108mg,91mg,50g,1g,35g,4g,3mg,59mg,1mg,155mg,4.8,8,
-17,6572563,20 mins,50 mins, 1 hr 10 mins,16 ,2 8-inch pies,16,357,14g,5g,0mg,234mg,55g,3g,25g,4g,5mg,26mg,2mg,131mg,4.8,26,
-18,6577754,15 mins,45 mins, 1 hr,6 ,1 9-inch single-crust pie,6,349,14g,4g,67mg,195mg,53g,2g,34g,5g,5mg,66mg,2mg,223mg,4.3,12,
-19,6603186,20 mins,45 mins, 1 hr 5 mins,8 ,1 to 9 - inch pie,8,447,19g,6g,8mg,312mg,66g,3g,38g,4g,7mg,51mg,2mg,207mg,4.7,15,
-20,6596375,30 mins,40 mins, 1 hr 10 mins,8 ,1 9-inch pie,8,432,15g,2g,1mg,298mg,72g,2g,40g,5g,21mg,53mg,2mg,198mg,4.2,46,
-21,6586353,,,,8 ,1 9-inch pie,8,404,15g,2g,,281mg,67g,4g,38g,3g,10mg,33mg,1mg,184mg,4.8,32,
-22,6588899,15 mins,55 mins, 1 hr 10 mins,12 ,1 10-inch pie,12,335,14g,3g,28mg,208mg,51g,1g,35g,4g,3mg,56mg,1mg,150mg,5.0,3,
-23,6578757,15 mins,30 mins,45 mins,8 ,1 9-inch pie,8,395,16g,7g,41mg,184mg,61g,2g,39g,4g,2mg,47mg,2mg,146mg,3.7,6,
-24,6593804,20 mins, 1 hr, 1 hr 20 mins,8 ,1 9-inch pie,8,350,11g,3g,76mg,459mg,58g,2g,44g,6g,5mg,120mg,1mg,314mg,5.0,2,
-25,6574085,30 mins,40 mins, 1 hr 10 mins,8 ,1 9-inch pie,8,406,20g,7g,11mg,266mg,55g,3g,29g,4g,31mg,44mg,2mg,198mg,4.3,26,
-26,6572760,20 mins, 1 hr, 1 hr 20 mins,8 ,1 to 9 - inch pie,8,443,21g,10g,98mg,274mg,59g,2g,40g,6g,4mg,91mg,1mg,224mg,4.7,77,
-27,6650498,,,,8 ,1 to 9 - inch pie,8,689,27g,11g,31mg,611mg,109g,4g,68g,6g,42mg,77mg,2mg,326mg,4.4,80,
-28,6590065,25 mins, 1 hr 5 mins, 2 hrs 30 mins,8 ,1 9-inch pie,8,432,18g,6g,8mg,276mg,65g,3g,38g,4g,7mg,47mg,2mg,189mg,4.7,24, 1 hr
-29,6664283,30 mins,40 mins, 1 hr 40 mins,8 ,8 servings,8,450,18g,6g,8mg,331mg,70g,4g,43g,4g,33mg,69mg,2mg,289mg,4.7,29,30 mins
-30,6569265,20 mins,30 mins, 2 hrs 50 mins,8 ,1 9-inch pie,8,428,16g,7g,89mg,217mg,68g,2g,53g,5g,5mg,77mg,1mg,232mg,5.0,2, 2 hrs
-31,6568803,30 mins,40 mins, 5 hrs 10 mins,8 ,1 9-inch pie,8,397,17g,5g,4mg,252mg,59g,4g,31g,4g,40mg,73mg,2mg,285mg,4.4,23, 4 hrs
-32,6569387,20 mins,35 mins,55 mins,8 ,1 9-inch pie,8,368,17g,8g,31mg,190mg,52g,2g,29g,3g,25mg,58mg,2mg,217mg,,,
-33,6606165,15 mins, 1 hr 30 mins, 1 hr 45 mins,15 ,1 9x13 inch baking dish,15,345,13g,7g,104mg,114mg,54g,2g,40g,6g,6mg,116mg,1mg,285mg,4.6,59,
-34,6589824,15 mins,45 mins, 1 hr,8 ,1 to 9 - inch pie,8,379,25g,12g,90mg,234mg,34g,1g,20g,6g,3mg,91mg,1mg,196mg,4.4,11,
-35,6601958,20 mins,55 mins, 1 hr 15 mins,16 ,2 9-inch pies,16,440,19g,9g,71mg,256mg,64g,2g,46g,5g,20mg,75mg,1mg,204mg,4.5,2,
-36,6569075,15 mins,40 mins,55 mins,8 ,1 to 9 - inch pie,8,407,15g,2g,23mg,291mg,64g,2g,32g,4g,5mg,67mg,1mg,245mg,4.3,60,
-37,6591166,15 mins,45 mins, 1 hr,8 ,1 to 9 - inch pie,8,377,16g,3g,23mg,314mg,55g,3g,26g,4g,9mg,69mg,1mg,263mg,4.3,15,
-38,6590739,20 mins,45 mins, 1 hr 5 mins,8 ,1 to 9 - inch pie,8,390,15g,4g,0mg,238mg,62g,3g,37g,4g,10mg,64mg,2mg,265mg,4.5,20,
-39,6603232,15 mins,45 mins, 2 hrs,8 ,1 to 9 - inch pie,8,361,12g,4g,10mg,145mg,64g,3g,45g,3g,5mg,61mg,1mg,213mg,4.6,5, 1 hr
-40,6592425,30 mins, 1 hr, 4 hrs 30 mins,8 ,1 9-inch pie,8,404,16g,4g,47mg,253mg,61g,3g,38g,5g,4mg,51mg,2mg,179mg,4.5,8, 3 hrs
-41,6588174,20 mins,35 mins, 9 hrs 5 mins,8 ,1 10-inch pie,8,834,29g,13g,198mg,370mg,133g,3g,81g,13g,38mg,336mg,2mg,590mg,4.7,3, 8 hrs 10 mins
-42,6577363,30 mins, 1 hr, 2 hrs 30 mins,8 ,1 9-inch pie,8,557,23g,8g,85mg,341mg,83g,4g,50g,7g,31mg,71mg,3mg,317mg,4.7,37, 1 hr
-43,6571499,40 mins,45 mins, 1 hr 55 mins,8 ,1 9-inch pie,8,392,17g,3g,8mg,314mg,57g,2g,29g,4g,6mg,36mg,2mg,153mg,5.0,1,30 mins
-44,6568540,30 mins,40 mins, 1 hr 10 mins,8 ,1 9-inch pie,8,447,17g,5g,6mg,245mg,70g,4g,40g,5g,28mg,70mg,2mg,355mg,4.0,2,
-45,6565987,35 mins, 1 hr 10 mins, 3 hrs 45 mins,8 ,1 double-crust pie,8,585,26g,15g,82mg,380mg,88g,10g,42g,8g,57mg,82mg,1mg,370mg,,, 2 hrs
-46,6565370,20 mins,40 mins, 1 hr,8 ,1 9-inch pie,8,448,18g,5g,4mg,270mg,71g,4g,41g,4g,7mg,23mg,2mg,136mg,4.0,1,
-47,6664265,15 mins,30 mins, 2 hrs 40 mins,8 ,1 galette,8,264,13g,8g,54mg,134mg,35g,2g,,4g,,,,246mg,4.0,1, 1 hr 55 mins
-48,6606115,30 mins,55 mins, 3 hrs 25 mins,8 ,1 9-inch pie,8,546,28g,12g,38mg,323mg,70g,3g,34g,6g,34mg,54mg,2mg,248mg,4.3,7, 2 hrs
-49,6598264,20 mins,50 mins, 1 hr 10 mins,8 ,1 9-inch deep dish pie,8,317,10g,3g,70mg,176mg,55g,2g,39g,4g,5mg,69mg,1mg,232mg,4.4,44,
-50,6593837,15 mins,50 mins, 1 hr 5 mins,8 ,1 9-inch pie,8,456,20g,9g,31mg,274mg,68g,4g,39g,4g,6mg,50mg,2mg,214mg,,,
-51,6588391,15 mins,45 mins, 2 hrs 15 mins,6 ,1 8-inch pie,6,669,39g,16g,103mg,473mg,76g,3g,45g,7g,11mg,52mg,2mg,181mg,3.9,7, 1 hr 15 mins
-52,6577019,15 mins, 1 hr, 1 hr 15 mins,8 ,1 (9-inch) pie,8,210,7g,1g,47mg,121mg,36g,1g,26g,3g,2mg,37mg,1mg,125mg,4.3,65,
-53,6567409,30 mins, 1 hr 10 mins, 1 hr 40 mins,9 ,9 servings,9,352,17g,11g,114mg,236mg,46g,1g,32g,5g,3mg,52mg,1mg,160mg,,,
-54,6564503,20 mins,25 mins,45 mins,8 ,1 8-inch square baking pan,8,380,13g,8g,92mg,253mg,62g,2g,46g,4g,5mg,68mg,1mg,220mg,,,
-55,6664366,20 mins,30 mins,50 mins,9 ,1 9-inch square cobbler,9,218,7g,4g,38mg,205mg,36g,2g,22g,3g,4mg,109mg,1mg,192mg,4.6,205,
-56,6665065,20 mins,55 mins, 1 hr 15 mins,12 ,,12,519,20g,12g,110mg,248mg,81g,2g,52g,7g,3mg,98mg,2mg,244mg,4.5,39,
-57,6588946,10 mins,45 mins,55 mins,12 ,,12,305,8g,5g,20mg,61mg,57g,3g,44g,3g,14mg,88mg,1mg,298mg,4.6,67,
-58,6576553,30 mins, 1 hr, 1 hr 30 mins,12 ,12 servings,12,192,3g,2g,8mg,213mg,40g,1g,30g,2g,3mg,64mg,1mg,117mg,4.7,25,
-59,6583906,10 mins,50 mins, 1 hr 15 mins,12 ,12 servings,12,239,9g,5g,14mg,172mg,38g,1g,29g,2g,5mg,83mg,1mg,196mg,5.0,3,15 mins
-60,6583325,20 mins,40 mins, 1 hr 10 mins,10 ,10 servings,10,180,5g,3g,12mg,44mg,35g,2g,25g,1g,17mg,68mg,1mg,271mg,4.4,14,10 mins
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:
+0,7372869,Old Fashioned Rhubarb Pie,10 mins,55 mins, 1 hr 5 mins,8 ,1 Pie,8,400,14g,4g,47mg,291mg,64g,3g,40g,6g,7mg,145mg,2mg,346mg,5.0,2,
+1,6737266,Fresh Rhubarb Pie,30 mins, 1 hr, 1 hr 30 mins,8 ,1 9-inch pie,8,290,9g,3g,4mg,130mg,51g,2g,34g,3g,5mg,56mg,1mg,197mg,4.8,"1,329",
+2,6664688,Strawberry Rhubarb Pie,20 mins,35 mins, 1 hr 25 mins,8 ,1 9-inch pie,8,437,19g,6g,33mg,259mg,64g,5g,33g,5g,57mg,72mg,2mg,341mg,4.6,"1,035",30 mins
+3,6650106,Strawberry Rhubarb Custard Pie,20 mins, 1 hr, 2 hrs 20 mins,8 ,1 9-inch pie,8,342,11g,4g,74mg,159mg,57g,2g,42g,5g,15mg,64mg,1mg,217mg,4.5,223, 1 hr
+4,6595604,Rhubarb Sour Cream Pie,15 mins,55 mins, 1 hr 10 mins,8 ,8 servings,8,493,20g,10g,51mg,188mg,75g,2g,52g,5g,5mg,107mg,2mg,274mg,4.7,309,
+5,6573744,Bumbleberry Pie II,45 mins, 1 hr, 1 hr 45 mins,16 ,2 to 9 - inch pies,16,554,27g,7g,24mg,44mg,74g,4g,32g,6g,21mg,34mg,3mg,204mg,4.8,109,
+6,6603911,Crumb-Topped Strawberry Rhubarb Pie,30 mins,50 mins, 1 hr 20 mins,8 ,1 9-inch pie,8,506,19g,10g,41mg,148mg,81g,3g,51g,5g,27mg,48mg,2mg,216mg,4.8,100,
+7,6737320,Rhubarb Cherry Pie,,,,8 ,1 9-inch pie,8,287,8g,2g,,132mg,54g,2g,21g,2g,5mg,37mg,1mg,181mg,4.8,80,
+8,6649933,Fast Apple Rhubarb Pie,,,,8 ,1 to 9 - inch pie,8,237,5g,1g,,104mg,48g,3g,37g,1g,6mg,32mg,1mg,186mg,4.2,50,
+9,6602095,Amazing Blueberry Rhubarb Pie,15 mins,45 mins, 3 hrs,8 ,1 pie,8,324,15g,4g,,310mg,45g,4g,17g,4g,9mg,51mg,2mg,209mg,4.7,32, 2 hrs
+10,6602850,Favorite Strawberry Rhubarb Pie,15 mins,40 mins, 2 hrs 10 mins,8 ,1 9-inch pie,8,442,18g,6g,8mg,257mg,69g,4g,41g,4g,41mg,56mg,2mg,259mg,4.6,82, 1 hr 15 mins
+11,6588324,Renee's Strawberry Rhubarb Pie,30 mins,55 mins, 4 hrs 25 mins,8 ,1 9-inch pie,8,391,15g,4g,,244mg,61g,4g,36g,4g,34mg,50mg,2mg,233mg,4.7,167, 3 hrs
+12,6576984,Berry Rhubarb Pie,,,,8 ,1 to 9 - inch pie,8,427,22g,7g,13mg,325mg,54g,3g,24g,4g,10mg,45mg,2mg,184mg,4.8,125,
+13,6570795,Rhubarb Meringue Pie,25 mins, 1 hr, 1 hr 35 mins,8 ,1 9-inch pie,8,291,11g,4g,11mg,151mg,46g,2g,,3g,4mg,74mg,1mg,204mg,4.9,16,10 mins
+14,6649886,Fruit of the Forest Pie,10 mins,30 mins,40 mins,12 ,1 9-inch pie,12,194,11g,3g,,169mg,22g,3g,5g,2g,15mg,16mg,1mg,106mg,3.5,4,
+15,6570888,Maman's Fresh Strawberry Rhubarb Pie,15 mins,5 mins, 1 hr 20 mins,8 ,8 servings,8,211,7g,4g,15mg,122mg,36g,2g,26g,1g,35mg,22mg,1mg,131mg,4.6,24, 1 hr
+16,6575233,Fresh Rhubarb Torte,20 mins, 1 hr 5 mins, 1 hr 25 mins,8 ,1 9x9-inch pan,8,332,14g,8g,108mg,91mg,50g,1g,35g,4g,3mg,59mg,1mg,155mg,4.8,8,
+17,6572563,Saskatoon (Serviceberry) Rhubarb Pie,20 mins,50 mins, 1 hr 10 mins,16 ,2 8-inch pies,16,357,14g,5g,0mg,234mg,55g,3g,25g,4g,5mg,26mg,2mg,131mg,4.8,26,
+18,6577754,Rhubarb Pie - Single Crust,15 mins,45 mins, 1 hr,6 ,1 9-inch single-crust pie,6,349,14g,4g,67mg,195mg,53g,2g,34g,5g,5mg,66mg,2mg,223mg,4.3,12,
+19,6603186,Pineapple-Rhubarb Pie,20 mins,45 mins, 1 hr 5 mins,8 ,1 to 9 - inch pie,8,447,19g,6g,8mg,312mg,66g,3g,38g,4g,7mg,51mg,2mg,207mg,4.7,15,
+20,6596375,Grandma's Strawberry Rhubarb Pie,30 mins,40 mins, 1 hr 10 mins,8 ,1 9-inch pie,8,432,15g,2g,1mg,298mg,72g,2g,40g,5g,21mg,53mg,2mg,198mg,4.2,46,
+21,6586353,Bumbleberry Pie I,,,,8 ,1 9-inch pie,8,404,15g,2g,,281mg,67g,4g,38g,3g,10mg,33mg,1mg,184mg,4.8,32,
+22,6588899,Crumb-Top Rhubarb Custard Pie,15 mins,55 mins, 1 hr 10 mins,12 ,1 10-inch pie,12,335,14g,3g,28mg,208mg,51g,1g,35g,4g,3mg,56mg,1mg,150mg,5.0,3,
+23,6578757,Easy Rhubarb Pie,15 mins,30 mins,45 mins,8 ,1 9-inch pie,8,395,16g,7g,41mg,184mg,61g,2g,39g,4g,2mg,47mg,2mg,146mg,3.7,6,
+24,6593804,Grandma's Rhubarb Custard Pie,20 mins, 1 hr, 1 hr 20 mins,8 ,1 9-inch pie,8,350,11g,3g,76mg,459mg,58g,2g,44g,6g,5mg,120mg,1mg,314mg,5.0,2,
+25,6574085,Summer Strawberry Rhubarb Pie,30 mins,40 mins, 1 hr 10 mins,8 ,1 9-inch pie,8,406,20g,7g,11mg,266mg,55g,3g,29g,4g,31mg,44mg,2mg,198mg,4.3,26,
+26,6572760,Sour Cream Rhubarb Pie,20 mins, 1 hr, 1 hr 20 mins,8 ,1 to 9 - inch pie,8,443,21g,10g,98mg,274mg,59g,2g,40g,6g,4mg,91mg,1mg,224mg,4.7,77,
+27,6650498,Strawberry Rhubarb Pie III,,,,8 ,1 to 9 - inch pie,8,689,27g,11g,31mg,611mg,109g,4g,68g,6g,42mg,77mg,2mg,326mg,4.4,80,
+28,6590065,Bluebarb Pie,25 mins, 1 hr 5 mins, 2 hrs 30 mins,8 ,1 9-inch pie,8,432,18g,6g,8mg,276mg,65g,3g,38g,4g,7mg,47mg,2mg,189mg,4.7,24, 1 hr
+29,6664283,Orange-Kissed Strawberry Rhubarb Pie,30 mins,40 mins, 1 hr 40 mins,8 ,8 servings,8,450,18g,6g,8mg,331mg,70g,4g,43g,4g,33mg,69mg,2mg,289mg,4.7,29,30 mins
+30,6569265,Dave's Rhubarb Custard Pie with Meringue,20 mins,30 mins, 2 hrs 50 mins,8 ,1 9-inch pie,8,428,16g,7g,89mg,217mg,68g,2g,53g,5g,5mg,77mg,1mg,232mg,5.0,2, 2 hrs
+31,6568803,My Own Strawberry Rhubarb Pie,30 mins,40 mins, 5 hrs 10 mins,8 ,1 9-inch pie,8,397,17g,5g,4mg,252mg,59g,4g,31g,4g,40mg,73mg,2mg,285mg,4.4,23, 4 hrs
+32,6569387,Rhubarb-Strawberry Herb Crumble Pie,20 mins,35 mins,55 mins,8 ,1 9-inch pie,8,368,17g,8g,31mg,190mg,52g,2g,29g,3g,25mg,58mg,2mg,217mg,,,
+33,6606165,Grandma's Rhubarb Torte,15 mins, 1 hr 30 mins, 1 hr 45 mins,15 ,1 9x13 inch baking dish,15,345,13g,7g,104mg,114mg,54g,2g,40g,6g,6mg,116mg,1mg,285mg,4.6,59,
+34,6589824,Rhubarb Cheese Pie,15 mins,45 mins, 1 hr,8 ,1 to 9 - inch pie,8,379,25g,12g,90mg,234mg,34g,1g,20g,6g,3mg,91mg,1mg,196mg,4.4,11,
+35,6601958,Chef Neal's Strawberry-Rhubarb Sour Cream Pies,20 mins,55 mins, 1 hr 15 mins,16 ,2 9-inch pies,16,440,19g,9g,71mg,256mg,64g,2g,46g,5g,20mg,75mg,1mg,204mg,4.5,2,
+36,6569075,Rhubarb Pie IV,15 mins,40 mins,55 mins,8 ,1 to 9 - inch pie,8,407,15g,2g,23mg,291mg,64g,2g,32g,4g,5mg,67mg,1mg,245mg,4.3,60,
+37,6591166,Teenie's Accidental Rhubarb-Raspberry Pie,15 mins,45 mins, 1 hr,8 ,1 to 9 - inch pie,8,377,16g,3g,23mg,314mg,55g,3g,26g,4g,9mg,69mg,1mg,263mg,4.3,15,
+38,6590739,Pineapple Rhubarb Pie,20 mins,45 mins, 1 hr 5 mins,8 ,1 to 9 - inch pie,8,390,15g,4g,0mg,238mg,62g,3g,37g,4g,10mg,64mg,2mg,265mg,4.5,20,
+39,6603232,Evie's Rhubarb Pie with Oatmeal Crumble,15 mins,45 mins, 2 hrs,8 ,1 to 9 - inch pie,8,361,12g,4g,10mg,145mg,64g,3g,45g,3g,5mg,61mg,1mg,213mg,4.6,5, 1 hr
+40,6592425,Grammy's Favorite Rhubarb Custard Pie,30 mins, 1 hr, 4 hrs 30 mins,8 ,1 9-inch pie,8,404,16g,4g,47mg,253mg,61g,3g,38g,5g,4mg,51mg,2mg,179mg,4.5,8, 3 hrs
+41,6588174,Breezy Key Lime Pie with Strawberry Rhubarb Glaze,20 mins,35 mins, 9 hrs 5 mins,8 ,1 10-inch pie,8,834,29g,13g,198mg,370mg,133g,3g,81g,13g,38mg,336mg,2mg,590mg,4.7,3, 8 hrs 10 mins
+42,6577363,Buffalochef's Strawberry Rhubarb Pie,30 mins, 1 hr, 2 hrs 30 mins,8 ,1 9-inch pie,8,557,23g,8g,85mg,341mg,83g,4g,50g,7g,31mg,71mg,3mg,317mg,4.7,37, 1 hr
+43,6571499,"Red, White, and Blue Pie",40 mins,45 mins, 1 hr 55 mins,8 ,1 9-inch pie,8,392,17g,3g,8mg,314mg,57g,2g,29g,4g,6mg,36mg,2mg,153mg,5.0,1,30 mins
+44,6568540,Strawberry Raisin Rhubarb Pie,30 mins,40 mins, 1 hr 10 mins,8 ,1 9-inch pie,8,447,17g,5g,6mg,245mg,70g,4g,40g,5g,28mg,70mg,2mg,355mg,4.0,2,
+45,6565987,Gluten-Free Berry Rhubarb Pie,35 mins, 1 hr 10 mins, 3 hrs 45 mins,8 ,1 double-crust pie,8,585,26g,15g,82mg,380mg,88g,10g,42g,8g,57mg,82mg,1mg,370mg,,, 2 hrs
+46,6565370,Honey-Sweetened Fruit Pie,20 mins,40 mins, 1 hr,8 ,1 9-inch pie,8,448,18g,5g,4mg,270mg,71g,4g,41g,4g,7mg,23mg,2mg,136mg,4.0,1,
+47,6664265,Rhubarb Galette,15 mins,30 mins, 2 hrs 40 mins,8 ,1 galette,8,264,13g,8g,54mg,134mg,35g,2g,,4g,,,,246mg,4.0,1, 1 hr 55 mins
+48,6606115,Nicki's Summer Strawberry Rhubarb Pie,30 mins,55 mins, 3 hrs 25 mins,8 ,1 9-inch pie,8,546,28g,12g,38mg,323mg,70g,3g,34g,6g,34mg,54mg,2mg,248mg,4.3,7, 2 hrs
+49,6598264,Rhubarb Cream Pie,20 mins,50 mins, 1 hr 10 mins,8 ,1 9-inch deep dish pie,8,317,10g,3g,70mg,176mg,55g,2g,39g,4g,5mg,69mg,1mg,232mg,4.4,44,
+50,6593837,Rhapple Pie,15 mins,50 mins, 1 hr 5 mins,8 ,1 9-inch pie,8,456,20g,9g,31mg,274mg,68g,4g,39g,4g,6mg,50mg,2mg,214mg,,,
+51,6588391,Zendea's Strawberry Rhubarb Pie,15 mins,45 mins, 2 hrs 15 mins,6 ,1 8-inch pie,6,669,39g,16g,103mg,473mg,76g,3g,45g,7g,11mg,52mg,2mg,181mg,3.9,7, 1 hr 15 mins
+52,6577019,Rhubarb Custard Pie,15 mins, 1 hr, 1 hr 15 mins,8 ,1 (9-inch) pie,8,210,7g,1g,47mg,121mg,36g,1g,26g,3g,2mg,37mg,1mg,125mg,4.3,65,
+53,6567409,Rhubarb Angel Dessert,30 mins, 1 hr 10 mins, 1 hr 40 mins,9 ,9 servings,9,352,17g,11g,114mg,236mg,46g,1g,32g,5g,3mg,52mg,1mg,160mg,,,
+54,6564503,Favorite Rhubarb Dessert,20 mins,25 mins,45 mins,8 ,1 8-inch square baking pan,8,380,13g,8g,92mg,253mg,62g,2g,46g,4g,5mg,68mg,1mg,220mg,,,
+55,6664366,Rhubarb Cobbler,20 mins,30 mins,50 mins,9 ,1 9-inch square cobbler,9,218,7g,4g,38mg,205mg,36g,2g,22g,3g,4mg,109mg,1mg,192mg,4.6,205,
+56,6665065,Nikki's Best Rhubarb Dessert Ever,20 mins,55 mins, 1 hr 15 mins,12 ,,12,519,20g,12g,110mg,248mg,81g,2g,52g,7g,3mg,98mg,2mg,244mg,4.5,39,
+57,6588946,Strawberry Rhubarb Cobbler,10 mins,45 mins,55 mins,12 ,,12,305,8g,5g,20mg,61mg,57g,3g,44g,3g,14mg,88mg,1mg,298mg,4.6,67,
+58,6576553,Old Fashioned Rhubarb Cobbler,30 mins, 1 hr, 1 hr 30 mins,12 ,12 servings,12,192,3g,2g,8mg,213mg,40g,1g,30g,2g,3mg,64mg,1mg,117mg,4.7,25,
+59,6583906,Strawberry-Rhubarb Cobbler,10 mins,50 mins, 1 hr 15 mins,12 ,12 servings,12,239,9g,5g,14mg,172mg,38g,1g,29g,2g,5mg,83mg,1mg,196mg,5.0,3,15 mins
+60,6583325,"Rhubarb, Strawberry, and Blueberry Cobblerette",20 mins,40 mins, 1 hr 10 mins,10 ,10 servings,10,180,5g,3g,12mg,44mg,35g,2g,25g,1g,17mg,68mg,1mg,271mg,4.4,14,10 mins

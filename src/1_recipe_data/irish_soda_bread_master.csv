@@ -1,26 +1,26 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:
-0,6650741,15 mins,45 mins, 1 hr,20 ,1 (1 1/2-pound) loaf,20,172,8g,3g,16mg,269mg,23g,1g,3g,4g,0mg,53mg,1mg,56mg,4.5,"1,652",
-1,6649050,15 mins,30 mins,45 mins,4 ,,4,218,3g,2g,8mg,33mg,43g,5g,2g,5g,42mg,28mg,2mg,906mg,4.1,55,
-2,6596597,15 mins, 1 hr, 1 hr 15 mins,10 ,1 loaf,10,225,11g,2g,2mg,555mg,28g,4g,4g,6g,1mg,72mg,1mg,212mg,4.5,64,
-3,6571533,5 mins,15 mins,20 mins,4 ,4 farls,4,252,1g,0g,3mg,671mg,51g,2g,3g,9g,1mg,81mg,3mg,159mg,4.7,110,
-4,6577438,15 mins,45 mins, 1 hr 10 mins,12 ,1 9-inch round loaf,12,360,10g,6g,68mg,447mg,62g,2g,26g,8g,1mg,84mg,3mg,265mg,4.6,93,10 mins
-5,6591028,15 mins, 1 hr, 1 hr 45 mins,12 ,1 loaf,12,185,5g,3g,11mg,401mg,30g,3g,10g,5g,0mg,65mg,1mg,151mg,4.5,177,30 mins
-6,6587646,15 mins, 1 hr 5 mins, 1 hr 25 mins,8 ,8 servings,8,511,9g,5g,67mg,543mg,100g,3g,15g,11g,2mg,164mg,4mg,389mg,4.7,828,5 mins
-7,6570059,20 mins,40 mins, 1 hr 30 mins,12 ,1 loaf,12,150,2g,1g,4mg,267mg,28g,3g,5g,6g,0mg,87mg,1mg,177mg,4.7,62,30 mins
-8,6738054,30 mins,45 mins, 1 hr 30 mins,16 ,2 loaves,16,195,4g,2g,20mg,382mg,36g,2g,12g,5g,1mg,67mg,2mg,200mg,4.7,110,15 mins
-9,6592540,20 mins,55 mins, 1 hr 15 mins,12 ,1 loaf,12,305,9g,5g,37mg,371mg,52g,2g,16g,6g,1mg,91mg,2mg,219mg,4.6,61,
-10,6589701,10 mins,45 mins,55 mins,18 ,2 loaves,18,387,12g,7g,49mg,582mg,64g,2g,18g,8g,1mg,147mg,3mg,220mg,4.4,5,
-11,6664352,10 mins,45 mins,55 mins,8 ,1 loaf,8,255,4g,1g,25mg,153mg,48g,2g,10g,7g,1mg,51mg,3mg,174mg,4.4,116,
-12,6578946,15 mins, 1 hr 10 mins, 9 hrs 25 mins,12 ,1 loaf,12,321,12g,8g,32mg,481mg,44g,2g,17g,5g,1mg,118mg,2mg,178mg,4.9,22, 8 hrs
-13,6598305,25 mins,40 mins, 1 hr 15 mins,12 ,1 9-inch round bread,12,293,9g,5g,48mg,361mg,47g,2g,15g,7g,1mg,112mg,2mg,197mg,4.6,33,10 mins
-14,6568417,15 mins, 1 hr, 1 hr 15 mins,10 ,1 - 9x5 inch loaf,10,323,11g,6g,60mg,124mg,53g,1g,30g,5g,1mg,46mg,2mg,248mg,4.5,40,
-15,6579089,15 mins, 1 hr, 1 hr 15 mins,16 ,1 9-inch loaf,16,225,1g,0g,1mg,400mg,52g,2g,25g,5g,1mg,48mg,2mg,222mg,4.6,15,
-16,6573621,15 mins, 1 hr, 1 hr 15 mins,24 ,1 12-inch bread,24,196,1g,0g,17mg,179mg,43g,1g,21g,4g,0mg,126mg,2mg,155mg,4.7,14,
-17,6568160,20 mins,45 mins, 1 hr 15 mins,20 ,1 2-pound loaf,20,236,8g,5g,28mg,243mg,36g,1g,14g,4g,1mg,60mg,2mg,160mg,5.0,6,10 mins
-18,6739552,15 mins, 1 hr, 1 hr 45 mins,10 ,1 loaf,10,272,8g,5g,20mg,751mg,43g,3g,5g,8g,1mg,200mg,2mg,180mg,,,30 mins
-19,6563900,10 mins,35 mins,45 mins,10 ,1 loaf,10,182,1g,0g,2mg,901mg,38g,5g,2g,7g,0mg,77mg,2mg,215mg,,,
-20,6588780,25 mins,10 mins,35 mins,6 ,6 servings,6,215,4g,2g,69mg,408mg,34g,1g,2g,10g,0mg,112mg,2mg,134mg,4.6,15,
-21,6572698,15 mins,35 mins, 12 hrs 50 mins,8 ,2 loaves,8,295,2g,1g,3mg,743mg,60g,7g,7g,11g,1mg,110mg,3mg,500mg,3.7,6, 12 hrs
-22,6600662,15 mins,45 mins, 1 hr 10 mins,12 ,1 loaf,12,200,5g,3g,41mg,263mg,36g,1g,15g,4g,0mg,36mg,2mg,101mg,4.3,4,10 mins
-23,6583402,10 mins, 1 hr 15 mins, 1 hr 25 mins,10 ,1 loaf,10,346,2g,1g,35mg,374mg,74g,3g,32g,9g,1mg,161mg,3mg,272mg,4.2,5,
-24,6569311,10 mins,50 mins, 1 hr,12 ,12 servings,12,230,2g,1g,2mg,247mg,49g,2g,22g,5g,1mg,94mg,2mg,190mg,4.7,3,
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:
+0,6650741,Amazingly Easy Irish Soda Bread,15 mins,45 mins, 1 hr,20 ,1 (1 1/2-pound) loaf,20,172,8g,3g,16mg,269mg,23g,1g,3g,4g,0mg,53mg,1mg,56mg,4.5,"1,652",
+1,6649050,Irish Potato Farls,15 mins,30 mins,45 mins,4 ,,4,218,3g,2g,8mg,33mg,43g,5g,2g,5g,42mg,28mg,2mg,906mg,4.1,55,
+2,6596597,Perfectly Moist Irish Wheaten Bread,15 mins, 1 hr, 1 hr 15 mins,10 ,1 loaf,10,225,11g,2g,2mg,555mg,28g,4g,4g,6g,1mg,72mg,1mg,212mg,4.5,64,
+3,6571533,Irish Soda Farls,5 mins,15 mins,20 mins,4 ,4 farls,4,252,1g,0g,3mg,671mg,51g,2g,3g,9g,1mg,81mg,3mg,159mg,4.7,110,
+4,6577438,Best Ever Irish Soda Bread,15 mins,45 mins, 1 hr 10 mins,12 ,1 9-inch round loaf,12,360,10g,6g,68mg,447mg,62g,2g,26g,8g,1mg,84mg,3mg,265mg,4.6,93,10 mins
+5,6591028,Guinness® Bread,15 mins, 1 hr, 1 hr 45 mins,12 ,1 loaf,12,185,5g,3g,11mg,401mg,30g,3g,10g,5g,0mg,65mg,1mg,151mg,4.5,177,30 mins
+6,6587646,Irish Soda Bread with Caraway Seeds,15 mins, 1 hr 5 mins, 1 hr 25 mins,8 ,8 servings,8,511,9g,5g,67mg,543mg,100g,3g,15g,11g,2mg,164mg,4mg,389mg,4.7,828,5 mins
+7,6570059,Irish Brown Bread,20 mins,40 mins, 1 hr 30 mins,12 ,1 loaf,12,150,2g,1g,4mg,267mg,28g,3g,5g,6g,0mg,87mg,1mg,177mg,4.7,62,30 mins
+8,6738054,Chef John's Irish Soda Bread,30 mins,45 mins, 1 hr 30 mins,16 ,2 loaves,16,195,4g,2g,20mg,382mg,36g,2g,12g,5g,1mg,67mg,2mg,200mg,4.7,110,15 mins
+9,6592540,Mom's Irish Soda Bread,20 mins,55 mins, 1 hr 15 mins,12 ,1 loaf,12,305,9g,5g,37mg,371mg,52g,2g,16g,6g,1mg,91mg,2mg,219mg,4.6,61,
+10,6589701,Irish Soda Bread with Raisins,10 mins,45 mins,55 mins,18 ,2 loaves,18,387,12g,7g,49mg,582mg,64g,2g,18g,8g,1mg,147mg,3mg,220mg,4.4,5,
+11,6664352,Grandpa McAndrew's Irish Soda Bread,10 mins,45 mins,55 mins,8 ,1 loaf,8,255,4g,1g,25mg,153mg,48g,2g,10g,7g,1mg,51mg,3mg,174mg,4.4,116,
+12,6578946,Irish Soda Bread and Whiskey Butter,15 mins, 1 hr 10 mins, 9 hrs 25 mins,12 ,1 loaf,12,321,12g,8g,32mg,481mg,44g,2g,17g,5g,1mg,118mg,2mg,178mg,4.9,22, 8 hrs
+13,6598305,Macomb's Irish Soda Bread,25 mins,40 mins, 1 hr 15 mins,12 ,1 9-inch round bread,12,293,9g,5g,48mg,361mg,47g,2g,15g,7g,1mg,112mg,2mg,197mg,4.6,33,10 mins
+14,6568417,Sweet Irish Bread,15 mins, 1 hr, 1 hr 15 mins,10 ,1 - 9x5 inch loaf,10,323,11g,6g,60mg,124mg,53g,1g,30g,5g,1mg,46mg,2mg,248mg,4.5,40,
+15,6579089,Irish Bread,15 mins, 1 hr, 1 hr 15 mins,16 ,1 9-inch loaf,16,225,1g,0g,1mg,400mg,52g,2g,25g,5g,1mg,48mg,2mg,222mg,4.6,15,
+16,6573621,Spotted Dog Irish Bread,15 mins, 1 hr, 1 hr 15 mins,24 ,1 12-inch bread,24,196,1g,0g,17mg,179mg,43g,1g,21g,4g,0mg,126mg,2mg,155mg,4.7,14,
+17,6568160,Liquor-Infused Irish Soda Bread,20 mins,45 mins, 1 hr 15 mins,20 ,1 2-pound loaf,20,236,8g,5g,28mg,243mg,36g,1g,14g,4g,1mg,60mg,2mg,160mg,5.0,6,10 mins
+18,6739552,Irish Soda Bread with Buttermilk,15 mins, 1 hr, 1 hr 45 mins,10 ,1 loaf,10,272,8g,5g,20mg,751mg,43g,3g,5g,8g,1mg,200mg,2mg,180mg,,,30 mins
+19,6563900,Irish Whole Wheat Soda Bread,10 mins,35 mins,45 mins,10 ,1 loaf,10,182,1g,0g,2mg,901mg,38g,5g,2g,7g,0mg,77mg,2mg,215mg,,,
+20,6588780,Basic Irish Soda Bread With Cheese,25 mins,10 mins,35 mins,6 ,6 servings,6,215,4g,2g,69mg,408mg,34g,1g,2g,10g,0mg,112mg,2mg,134mg,4.6,15,
+21,6572698,O'Kee's Irish Soda Oatmeal Bread,15 mins,35 mins, 12 hrs 50 mins,8 ,2 loaves,8,295,2g,1g,3mg,743mg,60g,7g,7g,11g,1mg,110mg,3mg,500mg,3.7,6, 12 hrs
+22,6600662,McNamara's Irish Soda Bread,15 mins,45 mins, 1 hr 10 mins,12 ,1 loaf,12,200,5g,3g,41mg,263mg,36g,1g,15g,4g,0mg,36mg,2mg,101mg,4.3,4,10 mins
+23,6583402,Aunt Kathy's Irish Soda Bread,10 mins, 1 hr 15 mins, 1 hr 25 mins,10 ,1 loaf,10,346,2g,1g,35mg,374mg,74g,3g,32g,9g,1mg,161mg,3mg,272mg,4.2,5,
+24,6569311,Auntie Mae's Irish Bread,10 mins,50 mins, 1 hr,12 ,12 servings,12,230,2g,1g,2mg,247mg,49g,2g,22g,5g,1mg,94mg,2mg,190mg,4.7,3,

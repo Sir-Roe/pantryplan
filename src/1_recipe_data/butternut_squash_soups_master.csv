@@ -1,64 +1,64 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Yield:,Additional Time:
-0,6563399,30 mins, 1 hr, 1 hr 30 mins,6 ,6,238,9g,7g,4mg,797mg,40g,7g,8g,5g,62mg,166mg,4mg,1117mg,5.0,6,,
-1,6650430,20 mins,45 mins, 1 hr 5 mins,4 ,4,305,7g,4g,21mg,1151mg,60g,10g,11g,7g,89mg,178mg,3mg,1650mg,4.7,"2,554",,
-2,6740840,25 mins,30 mins,55 mins,6 ,6,398,33g,18g,83mg,1081mg,20g,3g,4g,8g,30mg,143mg,2mg,616mg,4.6,"3,335",,
-3,6602237,15 mins,30 mins,45 mins,4 ,4,296,13g,8g,38mg,1615mg,44g,6g,17g,6g,52mg,183mg,2mg,962mg,4.9,532,,
-4,6649333,45 mins, 1 hr 10 mins, 1 hr 55 mins,8 ,8,298,11g,6g,34mg,1855mg,45g,6g,7g,7g,57mg,154mg,2mg,1102mg,4.4,278,,
-5,6651106,25 mins, 1 hr 55 mins, 2 hrs 20 mins,6 ,6,315,17g,9g,49mg,1838mg,42g,6g,14g,5g,59mg,153mg,2mg,1058mg,4.8,216,,
-6,6583860,15 mins,20 mins,35 mins,4 ,4,140,5g,3g,12mg,866mg,24g,6g,2g,4g,10mg,60mg,2mg,322mg,4.6,497,,
-7,6569875,15 mins,45 mins, 1 hr,8 ,8,167,6g,4g,16mg,416mg,28g,5g,7g,3g,58mg,100mg,2mg,761mg,4.8,100,8 servings,
-8,6650415,30 mins, 1 hr 15 mins, 1 hr 45 mins,10 ,10,187,7g,1g,,820mg,27g,6g,6g,6g,42mg,115mg,2mg,532mg,4.5,73,1 gallon,
-9,6736780,30 mins,35 mins, 1 hr 5 mins,4 ,4,268,7g,4g,16mg,810mg,48g,7g,13g,5g,49mg,122mg,3mg,996mg,4.5,439,,
-10,6586661,20 mins, 1 hr, 1 hr 20 mins,8 ,8,266,15g,9g,42mg,139mg,34g,5g,11g,5g,77mg,166mg,4mg,972mg,4.6,543,8 servings,
-11,6597852,15 mins, 1 hr 30 mins, 1 hr 45 mins,8 ,8,169,7g,4g,20mg,888mg,28g,7g,9g,3g,29mg,99mg,1mg,591mg,4.8,526,8 servings,
-12,6580051,35 mins, 1 hr, 1 hr 35 mins,6 ,6,324,18g,6g,23mg,1786mg,41g,10g,9g,5g,46mg,184mg,3mg,1036mg,4.5,113,6 servings,
-13,6596922,20 mins,30 mins,50 mins,4 ,4,204,13g,6g,24mg,854mg,22g,4g,11g,3g,32mg,88mg,1mg,515mg,4.6,118,4 servings,
-14,6604859,15 mins, 1 hr 33 mins, 2 hrs 3 mins,6 ,6,315,23g,15g,10mg,624mg,28g,5g,6g,7g,38mg,114mg,5mg,858mg,4.8,93,6 servings,15 mins
-15,6584358,30 mins,45 mins, 1 hr 15 mins,4 ,4,338,16g,5g,21mg,702mg,47g,7g,14g,8g,70mg,295mg,2mg,1358mg,,,4 servings,
-16,6591539,40 mins, 1 hr, 1 hr 40 mins,12 ,12,219,10g,5g,20mg,947mg,29g,7g,10g,6g,30mg,135mg,2mg,755mg,4.5,146,12 cups,
-17,6568836,15 mins,35 mins,50 mins,6 ,6,212,10g,6g,32mg,339mg,31g,8g,9g,4g,36mg,130mg,2mg,721mg,4.5,73,,
-18,6601851,15 mins,45 mins, 1 hr,6 ,6,335,21g,14g,47mg,415mg,32g,4g,14g,8g,38mg,297mg,2mg,887mg,4.7,363,,
-19,6739605,15 mins,35 mins,50 mins,6 ,6,231,14g,8g,46mg,1059mg,27g,4g,10g,3g,35mg,100mg,1mg,660mg,4.9,65,,
-20,6581823,15 mins, 1 hr 50 mins, 2 hrs 5 mins,8 ,8,158,8g,4g,22mg,520mg,22g,4g,5g,3g,35mg,96mg,1mg,616mg,4.5,29,,
-21,6571740,15 mins, 1 hr, 1 hr 15 mins,4 ,4,283,10g,4g,19mg,1060mg,44g,9g,19g,10g,53mg,329mg,10mg,1510mg,4.6,11,,
-22,6571920,20 mins,30 mins,50 mins,12 ,12,189,10g,5g,23mg,788mg,25g,5g,7g,3g,7mg,44mg,6mg,261mg,4.7,202,,
-23,6577326,20 mins,35 mins, 1 hr,6 ,6,139,5g,1g,3mg,96mg,22g,4g,6g,4g,35mg,92mg,2mg,628mg,5.0,2,,5 mins
-24,6584280,15 mins,45 mins, 1 hr,4 ,4,403,25g,19g,,524mg,48g,9g,14g,6g,74mg,181mg,6mg,1220mg,4.6,11,,
-25,6586752,20 mins, 1 hr 23 mins, 2 hrs 18 mins,6 ,6,115,5g,1g,,287mg,16g,3g,7g,2g,17mg,88mg,1mg,321mg,5.0,2,4 quarts,35 mins
-26,6577868,15 mins,20 mins,35 mins,6 ,6,140,3g,1g,5mg,32mg,29g,5g,12g,3g,24mg,94mg,1mg,552mg,4.1,33,6 servings,
-27,6579717,20 mins,40 mins, 1 hr 10 mins,6 ,6,220,10g,6g,26mg,605mg,33g,5g,14g,3g,36mg,110mg,2mg,659mg,4.7,17,6 servings,10 mins
-28,6573760,20 mins, 1 hr 10 mins, 1 hr 30 mins,6 ,6,213,8g,5g,26mg,262mg,37g,6g,8g,4g,61mg,153mg,2mg,1026mg,4.0,1,6 servings,
-29,6592016,20 mins, 1 hr, 1 hr 20 mins,8 ,8,82,2g,2g,,506mg,16g,3g,7g,1g,17mg,63mg,1mg,304mg,4.8,16,8 servings,
-30,6604658,30 mins, 1 hr 35 mins, 2 hrs 5 mins,8 ,8,357,28g,19g,3mg,867mg,25g,5g,7g,5g,12mg,71mg,7mg,750mg,5.0,5,8 servings,
-31,6603998,15 mins, 1 hr 3 mins, 1 hr 18 mins,8 ,8,317,15g,6g,76mg,1076mg,32g,4g,5g,17g,30mg,91mg,3mg,757mg,4.4,91,8 servings,
-32,6603131,15 mins,30 mins,45 mins,4 ,4,250,8g,1g,0mg,688mg,47g,9g,10g,5g,73mg,204mg,4mg,1386mg,4.0,2,4 servings,
-33,6601217,15 mins,40 mins,55 mins,6 ,6,167,5g,1g,4mg,817mg,26g,4g,6g,3g,41mg,89mg,2mg,659mg,5.0,3,6 servings,
-34,6588774,,,,8 ,8,313,12g,6g,26mg,598mg,50g,8g,15g,6g,43mg,204mg,2mg,1028mg,4.7,7,8 servings,
-35,6566303,25 mins,30 mins,55 mins,4 ,4,298,8g,1g,6mg,1205mg,56g,8g,23g,6g,55mg,166mg,4mg,1169mg,5.0,1,4 servings,
-36,6600641,30 mins, 1 hr 10 mins, 1 hr 40 mins,8 ,8,142,1g,0g,2mg,377mg,31g,5g,10g,5g,41mg,175mg,2mg,722mg,4.2,218,8 servings,
-37,6596693,30 mins,45 mins, 1 hr 15 mins,8 ,8,345,9g,5g,25mg,558mg,64g,5g,35g,4g,40mg,122mg,2mg,820mg,3.0,3,8 servings,
-38,6573971,30 mins,45 mins, 2 hrs 15 mins,8 ,8,252,6g,1g,1mg,951mg,49g,11g,15g,6g,84mg,169mg,3mg,1398mg,4.0,26,8 servings, 1 hr
-39,6598977,15 mins,40 mins,55 mins,8 ,8,273,8g,5g,16mg,1009mg,49g,10g,14g,5g,58mg,180mg,3mg,1158mg,4.4,7,8 servings,
-40,6586527,30 mins,40 mins, 1 hr 10 mins,6 ,6,303,23g,17g,11mg,259mg,31g,5g,7g,7g,62mg,147mg,4mg,933mg,4.4,9,6 servings,
-41,6593205,25 mins,25 mins,50 mins,4 ,4,245,9g,5g,22mg,532mg,43g,8g,16g,5g,97mg,170mg,2mg,1051mg,4.6,31,4 servings,
-42,6594380,20 mins,40 mins, 1 hr,6 ,6,326,19g,10g,55mg,640mg,35g,5g,10g,5g,46mg,145mg,2mg,948mg,5.0,3,6 servings,
-43,6580054,10 mins,40 mins,50 mins,6 ,6,244,8g,3g,10mg,65mg,40g,6g,5g,6g,37mg,106mg,3mg,798mg,4.4,27,6 servings,
-44,6574966,20 mins,40 mins, 1 hr,6 ,6,298,15g,6g,31mg,1041mg,42g,6g,15g,4g,55mg,155mg,2mg,1016mg,5.0,1,6 servings,
-45,6575992,20 mins, 1 hr 20 mins, 1 hr 40 mins,8 ,8,220,5g,1g,,278mg,45g,9g,16g,4g,37mg,129mg,2mg,829mg,4.4,32,8 servings,
-46,6599677,10 mins,40 mins, 1 hr,6 ,6,240,10g,5g,31mg,1376mg,38g,7g,12g,4g,51mg,134mg,2mg,899mg,4.7,15,6 servings,10 mins
-47,6577226,15 mins,45 mins, 1 hr,6 ,6,243,10g,2g,5mg,92mg,39g,6g,16g,5g,63mg,189mg,2mg,990mg,3.7,3,6 servings,
-48,6567704,30 mins, 1 hr 5 mins, 1 hr 35 mins,6 ,6,348,16g,6g,23mg,191mg,44g,7g,20g,9g,53mg,319mg,2mg,1242mg,4.0,1,6 servings,
-49,6589880,30 mins,30 mins, 1 hr,12 ,12,168,8g,4g,30mg,87mg,19g,2g,2g,5g,8mg,91mg,1mg,192mg,4.5,103,12 servings,
-50,6586971,10 mins,20 mins,35 mins,4 ,4,355,21g,19g,0mg,201mg,44g,8g,8g,6g,73mg,186mg,6mg,1446mg,,,4 servings,5 mins
-51,6581473,15 mins,25 mins,40 mins,4 ,4,235,5g,1g,2mg,384mg,46g,8g,13g,7g,59mg,209mg,3mg,1131mg,4.4,30,4 servings,
-52,6572069,10 mins,20 mins,30 mins,4 ,4,150,7g,4g,16mg,517mg,23g,3g,7g,2g,32mg,88mg,2mg,547mg,4.5,2,4 servings,
-53,6605893,20 mins,40 mins, 1 hr,4 ,4,292,15g,6g,40mg,841mg,29g,4g,11g,11g,28mg,126mg,2mg,781mg,4.8,8,4 servings,
-54,6596116,40 mins,42 mins, 1 hr 22 mins,8 ,8,464,28g,12g,40mg,602mg,44g,6g,4g,14g,13mg,332mg,3mg,455mg,4.6,55,8 servings,
-55,6579129,15 mins, 1 hr 30 mins, 9 hrs 45 mins,8 ,8,370,8g,2g,27mg,1447mg,56g,16g,7g,21g,31mg,190mg,4mg,1361mg,4.9,15,8 servings, 8 hrs
-56,6598471,25 mins,30 mins,55 mins,8 ,8,207,1g,0g,2mg,111mg,47g,7g,12g,5g,30mg,167mg,2mg,1003mg,3.9,53,8 servings,
-57,6578625,30 mins, 1 hr 10 mins, 1 hr 50 mins,6 ,6,248,8g,1g,0mg,334mg,47g,9g,19g,4g,54mg,127mg,2mg,1006mg,4.0,2,6 servings,10 mins
-58,6563554,25 mins,25 mins,55 mins,8 ,8,195,10g,6g,,553mg,29g,5g,6g,3g,51mg,123mg,8mg,894mg,,,8 servings,5 mins
-59,6602166,15 mins, 1 hr 15 mins, 1 hr 30 mins,4 ,4,309,7g,4g,15mg,784mg,61g,8g,11g,8g,78mg,157mg,3mg,1222mg,4.1,64,4 servings,
-60,6577488,30 mins,32 mins, 1 hr 12 mins,6 ,6,200,7g,3g,11mg,314mg,35g,6g,17g,3g,35mg,99mg,2mg,670mg,5.0,2,1 pot of soup,10 mins
-61,6597810,25 mins,45 mins, 1 hr 10 mins,4 ,4,416,9g,2g,,554mg,76g,8g,15g,10g,34mg,188mg,4mg,804mg,4.0,1,4 servings,
-62,6738440,40 mins, 1 hr, 1 hr 40 mins,8 ,8,181,6g,2g,12mg,602mg,29g,5g,9g,6g,39mg,99mg,2mg,736mg,4.6,35,8 servings,
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Yield:,Additional Time:
+0,6563399,Roasted Butternut Squash Soup with Coconut Milk,30 mins, 1 hr, 1 hr 30 mins,6 ,6,238,9g,7g,4mg,797mg,40g,7g,8g,5g,62mg,166mg,4mg,1117mg,5.0,6,,
+1,6650430,Butternut Squash Soup,20 mins,45 mins, 1 hr 5 mins,4 ,4,305,7g,4g,21mg,1151mg,60g,10g,11g,7g,89mg,178mg,3mg,1650mg,4.7,"2,554",,
+2,6740840,Butternut Squash Soup with Cream Cheese,25 mins,30 mins,55 mins,6 ,6,398,33g,18g,83mg,1081mg,20g,3g,4g,8g,30mg,143mg,2mg,616mg,4.6,"3,336",,
+3,6602237,Curried Butternut Squash Soup,15 mins,30 mins,45 mins,4 ,4,296,13g,8g,38mg,1615mg,44g,6g,17g,6g,52mg,183mg,2mg,962mg,4.9,532,,
+4,6649333,Spiced Butternut Squash Soup,45 mins, 1 hr 10 mins, 1 hr 55 mins,8 ,8,298,11g,6g,34mg,1855mg,45g,6g,7g,7g,57mg,154mg,2mg,1102mg,4.4,278,,
+5,6651106,Chef John's Roasted Butternut Squash Soup,25 mins, 1 hr 55 mins, 2 hrs 20 mins,6 ,6,315,17g,9g,49mg,1838mg,42g,6g,14g,5g,59mg,153mg,2mg,1058mg,4.8,216,,
+6,6583860,Best Butternut Squash Soup Ever,15 mins,20 mins,35 mins,4 ,4,140,5g,3g,12mg,866mg,24g,6g,2g,4g,10mg,60mg,2mg,322mg,4.6,497,,
+7,6569875,Butternut Squash Sweet Potato Soup,15 mins,45 mins, 1 hr,8 ,8,167,6g,4g,16mg,416mg,28g,5g,7g,3g,58mg,100mg,2mg,761mg,4.8,100,8 servings,
+8,6650415,Butternut Vegetable Soup,30 mins, 1 hr 15 mins, 1 hr 45 mins,10 ,10,187,7g,1g,,820mg,27g,6g,6g,6g,42mg,115mg,2mg,532mg,4.5,73,1 gallon,
+9,6736780,Butternut Squash Soup with Apple,30 mins,35 mins, 1 hr 5 mins,4 ,4,268,7g,4g,16mg,810mg,48g,7g,13g,5g,49mg,122mg,3mg,996mg,4.5,439,,
+10,6586661,Butternut and Acorn Squash Soup,20 mins, 1 hr, 1 hr 20 mins,8 ,8,266,15g,9g,42mg,139mg,34g,5g,11g,5g,77mg,166mg,4mg,972mg,4.6,543,8 servings,
+11,6597852,Curried Butternut Squash and Pear Soup,15 mins, 1 hr 30 mins, 1 hr 45 mins,8 ,8,169,7g,4g,20mg,888mg,28g,7g,9g,3g,29mg,99mg,1mg,591mg,4.8,526,8 servings,
+12,6580051,Winter Root Vegetable Soup,35 mins, 1 hr, 1 hr 35 mins,6 ,6,324,18g,6g,23mg,1786mg,41g,10g,9g,5g,46mg,184mg,3mg,1036mg,4.5,113,6 servings,
+13,6596922,Butternut Squash and Turnip Soup,20 mins,30 mins,50 mins,4 ,4,204,13g,6g,24mg,854mg,22g,4g,11g,3g,32mg,88mg,1mg,515mg,4.6,118,4 servings,
+14,6604859,Coconut Curry Butternut Squash Soup,15 mins, 1 hr 33 mins, 2 hrs 3 mins,6 ,6,315,23g,15g,10mg,624mg,28g,5g,6g,7g,38mg,114mg,5mg,858mg,4.8,93,6 servings,15 mins
+15,6584358,Vitamix® Butternut Squash Soup,30 mins,45 mins, 1 hr 15 mins,4 ,4,338,16g,5g,21mg,702mg,47g,7g,14g,8g,70mg,295mg,2mg,1358mg,,,4 servings,
+16,6591539,Roasted Butternut Squash Soup with Apples and Bacon,40 mins, 1 hr, 1 hr 40 mins,12 ,12,219,10g,5g,20mg,947mg,29g,7g,10g,6g,30mg,135mg,2mg,755mg,4.5,146,12 cups,
+17,6568836,Butternut Soup,15 mins,35 mins,50 mins,6 ,6,212,10g,6g,32mg,339mg,31g,8g,9g,4g,36mg,130mg,2mg,721mg,4.5,73,,
+18,6601851,Butternut Squash Soup with a Kick,15 mins,45 mins, 1 hr,6 ,6,335,21g,14g,47mg,415mg,32g,4g,14g,8g,38mg,297mg,2mg,887mg,4.7,363,,
+19,6739605,Chef John's Butternut Bisque,15 mins,35 mins,50 mins,6 ,6,231,14g,8g,46mg,1059mg,27g,4g,10g,3g,35mg,100mg,1mg,660mg,4.9,66,,
+20,6581823,Savory Roasted Butternut Squash Soup,15 mins, 1 hr 50 mins, 2 hrs 5 mins,8 ,8,158,8g,4g,22mg,520mg,22g,4g,5g,3g,35mg,96mg,1mg,616mg,4.5,29,,
+21,6571740,Chunky Butternut Squash and Tomato Soup,15 mins, 1 hr, 1 hr 15 mins,4 ,4,283,10g,4g,19mg,1060mg,44g,9g,19g,10g,53mg,329mg,10mg,1510mg,4.6,11,,
+22,6571920,Caramelized Butternut Squash Soup,20 mins,30 mins,50 mins,12 ,12,189,10g,5g,23mg,788mg,25g,5g,7g,3g,7mg,44mg,6mg,261mg,4.7,202,,
+23,6577326,Instant Pot Butternut Squash Soup,20 mins,35 mins, 1 hr,6 ,6,139,5g,1g,3mg,96mg,22g,4g,6g,4g,35mg,92mg,2mg,628mg,5.0,2,,5 mins
+24,6584280,Vegan Butternut Squash Soup,15 mins,45 mins, 1 hr,4 ,4,403,25g,19g,,524mg,48g,9g,14g,6g,74mg,181mg,6mg,1220mg,4.6,11,,
+25,6586752,Vegan Butternut Squash Soup with Almond Milk,20 mins, 1 hr 23 mins, 2 hrs 18 mins,6 ,6,115,5g,1g,,287mg,16g,3g,7g,2g,17mg,88mg,1mg,321mg,5.0,2,4 quarts,35 mins
+26,6577868,Squash and Apple Soup,15 mins,20 mins,35 mins,6 ,6,140,3g,1g,5mg,32mg,29g,5g,12g,3g,24mg,94mg,1mg,552mg,4.1,33,6 servings,
+27,6579717,Butternut Squash and Apple Soup,20 mins,40 mins, 1 hr 10 mins,6 ,6,220,10g,6g,26mg,605mg,33g,5g,14g,3g,36mg,110mg,2mg,659mg,4.7,17,6 servings,10 mins
+28,6573760,South African-Inspired Butternut Soup,20 mins, 1 hr 10 mins, 1 hr 30 mins,6 ,6,213,8g,5g,26mg,262mg,37g,6g,8g,4g,61mg,153mg,2mg,1026mg,4.0,1,6 servings,
+29,6592016,Autumn Squash Soup,20 mins, 1 hr, 1 hr 20 mins,8 ,8,82,2g,2g,,506mg,16g,3g,7g,1g,17mg,63mg,1mg,304mg,4.8,16,8 servings,
+30,6604658,Pumpkin Soup with Coconut Milk,30 mins, 1 hr 35 mins, 2 hrs 5 mins,8 ,8,357,28g,19g,3mg,867mg,25g,5g,7g,5g,12mg,71mg,7mg,750mg,5.0,5,8 servings,
+31,6603998,Butternut Squash and Spicy Sausage Soup,15 mins, 1 hr 3 mins, 1 hr 18 mins,8 ,8,317,15g,6g,76mg,1076mg,32g,4g,5g,17g,30mg,91mg,3mg,757mg,4.4,91,8 servings,
+32,6603131,Spicy Butternut Squash and Carrot Soup,15 mins,30 mins,45 mins,4 ,4,250,8g,1g,0mg,688mg,47g,9g,10g,5g,73mg,204mg,4mg,1386mg,4.0,2,4 servings,
+33,6601217,Butternut Squash Soup with Persimmon,15 mins,40 mins,55 mins,6 ,6,167,5g,1g,4mg,817mg,26g,4g,6g,3g,41mg,89mg,2mg,659mg,5.0,3,6 servings,
+34,6588774,Pressure Cooker Butternut Squash Soup,,,,8 ,8,313,12g,6g,26mg,598mg,50g,8g,15g,6g,43mg,204mg,2mg,1028mg,4.7,7,8 servings,
+35,6566303,Butternut Squash-Carrot Soup,25 mins,30 mins,55 mins,4 ,4,298,8g,1g,6mg,1205mg,56g,8g,23g,6g,55mg,166mg,4mg,1169mg,5.0,1,4 servings,
+36,6600641,Roasted and Curried Butternut Squash Soup,30 mins, 1 hr 10 mins, 1 hr 40 mins,8 ,8,142,1g,0g,2mg,377mg,31g,5g,10g,5g,41mg,175mg,2mg,722mg,4.2,218,8 servings,
+37,6596693,Butternut Squash and Apple Cider Soup,30 mins,45 mins, 1 hr 15 mins,8 ,8,345,9g,5g,25mg,558mg,64g,5g,35g,4g,40mg,122mg,2mg,820mg,3.0,3,8 servings,
+38,6573971,Roasted Winter Vegetable Soup,30 mins,45 mins, 2 hrs 15 mins,8 ,8,252,6g,1g,1mg,951mg,49g,11g,15g,6g,84mg,169mg,3mg,1398mg,4.0,26,8 servings, 1 hr
+39,6598977,Butternut Squash and Parsnip Soup,15 mins,40 mins,55 mins,8 ,8,273,8g,5g,16mg,1009mg,49g,10g,14g,5g,58mg,180mg,3mg,1158mg,4.4,7,8 servings,
+40,6586527,Red Curry Coconut Squash Soup,30 mins,40 mins, 1 hr 10 mins,6 ,6,303,23g,17g,11mg,259mg,31g,5g,7g,7g,62mg,147mg,4mg,933mg,4.4,9,6 servings,
+41,6593205,Gisela's Butternut Squash Soup,25 mins,25 mins,50 mins,4 ,4,245,9g,5g,22mg,532mg,43g,8g,16g,5g,97mg,170mg,2mg,1051mg,4.6,31,4 servings,
+42,6594380,Curried Squash-Mushroom Soup,20 mins,40 mins, 1 hr,6 ,6,326,19g,10g,55mg,640mg,35g,5g,10g,5g,46mg,145mg,2mg,948mg,5.0,3,6 servings,
+43,6580054,Creamy Butternut Squash Soup with Fresh Ginger and Quinoa,10 mins,40 mins,50 mins,6 ,6,244,8g,3g,10mg,65mg,40g,6g,5g,6g,37mg,106mg,3mg,798mg,4.4,27,6 servings,
+44,6574966,Roasted Butternut Squash and Fennel Soup with Citrus,20 mins,40 mins, 1 hr,6 ,6,298,15g,6g,31mg,1041mg,42g,6g,15g,4g,55mg,155mg,2mg,1016mg,5.0,1,6 servings,
+45,6575992,"Roasted Butternut Squash, Garlic, and Apple Soup",20 mins, 1 hr 20 mins, 1 hr 40 mins,8 ,8,220,5g,1g,,278mg,45g,9g,16g,4g,37mg,129mg,2mg,829mg,4.4,32,8 servings,
+46,6599677,Instant Pot® Butternut Squash and Pear Soup,10 mins,40 mins, 1 hr,6 ,6,240,10g,5g,31mg,1376mg,38g,7g,12g,4g,51mg,134mg,2mg,899mg,4.7,15,6 servings,10 mins
+47,6577226,Smokey Butternut Squash Soup,15 mins,45 mins, 1 hr,6 ,6,243,10g,2g,5mg,92mg,39g,6g,16g,5g,63mg,189mg,2mg,990mg,3.7,3,6 servings,
+48,6567704,Roasted Rutabaga and Squash Soup,30 mins, 1 hr 5 mins, 1 hr 35 mins,6 ,6,348,16g,6g,23mg,191mg,44g,7g,20g,9g,53mg,319mg,2mg,1242mg,4.0,1,6 servings,
+49,6589880,Butternut Squash Soup with Spinach Ravioli,30 mins,30 mins, 1 hr,12 ,12,168,8g,4g,30mg,87mg,19g,2g,2g,5g,8mg,91mg,1mg,192mg,4.5,103,12 servings,
+50,6586971,Instant Pot® Butternut Squash Soup with Coconut Milk,10 mins,20 mins,35 mins,4 ,4,355,21g,19g,0mg,201mg,44g,8g,8g,6g,73mg,186mg,6mg,1446mg,,,4 servings,5 mins
+51,6581473,Summer Soup of Butternut and Corn,15 mins,25 mins,40 mins,4 ,4,235,5g,1g,2mg,384mg,46g,8g,13g,7g,59mg,209mg,3mg,1131mg,4.4,30,4 servings,
+52,6572069,Butternut Curry Soup,10 mins,20 mins,30 mins,4 ,4,150,7g,4g,16mg,517mg,23g,3g,7g,2g,32mg,88mg,2mg,547mg,4.5,2,4 servings,
+53,6605893,Butternut Squash Soup With Sage and Sausage,20 mins,40 mins, 1 hr,4 ,4,292,15g,6g,40mg,841mg,29g,4g,11g,11g,28mg,126mg,2mg,781mg,4.8,8,4 servings,
+54,6596116,Mexican Bean and Squash Soup,40 mins,42 mins, 1 hr 22 mins,8 ,8,464,28g,12g,40mg,602mg,44g,6g,4g,14g,13mg,332mg,3mg,455mg,4.6,55,8 servings,
+55,6579129,Bean and Butternut Squash Soup,15 mins, 1 hr 30 mins, 9 hrs 45 mins,8 ,8,370,8g,2g,27mg,1447mg,56g,16g,7g,21g,31mg,190mg,4mg,1361mg,4.9,15,8 servings, 8 hrs
+56,6598471,Butternut Squash-Sweet Potato Ginger Bisque,25 mins,30 mins,55 mins,8 ,8,207,1g,0g,2mg,111mg,47g,7g,12g,5g,30mg,167mg,2mg,1003mg,3.9,53,8 servings,
+57,6578625,Easy Butternut Squash and Pear Soup,30 mins, 1 hr 10 mins, 1 hr 50 mins,6 ,6,248,8g,1g,0mg,334mg,47g,9g,19g,4g,54mg,127mg,2mg,1006mg,4.0,2,6 servings,10 mins
+58,6563554,Pressure-Cooked Keto Butternut Squash Soup,25 mins,25 mins,55 mins,8 ,8,195,10g,6g,,553mg,29g,5g,6g,3g,51mg,123mg,8mg,894mg,,,8 servings,5 mins
+59,6602166,Curried Wild Rice and Squash Soup,15 mins, 1 hr 15 mins, 1 hr 30 mins,4 ,4,309,7g,4g,15mg,784mg,61g,8g,11g,8g,78mg,157mg,3mg,1222mg,4.1,64,4 servings,
+60,6577488,Instant Pot Butternut Squash and Pumpkin Spice Soup,30 mins,32 mins, 1 hr 12 mins,6 ,6,200,7g,3g,11mg,314mg,35g,6g,17g,3g,35mg,99mg,2mg,670mg,5.0,2,1 pot of soup,10 mins
+61,6597810,Butternut Squash Leek Soup,25 mins,45 mins, 1 hr 10 mins,4 ,4,416,9g,2g,,554mg,76g,8g,15g,10g,34mg,188mg,4mg,804mg,4.0,1,4 servings,
+62,6738440,"Spicy Roasted Butternut Squash, Pear, and Bacon Soup",40 mins, 1 hr, 1 hr 40 mins,8 ,8,181,6g,2g,12mg,602mg,29g,5g,9g,6g,39mg,99mg,2mg,736mg,4.6,35,8 servings,

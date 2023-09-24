@@ -1,61 +1,61 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
-0,7253573,13 mins,45 mins,58 mins,5 servings,5,368,23g,9g,41mg,552mg,32g,3g,4g,10g,37mg,257mg,2mg,792mg,,,,
-1,7110075,20 mins,20 mins,40 mins,6 ,6,354,19g,12g,52mg,1106mg,42g,3g,,6g,,,,991mg,4.1,9,,
-2,7094190,10 mins,20 mins,30 mins,4 ,4,233,6g,4g,17mg,61mg,40g,5g,,5g,,,,980mg,,,,
-3,6752518,20 mins,15 mins,35 mins,6 ,6,529,37g,23g,92mg,2242mg,46g,4g,,8g,,,,143mg,4.0,4,,
-4,6664765,15 mins,20 mins,35 mins,4 ,4,257,7g,5g,20mg,76mg,44g,4g,5g,6g,15mg,89mg,1mg,763mg,4.6,618,,
-5,6649781,20 mins,25 mins,45 mins,4 ,4,333,13g,8g,34mg,30mg,50g,6g,4g,7g,55mg,71mg,2mg,1212mg,4.8,"1,045",,
-6,6739624,10 mins, 1 hr 10 mins, 2 hrs 5 mins,12 ,12,245,9g,6g,25mg,370mg,36g,3g,1g,6g,0mg,46mg,0mg,62mg,4.7,473,45 mins,
-7,6663879,10 mins,25 mins,35 mins,4 ,4,481,13g,8g,33mg,145mg,84g,9g,6g,11g,38mg,101mg,4mg,2135mg,4.5,223,,
-8,7092657,10 mins,10 mins,20 mins,6 ,6,179,5g,2g,39mg,458mg,28g,1g,,4g,,,,226mg,,,,6 mashed potato cakes
-9,6744706,10 mins,20 mins,30 mins,6 ,6,213,7g,4g,19mg,367mg,35g,3g,,5g,,,,27mg,,,,
-10,6664539,15 mins,25 mins,40 mins,8 ,8,493,35g,21g,90mg,421mg,33g,4g,2g,14g,34mg,295mg,2mg,855mg,4.4,26,,
-11,6664891,10 mins,20 mins,30 mins,8 ,8,214,13g,8g,35mg,96mg,22g,2g,2g,3g,13mg,35mg,0mg,424mg,4.7,901,,
-12,6663895,5 mins,15 mins,20 mins,12 ,12,381,22g,14g,64mg,356mg,36g,3g,0g,12g,3mg,181mg,1mg,75mg,4.5,472,,
-13,6663411,20 mins, 1 hr 20 mins, 2 hrs,4 ,4,535,34g,19g,94mg,1015mg,35g,4g,3g,23g,37mg,384mg,2mg,997mg,4.7,336,20 mins,1 (9x13-inch) casserole
-14,6650196,30 mins,50 mins, 1 hr 20 mins,10 ,10,213,11g,7g,32mg,72mg,25g,3g,1g,4g,27mg,57mg,1mg,623mg,4.6,113,,
-15,6740857,15 mins, 2 hrs 15 mins, 2 hrs 30 mins,8 ,8,470,28g,17g,74mg,703mg,48g,4g,4g,9g,1mg,64mg,0mg,89mg,4.7,"1,713",,
-16,6739057,15 mins,15 mins,30 mins,4 ,4,280,25g,16g,67mg,232mg,14g,1g,1g,2g,7mg,34mg,1mg,380mg,4.3,825,,
-17,6604666,15 mins, 1 hr, 1 hr 15 mins,10 ,10,408,15g,9g,41mg,316mg,60g,7g,3g,10g,66mg,124mg,3mg,1467mg,4.7,3,,1 casserole
-18,6738008,20 mins, 1 hr, 1 hr 20 mins,8 ,8,172,8g,4g,17mg,295mg,24g,2g,2g,3g,10mg,40mg,1mg,388mg,4.6,441,,
-19,6604805,15 mins,45 mins, 1 hr,10 ,10,305,23g,16g,66mg,319mg,15g,1g,,10g,0mg,24mg,0mg,32mg,4.8,26,,1 9x13-inch dish
-20,6591842,30 mins, 1 hr 25 mins, 1 hr 55 mins,12 ,12,295,15g,9g,57mg,142mg,36g,3g,1g,6g,1mg,28mg,0mg,51mg,4.6,332,,
-21,6605688,15 mins,15 mins,30 mins,6 ,6,173,8g,5g,25mg,363mg,23g,2g,0g,3g,0mg,20mg,,26mg,4.4,92,,
-22,6602565,15 mins,20 mins,35 mins,8 ,8,203,13g,8g,33mg,142mg,21g,3g,1g,3g,23mg,39mg,1mg,513mg,4.6,123,,
-23,6600796,20 mins,30 mins, 8 hrs 50 mins,8 ,8,348,17g,10g,44mg,404mg,44g,5g,2g,7g,48mg,82mg,2mg,1082mg,4.6,"1,245", 8 hrs,8 servings
-24,6580509,20 mins, 1 hr 50 mins, 2 hrs 10 mins,12 ,12,337,13g,8g,34mg,96mg,50g,6g,2g,8g,55mg,73mg,2mg,1222mg,4.7,44,,12 servings
-25,6577647,15 mins,25 mins,40 mins,10 ,10,339,18g,11g,57mg,85mg,42g,4g,2g,4g,15mg,35mg,1mg,691mg,4.5,186,,
-26,6585058,10 mins,30 mins,40 mins,8 ,8,129,3g,2g,8mg,21mg,22g,2g,1g,3g,1mg,36mg,,48mg,4.4,188,,8 servings
-27,6650150,15 mins,45 mins, 1 hr,100 ,100,498,33g,21g,92mg,849mg,43g,4g,2g,9g,28mg,177mg,1mg,817mg,4.6,"2,005",,100 servings
-28,6601288,20 mins,20 mins,40 mins,10 ,10,245,7g,5g,20mg,69mg,40g,5g,2g,6g,45mg,49mg,2mg,984mg,4.7,19,,
-29,6650985,15 mins, 1 hr, 1 hr 15 mins,8 ,8,251,11g,3g,11mg,222mg,34g,4g,2g,5g,38mg,73mg,2mg,821mg,4.4,645,,8 servings
-30,6579478,10 mins,20 mins,30 mins,6 ,6,91,1g,0g,2mg,403mg,19g,2g,2g,3g,11mg,37mg,1mg,553mg,4.3,47,,6 servings
-31,6603527,15 mins,30 mins,55 mins,6 ,6,290,9g,5g,22mg,719mg,49g,4g,3g,6g,15mg,64mg,2mg,1136mg,4.5,24,10 mins,6 servings
-32,6587596,10 mins,50 mins, 1 hr,6 ,6,141,6g,4g,16mg,323mg,20g,3g,4g,3g,27mg,33mg,1mg,510mg,4.5,110,,6 servings
-33,6596907,5 mins,15 mins,20 mins,4 ,4,321,12g,8g,28mg,80mg,50g,5g,2g,5g,20mg,57mg,1mg,842mg,4.4,86,,4 servings
-34,6581232,15 mins,45 mins, 1 hr,8 ,8,570,25g,11g,61mg,1206mg,68g,7g,5g,20g,29mg,74mg,5mg,1776mg,4.4,167,,8 servings
-35,6739728,15 mins,35 mins,50 mins,8 ,8,354,23g,14g,58mg,511mg,31g,5g,2g,9g,34mg,205mg,2mg,857mg,4.7,547,,8 servings
-36,6575952,15 mins,30 mins,45 mins,8 ,8,311,20g,13g,54mg,1318mg,30g,3g,2g,5g,15mg,86mg,1mg,862mg,4.6,25,,8 servings
-37,6573499,15 mins, 1 hr 5 mins, 1 hr 20 mins,6 ,6,363,17g,11g,79mg,386mg,44g,4g,1g,11g,2mg,122mg,1mg,105mg,4.4,21,,1 casserole
-38,6584898,15 mins,25 mins,40 mins,4 ,4,358,21g,13g,75mg,592mg,30g,2g,3g,12g,10mg,299mg,1mg,516mg,4.9,11,,4 servings
-39,6736393,15 mins,35 mins,55 mins,8 ,8,483,31g,19g,106mg,194mg,47g,3g,3g,8g,15mg,90mg,2mg,1108mg,4.4,74,5 mins,1 9x13-inch dish
-40,6594345,15 mins,,15 mins,4 ,4,362,22g,12g,71mg,1113mg,21g,2g,2g,22g,15mg,264mg,2mg,636mg,5.0,1,,
-41,6574660,10 mins,25 mins,35 mins,6 ,6,287,15g,10g,47mg,137mg,32g,4g,2g,7g,35mg,58mg,2mg,800mg,4.6,9,,
-42,6585318,15 mins,45 mins, 1 hr,6 ,6,635,32g,20g,83mg,250mg,82g,7g,4g,8g,31mg,87mg,1mg,1373mg,4.2,74,,6 servings
-43,6664556,20 mins,35 mins, 1 hr,8 ,8,376,22g,14g,70mg,211mg,35g,2g,,11g,,,,830mg,5.0,1,5 mins,8 servings
-44,6593000,25 mins,20 mins,45 mins,8 ,8,190,6g,4g,15mg,94mg,31g,6g,8g,4g,56mg,90mg,2mg,939mg,3.8,4,,
-45,6593332,25 mins,25 mins,50 mins,10 ,10,278,8g,5g,23mg,366mg,43g,5g,4g,10g,47mg,180mg,4mg,1059mg,4.8,9,,
-46,6576768,15 mins, 3 hrs 30 mins, 7 hrs 15 mins,10 ,10,396,23g,15g,66mg,210mg,41g,5g,2g,8g,46mg,65mg,2mg,1022mg,4.6,5, 3 hrs 30 mins,
-47,6598153,10 mins,20 mins,30 mins,12 ,12,155,2g,1g,7mg,194mg,31g,5g,6g,3g,4mg,53mg,2mg,521mg,4.7,41,,1 1/2 quarts
-48,6600562,20 mins,40 mins, 1 hr,12 ,12,399,23g,13g,67mg,452mg,36g,4g,3g,13g,16mg,199mg,2mg,959mg,4.6,7,,
-49,6581046,15 mins,25 mins,40 mins,4 ,4,282,6g,4g,17mg,235mg,52g,4g,3g,5g,31mg,32mg,1mg,932mg,4.6,22,,
-50,6740850,10 mins,25 mins,45 mins,4 ,4,386,29g,19g,75mg,609mg,28g,2g,0g,5g,0mg,56mg,0mg,70mg,5.0,2,10 mins,
-51,6593430,15 mins,15 mins,30 mins,4 ,4,230,7g,4g,19mg,613mg,37g,5g,4g,6g,39mg,86mg,2mg,917mg,4.3,3,,
-52,6561626,5 mins,20 mins,25 mins,2 ,2,396,22g,14g,62mg,291mg,46g,7g,10g,6g,5mg,94mg,2mg,802mg,4.3,3,,2 servings
-53,6572196,20 mins,50 mins, 1 hr 10 mins,12 ,12,271,13g,8g,34mg,490mg,35g,3g,2g,5g,13mg,49mg,1mg,605mg,4.7,123,,
-54,6588198,15 mins,20 mins,35 mins,12 ,12,118,7g,5g,18mg,219mg,12g,1g,,2g,10mg,48mg,0mg,191mg,4.4,11,,
-55,6576923,20 mins,25 mins,45 mins,6 ,6,246,9g,6g,29mg,257mg,36g,3g,2g,7g,1mg,124mg,0mg,52mg,4.8,10,,
-56,6648627,30 mins,45 mins, 1 hr 20 mins,10 ,10,492,30g,17g,74mg,876mg,52g,5g,4g,8g,24mg,85mg,3mg,1287mg,4.9,57,5 mins,
-57,6592512,10 mins,35 mins,45 mins,4 ,4,349,14g,2g,0mg,178mg,51g,5g,3g,6g,21mg,53mg,3mg,1274mg,4.5,13,,
-58,6596523,20 mins,25 mins,45 mins,6 ,6,366,18g,11g,48mg,521mg,47g,6g,2g,6g,52mg,58mg,2mg,1148mg,4.9,16,,
-59,6577448,10 mins,25 mins,40 mins,6 ,6,174,0g,0g,,90mg,39g,5g,2g,5g,43mg,49mg,2mg,919mg,3.8,20,5 mins,
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
+0,7253573,Baked Feta Mashed Potatoes,13 mins,45 mins,58 mins,5 servings,5,368,23g,9g,41mg,552mg,32g,3g,4g,10g,37mg,257mg,2mg,792mg,,,,
+1,7110075,Copycat KFC Mashed Potatoes,20 mins,20 mins,40 mins,6 ,6,354,19g,12g,52mg,1106mg,42g,3g,,6g,,,,991mg,4.1,9,,
+2,7094190,Microwave Mashed Potatoes,10 mins,20 mins,30 mins,4 ,4,233,6g,4g,17mg,61mg,40g,5g,,5g,,,,980mg,,,,
+3,6752518,Sour Cream Mashed Potatoes,20 mins,15 mins,35 mins,6 ,6,529,37g,23g,92mg,2242mg,46g,4g,,8g,,,,143mg,4.0,4,,
+4,6664765,Basic Mashed Potatoes,15 mins,20 mins,35 mins,4 ,4,257,7g,5g,20mg,76mg,44g,4g,5g,6g,15mg,89mg,1mg,763mg,4.6,618,,
+5,6649781,Chef John's Perfect Mashed Potatoes,20 mins,25 mins,45 mins,4 ,4,333,13g,8g,34mg,30mg,50g,6g,4g,7g,55mg,71mg,2mg,1212mg,4.8,"1,045",,
+6,6739624,Make-Ahead Mashed Potatoes,10 mins, 1 hr 10 mins, 2 hrs 5 mins,12 ,12,245,9g,6g,25mg,370mg,36g,3g,1g,6g,0mg,46mg,0mg,62mg,4.7,473,45 mins,
+7,6663879,Garlic Mashed Potatoes,10 mins,25 mins,35 mins,4 ,4,481,13g,8g,33mg,145mg,84g,9g,6g,11g,38mg,101mg,4mg,2135mg,4.5,223,,
+8,7092657,Air Fryer Mashed Potato Cakes,10 mins,10 mins,20 mins,6 ,6,179,5g,2g,39mg,458mg,28g,1g,,4g,,,,226mg,,,,6 mashed potato cakes
+9,6744706,Ultra Creamy Mashed Potatoes,10 mins,20 mins,30 mins,6 ,6,213,7g,4g,19mg,367mg,35g,3g,,5g,,,,27mg,,,,
+10,6664539,Loaded Mashed Potatoes,15 mins,25 mins,40 mins,8 ,8,493,35g,21g,90mg,421mg,33g,4g,2g,14g,34mg,295mg,2mg,855mg,4.4,26,,
+11,6664891,Suzy's Mashed Red Potatoes,10 mins,20 mins,30 mins,8 ,8,214,13g,8g,35mg,96mg,22g,2g,2g,3g,13mg,35mg,0mg,424mg,4.7,901,,
+12,6663895,The Best Mashed Potatoes,5 mins,15 mins,20 mins,12 ,12,381,22g,14g,64mg,356mg,36g,3g,0g,12g,3mg,181mg,1mg,75mg,4.5,472,,
+13,6663411,Twice Baked Potato Casserole,20 mins, 1 hr 20 mins, 2 hrs,4 ,4,535,34g,19g,94mg,1015mg,35g,4g,3g,23g,37mg,384mg,2mg,997mg,4.7,337,20 mins,1 (9x13-inch) casserole
+14,6650196,Creamy Make-Ahead Mashed Potatoes,30 mins,50 mins, 1 hr 20 mins,10 ,10,213,11g,7g,32mg,72mg,25g,3g,1g,4g,27mg,57mg,1mg,623mg,4.6,113,,
+15,6740857,Slow Cooker Mashed Potatoes,15 mins, 2 hrs 15 mins, 2 hrs 30 mins,8 ,8,470,28g,17g,74mg,703mg,48g,4g,4g,9g,1mg,64mg,0mg,89mg,4.7,"1,713",,
+16,6739057,Red Garlic Mashed Potatoes,15 mins,15 mins,30 mins,4 ,4,280,25g,16g,67mg,232mg,14g,1g,1g,2g,7mg,34mg,1mg,380mg,4.3,825,,
+17,6604666,Easy Mashed Potato Casserole,15 mins, 1 hr, 1 hr 15 mins,10 ,10,408,15g,9g,41mg,316mg,60g,7g,3g,10g,66mg,124mg,3mg,1467mg,4.7,3,,1 casserole
+18,6738008,Roasted Garlic Mashed Potatoes,20 mins, 1 hr, 1 hr 20 mins,8 ,8,172,8g,4g,17mg,295mg,24g,2g,2g,3g,10mg,40mg,1mg,388mg,4.6,441,,
+19,6604805,Twice-Baked Mashed Potatoes,15 mins,45 mins, 1 hr,10 ,10,305,23g,16g,66mg,319mg,15g,1g,,10g,0mg,24mg,0mg,32mg,4.8,26,,1 9x13-inch dish
+20,6591842,Baked Mashed Potatoes,30 mins, 1 hr 25 mins, 1 hr 55 mins,12 ,12,295,15g,9g,57mg,142mg,36g,3g,1g,6g,1mg,28mg,0mg,51mg,4.6,332,,
+21,6605688,Ultra Creamy Mashed Potatoes from Swanson,15 mins,15 mins,30 mins,6 ,6,173,8g,5g,25mg,363mg,23g,2g,0g,3g,0mg,20mg,,26mg,4.4,92,,
+22,6602565,Skin-On Savory Mashed Potatoes,15 mins,20 mins,35 mins,8 ,8,203,13g,8g,33mg,142mg,21g,3g,1g,3g,23mg,39mg,1mg,513mg,4.6,123,,
+23,6600796,Day Before Mashed Potatoes,20 mins,30 mins, 8 hrs 50 mins,8 ,8,348,17g,10g,44mg,404mg,44g,5g,2g,7g,48mg,82mg,2mg,1082mg,4.6,"1,245", 8 hrs,8 servings
+24,6580509,Cream Cheese Mashed Potatoes,20 mins, 1 hr 50 mins, 2 hrs 10 mins,12 ,12,337,13g,8g,34mg,96mg,50g,6g,2g,8g,55mg,73mg,2mg,1222mg,4.7,44,,12 servings
+25,6577647,Holiday-Only Mashed Potatoes,15 mins,25 mins,40 mins,10 ,10,339,18g,11g,57mg,85mg,42g,4g,2g,4g,15mg,35mg,1mg,691mg,4.5,186,,
+26,6585058,Sour Cream and Chive Mashed Potatoes,10 mins,30 mins,40 mins,8 ,8,129,3g,2g,8mg,21mg,22g,2g,1g,3g,1mg,36mg,,48mg,4.4,188,,8 servings
+27,6650150,Garlic Mashed Potatoes Secret Recipe,15 mins,45 mins, 1 hr,100 ,100,498,33g,21g,92mg,849mg,43g,4g,2g,9g,28mg,177mg,1mg,817mg,4.6,"2,005",,100 servings
+28,6601288,Amazing Whipped Potatoes,20 mins,20 mins,40 mins,10 ,10,245,7g,5g,20mg,69mg,40g,5g,2g,6g,45mg,49mg,2mg,984mg,4.7,19,,
+29,6650985,Roasted Garlic Parmesan Mashed Potatoes,15 mins, 1 hr, 1 hr 15 mins,8 ,8,251,11g,3g,11mg,222mg,34g,4g,2g,5g,38mg,73mg,2mg,821mg,4.4,645,,8 servings
+30,6579478,Garlic Potatoes,10 mins,20 mins,30 mins,6 ,6,91,1g,0g,2mg,403mg,19g,2g,2g,3g,11mg,37mg,1mg,553mg,4.3,47,,6 servings
+31,6603527,Pressure Cooker Mashed Potatoes,15 mins,30 mins,55 mins,6 ,6,290,9g,5g,22mg,719mg,49g,4g,3g,6g,15mg,64mg,2mg,1136mg,4.5,24,10 mins,6 servings
+32,6587596,Nana's Mashed Turnip,10 mins,50 mins, 1 hr,6 ,6,141,6g,4g,16mg,323mg,20g,3g,4g,3g,27mg,33mg,1mg,510mg,4.5,110,,6 servings
+33,6596907,Mashed Potatoes with Horseradish,5 mins,15 mins,20 mins,4 ,4,321,12g,8g,28mg,80mg,50g,5g,2g,5g,20mg,57mg,1mg,842mg,4.4,86,,4 servings
+34,6581232,Bangers and Mash,15 mins,45 mins, 1 hr,8 ,8,570,25g,11g,61mg,1206mg,68g,7g,5g,20g,29mg,74mg,5mg,1776mg,4.4,167,,8 servings
+35,6739728,Sally's Spinach Mashed Potatoes,15 mins,35 mins,50 mins,8 ,8,354,23g,14g,58mg,511mg,31g,5g,2g,9g,34mg,205mg,2mg,857mg,4.7,547,,8 servings
+36,6575952,Incredible Red Smashed Potatoes,15 mins,30 mins,45 mins,8 ,8,311,20g,13g,54mg,1318mg,30g,3g,2g,5g,15mg,86mg,1mg,862mg,4.6,25,,8 servings
+37,6573499,Garlic Mashed Potato Casserole,15 mins, 1 hr 5 mins, 1 hr 20 mins,6 ,6,363,17g,11g,79mg,386mg,44g,4g,1g,11g,2mg,122mg,1mg,105mg,4.4,21,,1 casserole
+38,6584898,Chantilly Potatoes,15 mins,25 mins,40 mins,4 ,4,358,21g,13g,75mg,592mg,30g,2g,3g,12g,10mg,299mg,1mg,516mg,4.9,11,,4 servings
+39,6736393,Mascarpone Mashed Potatoes,15 mins,35 mins,55 mins,8 ,8,483,31g,19g,106mg,194mg,47g,3g,3g,8g,15mg,90mg,2mg,1108mg,4.4,74,5 mins,1 9x13-inch dish
+40,6594345,Hot Beef Sundae,15 mins,,15 mins,4 ,4,362,22g,12g,71mg,1113mg,21g,2g,2g,22g,15mg,264mg,2mg,636mg,5.0,1,,
+41,6574660,Mashed Potatoes with Cream Cheese,10 mins,25 mins,35 mins,6 ,6,287,15g,10g,47mg,137mg,32g,4g,2g,7g,35mg,58mg,2mg,800mg,4.6,9,,
+42,6585318,Wasabi Mashed Potatoes,15 mins,45 mins, 1 hr,6 ,6,635,32g,20g,83mg,250mg,82g,7g,4g,8g,31mg,87mg,1mg,1373mg,4.2,74,,6 servings
+43,6664556,Chantilly Mashed Potato Casserole,20 mins,35 mins, 1 hr,8 ,8,376,22g,14g,70mg,211mg,35g,2g,,11g,,,,830mg,5.0,1,5 mins,8 servings
+44,6593000,Neeps and Tatties,25 mins,20 mins,45 mins,8 ,8,190,6g,4g,15mg,94mg,31g,6g,8g,4g,56mg,90mg,2mg,939mg,3.2,5,,
+45,6593332,Creamy Garlic Parmesan Mashed Potatoes,25 mins,25 mins,50 mins,10 ,10,278,8g,5g,23mg,366mg,43g,5g,4g,10g,47mg,180mg,4mg,1059mg,4.8,9,,
+46,6576768,Make-Ahead Slow Cooker Mashed Potatoes,15 mins, 3 hrs 30 mins, 7 hrs 15 mins,10 ,10,396,23g,15g,66mg,210mg,41g,5g,2g,8g,46mg,65mg,2mg,1022mg,4.6,5, 3 hrs 30 mins,
+47,6598153,Creamy Mashed Sweet Potatoes,10 mins,20 mins,30 mins,12 ,12,155,2g,1g,7mg,194mg,31g,5g,6g,3g,4mg,53mg,2mg,521mg,4.7,41,,1 1/2 quarts
+48,6600562,Twice-Baked Potato Casserole with Bacon,20 mins,40 mins, 1 hr,12 ,12,399,23g,13g,67mg,452mg,36g,4g,3g,13g,16mg,199mg,2mg,959mg,4.6,7,,
+49,6581046,Mustard Mashed Potatoes,15 mins,25 mins,40 mins,4 ,4,282,6g,4g,17mg,235mg,52g,4g,3g,5g,31mg,32mg,1mg,932mg,4.6,22,,
+50,6740850,Easy Instant Pot Mashed Potatoes,10 mins,25 mins,45 mins,4 ,4,386,29g,19g,75mg,609mg,28g,2g,0g,5g,0mg,56mg,0mg,70mg,5.0,2,10 mins,
+51,6593430,Curry Mashed Potatoes,15 mins,15 mins,30 mins,4 ,4,230,7g,4g,19mg,613mg,37g,5g,4g,6g,39mg,86mg,2mg,917mg,4.3,3,,
+52,6561626,Mashed Sweet Potatoes in the Microwave,5 mins,20 mins,25 mins,2 ,2,396,22g,14g,62mg,291mg,46g,7g,10g,6g,5mg,94mg,2mg,802mg,4.3,3,,2 servings
+53,6572196,Sour Cream Refrigerator Mashed Potatoes,20 mins,50 mins, 1 hr 10 mins,12 ,12,271,13g,8g,34mg,490mg,35g,3g,2g,5g,13mg,49mg,1mg,605mg,4.7,123,,
+54,6588198,Nani's Mashed Potato Casserole,15 mins,20 mins,35 mins,12 ,12,118,7g,5g,18mg,219mg,12g,1g,,2g,10mg,48mg,0mg,191mg,4.4,11,,
+55,6576923,"Garlic, Herb, and Feta Cheese Mashed Potatoes",20 mins,25 mins,45 mins,6 ,6,246,9g,6g,29mg,257mg,36g,3g,2g,7g,1mg,124mg,0mg,52mg,4.8,10,,
+56,6648627,Creamy Garlic Mashed Potatoes,30 mins,45 mins, 1 hr 20 mins,10 ,10,492,30g,17g,74mg,876mg,52g,5g,4g,8g,24mg,85mg,3mg,1287mg,4.9,57,5 mins,
+57,6592512,Vegan Mashed Potatoes,10 mins,35 mins,45 mins,4 ,4,349,14g,2g,0mg,178mg,51g,5g,3g,6g,21mg,53mg,3mg,1274mg,4.5,13,,
+58,6596523,Natalie's Amazing Irish Mashed Potatoes,20 mins,25 mins,45 mins,6 ,6,366,18g,11g,48mg,521mg,47g,6g,2g,6g,52mg,58mg,2mg,1148mg,4.9,16,,
+59,6577448,Italian Mashed Potatoes,10 mins,25 mins,40 mins,6 ,6,174,0g,0g,,90mg,39g,5g,2g,5g,43mg,49mg,2mg,919mg,3.8,20,5 mins,

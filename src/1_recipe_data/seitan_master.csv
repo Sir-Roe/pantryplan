@@ -1,19 +1,19 @@
-,id_recipe,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Cholesterol
-0,6648594,15 mins, 1 hr 10 mins,15 mins, 1 hr 40 mins,3 ,3 patties,3,304,6g,1g,2912mg,28g,4g,5g,36g,0mg,47mg,3mg,245mg,4.6,74,
-1,6604301,10 mins,18 mins,,28 mins,4 ,4 servings,4,457,18g,4g,523mg,53g,4g,4g,24g,5mg,38mg,3mg,608mg,4.6,16,58mg
-2,6603538,30 mins,10 mins,,40 mins,4 ,4 servings,4,647,6g,2g,1172mg,87g,9g,1g,77g,1mg,26mg,2mg,110mg,4.7,3,123mg
-3,6591256,25 mins, 4 hrs 30 mins,, 4 hrs 55 mins,6 ,6 servings,6,334,10g,2g,965mg,41g,4g,5g,20g,25mg,106mg,7mg,402mg,4.5,32,
-4,6569608,15 mins,10 mins,,25 mins,5 ,10 fajitas,5,424,11g,2g,925mg,67g,7g,3g,30g,99mg,62mg,6mg,420mg,4.7,6,
-5,6578666,35 mins, 1 hr 10 mins, 8 hrs 30 mins, 10 hrs 15 mins,10 ,10 servings,10,716,25g,6g,1124mg,82g,12g,8g,43g,5mg,118mg,4mg,355mg,4.3,9,
-6,6593484,10 mins,15 mins,30 mins,55 mins,4 ,3 servings,4,558,33g,22g,645mg,34g,9g,12g,41g,30mg,128mg,6mg,872mg,4.4,21,
-7,6601449,15 mins,45 mins,, 1 hr,6 ,1 casserole,6,395,8g,3g,1158mg,58g,9g,2g,22g,11mg,100mg,4mg,450mg,4.5,6,
-8,6561390,10 mins,40 mins,5 mins,55 mins,4 ,4 servings,4,293,4g,1g,1025mg,28g,3g,2g,33g,0mg,18mg,3mg,132mg,,,
-9,6595227,15 mins,20 mins,,35 mins,4 ,4 servings,4,510,17g,2g,1380mg,62g,7g,48g,29g,55mg,100mg,5mg,507mg,4.1,28,
-10,6580186,20 mins,55 mins,, 1 hr 15 mins,6 ,6 servings,6,351,13g,2g,562mg,35g,3g,7g,19g,21mg,54mg,3mg,503mg,4.0,8,
-11,6562420,10 mins,15 mins,,25 mins,5 ,5 servings,5,534,5g,1g,766mg,82g,5g,17g,41g,12mg,259mg,7mg,761mg,,,72mg
-12,6577218,20 mins, 1 hr 15 mins,, 1 hr 35 mins,8 ,8 servings,8,190,3g,0g,156mg,33g,5g,4g,10g,33mg,55mg,2mg,784mg,,,
-13,6598589,10 mins,45 mins,,55 mins,4 ,4 servings,4,301,16g,2g,318mg,15g,1g,2g,26g,15mg,33mg,4mg,68mg,4.4,25,
-14,6564058,20 mins,35 mins,,55 mins,6 ,6 servings,6,320,8g,2g,877mg,48g,8g,14g,17g,20mg,118mg,6mg,625mg,,,
-15,6587657,20 mins,35 mins,,55 mins,4 ,4 wraps,4,508,21g,3g,513mg,61g,13g,6g,25g,35mg,408mg,8mg,1002mg,,,
-16,6586261,25 mins,50 mins,10 mins, 1 hr 25 mins,8 ,1 9-inch pot pie,8,432,25g,5g,652mg,36g,5g,3g,17g,6mg,38mg,2mg,181mg,,,
-17,6599837,25 mins,30 mins,,55 mins,6 ,6 servings,6,466,2g,0g,775mg,79g,8g,9g,33g,10mg,77mg,4mg,421mg,,,
+,id_recipe,name,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Cholesterol
+0,6648594,Seitan Wheat Meat (Vegan Meat Substitute),15 mins, 1 hr 10 mins,15 mins, 1 hr 40 mins,3 ,3 patties,3,304,6g,1g,2912mg,28g,4g,5g,36g,0mg,47mg,3mg,245mg,4.6,74,
+1,6604301,Veggie Stroganoff,10 mins,18 mins,,28 mins,4 ,4 servings,4,457,18g,4g,523mg,53g,4g,4g,24g,5mg,38mg,3mg,608mg,4.6,16,58mg
+2,6603538,"Air Fried Vegetarian ""Chicken Tenders""",30 mins,10 mins,,40 mins,4 ,4 servings,4,647,6g,2g,1172mg,87g,9g,1g,77g,1mg,26mg,2mg,110mg,4.7,3,123mg
+3,6591256,Slow Cooker Jambalaya (Vegan),25 mins, 4 hrs 30 mins,, 4 hrs 55 mins,6 ,6 servings,6,334,10g,2g,965mg,41g,4g,5g,20g,25mg,106mg,7mg,402mg,4.5,32,
+4,6569608,Seitan Fajitas,15 mins,10 mins,,25 mins,5 ,10 fajitas,5,424,11g,2g,925mg,67g,7g,3g,30g,99mg,62mg,6mg,420mg,4.7,6,
+5,6578666,Thanksgiving No-Turkey Turkey,35 mins, 1 hr 10 mins, 8 hrs 30 mins, 10 hrs 15 mins,10 ,10 servings,10,716,25g,6g,1124mg,82g,12g,8g,43g,5mg,118mg,4mg,355mg,4.3,9,
+6,6593484,Seitan in Peanut Sauce or Vegetarian Gai Tua,10 mins,15 mins,30 mins,55 mins,4 ,3 servings,4,558,33g,22g,645mg,34g,9g,12g,41g,30mg,128mg,6mg,872mg,4.4,21,
+7,6601449,Vegan Enchilada Bake,15 mins,45 mins,, 1 hr,6 ,1 casserole,6,395,8g,3g,1158mg,58g,9g,2g,22g,11mg,100mg,4mg,450mg,4.5,6,
+8,6561390,Instant Pot® Seitan Loaf,10 mins,40 mins,5 mins,55 mins,4 ,4 servings,4,293,4g,1g,1025mg,28g,3g,2g,33g,0mg,18mg,3mg,132mg,,,
+9,6595227,Sweet and Sour Seitan,15 mins,20 mins,,35 mins,4 ,4 servings,4,510,17g,2g,1380mg,62g,7g,48g,29g,55mg,100mg,5mg,507mg,4.1,28,
+10,6580186,Vegan Stout Stew,20 mins,55 mins,, 1 hr 15 mins,6 ,6 servings,6,351,13g,2g,562mg,35g,3g,7g,19g,21mg,54mg,3mg,503mg,4.0,8,
+11,6562420,Seitan and Mushroom Stroganoff,10 mins,15 mins,,25 mins,5 ,5 servings,5,534,5g,1g,766mg,82g,5g,17g,41g,12mg,259mg,7mg,761mg,,,72mg
+12,6577218,Vegan Beefless Stew,20 mins, 1 hr 15 mins,, 1 hr 35 mins,8 ,8 servings,8,190,3g,0g,156mg,33g,5g,4g,10g,33mg,55mg,2mg,784mg,,,
+13,6598589,Garlic Pepper Seitan,10 mins,45 mins,,55 mins,4 ,4 servings,4,301,16g,2g,318mg,15g,1g,2g,26g,15mg,33mg,4mg,68mg,4.4,25,
+14,6564058,Vegan Moroccan-Style Tagine with Seitan,20 mins,35 mins,,55 mins,6 ,6 servings,6,320,8g,2g,877mg,48g,8g,14g,17g,20mg,118mg,6mg,625mg,,,
+15,6587657,Tofu Scramble Wraps,20 mins,35 mins,,55 mins,4 ,4 wraps,4,508,21g,3g,513mg,61g,13g,6g,25g,35mg,408mg,8mg,1002mg,,,
+16,6586261,"Plant-Based ""Chicken"" Pot Pie",25 mins,50 mins,10 mins, 1 hr 25 mins,8 ,1 9-inch pot pie,8,432,25g,5g,652mg,36g,5g,3g,17g,6mg,38mg,2mg,181mg,,,
+17,6599837,Faux-kin Noodle Soup (Vegan Chicken Noodle Soup),25 mins,30 mins,,55 mins,6 ,6 servings,6,466,2g,0g,775mg,79g,8g,9g,33g,10mg,77mg,4mg,421mg,,,

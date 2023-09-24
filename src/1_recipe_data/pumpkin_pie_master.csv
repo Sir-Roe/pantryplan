@@ -1,61 +1,61 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Calcium,Iron,Potassium,Average_Review,Review_Count,Vitamin C,Bake Time:,Cool Time:,Additional Time:
-0,6663919,10 mins,50 mins, 1 hr,8 ,1 (9-inch) pie,8,379,14g,6g,64mg,352mg,31g,3g,18g,6g,21mg,1mg,35mg,4.7,"3,632",,,,
-1,6664595,10 mins,55 mins, 1 hr 5 mins,8 ,1 9-inch deep-dish pie,8,283,12g,5g,59mg,357mg,39g,3g,26g,6g,134mg,1mg,173mg,4.8,"1,352",1mg,,,
-2,6649767,20 mins,40 mins, 1 hr,8 ,1 (9-inch) pie,8,363,18g,6g,60mg,365mg,44g,1g,26g,7g,162mg,2mg,353mg,4.6,828,4mg,,,
-3,6570862,15 mins,50 mins, 1 hr 5 mins,8 ,1 (9-inch) pie,8,661,28g,10g,77mg,446mg,95g,4g,70g,11g,248mg,3mg,504mg,4.6,59,5mg,,,
-4,6828452,20 mins,, 5 hrs 10 mins,8 ,1 pumpkin pie,8,225,16g,5g,57mg,335mg,17g,3g,,5g,,,183mg,,,,50 mins, 4 hrs,
-5,6828453,10 mins,20 mins,30 mins,8 ,1 vanilla meringue pie topping,8,261,9g,2g,47mg,297mg,40g,2g,,6g,,,193mg,,,,,,
-6,6828456,20 mins,, 1 hr 10 mins,9 ,1 pumpkin pie,9,174,11g,3g,62mg,249mg,17g,3g,,4g,,,141mg,5.0,1,,50 mins,,
-7,6828455,20 mins,, 1 hr 10 mins,8 ,1 pumpkin pie,8,261,19g,8g,73mg,151mg,19g,2g,,5g,,,162mg,,,,50 mins,,
-8,6664693,10 mins,50 mins, 1 hr,8 ,1 (9-inch) pie,8,478,20g,9g,69mg,313mg,67g,3g,39g,10g,220mg,2mg,426mg,4.7,124,4mg,,,
-9,6648679,15 mins,, 4 hrs 15 mins,8 ,1 9-inch pie,8,356,16g,8g,18mg,690mg,51g,2g,37g,4g,76mg,2mg,207mg,4.6,364,3mg,,, 4 hrs
-10,6648415,15 mins,35 mins,50 mins,8 ,1 9-inch pie,8,326,20g,9g,89mg,298mg,34g,2g,20g,5g,57mg,1mg,203mg,4.7,69,3mg,,,
-11,6584248,15 mins, 1 hr 25 mins, 2 hrs,16 ,2 deep dish pies,16,364,17g,8g,68mg,333mg,50g,1g,27g,5g,104mg,3mg,837mg,4.9,23,18mg,,,20 mins
-12,6663920,15 mins,45 mins, 1 hr,8 ,1 9-inch pie,8,320,14g,5g,117mg,465mg,42g,3g,29g,8g,170mg,2mg,324mg,4.8,923,4mg,,,
-13,6604130,10 mins,30 mins,40 mins,8 ,1 (9-inch) pie,8,48,1g,0g,1mg,172mg,7g,2g,4g,4g,73mg,1mg,225mg,4.4,21,2mg,,,
-14,6562018,1 mins,,1 mins,8 ,1 cup,8,22,1g,0g,,2mg,5g,2g,1g,0g,43mg,1mg,40mg,4.7,144,1mg,,,
-15,6739637,15 mins,10 mins, 8 hrs 25 mins,8 ,1 9-inch pie,8,605,38g,24g,77mg,532mg,65g,3g,47g,5g,52mg,2mg,198mg,4.5,66,2mg,,, 8 hrs
-16,6737451,20 mins, 1 hr, 14 hrs 40 mins,8 ,1 to 9 - inch pie,8,423,13g,5g,60mg,342mg,73g,3g,38g,11g,254mg,5mg,1759mg,4.8,758,42mg,,, 13 hrs 20 mins
-17,6572268,20 mins, 1 hr, 1 hr 20 mins,8 ,1 to 9 - inch pie,8,390,20g,2g,47mg,599mg,50g,3g,22g,5g,40mg,2mg,178mg,4.7,107,2mg,,,
-18,6584191,10 mins,55 mins, 1 hr 5 mins,8 ,1 9-inch deep dish pie,8,319,13g,6g,63mg,374mg,44g,2g,29g,7g,172mg,2mg,509mg,4.7,201,7mg,,,
-19,6597078, 1 hr 30 mins,25 mins, 2 hrs 25 mins,48 ,8 dozen,48,313,21g,11g,60mg,191mg,29g,1g,18g,4g,51mg,1mg,102mg,4.8,29,1mg,,,30 mins
-20,6580795,10 mins,, 4 hrs 10 mins,8 ,1 (9-inch) pie,8,454,26g,14g,31mg,356mg,51g,4g,21g,5g,53mg,2mg,137mg,4.6,21,1mg,,, 4 hrs
-21,6664100,10 mins,10 mins, 3 hrs 20 mins,8 ,1 9-inch pie,8,346,13g,5g,63mg,526mg,51g,2g,40g,8g,170mg,2mg,338mg,4.6,233,4mg,,, 3 hrs
-22,6585270,5 mins,55 mins, 1 hr,8 ,8 servings,8,310,13g,5g,63mg,326mg,42g,3g,29g,8g,167mg,2mg,328mg,4.5,83,4mg,,,
-23,6597435,,,,6 ,6 servings,6,365,14g,4g,127mg,624mg,55g,3g,35g,6g,41mg,2mg,250mg,4.1,11,4mg,,,
-24,6737877,15 mins,15 mins, 1 hr 45 mins,8 ,1 9-inch pie,8,349,12g,3g,99mg,383mg,56g,2g,,7g,88mg,2mg,206mg,4.6,40,2mg,,, 1 hr 15 mins
-25,6599840,,,,8 ,1 pie,8,146,8g,3g,32mg,219mg,14g,1g,5g,5g,98mg,1mg,186mg,4.4,62,2mg,,,
-26,6578499,10 mins,45 mins, 1 hr 55 mins,8 ,1 9-inch pie,8,164,7g,3g,58mg,337mg,23g,2g,19g,5g,141mg,1mg,280mg,4.6,67,3mg,,, 1 hr
-27,6569631,20 mins, 1 hr 35 mins, 1 hr 55 mins,8 ,1 9-inch pie,8,405,18g,7g,115mg,458mg,60g,2g,39g,8g,89mg,3mg,781mg,4.6,243,18mg,,,
-28,6568472,15 mins,40 mins, 9 hrs 55 mins,8 ,1 pie,8,202,8g,2g,,419mg,31g,2g,15g,2g,30mg,2mg,170mg,3.7,9,2mg,,, 9 hrs
-29,6587231,10 mins, 1 hr, 1 hr 15 mins,8 ,1 9-inch pie,8,289,13g,4g,60mg,332mg,38g,3g,25g,7g,142mg,1mg,177mg,4.5,147,1mg,,,5 mins
-30,6579336,20 mins, 1 hr 10 mins, 4 hrs 30 mins,8 ,1 10-inch pie,8,139,11g,3g,101mg,204mg,15g,3g,2g,4g,37mg,1mg,178mg,4.2,6,2mg,,, 3 hrs
-31,6664998,30 mins,15 mins, 1 hr,24 ,24 mini pies,24,138,9g,4g,34mg,139mg,12g,1g,5g,3g,15mg,1mg,51mg,4.6,53,0mg,,,15 mins
-32,6603784,10 mins,50 mins, 1 hr,8 ,1 9-inch pie,8,523,27g,8g,81mg,260mg,69g,3g,46g,6g,42mg,2mg,190mg,4.5,35,1mg,,,
-33,6572468,5 mins, 1 hr 15 mins, 3 hrs 20 mins,8 ,1 9-inch pie,8,334,11g,4g,56mg,454mg,48g,5g,23g,5g,115mg,1mg,214mg,4.0,4,3mg,,, 2 hrs
-34,6572267,10 mins,55 mins, 2 hrs 5 mins,8 ,1 9-inch pie,8,230,9g,2g,,413mg,35g,3g,21g,5g,33mg,2mg,208mg,4.5,33,3mg,,, 1 hr
-35,6649530,15 mins,45 mins, 1 hr,16 ,2 9-inch pies,16,257,10g,3g,38mg,277mg,40g,2g,,4g,53mg,1mg,137mg,4.2,62,1mg,,,
-36,6601387,15 mins,45 mins, 1 hr,16 ,2 to 9 - inch pies,16,223,11g,4g,46mg,287mg,28g,2g,16g,4g,48mg,1mg,133mg,4.7,480,1mg,,,
-37,6593760,10 mins,50 mins, 1 hr,8 ,1 (9-inch) pie,8,228,9g,5g,56mg,310mg,32g,1g,25g,6g,156mg,1mg,299mg,4.7,61,4mg,,,
-38,6575315,10 mins,, 1 hr 10 mins,6 ,1 8-inch pie,6,110,0g,0g,0mg,394mg,23g,2g,8g,2g,53mg,1mg,181mg,4.5,69,3mg,,, 1 hr
-39,6571954,20 mins, 1 hr, 3 hrs 20 mins,8 ,1 9-inch pie,8,315,12g,6g,70mg,319mg,47g,2g,,6g,168mg,2mg,300mg,4.3,42,3mg,,, 2 hrs
-40,6570260,,,,24 ,1 9x13 pan,24,176,8g,4g,19mg,110mg,24g,1g,17g,3g,61mg,1mg,141mg,4.6,101,1mg,,,
-41,6602299,10 mins,40 mins,50 mins,8 ,1 -8 or 9 inch pie,8,459,23g,7g,48mg,410mg,59g,2g,46g,8g,180mg,2mg,422mg,4.7,62,4mg,,,
-42,6604242,25 mins,40 mins, 1 hr 5 mins,8 ,8 servings,8,467,26g,7g,64mg,378mg,57g,4g,41g,6g,69mg,2mg,253mg,4.5,69,3mg,,,
-43,6568127,30 mins, 1 hr, 1 hr 30 mins,8 ,1 to 9 - inch pie,8,463,26g,8g,76mg,492mg,52g,4g,36g,10g,189mg,2mg,405mg,4.7,"1,101",4mg,,,
-44,6572188,10 mins,45 mins,55 mins,8 ,1 9-inch pie,8,257,10g,3g,52mg,443mg,37g,3g,24g,5g,92mg,2mg,235mg,5.0,5,3mg,,,
-45,6568295,20 mins,7 mins, 1 hr 27 mins,8 ,1 9-inch pie,8,323,14g,8g,37mg,592mg,46g,2g,33g,5g,147mg,2mg,280mg,4.7,7,3mg,,, 1 hr
-46,6574549,30 mins, 1 hr, 1 hr 30 mins,8 ,1 to 9 - inch deep dish pie,8,413,21g,8g,90mg,392mg,50g,3g,28g,8g,128mg,2mg,294mg,4.3,180,2mg,,,
-47,6736840,30 mins, 1 hr, 1 hr 30 mins,8 ,1 9-inch pie,8,345,17g,7g,119mg,611mg,44g,3g,30g,7g,108mg,2mg,270mg,4.5,341,3mg,,,
-48,6606313,30 mins,55 mins, 1 hr 25 mins,8 ,1 9-inch pie,8,359,20g,8g,74mg,394mg,42g,2g,28g,5g,74mg,2mg,187mg,4.7,46,2mg,,,
-49,6598201,10 mins,45 mins,55 mins,8 ,1 9-inch pie,8,153,4g,1g,23mg,502mg,29g,2g,19g,2g,62mg,2mg,232mg,,,2mg,,,
-50,6571941,20 mins, 1 hr 15 mins, 3 hrs 35 mins,8 ,8 servings,8,264,16g,2g,,615mg,31g,2g,23g,1g,32mg,1mg,149mg,4.8,24,3mg,,, 2 hrs
-51,6567306,30 mins,50 mins, 2 hrs 20 mins,8 ,1 9-inch pan,8,316,19g,9g,79mg,245mg,34g,2g,17g,4g,68mg,1mg,277mg,5.0,4,1mg,,, 1 hr
-52,6579922,,,,8 ,1 pie,8,228,8g,2g,75mg,375mg,34g,1g,24g,6g,100mg,1mg,209mg,4.3,27,1mg,,,
-53,6599470,5 mins,55 mins, 2 hrs,8 ,1 to 9 - inch pie,8,297,13g,5g,60mg,605mg,41g,3g,25g,7g,157mg,2mg,299mg,4.3,51,4mg,,, 1 hr
-54,6597988,10 mins, 1 hr, 1 hr 10 mins,8 ,1 to 9 - inch pie,8,333,16g,6g,69mg,238mg,45g,4g,30g,6g,101mg,2mg,137mg,4.5,26,0mg,,,
-55,6574516,10 mins,40 mins,50 mins,8 ,1 9-inch pie,8,294,12g,4g,79mg,397mg,42g,2g,29g,6g,112mg,2mg,221mg,5.0,3,2mg,,,
-56,6591888,10 mins,,10 mins,8 ,8 servings,8,213,9g,3g,2mg,337mg,29g,2g,14g,3g,80mg,1mg,205mg,3.9,15,2mg,,,
-57,6585839,20 mins,50 mins, 3 hrs 10 mins,8 ,1 9-inch pie,8,340,15g,4g,95mg,280mg,48g,,29g,6g,,,,5.0,5,,,, 2 hrs
-58,6574225,10 mins,15 mins, 1 hr 35 mins,42 ,42 tarts,42,879,41g,10g,17mg,612mg,120g,1g,35g,10g,53mg,4mg,80mg,4.3,3,1mg,,, 1 hr 10 mins
-59,6737002,15 mins,45 mins, 1 hr,8 ,1 9-inch pie,8,484,22g,8g,75mg,558mg,65g,3g,49g,9g,186mg,2mg,389mg,4.8,10,4mg,,,
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Calcium,Iron,Potassium,Average_Review,Review_Count,Vitamin C,Bake Time:,Cool Time:,Additional Time:
+0,6663919,Perfect Pumpkin Pie,10 mins,50 mins, 1 hr,8 ,1 (9-inch) pie,8,379,14g,6g,64mg,352mg,31g,3g,18g,6g,21mg,1mg,35mg,4.7,"3,633",,,,
+1,6664595,Libby's Famous Pumpkin Pie,10 mins,55 mins, 1 hr 5 mins,8 ,1 9-inch deep-dish pie,8,283,12g,5g,59mg,357mg,39g,3g,26g,6g,134mg,1mg,173mg,4.8,"1,352",1mg,,,
+2,6649767,Homemade Fresh Pumpkin Pie,20 mins,40 mins, 1 hr,8 ,1 (9-inch) pie,8,363,18g,6g,60mg,365mg,44g,1g,26g,7g,162mg,2mg,353mg,4.6,828,4mg,,,
+3,6570862,Pecan Pumpkin Pie,15 mins,50 mins, 1 hr 5 mins,8 ,1 (9-inch) pie,8,661,28g,10g,77mg,446mg,95g,4g,70g,11g,248mg,3mg,504mg,4.6,59,5mg,,,
+4,6828452,Pumpkin Tahini Pie,20 mins,, 5 hrs 10 mins,8 ,1 pumpkin pie,8,225,16g,5g,57mg,335mg,17g,3g,,5g,,,183mg,,,,50 mins, 4 hrs,
+5,6828453,Pumpkin Pie with Vanilla Meringue,10 mins,20 mins,30 mins,8 ,1 vanilla meringue pie topping,8,261,9g,2g,47mg,297mg,40g,2g,,6g,,,193mg,,,,,,
+6,6828456,Marbled Chocolate Pumpkin Pie,20 mins,, 1 hr 10 mins,9 ,1 pumpkin pie,9,174,11g,3g,62mg,249mg,17g,3g,,4g,,,141mg,5.0,1,,50 mins,,
+7,6828455,Pumpkin Pie with Maple Mascarpone Swirl,20 mins,, 1 hr 10 mins,8 ,1 pumpkin pie,8,261,19g,8g,73mg,151mg,19g,2g,,5g,,,162mg,,,,50 mins,,
+8,6664693,Simple Pumpkin Pie,10 mins,50 mins, 1 hr,8 ,1 (9-inch) pie,8,478,20g,9g,69mg,313mg,67g,3g,39g,10g,220mg,2mg,426mg,4.7,124,4mg,,,
+9,6648679,Double Layer Pumpkin Pie,15 mins,, 4 hrs 15 mins,8 ,1 9-inch pie,8,356,16g,8g,18mg,690mg,51g,2g,37g,4g,76mg,2mg,207mg,4.6,364,3mg,,, 4 hrs
+10,6648415,Pumpkin Custard Pie,15 mins,35 mins,50 mins,8 ,1 9-inch pie,8,326,20g,9g,89mg,298mg,34g,2g,20g,5g,57mg,1mg,203mg,4.7,69,3mg,,,
+11,6584248,Fresh Sugar Pumpkin Pie,15 mins, 1 hr 25 mins, 2 hrs,16 ,2 deep dish pies,16,364,17g,8g,68mg,333mg,50g,1g,27g,5g,104mg,3mg,837mg,4.9,23,18mg,,,20 mins
+12,6663920,Chef John's Pumpkin Pie,15 mins,45 mins, 1 hr,8 ,1 9-inch pie,8,320,14g,5g,117mg,465mg,42g,3g,29g,8g,170mg,2mg,324mg,4.8,923,4mg,,,
+13,6604130,Easy Crustless Pumpkin Pie,10 mins,30 mins,40 mins,8 ,1 (9-inch) pie,8,48,1g,0g,1mg,172mg,7g,2g,4g,4g,73mg,1mg,225mg,4.4,21,2mg,,,
+14,6562018,Pumpkin Pie Spice I,1 mins,,1 mins,8 ,1 cup,8,22,1g,0g,,2mg,5g,2g,1g,0g,43mg,1mg,40mg,4.7,144,1mg,,,
+15,6739637,Whipped Pumpkin Pie,15 mins,10 mins, 8 hrs 25 mins,8 ,1 9-inch pie,8,605,38g,24g,77mg,532mg,65g,3g,47g,5g,52mg,2mg,198mg,4.5,66,2mg,,, 8 hrs
+16,6737451,Mrs. Sigg's Fresh Pumpkin Pie,20 mins, 1 hr, 14 hrs 40 mins,8 ,1 to 9 - inch pie,8,423,13g,5g,60mg,342mg,73g,3g,38g,11g,254mg,5mg,1759mg,4.8,758,42mg,,, 13 hrs 20 mins
+17,6572268,Killer Pumpkin Pie,20 mins, 1 hr, 1 hr 20 mins,8 ,1 to 9 - inch pie,8,390,20g,2g,47mg,599mg,50g,3g,22g,5g,40mg,2mg,178mg,4.7,107,2mg,,,
+18,6584191,Creamy Pumpkin Pie,10 mins,55 mins, 1 hr 5 mins,8 ,1 9-inch deep dish pie,8,319,13g,6g,63mg,374mg,44g,2g,29g,7g,172mg,2mg,509mg,4.7,201,7mg,,,
+19,6597078,Pumpkin Tarts, 1 hr 30 mins,25 mins, 2 hrs 25 mins,48 ,8 dozen,48,313,21g,11g,60mg,191mg,29g,1g,18g,4g,51mg,1mg,102mg,4.8,29,1mg,,,30 mins
+20,6580795,No-Bake Pumpkin Cheesecake Pie,10 mins,, 4 hrs 10 mins,8 ,1 (9-inch) pie,8,454,26g,14g,31mg,356mg,51g,4g,21g,5g,53mg,2mg,137mg,4.6,21,1mg,,, 4 hrs
+21,6664100,No-Bake Pumpkin Pie,10 mins,10 mins, 3 hrs 20 mins,8 ,1 9-inch pie,8,346,13g,5g,63mg,526mg,51g,2g,40g,8g,170mg,2mg,338mg,4.6,233,4mg,,, 3 hrs
+22,6585270,Signature Pumpkin Pie,5 mins,55 mins, 1 hr,8 ,8 servings,8,310,13g,5g,63mg,326mg,42g,3g,29g,8g,167mg,2mg,328mg,4.5,83,4mg,,,
+23,6597435,Pumpkin Pie from Almond Breeze®,,,,6 ,6 servings,6,365,14g,4g,127mg,624mg,55g,3g,35g,6g,41mg,2mg,250mg,4.1,11,4mg,,,
+24,6737877,Pumpkin Chiffon Pie,15 mins,15 mins, 1 hr 45 mins,8 ,1 9-inch pie,8,349,12g,3g,99mg,383mg,56g,2g,,7g,88mg,2mg,206mg,4.6,40,2mg,,, 1 hr 15 mins
+25,6599840,Sugarless Pumpkin Pie II,,,,8 ,1 pie,8,146,8g,3g,32mg,219mg,14g,1g,5g,5g,98mg,1mg,186mg,4.4,62,2mg,,,
+26,6578499,Gluten Free Crustless Pumpkin Pie,10 mins,45 mins, 1 hr 55 mins,8 ,1 9-inch pie,8,164,7g,3g,58mg,337mg,23g,2g,19g,5g,141mg,1mg,280mg,4.6,67,3mg,,, 1 hr
+27,6569631,Fresh Pumpkin Pie,20 mins, 1 hr 35 mins, 1 hr 55 mins,8 ,1 9-inch pie,8,405,18g,7g,115mg,458mg,60g,2g,39g,8g,89mg,3mg,781mg,4.6,243,18mg,,,
+28,6568472,Vegan Pumpkin Pie,15 mins,40 mins, 9 hrs 55 mins,8 ,1 pie,8,202,8g,2g,,419mg,31g,2g,15g,2g,30mg,2mg,170mg,3.7,9,2mg,,, 9 hrs
+29,6587231,Vanilla Pumpkin Pie,10 mins, 1 hr, 1 hr 15 mins,8 ,1 9-inch pie,8,289,13g,4g,60mg,332mg,38g,3g,25g,7g,142mg,1mg,177mg,4.5,147,1mg,,,5 mins
+30,6579336,Keto Pumpkin Pie,20 mins, 1 hr 10 mins, 4 hrs 30 mins,8 ,1 10-inch pie,8,139,11g,3g,101mg,204mg,15g,3g,2g,4g,37mg,1mg,178mg,4.2,6,2mg,,, 3 hrs
+31,6664998,Mini Pumpkin Pies,30 mins,15 mins, 1 hr,24 ,24 mini pies,24,138,9g,4g,34mg,139mg,12g,1g,5g,3g,15mg,1mg,51mg,4.6,53,0mg,,,15 mins
+32,6603784,Pumpkin Pecan Pie,10 mins,50 mins, 1 hr,8 ,1 9-inch pie,8,523,27g,8g,81mg,260mg,69g,3g,46g,6g,42mg,2mg,190mg,4.5,35,1mg,,,
+33,6572468,Fireball Pumpkin Pie,5 mins, 1 hr 15 mins, 3 hrs 20 mins,8 ,1 9-inch pie,8,334,11g,4g,56mg,454mg,48g,5g,23g,5g,115mg,1mg,214mg,4.0,4,3mg,,, 2 hrs
+34,6572267,Tofu Pumpkin Pie,10 mins,55 mins, 2 hrs 5 mins,8 ,1 9-inch pie,8,230,9g,2g,,413mg,35g,3g,21g,5g,33mg,2mg,208mg,4.5,33,3mg,,, 1 hr
+35,6649530,Pumpkin Pie without Evaporated Milk,15 mins,45 mins, 1 hr,16 ,2 9-inch pies,16,257,10g,3g,38mg,277mg,40g,2g,,4g,53mg,1mg,137mg,4.2,62,1mg,,,
+36,6601387,Cindy's Pumpkin Pie,15 mins,45 mins, 1 hr,16 ,2 to 9 - inch pies,16,223,11g,4g,46mg,287mg,28g,2g,16g,4g,48mg,1mg,133mg,4.7,480,1mg,,,
+37,6593760,Bisquick Impossible Pumpkin Pie,10 mins,50 mins, 1 hr,8 ,1 (9-inch) pie,8,228,9g,5g,56mg,310mg,32g,1g,25g,6g,156mg,1mg,299mg,4.7,61,4mg,,,
+38,6575315,Pumpkin Pie for Dieters,10 mins,, 1 hr 10 mins,6 ,1 8-inch pie,6,110,0g,0g,0mg,394mg,23g,2g,8g,2g,53mg,1mg,181mg,4.5,69,3mg,,, 1 hr
+39,6571954,Gingersnap Pumpkin Pie,20 mins, 1 hr, 3 hrs 20 mins,8 ,1 9-inch pie,8,315,12g,6g,70mg,319mg,47g,2g,,6g,168mg,2mg,300mg,4.3,42,3mg,,, 2 hrs
+40,6570260,Pumpkin Pie Squares,,,,24 ,1 9x13 pan,24,176,8g,4g,19mg,110mg,24g,1g,17g,3g,61mg,1mg,141mg,4.6,101,1mg,,,
+41,6602299,Walnut Pumpkin Pie,10 mins,40 mins,50 mins,8 ,1 -8 or 9 inch pie,8,459,23g,7g,48mg,410mg,59g,2g,46g,8g,180mg,2mg,422mg,4.7,62,4mg,,,
+42,6604242,Caramel-Pecan Pumpkin Pie,25 mins,40 mins, 1 hr 5 mins,8 ,8 servings,8,467,26g,7g,64mg,378mg,57g,4g,41g,6g,69mg,2mg,253mg,4.5,69,3mg,,,
+43,6568127,Brown Family's Favorite Pumpkin Pie,30 mins, 1 hr, 1 hr 30 mins,8 ,1 to 9 - inch pie,8,463,26g,8g,76mg,492mg,52g,4g,36g,10g,189mg,2mg,405mg,4.7,"1,101",4mg,,,
+44,6572188,Creamy Pumpkin Pie with Ricotta Cheese,10 mins,45 mins,55 mins,8 ,1 9-inch pie,8,257,10g,3g,52mg,443mg,37g,3g,24g,5g,92mg,2mg,235mg,5.0,5,3mg,,,
+45,6568295,Pumpkin Pudding Pie,20 mins,7 mins, 1 hr 27 mins,8 ,1 9-inch pie,8,323,14g,8g,37mg,592mg,46g,2g,33g,5g,147mg,2mg,280mg,4.7,7,3mg,,, 1 hr
+46,6574549,Apple Butter Pumpkin Pie,30 mins, 1 hr, 1 hr 30 mins,8 ,1 to 9 - inch deep dish pie,8,413,21g,8g,90mg,392mg,50g,3g,28g,8g,128mg,2mg,294mg,4.3,180,2mg,,,
+47,6736840,Mom's Pumpkin Pie,30 mins, 1 hr, 1 hr 30 mins,8 ,1 9-inch pie,8,345,17g,7g,119mg,611mg,44g,3g,30g,7g,108mg,2mg,270mg,4.5,341,3mg,,,
+48,6606313,Praline Pumpkin Pie II,30 mins,55 mins, 1 hr 25 mins,8 ,1 9-inch pie,8,359,20g,8g,74mg,394mg,42g,2g,28g,5g,74mg,2mg,187mg,4.7,46,2mg,,,
+49,6598201,Dairy-Free Pumpkin Pie,10 mins,45 mins,55 mins,8 ,1 9-inch pie,8,153,4g,1g,23mg,502mg,29g,2g,19g,2g,62mg,2mg,232mg,,,2mg,,,
+50,6571941,"Pumpkin Pie (Wheat-Free, Egg-Free, and Dairy-Free)",20 mins, 1 hr 15 mins, 3 hrs 35 mins,8 ,8 servings,8,264,16g,2g,,615mg,31g,2g,23g,1g,32mg,1mg,149mg,4.8,24,3mg,,, 2 hrs
+51,6567306,Healthier Sweet Potato Pie I,30 mins,50 mins, 2 hrs 20 mins,8 ,1 9-inch pan,8,316,19g,9g,79mg,245mg,34g,2g,17g,4g,68mg,1mg,277mg,5.0,4,1mg,,, 1 hr
+52,6579922,Pumpkin Custard Pie I,,,,8 ,1 pie,8,228,8g,2g,75mg,375mg,34g,1g,24g,6g,100mg,1mg,209mg,4.3,27,1mg,,,
+53,6599470,Mom's Spiced Pumpkin Pie,5 mins,55 mins, 2 hrs,8 ,1 to 9 - inch pie,8,297,13g,5g,60mg,605mg,41g,3g,25g,7g,157mg,2mg,299mg,4.3,51,4mg,,, 1 hr
+54,6597988,Spicy Pumpkin Pie II,10 mins, 1 hr, 1 hr 10 mins,8 ,1 to 9 - inch pie,8,333,16g,6g,69mg,238mg,45g,4g,30g,6g,101mg,2mg,137mg,4.5,26,0mg,,,
+55,6574516,Easy Maple Pumpkin Pie,10 mins,40 mins,50 mins,8 ,1 9-inch pie,8,294,12g,4g,79mg,397mg,42g,2g,29g,6g,112mg,2mg,221mg,5.0,3,2mg,,,
+56,6591888,Frozen No-Bake Pumpkin Pie,10 mins,,10 mins,8 ,8 servings,8,213,9g,3g,2mg,337mg,29g,2g,14g,3g,80mg,1mg,205mg,3.9,15,2mg,,,
+57,6585839,Dairy-Free Honey Pumpkin Pie,20 mins,50 mins, 3 hrs 10 mins,8 ,1 9-inch pie,8,340,15g,4g,95mg,280mg,48g,,29g,6g,,,,5.0,5,,,, 2 hrs
+58,6574225,Pumpkin Patch Tarts,10 mins,15 mins, 1 hr 35 mins,42 ,42 tarts,42,879,41g,10g,17mg,612mg,120g,1g,35g,10g,53mg,4mg,80mg,4.3,3,1mg,,, 1 hr 10 mins
+59,6737002,Harvest Walnut Pumpkin Pie,15 mins,45 mins, 1 hr,8 ,1 9-inch pie,8,484,22g,8g,75mg,558mg,65g,3g,49g,9g,186mg,2mg,389mg,4.8,10,4mg,,,

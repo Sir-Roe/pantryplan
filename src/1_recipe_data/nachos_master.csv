@@ -1,61 +1,61 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
-0,7489045,5 mins,10 mins,15 mins,4 ,4,817,46g,15g,129mg,1970mg,56g,11g,10g,48g,67mg,380mg,8mg,1421mg,5.0,3,,
-1,6664642,25 mins,20 mins,45 mins,12 ,12,432,25g,8g,44mg,1081mg,40g,6g,2g,15g,5mg,212mg,3mg,399mg,4.7,161,,
-2,6649456,20 mins,35 mins, 1 hr 55 mins,16 ,16,419,27g,12g,58mg,771mg,26g,4g,2g,20g,6mg,390mg,2mg,388mg,4.9,18, 1 hr,
-3,6580400,15 mins,5 mins,20 mins,8 ,8,341,18g,8g,32mg,768mg,34g,5g,1g,12g,5mg,88mg,2mg,264mg,4.3,3,,
-4,6603556,15 mins,15 mins,30 mins,6 ,6,407,26g,8g,54mg,670mg,24g,3g,2g,21g,6mg,279mg,2mg,335mg,4.6,602,,
-5,6597245,20 mins,5 mins,25 mins,6 ,6,504,37g,13g,48mg,414mg,33g,4g,4g,14g,24mg,381mg,2mg,517mg,4.4,23,,6 servings
-6,6578575,15 mins,10 mins,25 mins,20 ,20,387,28g,11g,111mg,482mg,15g,1g,1g,20g,2mg,395mg,2mg,169mg,4.8,39,,20 servings
-7,6586358,25 mins,15 mins,40 mins,6 ,6,461,25g,10g,71mg,588mg,37g,6g,1g,22g,5mg,295mg,2mg,363mg,4.4,45,,6 servings
-8,6601683,15 mins,15 mins,30 mins,6 ,6,593,34g,14g,64mg,1062mg,51g,6g,4g,23g,10mg,498mg,2mg,301mg,4.4,28,,6 servings
-9,6596710,10 mins,25 mins,35 mins,4 ,4,336,17g,9g,32mg,780mg,35g,5g,2g,12g,41mg,260mg,2mg,841mg,4.8,16,,4 servings
-10,6601385,20 mins,20 mins,40 mins,6 ,6,511,30g,11g,59mg,886mg,40g,4g,2g,22g,22mg,104mg,2mg,255mg,4.5,92,,6 servings
-11,6579651,10 mins,10 mins,20 mins,10 ,10,465,29g,11g,64mg,915mg,35g,4g,4g,19g,61mg,289mg,3mg,437mg,4.4,23,,10 servings
-12,6586079,15 mins,30 mins,45 mins,8 ,8,481,28g,7g,81mg,1283mg,32g,3g,1g,31g,1mg,128mg,1mg,512mg,5.0,3,,
-13,6738615,15 mins,45 mins, 1 hr,6 ,6,619,32g,12g,105mg,1675mg,57g,5g,8g,32g,30mg,284mg,1mg,583mg,4.8,22,,6 servings
-14,6589826,20 mins,25 mins,45 mins,6 ,6,717,38g,12g,105mg,1424mg,64g,9g,4g,33g,19mg,473mg,5mg,732mg,4.2,35,,6 servings
-15,6583928,45 mins,15 mins, 1 hr 30 mins,6 ,6,311,18g,10g,91mg,796mg,7g,1g,3g,29g,16mg,323mg,2mg,487mg,4.9,10,30 mins,6 servings
-16,6739014,20 mins,10 mins,30 mins,8 ,8,672,48g,17g,90mg,1531mg,36g,3g,3g,28g,21mg,385mg,2mg,299mg,4.8,35,,
-17,6664324,15 mins,10 mins,25 mins,8 ,8,453,32g,11g,69mg,1133mg,23g,2g,2g,19g,5mg,294mg,2mg,257mg,4.5,52,,8 servings
-18,6587575,5 mins,15 mins,20 mins,4 ,4,685,35g,11g,115mg,1433mg,51g,4g,9g,39g,11mg,171mg,6mg,1414mg,4.3,349,,
-19,6605842,15 mins,10 mins,25 mins,4 ,4,882,41g,13g,61mg,2279mg,100g,18g,7g,31g,29mg,580mg,7mg,521mg,4.8,11,,
-20,6569884,5 mins,5 mins,10 mins,6 ,6,829,52g,20g,119mg,846mg,58g,8g,2g,34g,7mg,486mg,5mg,594mg,4.4,199,,6 servings
-21,6605222,10 mins,10 mins,20 mins,8 ,8,521,29g,11g,67mg,944mg,43g,6g,1g,24g,5mg,422mg,3mg,375mg,4.5,2,,8 servings
-22,6599358,20 mins,20 mins,40 mins,8 ,8,349,23g,11g,65mg,758mg,18g,2g,2g,18g,16mg,211mg,2mg,452mg,5.0,3,,8 servings
-23,6584067,20 mins,15 mins,35 mins,4 ,4,747,36g,17g,121mg,1751mg,62g,3g,5g,43g,5mg,291mg,2mg,408mg,,,,4 servings
-24,6584881,10 mins,10 mins,20 mins,6 ,6,854,64g,20g,128mg,1750mg,42g,4g,5g,31g,5mg,535mg,3mg,345mg,5.0,1,,6 servings
-25,6578486,35 mins,25 mins, 1 hr,20 ,20,509,34g,16g,97mg,1121mg,27g,3g,3g,23g,2mg,403mg,2mg,344mg,5.0,1,,20 servings
-26,6587516,15 mins,10 mins,25 mins,6 ,6,788,49g,19g,116mg,1576mg,57g,7g,6g,32g,7mg,462mg,4mg,712mg,4.4,33,,6 servings
-27,6736782,20 mins,40 mins, 1 hr,8 ,8,327,20g,9g,50mg,568mg,20g,5g,1g,16g,13mg,242mg,2mg,517mg,4.5,165,,8 servings
-28,6584790,15 mins,35 mins,50 mins,6 ,6,535,33g,13g,56mg,1351mg,46g,4g,4g,18g,4mg,31mg,1mg,623mg,4.1,27,,6 servings
-29,6604214,15 mins,15 mins,30 mins,8 ,8,464,29g,11g,107mg,869mg,31g,3g,1g,20g,17mg,96mg,2mg,261mg,4.8,6,,8 servings
-30,6594455,5 mins,5 mins,10 mins,6 ,6,624,29g,11g,92mg,1478mg,59g,3g,13g,31g,0mg,352mg,2mg,224mg,,,,6 servings
-31,6601547,15 mins,10 mins,25 mins,8 ,8,613,34g,12g,83mg,926mg,48g,7g,1g,30g,2mg,365mg,3mg,441mg,4.1,12,,8 servings
-32,6578023,20 mins,20 mins, 1 hr 20 mins,10 ,10,787,52g,17g,87mg,780mg,54g,5g,1g,26g,8mg,438mg,2mg,320mg,5.0,1,40 mins,10 servings
-33,6594301,10 mins,15 mins,25 mins,2 ,2,565,32g,11g,40mg,1257mg,48g,10g,3g,25g,6mg,405mg,5mg,629mg,4.5,2,,2 servings
-34,6605046,10 mins,35 mins,45 mins,4 ,4,883,34g,9g,25mg,971mg,119g,27g,7g,34g,11mg,464mg,9mg,1261mg,4.5,39,,4 servings
-35,6584620,10 mins,10 mins,30 mins,10 ,10,426,21g,7g,77mg,1183mg,35g,3g,2g,25g,14mg,244mg,1mg,179mg,5.0,1,10 mins,10 servings
-36,6737386,10 mins,15 mins,25 mins,2 ,2,554,39g,20g,121mg,959mg,29g,3g,4g,23g,61mg,271mg,2mg,332mg,4.6,18,,2 servings
-37,6664932,10 mins,5 mins,15 mins,2 ,2,516,35g,16g,88mg,746mg,29g,3g,,21g,,,,192mg,,,,
-38,6569971,10 mins,10 mins,20 mins,6 ,6,390,21g,3g,3mg,624mg,47g,5g,4g,6g,25mg,133mg,2mg,284mg,4.0,1,,6 servings
-39,6605712,5 mins,15 mins,20 mins,4 ,4,613,38g,8g,16mg,1082mg,61g,11g,3g,12g,3mg,171mg,3mg,187mg,,,,4 servings
-40,6588342,5 mins,10 mins,20 mins,4 ,4,1355,77g,28g,159mg,2648mg,124g,8g,36g,45g,9mg,619mg,6mg,1104mg,4.3,27,5 mins,4 servings
-41,6737765,20 mins,5 mins,25 mins,15 ,15,209,15g,7g,82mg,278mg,6g,1g,0g,13g,6mg,194mg,1mg,145mg,4.5,19,,50 nachos
-42,6600351,20 mins,15 mins,35 mins,12 ,12,376,22g,8g,31mg,866mg,35g,5g,3g,12g,5mg,179mg,2mg,404mg,4.0,1,,12 servings
-43,6601274,15 mins,,15 mins,16 ,16,130,12g,5g,19mg,179mg,5g,1g,0g,2g,0mg,29mg,0mg,35mg,3.8,35,,16 servings
-44,6599168,15 mins,10 mins,25 mins,4 ,4,697,40g,12g,90mg,1348mg,55g,6g,4g,34g,25mg,274mg,4mg,633mg,,,,4 servings
-45,6598789,5 mins,15 mins,25 mins,6 ,6,441,28g,8g,51mg,1014mg,38g,4g,2g,18g,2mg,149mg,1mg,547mg,,,5 mins,6 servings
-46,6737324,15 mins,15 mins,30 mins,24 ,24,64,3g,1g,14mg,67mg,5g,0g,0g,4g,0mg,25mg,0mg,52mg,4.8,4,,48 appetizers
-47,6648891,10 mins,8 mins,18 mins,4 ,4,578,34g,17g,103mg,939mg,36g,6g,,33g,,,,402mg,,,,
-48,6592180,10 mins,25 mins,35 mins,10 ,10,582,35g,18g,97mg,1108mg,39g,5g,4g,29g,2mg,495mg,2mg,381mg,4.0,1,,10 servings
-49,6649040,,,,8 ,8,328,19g,6g,43mg,914mg,23g,4g,,15g,,,,148mg,5.0,2,,
-50,6596332,5 mins,5 mins,10 mins,2 ,2,321,20g,12g,59mg,1743mg,18g,3g,6g,16g,30mg,445mg,2mg,525mg,,,,2 servings
-51,6588656,,,,32 ,32,26,2g,0g,,3mg,3g,0g,0g,0g,,5mg,0mg,12mg,4.7,39,,32 triangles
-52,6582825,10 mins,20 mins,30 mins,6 ,6,967,52g,15g,102mg,1737mg,93g,8g,7g,35g,3mg,391mg,5mg,670mg,4.5,6,,6 servings
-53,6582355,20 mins,40 mins, 1 hr,12 ,12,356,25g,10g,50mg,708mg,24g,3g,2g,14g,7mg,156mg,1mg,427mg,4.2,22,,12 servings
-54,6738131,25 mins,10 mins, 4 hrs 35 mins,6 ,6,518,30g,4g,,935mg,57g,10g,5g,10g,26mg,137mg,3mg,751mg,,, 4 hrs,6 servings
-55,6579940,10 mins,50 mins, 1 hr,16 ,16,191,9g,5g,25mg,506mg,18g,4g,1g,10g,6mg,149mg,1mg,223mg,,,,16 servings
-56,6578376,25 mins,35 mins, 1 hr,4 ,4,317,19g,4g,11mg,817mg,39g,13g,7g,13g,92mg,122mg,2mg,790mg,,,,4 servings
-57,6569824,15 mins,10 mins,25 mins,2 ,2,915,63g,22g,118mg,2158mg,58g,6g,16g,34g,15mg,802mg,4mg,457mg,,,,2 servings
-58,6564993,5 mins,15 mins,20 mins,10 ,10,324,21g,8g,52mg,484mg,19g,1g,1g,15g,,206mg,1mg,114mg,,,,10 servings
-59,6596474,5 mins, 2 hrs, 2 hrs 5 mins,6 ,6,584,32g,18g,113mg,789mg,33g,15g,2g,41g,2mg,590mg,5mg,560mg,,,,6 servings
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
+0,7489045,Loaded Beef Nachos,5 mins,10 mins,15 mins,4 ,4,817,46g,15g,129mg,1970mg,56g,11g,10g,48g,67mg,380mg,8mg,1421mg,5.0,3,,
+1,6664642,Super Nachos,25 mins,20 mins,45 mins,12 ,12,432,25g,8g,44mg,1081mg,40g,6g,2g,15g,5mg,212mg,3mg,399mg,4.7,161,,
+2,6649456,Super Deluxe Steak Nachos,20 mins,35 mins, 1 hr 55 mins,16 ,16,419,27g,12g,58mg,771mg,26g,4g,2g,20g,6mg,390mg,2mg,388mg,4.9,18, 1 hr,
+3,6580400,Easy Nachos with Refried Beans,15 mins,5 mins,20 mins,8 ,8,341,18g,8g,32mg,768mg,34g,5g,1g,12g,5mg,88mg,2mg,264mg,4.3,3,,
+4,6603556,Restaurant-Style Chicken Nachos,15 mins,15 mins,30 mins,6 ,6,407,26g,8g,54mg,670mg,24g,3g,2g,21g,6mg,279mg,2mg,335mg,4.6,602,,
+5,6597245,Classic Pub Style Nachos,20 mins,5 mins,25 mins,6 ,6,504,37g,13g,48mg,414mg,33g,4g,4g,14g,24mg,381mg,2mg,517mg,4.4,23,,6 servings
+6,6578575,Shrimp Nachos,15 mins,10 mins,25 mins,20 ,20,387,28g,11g,111mg,482mg,15g,1g,1g,20g,2mg,395mg,2mg,169mg,4.8,39,,20 servings
+7,6586358,Steven's Baked Nachos,25 mins,15 mins,40 mins,6 ,6,461,25g,10g,71mg,588mg,37g,6g,1g,22g,5mg,295mg,2mg,363mg,4.4,45,,6 servings
+8,6601683,Chili Nachos,15 mins,15 mins,30 mins,6 ,6,593,34g,14g,64mg,1062mg,51g,6g,4g,23g,10mg,498mg,2mg,301mg,4.4,28,,6 servings
+9,6596710,Quick Potato Nachos,10 mins,25 mins,35 mins,4 ,4,336,17g,9g,32mg,780mg,35g,5g,2g,12g,41mg,260mg,2mg,841mg,4.8,16,,4 servings
+10,6601385,Chicken Nachos,20 mins,20 mins,40 mins,6 ,6,511,30g,11g,59mg,886mg,40g,4g,2g,22g,22mg,104mg,2mg,255mg,4.5,92,,6 servings
+11,6579651,Sheet Pan Nachos,10 mins,10 mins,20 mins,10 ,10,465,29g,11g,64mg,915mg,35g,4g,4g,19g,61mg,289mg,3mg,437mg,4.4,23,,10 servings
+12,6586079,Buffalo Chicken Totchos,15 mins,30 mins,45 mins,8 ,8,481,28g,7g,81mg,1283mg,32g,3g,1g,31g,1mg,128mg,1mg,512mg,5.0,3,,
+13,6738615,Memphis BBQ Pork Totchos,15 mins,45 mins, 1 hr,6 ,6,619,32g,12g,105mg,1675mg,57g,5g,8g,32g,30mg,284mg,1mg,583mg,4.8,22,,6 servings
+14,6589826,Turkey Nacho Bake,20 mins,25 mins,45 mins,6 ,6,717,38g,12g,105mg,1424mg,64g,9g,4g,33g,19mg,473mg,5mg,732mg,4.2,35,,6 servings
+15,6583928,Zucchini Nachos,45 mins,15 mins, 1 hr 30 mins,6 ,6,311,18g,10g,91mg,796mg,7g,1g,3g,29g,16mg,323mg,2mg,487mg,4.9,10,30 mins,6 servings
+16,6739014,Kickin' Buffalo Chicken Nachos,20 mins,10 mins,30 mins,8 ,8,672,48g,17g,90mg,1531mg,36g,3g,3g,28g,21mg,385mg,2mg,299mg,4.8,35,,
+17,6664324,Italian Nachos Restaurant-Style,15 mins,10 mins,25 mins,8 ,8,453,32g,11g,69mg,1133mg,23g,2g,2g,19g,5mg,294mg,2mg,257mg,4.5,52,,8 servings
+18,6587575,15-Minute Dinner Nachos Supreme,5 mins,15 mins,20 mins,4 ,4,685,35g,11g,115mg,1433mg,51g,4g,9g,39g,11mg,171mg,6mg,1414mg,4.3,349,,
+19,6605842,Aaron's Famous Vegetarian Nachos,15 mins,10 mins,25 mins,4 ,4,882,41g,13g,61mg,2279mg,100g,18g,7g,31g,29mg,580mg,7mg,521mg,4.8,11,,
+20,6569884,Over the Top Nachos,5 mins,5 mins,10 mins,6 ,6,829,52g,20g,119mg,846mg,58g,8g,2g,34g,7mg,486mg,5mg,594mg,4.4,199,,6 servings
+21,6605222,Chicken Nachos with Refried Beans,10 mins,10 mins,20 mins,8 ,8,521,29g,11g,67mg,944mg,43g,6g,1g,24g,5mg,422mg,3mg,375mg,4.5,2,,8 servings
+22,6599358,Awesome Irish Nachos,20 mins,20 mins,40 mins,8 ,8,349,23g,11g,65mg,758mg,18g,2g,2g,18g,16mg,211mg,2mg,452mg,5.0,3,,8 servings
+23,6584067,Nacho Pizza,20 mins,15 mins,35 mins,4 ,4,747,36g,17g,121mg,1751mg,62g,3g,5g,43g,5mg,291mg,2mg,408mg,,,,4 servings
+24,6584881,Reuben Nachos,10 mins,10 mins,20 mins,6 ,6,854,64g,20g,128mg,1750mg,42g,4g,5g,31g,5mg,535mg,3mg,345mg,5.0,1,,6 servings
+25,6578486,Loaded Nachos,35 mins,25 mins, 1 hr,20 ,20,509,34g,16g,97mg,1121mg,27g,3g,3g,23g,2mg,403mg,2mg,344mg,5.0,1,,20 servings
+26,6587516,Taco Nachos,15 mins,10 mins,25 mins,6 ,6,788,49g,19g,116mg,1576mg,57g,7g,6g,32g,7mg,462mg,4mg,712mg,4.4,33,,6 servings
+27,6736782,Mexican Potato Nachos,20 mins,40 mins, 1 hr,8 ,8,327,20g,9g,50mg,568mg,20g,5g,1g,16g,13mg,242mg,2mg,517mg,4.5,165,,8 servings
+28,6584790,Tater Tots® Nachos,15 mins,35 mins,50 mins,6 ,6,535,33g,13g,56mg,1351mg,46g,4g,4g,18g,4mg,31mg,1mg,623mg,4.1,27,,6 servings
+29,6604214,Cajun Shrimp and Andouille Nachos,15 mins,15 mins,30 mins,8 ,8,464,29g,11g,107mg,869mg,31g,3g,1g,20g,17mg,96mg,2mg,261mg,4.8,6,,8 servings
+30,6594455,Baked BBQ Pulled Pork Nachos,5 mins,5 mins,10 mins,6 ,6,624,29g,11g,92mg,1478mg,59g,3g,13g,31g,0mg,352mg,2mg,224mg,,,,6 servings
+31,6601547,Buffalo Chicken Nacho Bowl,15 mins,10 mins,25 mins,8 ,8,613,34g,12g,83mg,926mg,48g,7g,1g,30g,2mg,365mg,3mg,441mg,4.1,12,,8 servings
+32,6578023,Grilled Chicken Nachos with Lime Crema,20 mins,20 mins, 1 hr 20 mins,10 ,10,787,52g,17g,87mg,780mg,54g,5g,1g,26g,8mg,438mg,2mg,320mg,5.0,1,40 mins,10 servings
+33,6594301,Vegetarian Nachos Supreme for Two,10 mins,15 mins,25 mins,2 ,2,565,32g,11g,40mg,1257mg,48g,10g,3g,25g,6mg,405mg,5mg,629mg,4.5,2,,2 servings
+34,6605046,Spicy Lentil Nachos,10 mins,35 mins,45 mins,4 ,4,883,34g,9g,25mg,971mg,119g,27g,7g,34g,11mg,464mg,9mg,1261mg,4.5,39,,4 servings
+35,6584620,Pulled Pork Nachos with Sriracha Slaw,10 mins,10 mins,30 mins,10 ,10,426,21g,7g,77mg,1183mg,35g,3g,2g,25g,14mg,244mg,1mg,179mg,5.0,1,10 mins,10 servings
+36,6737386,Chicken Enchilada Nachos,10 mins,15 mins,25 mins,2 ,2,554,39g,20g,121mg,959mg,29g,3g,4g,23g,61mg,271mg,2mg,332mg,4.6,18,,2 servings
+37,6664932,Air Fryer Nachos,10 mins,5 mins,15 mins,2 ,2,516,35g,16g,88mg,746mg,29g,3g,,21g,,,,192mg,,,,
+38,6569971,Veggie Nachos,10 mins,10 mins,20 mins,6 ,6,390,21g,3g,3mg,624mg,47g,5g,4g,6g,25mg,133mg,2mg,284mg,4.0,1,,6 servings
+39,6605712,Copycat Triple Layer Nachos,5 mins,15 mins,20 mins,4 ,4,613,38g,8g,16mg,1082mg,61g,11g,3g,12g,3mg,171mg,3mg,187mg,,,,4 servings
+40,6588342,Jen's Nachos,5 mins,10 mins,20 mins,4 ,4,1355,77g,28g,159mg,2648mg,124g,8g,36g,45g,9mg,619mg,6mg,1104mg,4.3,27,5 mins,4 servings
+41,6737765,Shrimp and Jalapeno Nachos,20 mins,5 mins,25 mins,15 ,15,209,15g,7g,82mg,278mg,6g,1g,0g,13g,6mg,194mg,1mg,145mg,4.5,19,,50 nachos
+42,6600351,Corned Beef Hash Nachos,20 mins,15 mins,35 mins,12 ,12,376,22g,8g,31mg,866mg,35g,5g,3g,12g,5mg,179mg,2mg,404mg,4.0,1,,12 servings
+43,6601274,Popcorn Nachos,15 mins,,15 mins,16 ,16,130,12g,5g,19mg,179mg,5g,1g,0g,2g,0mg,29mg,0mg,35mg,3.8,35,,16 servings
+44,6599168,Veggie Nacho Salad,15 mins,10 mins,25 mins,4 ,4,697,40g,12g,90mg,1348mg,55g,6g,4g,34g,25mg,274mg,4mg,633mg,,,,4 servings
+45,6598789,Air Fryer Buffalo Chicken Totchos,5 mins,15 mins,25 mins,6 ,6,441,28g,8g,51mg,1014mg,38g,4g,2g,18g,2mg,149mg,1mg,547mg,,,5 mins,6 servings
+46,6737324,Leftover Turkey Thanksgiving Nachos,15 mins,15 mins,30 mins,24 ,24,64,3g,1g,14mg,67mg,5g,0g,0g,4g,0mg,25mg,0mg,52mg,4.8,4,,48 appetizers
+47,6648891,Quick and Easy Air Fryer Nachos,10 mins,8 mins,18 mins,4 ,4,578,34g,17g,103mg,939mg,36g,6g,,33g,,,,402mg,,,,
+48,6592180,Steak Nachos,10 mins,25 mins,35 mins,10 ,10,582,35g,18g,97mg,1108mg,39g,5g,4g,29g,2mg,495mg,2mg,381mg,4.0,1,,10 servings
+49,6649040,Sheet Pan Greek Salad Nachos,,,,8 ,8,328,19g,6g,43mg,914mg,23g,4g,,15g,,,,148mg,5.0,2,,
+50,6596332,Zucchini Chip Nachos,5 mins,5 mins,10 mins,2 ,2,321,20g,12g,59mg,1743mg,18g,3g,6g,16g,30mg,445mg,2mg,525mg,,,,2 servings
+51,6588656,Fresh Tortilla Triangles,,,,32 ,32,26,2g,0g,,3mg,3g,0g,0g,0g,,5mg,0mg,12mg,4.7,39,,32 triangles
+52,6582825,Grey Cup Nachos,10 mins,20 mins,30 mins,6 ,6,967,52g,15g,102mg,1737mg,93g,8g,7g,35g,3mg,391mg,5mg,670mg,4.5,6,,6 servings
+53,6582355,Totchos Libre,20 mins,40 mins, 1 hr,12 ,12,356,25g,10g,50mg,708mg,24g,3g,2g,14g,7mg,156mg,1mg,427mg,4.2,22,,12 servings
+54,6738131,Vegan Loaded Nachos,25 mins,10 mins, 4 hrs 35 mins,6 ,6,518,30g,4g,,935mg,57g,10g,5g,10g,26mg,137mg,3mg,751mg,,, 4 hrs,6 servings
+55,6579940,Hot Bean and Bacon Dip with Air Fryer Tortilla Chips,10 mins,50 mins, 1 hr,16 ,16,191,9g,5g,25mg,506mg,18g,4g,1g,10g,6mg,149mg,1mg,223mg,,,,16 servings
+56,6578376,Cauliflower Nachos,25 mins,35 mins, 1 hr,4 ,4,317,19g,4g,11mg,817mg,39g,13g,7g,13g,92mg,122mg,2mg,790mg,,,,4 servings
+57,6569824,Reuben Nachos for Two,15 mins,10 mins,25 mins,2 ,2,915,63g,22g,118mg,2158mg,58g,6g,16g,34g,15mg,802mg,4mg,457mg,,,,2 servings
+58,6564993,Quick and Easy Mini Tacos,5 mins,15 mins,20 mins,10 ,10,324,21g,8g,52mg,484mg,19g,1g,1g,15g,,206mg,1mg,114mg,,,,10 servings
+59,6596474,Slow Cooker Lentil Nacho Dip,5 mins, 2 hrs, 2 hrs 5 mins,6 ,6,584,32g,18g,113mg,789mg,33g,15g,2g,41g,2mg,590mg,5mg,560mg,,,,6 servings

@@ -1,26 +1,26 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:
-0,6650393,10 mins,35 mins,45 mins,4 ,4 servings,4,419,19g,10g,124mg,932mg,13g,1g,1g,46g,12mg,379mg,2mg,457mg,4.6,"2,686",
-1,6663775,15 mins,20 mins,40 mins,2 ,,2,728,32g,16g,253mg,1664mg,57g,1g,1g,64g,2mg,637mg,3mg,466mg,4.6,39,5 mins
-2,6648393,30 mins,40 mins, 1 hr 10 mins,6 ,,6,490,25g,13g,163mg,1080mg,14g,1g,1g,50g,6mg,212mg,5mg,581mg,4.6,473,
-3,6649391,20 mins,40 mins, 1 hr,6 ,,6,584,41g,24g,195mg,655mg,8g,0g,1g,42g,12mg,272mg,2mg,473mg,4.8,"7,022",
-4,6664058,20 mins,45 mins, 1 hr 15 mins,8 ,1 9x13-inch casserole,8,455,24g,12g,110mg,687mg,30g,1g,3g,30g,10mg,311mg,2mg,411mg,4.6,180,10 mins
-5,6739821,10 mins, 3 hrs, 3 hrs 10 mins,6 ,6 servings,6,484,21g,11g,112mg,1206mg,35g,1g,6g,36g,1mg,255mg,3mg,369mg,4.0,426,
-6,6589362,20 mins,40 mins, 1 hr,6 ,6 servings,6,423,25g,14g,128mg,759mg,14g,1g,1g,35g,1mg,203mg,2mg,273mg,4.6,309,
-7,6572660,15 mins,15 mins,30 mins,4 ,,4,606,44g,12g,204mg,679mg,7g,2g,1g,46g,10mg,314mg,2mg,349mg,4.7,26,
-8,6572906,30 mins,15 mins,45 mins,6 ,20 meatballs,6,349,23g,11g,137mg,837mg,4g,1g,1g,31g,12mg,173mg,1mg,339mg,4.4,25,
-9,6601362,20 mins,45 mins, 1 hr 10 mins,6 ,6 servings,6,691,44g,27g,156mg,768mg,41g,2g,6g,34g,0mg,435mg,3mg,356mg,4.8,68,5 mins
-10,6606064,15 mins,25 mins,40 mins,6 ,,6,538,29g,14g,144mg,1034mg,20g,1g,4g,46g,12mg,340mg,2mg,584mg,4.6,226,
-11,6594632,15 mins,40 mins,55 mins,8 ,8 servings,8,500,28g,11g,137mg,1017mg,24g,1g,4g,36g,0mg,328mg,2mg,387mg,4.3,224,
-12,6737291,20 mins,25 mins,45 mins,4 ,4 sandwiches,4,384,23g,12g,78mg,741mg,24g,1g,4g,21g,8mg,277mg,2mg,251mg,4.6,49,
-13,6599563,15 mins,30 mins,45 mins,8 ,8 servings,8,430,18g,10g,110mg,1026mg,23g,1g,3g,39g,2mg,300mg,2mg,456mg,4.4,309,
-14,6738193,30 mins,20 mins, 1 hr 5 mins,4 ,4 servings,4,427,19g,10g,171mg,721mg,20g,1g,1g,40g,1mg,174mg,3mg,358mg,5.0,2,15 mins
-15,6587636,20 mins,35 mins,55 mins,6 ,6 chicken cutlets,6,493,26g,14g,160mg,870mg,21g,1g,2g,42g,4mg,403mg,3mg,361mg,,,
-16,6596123,20 mins, 1 hr, 1 hr 20 mins,12 ,1 9x13-inch casserole,12,684,38g,21g,163mg,1193mg,35g,1g,5g,50g,23mg,556mg,10mg,504mg,4.2,94,
-17,6563164,15 mins,30 mins,45 mins,2 ,2 servings,2,731,43g,20g,160mg,2249mg,35g,2g,5g,50g,8mg,348mg,4mg,489mg,,,
-18,6650853,15 mins,15 mins,30 mins,12 ,12 servings,12,387,15g,9g,67mg,411mg,34g,1g,9g,28g,1mg,317mg,2mg,208mg,4.2,21,
-19,6601441,20 mins,35 mins, 18 hrs 55 mins,4 ,4 servings,4,501,25g,9g,126mg,3288mg,32g,0g,11g,43g,1mg,184mg,3mg,451mg,4.7,19, 18 hrs
-20,6650205,15 mins,30 mins, 4 hrs 45 mins,8 ,8 servings,8,405,16g,7g,75mg,656mg,17g,0g,12g,26g,11mg,246mg,1mg,359mg,4.0,10, 4 hrs
-21,6593771,20 mins,35 mins,55 mins,8 ,8 servings,8,373,25g,11g,88mg,865mg,9g,1g,1g,27g,21mg,252mg,1mg,378mg,,,
-22,6605777,,,,6 ,6 servings,6,438,20g,8g,127mg,1477mg,19g,1g,1g,44g,2mg,271mg,3mg,536mg,4.0,44,
-23,6588274,15 mins,25 mins,45 mins,8 ,8 servings,8,491,28g,13g,115mg,1071mg,29g,1g,2g,31g,11mg,320mg,3mg,321mg,,,5 mins
-24,6593840,20 mins,40 mins, 1 hr 15 mins,4 ,4 servings,4,877,48g,25g,291mg,1165mg,44g,3g,8g,66g,3mg,636mg,4mg,969mg,5.0,1,15 mins
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:
+0,6650393,Chicken Cordon Bleu,10 mins,35 mins,45 mins,4 ,4 servings,4,419,19g,10g,124mg,932mg,13g,1g,1g,46g,12mg,379mg,2mg,457mg,4.6,"2,686",
+1,6663775,Air Fryer Chicken Cordon Bleu,15 mins,20 mins,40 mins,2 ,,2,728,32g,16g,253mg,1664mg,57g,1g,1g,64g,2mg,637mg,3mg,466mg,4.6,39,5 mins
+2,6648393,Cordon Bleu Chicken Rolls,30 mins,40 mins, 1 hr 10 mins,6 ,,6,490,25g,13g,163mg,1080mg,14g,1g,1g,50g,6mg,212mg,5mg,581mg,4.6,473,
+3,6649391,Classic Chicken Cordon Bleu,20 mins,40 mins, 1 hr,6 ,,6,584,41g,24g,195mg,655mg,8g,0g,1g,42g,12mg,272mg,2mg,473mg,4.8,"7,023",
+4,6664058,Creamy Chicken Cordon Bleu Casserole,20 mins,45 mins, 1 hr 15 mins,8 ,1 9x13-inch casserole,8,455,24g,12g,110mg,687mg,30g,1g,3g,30g,10mg,311mg,2mg,411mg,4.6,180,10 mins
+5,6739821,Slow Cooker Chicken Cordon Bleu,10 mins, 3 hrs, 3 hrs 10 mins,6 ,6 servings,6,484,21g,11g,112mg,1206mg,35g,1g,6g,36g,1mg,255mg,3mg,369mg,4.0,426,
+6,6589362,Easy Baked Chicken Cordon Bleu,20 mins,40 mins, 1 hr,6 ,6 servings,6,423,25g,14g,128mg,759mg,14g,1g,1g,35g,1mg,203mg,2mg,273mg,4.6,309,
+7,6572660,Keto Open-Faced Chicken Cordon Bleu,15 mins,15 mins,30 mins,4 ,,4,606,44g,12g,204mg,679mg,7g,2g,1g,46g,10mg,314mg,2mg,349mg,4.7,26,
+8,6572906,Keto Chicken Cordon Bleu Meatballs,30 mins,15 mins,45 mins,6 ,20 meatballs,6,349,23g,11g,137mg,837mg,4g,1g,1g,31g,12mg,173mg,1mg,339mg,4.4,25,
+9,6601362,Chicken Cordon Bleu Lasagna,20 mins,45 mins, 1 hr 10 mins,6 ,6 servings,6,691,44g,27g,156mg,768mg,41g,2g,6g,34g,0mg,435mg,3mg,356mg,4.8,68,5 mins
+10,6606064,Weeknight Chicken Cordon Bleu,15 mins,25 mins,40 mins,6 ,,6,538,29g,14g,144mg,1034mg,20g,1g,4g,46g,12mg,340mg,2mg,584mg,4.6,226,
+11,6594632,Chicken Cordon Bleu Casserole,15 mins,40 mins,55 mins,8 ,8 servings,8,500,28g,11g,137mg,1017mg,24g,1g,4g,36g,0mg,328mg,2mg,387mg,4.3,224,
+12,6737291,Chicken Cordon Bleu Sandwich,20 mins,25 mins,45 mins,4 ,4 sandwiches,4,384,23g,12g,78mg,741mg,24g,1g,4g,21g,8mg,277mg,2mg,251mg,4.6,49,
+13,6599563,Different Chicken Cordon Bleu,15 mins,30 mins,45 mins,8 ,8 servings,8,430,18g,10g,110mg,1026mg,23g,1g,3g,39g,2mg,300mg,2mg,456mg,4.4,309,
+14,6738193,Chicken Cordon Bleu in the Air Fryer,30 mins,20 mins, 1 hr 5 mins,4 ,4 servings,4,427,19g,10g,171mg,721mg,20g,1g,1g,40g,1mg,174mg,3mg,358mg,5.0,2,15 mins
+15,6587636,Easy Oven-Baked Chicken Cordon Bleu,20 mins,35 mins,55 mins,6 ,6 chicken cutlets,6,493,26g,14g,160mg,870mg,21g,1g,2g,42g,4mg,403mg,3mg,361mg,,,
+16,6596123,Holly's Chicken Cordon Bleu Casserole,20 mins, 1 hr, 1 hr 20 mins,12 ,1 9x13-inch casserole,12,684,38g,21g,163mg,1193mg,35g,1g,5g,50g,23mg,556mg,10mg,504mg,4.2,94,
+17,6563164,Stuffed Chicken Cordon Bleu with Prosciutto,15 mins,30 mins,45 mins,2 ,2 servings,2,731,43g,20g,160mg,2249mg,35g,2g,5g,50g,8mg,348mg,4mg,489mg,,,
+18,6650853,Chicken Cordon Bleu Burgers,15 mins,15 mins,30 mins,12 ,12 servings,12,387,15g,9g,67mg,411mg,34g,1g,9g,28g,1mg,317mg,2mg,208mg,4.2,21,
+19,6601441,Teriyaki Chicken Cordon Bleu,20 mins,35 mins, 18 hrs 55 mins,4 ,4 servings,4,501,25g,9g,126mg,3288mg,32g,0g,11g,43g,1mg,184mg,3mg,451mg,4.7,19, 18 hrs
+20,6650205,Cordon Bleu Rollups with Honey-Mustard Wine Sauce,15 mins,30 mins, 4 hrs 45 mins,8 ,8 servings,8,405,16g,7g,75mg,656mg,17g,0g,12g,26g,11mg,246mg,1mg,359mg,4.0,10, 4 hrs
+21,6593771,After the Holidays Chicken Cordon Bleu Casserole,20 mins,35 mins,55 mins,8 ,8 servings,8,373,25g,11g,88mg,865mg,9g,1g,1g,27g,21mg,252mg,1mg,378mg,,,
+22,6605777,Creamy Cordon Bleu Bake,,,,6 ,6 servings,6,438,20g,8g,127mg,1477mg,19g,1g,1g,44g,2mg,271mg,3mg,536mg,4.0,44,
+23,6588274,Quick Microwave Chicken Cordon Bleu Casserole,15 mins,25 mins,45 mins,8 ,8 servings,8,491,28g,13g,115mg,1071mg,29g,1g,2g,31g,11mg,320mg,3mg,321mg,,,5 mins
+24,6593840,Stuffed Chicken Cordon Bleu,20 mins,40 mins, 1 hr 15 mins,4 ,4 servings,4,877,48g,25g,291mg,1165mg,44g,3g,8g,66g,3mg,636mg,4mg,969mg,5.0,1,15 mins

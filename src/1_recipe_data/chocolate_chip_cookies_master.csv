@@ -1,63 +1,63 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Chill Time:,Servings:,Yield:,Servings Per Recipe,Cool Time:,Additional Time:
-0,7501307,5 mins,10 mins,15 mins,5321,300g,113g,2mg,4936mg,618g,22g,13g,38g,0mg,168mg,13mg,927mg,4.0,2,,,,,,
-1,7496400,10 mins,12 mins, 1 hr 22 mins,119,6g,3g,18mg,131mg,16g,1g,9g,1g,0mg,9mg,1mg,41mg,5.0,2, 1 hr,48 ,48 cookies,48,,
-2,6736883,15 mins,,15 mins,348,19g,11g,34mg,254mg,46g,1g,32g,3g,,45mg,1mg,94mg,4.4,305,,8 ,,8,,
-3,6649624,20 mins,10 mins,30 mins,146,8g,4g,10mg,76mg,19g,1g,,2g,,11mg,1mg,52mg,4.6,"18,838",,48 ,4 dozen,48,,
-4,6740992,15 mins,15 mins,30 mins,285,14g,8g,42mg,111mg,40g,2g,28g,3g,,23mg,1mg,107mg,4.6,"12,390",,18 ,1 1/2 dozen,18,,
-5,6663642,20 mins,12 mins,47 mins,145,8g,4g,21mg,107mg,17g,1g,10g,2g,,15mg,1mg,64mg,4.5,"5,681",,42 ,42 cookies,42,15 mins,
-6,6650775,15 mins,10 mins,40 mins,108,6g,3g,14mg,85mg,13g,1g,9g,1g,,7mg,0mg,39mg,4.6,538,,60 ,60 cookies,60,,15 mins
-7,6651200,15 mins,10 mins,25 mins,125,7g,4g,18mg,63mg,16g,1g,10g,2g,,8mg,1mg,71mg,4.7,"4,217",,48 ,4 dozen,48,,
-8,6651054,10 mins,10 mins,20 mins,202,11g,3g,8mg,171mg,27g,2g,17g,2g,1mg,37mg,1mg,99mg,4.6,"1,828",,24 ,2 dozen,24,,
-9,6649175,15 mins,15 mins,35 mins,246,12g,6g,26mg,163mg,34g,2g,21g,4g,,16mg,2mg,68mg,4.4,"1,901",,24 ,24 cookies,24,,5 mins
-10,6663548,20 mins,20 mins,40 mins,246,13g,8g,52mg,189mg,32g,1g,23g,3g,,21mg,1mg,99mg,4.5,357,,20 ,20 bars,20,,
-11,6739486,15 mins,20 mins,35 mins,177,11g,5g,24mg,116mg,21g,1g,13g,2g,0mg,15mg,1mg,69mg,4.7,"11,072",,72 ,6 dozen,72,,
-12,6597434,20 mins,10 mins,30 mins,180,11g,4g,19mg,52mg,20g,1g,14g,3g,0mg,16mg,1mg,40mg,5.0,1,,24 ,24 cookies,24,,
-13,6648813,15 mins,15 mins, 1 hr 15 mins,276,13g,8g,39mg,195mg,39g,2g,23g,4g,1mg,44mg,2mg,142mg,4.2,649,,18 ,3 dozen,18,,45 mins
-14,6739060,10 mins,10 mins,20 mins,241,14g,5g,20mg,180mg,28g,0g,18g,3g,,27mg,1mg,25mg,4.5,"1,527",,24 ,24 cookies,24,,
-15,6664294,10 mins,10 mins,20 mins,181,10g,6g,36mg,63mg,21g,1g,8g,3g,,13mg,1mg,56mg,2.7,118,,24 ,2 dozen cookies,24,,
-16,6650426,15 mins,10 mins,25 mins,79,4g,1g,5mg,92mg,11g,1g,6g,1g,,13mg,1mg,36mg,4.6,514,,36 ,3 dozen cookies,36,,
-17,6601114,10 mins,10 mins,20 mins,85,5g,3g,12mg,77mg,11g,1g,7g,1g,,5mg,0mg,33mg,4.7,586,,72 ,6 dozen,72,,
-18,6738649,10 mins,20 mins,30 mins,399,23g,12g,54mg,320mg,47g,2g,31g,5g,0mg,32mg,2mg,154mg,4.7,747,,16 ,1 14-inch cookie,16,,
-19,6604188,15 mins,10 mins,30 mins,113,6g,4g,17mg,78mg,15g,1g,11g,1g,,20mg,0mg,27mg,4.6,668,,54 ,4 1/2 dozen,54,,5 mins
-20,6649744,15 mins,15 mins,30 mins,122,5g,3g,22mg,84mg,18g,1g,11g,2g,,9mg,1mg,34mg,4.4,353,,48 ,4 dozen,48,,
-21,6573671,15 mins,10 mins,25 mins,126,8g,3g,9mg,71mg,14g,1g,8g,1g,,7mg,1mg,41mg,4.4,51,,72 ,6 dozen,72,,
-22,6739836,15 mins,15 mins,30 mins,317,22g,12g,41mg,73mg,30g,1g,14g,3g,0mg,27mg,1mg,84mg,4.5,525,,12 ,2 dozen cookies,12,,
-23,6664228,15 mins,10 mins,30 mins,102,6g,3g,7mg,84mg,12g,1g,,2g,,7mg,0mg,52mg,4.7,"2,908",,36 ,3 dozen,36,,5 mins
-24,6600865,15 mins,20 mins,45 mins,95,4g,3g,14mg,74mg,14g,1g,9g,1g,,12mg,1mg,33mg,4.6,496,,60 ,5 dozen,60,,10 mins
-25,6649208,10 mins,10 mins,25 mins,145,8g,4g,26mg,175mg,19g,1g,11g,2g,0mg,30mg,1mg,94mg,4.6,904,,24 ,2 dozen cookies,24,,5 mins
-26,6601257,,,,223,11g,6g,26mg,166mg,28g,1g,17g,3g,,49mg,1mg,50mg,4.6,843,,36 ,6 dozen,36,,
-27,6650786,15 mins,15 mins,45 mins,96,4g,1g,4mg,99mg,14g,1g,8g,1g,0mg,12mg,1mg,38mg,4.5,261,,48 ,4 dozen,48,,15 mins
-28,6606137,25 mins,10 mins,35 mins,173,9g,6g,26mg,87mg,22g,1g,16g,2g,,40mg,1mg,64mg,4.5,699,,36 ,3 dozen,36,,
-29,6737293,20 mins,10 mins, 1 hr 20 mins,162,7g,5g,19mg,99mg,24g,1g,16g,2g,,12mg,1mg,67mg,4.8,851,,40 ,3 to 4 dozen,40,,50 mins
-30,6649870,10 mins,10 mins,30 mins,219,12g,3g,16mg,110mg,28g,1g,17g,2g,,14mg,1mg,58mg,4.2,259,,24 ,2 dozen,24,,10 mins
-31,6587843,20 mins,10 mins,35 mins,174,12g,6g,21mg,67mg,17g,1g,11g,2g,0mg,23mg,1mg,62mg,3.9,272,,42 ,42 cookies,42,,5 mins
-32,6578146,15 mins,12 mins,40 mins,109,7g,3g,12mg,71mg,11g,1g,7g,1g,,9mg,1mg,45mg,4.6,160,,36 ,3 dozen,36,,13 mins
-33,6599137,,,,177,10g,5g,24mg,119mg,21g,1g,13g,2g,,14mg,1mg,69mg,4.7,354,,36 ,2 to 3 - dozen,36,,
-34,6649848,10 mins,12 mins,22 mins,115,6g,2g,0mg,68mg,17g,1g,11g,1g,0mg,11mg,1mg,46mg,4.6,288,,36 ,3 dozen,36,,
-35,6740996,15 mins,12 mins, 2 hrs 27 mins,347,18g,11g,42mg,240mg,46g,2g,31g,3g,,23mg,2mg,116mg,4.6,218,,16 ,32 cookies,16,, 2 hrs
-36,6576750,30 mins,10 mins,40 mins,325,15g,9g,36mg,184mg,49g,2g,33g,3g,,41mg,2mg,133mg,4.5,268,,12 ,12 cookies,12,,
-37,6572566,15 mins,15 mins,50 mins,267,13g,8g,36mg,235mg,38g,1g,23g,3g,,33mg,2mg,96mg,4.3,672,,24 ,24 cookies,24,,20 mins
-38,6576186,15 mins,,15 mins,136,8g,4g,14mg,138mg,16g,1g,10g,1g,,10mg,1mg,41mg,4.7,32,,36 ,36 servings,36,,
-39,6606265,,,,171,10g,4g,26mg,70mg,21g,1g,13g,2g,0mg,17mg,1mg,63mg,4.3,50,,24 ,4 dozen,24,,
-40,6574691,15 mins,10 mins,40 mins,224,12g,6g,37mg,239mg,27g,1g,16g,3g,0mg,29mg,1mg,87mg,4.6,24,,24 ,2 dozen cookies,24,,15 mins
-41,6575529,40 mins,10 mins,50 mins,229,17g,8g,36mg,212mg,21g,2g,8g,3g,0mg,16mg,1mg,94mg,4.5,10,,12 ,12 servings,12,,
-42,6648663,15 mins,10 mins,25 mins,210,10g,6g,34mg,94mg,28g,0g,20g,2g,0mg,45mg,1mg,30mg,4.3,46,,24 ,24 cookies,24,,
-43,6739113,,,,124,5g,1g,,59mg,20g,1g,13g,2g,,22mg,1mg,60mg,3.5,20,,36 ,2 to 3 dozen,36,,
-44,6578733,15 mins,8 mins,23 mins,141,8g,4g,15mg,76mg,18g,1g,11g,2g,,20mg,1mg,66mg,4.6,840,,60 ,5 dozen,60,,
-45,6568149,15 mins,9 mins, 2 hrs 12 mins,95,5g,3g,17mg,33mg,13g,1g,10g,1g,,10mg,0mg,26mg,3.7,41,,36 ,3 dozen,36,, 1 hr 48 mins
-46,6591748,15 mins,10 mins,25 mins,120,6g,4g,18mg,107mg,16g,1g,10g,1g,,9mg,1mg,43mg,4.5,"1,480",,48 ,3 to 4 - dozen,48,,
-47,6736368,,,,274,15g,8g,36mg,252mg,34g,2g,21g,4g,,23mg,1mg,120mg,4.6,128,,24 ,4 dozen cookies,24,,
-48,6575419,15 mins,10 mins,25 mins,109,6g,4g,,84mg,15g,1g,6g,1g,,15mg,0mg,18mg,4.6,24,,36 ,36 cookies,36,,
-49,6603714,10 mins,10 mins,20 mins,281,16g,7g,36mg,250mg,32g,2g,18g,5g,,31mg,1mg,137mg,4.2,336,,24 ,4 dozen,24,,
-50,6597578,20 mins,10 mins,30 mins,77,4g,1g,5mg,82mg,10g,0g,7g,1g,,6mg,0mg,28mg,4.3,9,,72 ,6 dozen cookies,72,,
-51,6590228,,,,144,7g,4g,10mg,202mg,22g,1g,14g,1g,,38mg,0mg,57mg,4.5,212,,36 ,3 dozen,36,,
-52,6575678,,,,290,15g,9g,27mg,213mg,38g,2g,22g,3g,0mg,24mg,2mg,145mg,4.6,549,,18 ,3 dozen,18,,
-53,6605189,15 mins,20 mins, 1 hr 35 mins,758,39g,20g,80mg,322mg,101g,2g,80g,5g,,28mg,1mg,120mg,4.6,5,,10 ,1 9-inch cookie cake,10,, 1 hr
-54,6585310,10 mins,10 mins,20 mins,162,12g,3g,18mg,108mg,11g,2g,7g,4g,,8mg,0mg,33mg,4.6,149,,14 ,14 cookies,14,,
-55,6568599,,,,145,8g,3g,9mg,91mg,19g,1g,12g,2g,,11mg,1mg,58mg,4.4,66,,42 ,7 dozen,42,,
-56,6739224,15 mins,10 mins, 2 hrs,112,7g,4g,21mg,40mg,14g,1g,11g,2g,,11mg,1mg,73mg,4.7,661,,36 ,3 dozen,36,, 1 hr 35 mins
-57,6584591,15 mins,15 mins,35 mins,159,7g,4g,22mg,87mg,23g,2g,,3g,,14mg,1mg,75mg,5.0,4,,40 ,40 cookies,40,,5 mins
-58,6587308,15 mins,15 mins,30 mins,551,30g,11g,43mg,400mg,63g,2g,41g,7g,,114mg,2mg,187mg,3.9,85,,12 ,2 dozen,12,,
-59,6583961,25 mins,,25 mins,167,6g,2g,,133mg,29g,2g,17g,2g,,30mg,1mg,86mg,4.5,359,,18 ,3 dozen cookies,18,,
-60,6648978,,,,233,12g,8g,36mg,175mg,31g,1g,20g,2g,,17mg,1mg,81mg,4.6,"1,360",,24 ,4 dozen,24,,
-61,6564606,15 mins,10 mins, 1 hr 25 mins,344,16g,9g,42mg,310mg,48g,1g,34g,4g,,45mg,1mg,44mg,4.7,19,,12 ,12 cookies,12,, 1 hr
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Chill Time:,Servings:,Yield:,Servings Per Recipe,Cool Time:,Additional Time:
+0,7501307,Air Fryer Pizookie,5 mins,10 mins,15 mins,5321,300g,113g,2mg,4936mg,618g,22g,13g,38g,0mg,168mg,13mg,927mg,4.0,2,,,,,,
+1,7496400,Chocolate Chip Pretzel Cookies,10 mins,12 mins, 1 hr 22 mins,119,6g,3g,18mg,131mg,16g,1g,9g,1g,0mg,9mg,1mg,41mg,5.0,2, 1 hr,48 ,48 cookies,48,,
+2,6736883,Edible Cookie Dough,15 mins,,15 mins,348,19g,11g,34mg,254mg,46g,1g,32g,3g,,45mg,1mg,94mg,4.4,305,,8 ,,8,,
+3,6649624,Best Chocolate Chip Cookies,20 mins,10 mins,30 mins,146,8g,4g,10mg,76mg,19g,1g,,2g,,11mg,1mg,52mg,4.6,"18,840",,48 ,4 dozen,48,,
+4,6740992,"Best Big, Fat, Chewy Chocolate Chip Cookie",15 mins,15 mins,30 mins,285,14g,8g,42mg,111mg,40g,2g,28g,3g,,23mg,1mg,107mg,4.6,"12,391",,18 ,1 1/2 dozen,18,,
+5,6663642,Chewy Chocolate Chip Oatmeal Cookies,20 mins,12 mins,47 mins,145,8g,4g,21mg,107mg,17g,1g,10g,2g,,15mg,1mg,64mg,4.5,"5,682",,42 ,42 cookies,42,15 mins,
+6,6650775,Original Nestle Toll House Chocolate Chip Cookies,15 mins,10 mins,40 mins,108,6g,3g,14mg,85mg,13g,1g,9g,1g,,7mg,0mg,39mg,4.6,538,,60 ,60 cookies,60,,15 mins
+7,6651200,Chocolate Chocolate Chip Cookies,15 mins,10 mins,25 mins,125,7g,4g,18mg,63mg,16g,1g,10g,2g,,8mg,1mg,71mg,4.7,"4,217",,48 ,4 dozen,48,,
+8,6651054,Pumpkin Chocolate Chip Cookies,10 mins,10 mins,20 mins,202,11g,3g,8mg,171mg,27g,2g,17g,2g,1mg,37mg,1mg,99mg,4.6,"1,828",,24 ,2 dozen,24,,
+9,6649175,Chewy Peanut Butter Chocolate Chip Cookies,15 mins,15 mins,35 mins,246,12g,6g,26mg,163mg,34g,2g,21g,4g,,16mg,2mg,68mg,4.4,"1,901",,24 ,24 cookies,24,,5 mins
+10,6663548,Brookies (Brownie Cookies),20 mins,20 mins,40 mins,246,13g,8g,52mg,189mg,32g,1g,23g,3g,,21mg,1mg,99mg,4.5,358,,20 ,20 bars,20,,
+11,6739486,Award Winning Soft Chocolate Chip Cookies,15 mins,20 mins,35 mins,177,11g,5g,24mg,116mg,21g,1g,13g,2g,0mg,15mg,1mg,69mg,4.7,"11,073",,72 ,6 dozen,72,,
+12,6597434,Nutella Cookies,20 mins,10 mins,30 mins,180,11g,4g,19mg,52mg,20g,1g,14g,3g,0mg,16mg,1mg,40mg,5.0,1,,24 ,24 cookies,24,,
+13,6648813,Banana Chocolate Chip Cookies,15 mins,15 mins, 1 hr 15 mins,276,13g,8g,39mg,195mg,39g,2g,23g,4g,1mg,44mg,2mg,142mg,4.2,649,,18 ,3 dozen,18,,45 mins
+14,6739060,Absolutely the Best Chocolate Chip Cookies,10 mins,10 mins,20 mins,241,14g,5g,20mg,180mg,28g,0g,18g,3g,,27mg,1mg,25mg,4.5,"1,527",,24 ,24 cookies,24,,
+15,6664294,5-Ingredient Easy Chocolate Chip Cookies,10 mins,10 mins,20 mins,181,10g,6g,36mg,63mg,21g,1g,8g,3g,,13mg,1mg,56mg,2.7,118,,24 ,2 dozen cookies,24,,
+16,6650426,Chocolate Oatmeal Cookies,15 mins,10 mins,25 mins,79,4g,1g,5mg,92mg,11g,1g,6g,1g,,13mg,1mg,36mg,4.6,514,,36 ,3 dozen cookies,36,,
+17,6601114,Chococonut Chip Cookies,10 mins,10 mins,20 mins,85,5g,3g,12mg,77mg,11g,1g,7g,1g,,5mg,0mg,33mg,4.7,586,,72 ,6 dozen,72,,
+18,6738649,Giant Chocolate Chip Cookie,10 mins,20 mins,30 mins,399,23g,12g,54mg,320mg,47g,2g,31g,5g,0mg,32mg,2mg,154mg,4.7,748,,16 ,1 14-inch cookie,16,,
+19,6604188,White Chip Chocolate Cookies,15 mins,10 mins,30 mins,113,6g,4g,17mg,78mg,15g,1g,11g,1g,,20mg,0mg,27mg,4.6,668,,54 ,4 1/2 dozen,54,,5 mins
+20,6649744,Ultimate High-Altitude Chocolate Chip Cookies,15 mins,15 mins,30 mins,122,5g,3g,22mg,84mg,18g,1g,11g,2g,,9mg,1mg,34mg,4.4,353,,48 ,4 dozen,48,,
+21,6573671,Famous Amos Chocolate Chip Cookies,15 mins,10 mins,25 mins,126,8g,3g,9mg,71mg,14g,1g,8g,1g,,7mg,1mg,41mg,4.4,51,,72 ,6 dozen,72,,
+22,6739836,Tina's Shortbread Chocolate Chip Cookies,15 mins,15 mins,30 mins,317,22g,12g,41mg,73mg,30g,1g,14g,3g,0mg,27mg,1mg,84mg,4.5,525,,12 ,2 dozen cookies,12,,
+23,6664228,Outrageous Chocolate Chip Cookies,15 mins,10 mins,30 mins,102,6g,3g,7mg,84mg,12g,1g,,2g,,7mg,0mg,52mg,4.7,"2,908",,36 ,3 dozen,36,,5 mins
+24,6600865,Cowboy Cookies,15 mins,20 mins,45 mins,95,4g,3g,14mg,74mg,14g,1g,9g,1g,,12mg,1mg,33mg,4.6,496,,60 ,5 dozen,60,,10 mins
+25,6649208,Chocolate Cake Mix Cookies,10 mins,10 mins,25 mins,145,8g,4g,26mg,175mg,19g,1g,11g,2g,0mg,30mg,1mg,94mg,4.6,904,,24 ,2 dozen cookies,24,,5 mins
+26,6601257,White Chocolate Chip Oatmeal Cookies,,,,223,11g,6g,26mg,166mg,28g,1g,17g,3g,,49mg,1mg,50mg,4.6,843,,36 ,6 dozen,36,,
+27,6650786,Pumpkin Chocolate Chip Cookies I,15 mins,15 mins,45 mins,96,4g,1g,4mg,99mg,14g,1g,8g,1g,0mg,12mg,1mg,38mg,4.5,261,,48 ,4 dozen,48,,15 mins
+28,6606137,"White Chocolate, Chocolate Cookies",25 mins,10 mins,35 mins,173,9g,6g,26mg,87mg,22g,1g,16g,2g,,40mg,1mg,64mg,4.5,699,,36 ,3 dozen,36,,
+29,6737293,Chocolate Mint Candies Cookies,20 mins,10 mins, 1 hr 20 mins,162,7g,5g,19mg,99mg,24g,1g,16g,2g,,12mg,1mg,67mg,4.8,851,,40 ,3 to 4 dozen,40,,50 mins
+30,6649870,The Perfect Chocolate Chip Cookie,10 mins,10 mins,30 mins,219,12g,3g,16mg,110mg,28g,1g,17g,2g,,14mg,1mg,58mg,4.2,259,,24 ,2 dozen,24,,10 mins
+31,6587843,Best Ever Chocolate Chip Cookies,20 mins,10 mins,35 mins,174,12g,6g,21mg,67mg,17g,1g,11g,2g,0mg,23mg,1mg,62mg,3.9,272,,42 ,42 cookies,42,,5 mins
+32,6578146,Macadamia Nut Chocolate Chip Cookies,15 mins,12 mins,40 mins,109,7g,3g,12mg,71mg,11g,1g,7g,1g,,9mg,1mg,45mg,4.6,160,,36 ,3 dozen,36,,13 mins
+33,6599137,Chocolate Chip Pudding Cookies,,,,177,10g,5g,24mg,119mg,21g,1g,13g,2g,,14mg,1mg,69mg,4.7,354,,36 ,2 to 3 - dozen,36,,
+34,6649848,Yogurt Chocolate Chip Cookies,10 mins,12 mins,22 mins,115,6g,2g,0mg,68mg,17g,1g,11g,1g,0mg,11mg,1mg,46mg,4.6,288,,36 ,3 dozen,36,,
+35,6740996,Chef John's Chocolate Chip Cookies,15 mins,12 mins, 2 hrs 27 mins,347,18g,11g,42mg,240mg,46g,2g,31g,3g,,23mg,2mg,116mg,4.6,218,,16 ,32 cookies,16,, 2 hrs
+36,6576750,Neiman Marcus Chocolate Chip Cookie,30 mins,10 mins,40 mins,325,15g,9g,36mg,184mg,49g,2g,33g,3g,,41mg,2mg,133mg,4.5,268,,12 ,12 cookies,12,,
+37,6572566,"Felix K.'s 'Don't even try to say these aren't the best you've ever eaten, because they are' Chocolate Chip Cookies",15 mins,15 mins,50 mins,267,13g,8g,36mg,235mg,38g,1g,23g,3g,,33mg,2mg,96mg,4.3,673,,24 ,24 cookies,24,,20 mins
+38,6576186,Edible Chocolate Chip Cookie Dough,15 mins,,15 mins,136,8g,4g,14mg,138mg,16g,1g,10g,1g,,10mg,1mg,41mg,4.7,32,,36 ,36 servings,36,,
+39,6606265,Chocolate Rocky Road Cookies,,,,171,10g,4g,26mg,70mg,21g,1g,13g,2g,0mg,17mg,1mg,63mg,4.3,50,,24 ,4 dozen,24,,
+40,6574691,Amazing White Chocolate Chip Pistachio Cookies,15 mins,10 mins,40 mins,224,12g,6g,37mg,239mg,27g,1g,16g,3g,0mg,29mg,1mg,87mg,4.6,24,,24 ,2 dozen cookies,24,,15 mins
+41,6575529,Chocolate Chip Cookies from In The Raw Sweeteners,40 mins,10 mins,50 mins,229,17g,8g,36mg,212mg,21g,2g,8g,3g,0mg,16mg,1mg,94mg,4.5,10,,12 ,12 servings,12,,
+42,6648663,Matcha Green Tea Chocolate Chip Cookies,15 mins,10 mins,25 mins,210,10g,6g,34mg,94mg,28g,0g,20g,2g,0mg,45mg,1mg,30mg,4.3,46,,24 ,24 cookies,24,,
+43,6739113,No Cholesterol Chocolate Chip,,,,124,5g,1g,,59mg,20g,1g,13g,2g,,22mg,1mg,60mg,3.5,20,,36 ,2 to 3 dozen,36,,
+44,6578733,Urban Legend Chocolate Chip Cookies,15 mins,8 mins,23 mins,141,8g,4g,15mg,76mg,18g,1g,11g,2g,,20mg,1mg,66mg,4.6,840,,60 ,5 dozen,60,,
+45,6568149,Yummy Chocolate Crinkle Cookies,15 mins,9 mins, 2 hrs 12 mins,95,5g,3g,17mg,33mg,13g,1g,10g,1g,,10mg,0mg,26mg,3.7,41,,36 ,3 dozen,36,, 1 hr 48 mins
+46,6591748,Anna's Chocolate Chip Cookies,15 mins,10 mins,25 mins,120,6g,4g,18mg,107mg,16g,1g,10g,1g,,9mg,1mg,43mg,4.5,"1,480",,48 ,3 to 4 - dozen,48,,
+47,6736368,Tiffany's Chocolate Chip Cookies,,,,274,15g,8g,36mg,252mg,34g,2g,21g,4g,,23mg,1mg,120mg,4.6,128,,24 ,4 dozen cookies,24,,
+48,6575419,Vegan Chocolate Chip Cookies,15 mins,10 mins,25 mins,109,6g,4g,,84mg,15g,1g,6g,1g,,15mg,0mg,18mg,4.6,24,,36 ,36 cookies,36,,
+49,6603714,Peanut Butter Chocolate Chip Cookies from Heaven,10 mins,10 mins,20 mins,281,16g,7g,36mg,250mg,32g,2g,18g,5g,,31mg,1mg,137mg,4.2,336,,24 ,4 dozen,24,,
+50,6597578,Fluffy Chocolate Chip Cookies,20 mins,10 mins,30 mins,77,4g,1g,5mg,82mg,10g,0g,7g,1g,,6mg,0mg,28mg,4.3,9,,72 ,6 dozen cookies,72,,
+51,6590228,Chocolate Chip Cookies (Gluten Free),,,,144,7g,4g,10mg,202mg,22g,1g,14g,1g,,38mg,0mg,57mg,4.5,212,,36 ,3 dozen,36,,
+52,6575678,Oatmeal Chocolate Chip Cookies III,,,,290,15g,9g,27mg,213mg,38g,2g,22g,3g,0mg,24mg,2mg,145mg,4.6,549,,18 ,3 dozen,18,,
+53,6605189,Homemade Cookie Cake,15 mins,20 mins, 1 hr 35 mins,758,39g,20g,80mg,322mg,101g,2g,80g,5g,,28mg,1mg,120mg,4.6,5,,10 ,1 9-inch cookie cake,10,, 1 hr
+54,6585310,Gluten-Free Almond Flour Chocolate Chip Cookies,10 mins,10 mins,20 mins,162,12g,3g,18mg,108mg,11g,2g,7g,4g,,8mg,0mg,33mg,4.6,149,,14 ,14 cookies,14,,
+55,6568599,Hillary Clinton's Chocolate Chip Cookies,,,,145,8g,3g,9mg,91mg,19g,1g,12g,2g,,11mg,1mg,58mg,4.4,66,,42 ,7 dozen,42,,
+56,6739224,Chocolate Truffle Cookies,15 mins,10 mins, 2 hrs,112,7g,4g,21mg,40mg,14g,1g,11g,2g,,11mg,1mg,73mg,4.7,661,,36 ,3 dozen,36,, 1 hr 35 mins
+57,6584591,Oatmeal Chocolate Chip Lactation Cookies,15 mins,15 mins,35 mins,159,7g,4g,22mg,87mg,23g,2g,,3g,,14mg,1mg,75mg,5.0,4,,40 ,40 cookies,40,,5 mins
+58,6587308,Cream Cheese Chocolate Chip Cookies,15 mins,15 mins,30 mins,551,30g,11g,43mg,400mg,63g,2g,41g,7g,,114mg,2mg,187mg,3.9,85,,12 ,2 dozen,12,,
+59,6583961,Cowboy Cookie Mix in a Jar,25 mins,,25 mins,167,6g,2g,,133mg,29g,2g,17g,2g,,30mg,1mg,86mg,4.5,359,,18 ,3 dozen cookies,18,,
+60,6648978,Mom's Chocolate Chip Cookies,,,,233,12g,8g,36mg,175mg,31g,1g,20g,2g,,17mg,1mg,81mg,4.6,"1,360",,24 ,4 dozen,24,,
+61,6564606,Triple Chocolate Chunk Cookies,15 mins,10 mins, 1 hr 25 mins,344,16g,9g,42mg,310mg,48g,1g,34g,4g,,45mg,1mg,44mg,4.7,19,,12 ,12 cookies,12,, 1 hr

@@ -1,25 +1,25 @@
-,id_recipe,Prep Time:,Cook Time:,Stand Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Protein,Potassium,Average_Review,Review_Count,Additional Time:,Total Sugars,Vitamin C,Calcium,Iron
-0,7108102,10 mins,10 mins,30 mins,50 mins,2 ,2 filet mignons,2,1624,103g,44g,271mg,2285mg,108g,31g,92g,10671mg,,,,,,,
-1,6591433,15 mins,15 mins,,45 mins,2 ,,2,444,35g,12g,166mg,926mg,3g,0g,27g,385mg,4.9,38,15 mins,1g,4mg,48mg,4mg
-2,6649676,5 mins,10 mins,,15 mins,2 ,,2,367,26g,11g,81mg,64mg,6g,0g,20g,402mg,4.5,"1,451",,5g,0mg,22mg,3mg
-3,6665744,10 mins,25 mins,,50 mins,4 ,4 servings,4,402,28g,13g,85mg,463mg,9g,1g,25g,424mg,4.7,507,15 mins,1g,3mg,155mg,3mg
-4,6664132,45 mins, 1 hr 15 mins,, 2 hrs 20 mins,4 ,4 servings,4,1330,100g,36g,235mg,870mg,59g,2g,46g,756mg,4.8,33,20 mins,2g,2mg,50mg,9mg
-5,6648385,5 mins,15 mins,,20 mins,2 ,2 filet mignons,2,611,35g,12g,196mg,444mg,2g,0g,67g,905mg,4.6,261,,0g,1mg,47mg,4mg
-6,6583140,10 mins,15 mins,,25 mins,2 ,2 servings,2,761,48g,19g,290mg,1033mg,2g,,76g,1328mg,4.3,8,,,8mg,119mg,8mg
-7,6599482,20 mins,15 mins,,35 mins,2 ,2 servings,2,777,63g,26g,317mg,534mg,10g,0g,38g,591mg,4.7,71,,1g,7mg,94mg,6mg
-8,6583960,15 mins,25 mins,,40 mins,4 ,2 steaks,4,332,20g,8g,65mg,387mg,8g,1g,20g,658mg,4.7,116,,2g,4mg,23mg,6mg
-9,6584914,10 mins,30 mins,,40 mins,4 ,4 steaks,4,585,41g,21g,236mg,902mg,1g,0g,52g,776mg,4.8,148,,0g,0mg,44mg,5mg
-10,6578651, 1 hr,30 mins,, 1 hr 30 mins,4 ,,4,748,57g,25g,215mg,1175mg,7g,1g,41g,706mg,4.7,317,,0g,3mg,109mg,4mg
-11,6573049,20 mins,20 mins,,40 mins,2 ,2 servings,2,1289,97g,55g,436mg,1355mg,22g,5g,83g,1679mg,4.6,25,,10g,15mg,358mg,9mg
-12,6593410,5 mins, 1 hr 10 mins,, 1 hr 20 mins,4 ,,4,1456,134g,74g,496mg,1568mg,9g,1g,55g,880mg,4.8,232,5 mins,1g,4mg,337mg,5mg
-13,6594057,30 mins,20 mins,, 4 hrs 50 mins,8 ,,8,883,74g,18g,116mg,3290mg,8g,1g,29g,602mg,4.6,178, 4 hrs,3g,1mg,43mg,5mg
-14,6736895,15 mins,15 mins,, 1 hr,4 ,,4,590,43g,16g,125mg,689mg,13g,2g,35g,571mg,4.7,382,30 mins,7g,7mg,206mg,3mg
-15,6576285,10 mins,25 mins,,35 mins,4 ,4 servings,4,383,29g,12g,85mg,286mg,9g,0g,21g,478mg,4.5,105,,2g,4mg,42mg,3mg
-16,6585741,15 mins,20 mins,,35 mins,2 ,2 servings,2,1031,82g,47g,373mg,905mg,8g,0g,64g,796mg,5.0,3,,1g,3mg,422mg,3mg
-17,6585473,10 mins,10 mins,,20 mins,4 ,4 steaks,4,250,9g,3g,90mg,93mg,8g,0g,32g,444mg,3.5,2,,7g,2mg,32mg,2mg
-18,6597211,10 mins,15 mins,, 1 hr 25 mins,4 ,4 servings,4,438,27g,10g,94mg,127mg,22g,2g,26g,532mg,4.4,35, 1 hr,20g,49mg,39mg,4mg
-19,6590484,15 mins,35 mins,,50 mins,2 ,2 servings,2,468,22g,10g,123mg,443mg,6g,1g,38g,742mg,,,,2g,12mg,42mg,3mg
-20,6561470,10 mins,10 mins,,55 mins,4 ,4 servings,4,474,37g,20g,157mg,348mg,1g,0g,34g,444mg,5.0,1,35 mins,0g,0mg,85mg,3mg
-21,6597305,20 mins,8 mins,, 4 hrs 28 mins,2 ,2 4-ounce fillets,2,222,9g,3g,89mg,144mg,1g,0g,32g,426mg,4.5,2, 4 hrs,,3mg,38mg,2mg
-22,6578314,5 mins,15 mins,, 4 hrs 20 mins,16 ,16 appetizer servings,16,156,10g,3g,29mg,473mg,6g,0g,9g,181mg,4.7,64, 4 hrs,5g,3mg,15mg,1mg
-23,6590319,45 mins, 1 hr 10 mins,, 2 hrs 5 mins,4 ,4 serving,4,1647,113g,24g,166mg,1074mg,105g,21g,64g,2178mg,4.8,4,10 mins,8g,135mg,306mg,10mg
+,id_recipe,name,Prep Time:,Cook Time:,Stand Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Protein,Potassium,Average_Review,Review_Count,Additional Time:,Total Sugars,Vitamin C,Calcium,Iron
+0,7108102,Perfect Pan Seared Filet Mignon,10 mins,10 mins,30 mins,50 mins,2 ,2 filet mignons,2,1624,103g,44g,271mg,2285mg,108g,31g,92g,10671mg,,,,,,,
+1,6591433,Surf and Turf for Two,15 mins,15 mins,,45 mins,2 ,,2,444,35g,12g,166mg,926mg,3g,0g,27g,385mg,4.9,38,15 mins,1g,4mg,48mg,4mg
+2,6649676,Filet Mignon with Rich Balsamic Glaze,5 mins,10 mins,,15 mins,2 ,,2,367,26g,11g,81mg,64mg,6g,0g,20g,402mg,4.5,"1,451",,5g,0mg,22mg,3mg
+3,6665744,Blue Cheese Crusted Filet Mignon with Port Wine Sauce,10 mins,25 mins,,50 mins,4 ,4 servings,4,402,28g,13g,85mg,463mg,9g,1g,25g,424mg,4.7,507,15 mins,1g,3mg,155mg,3mg
+4,6664132,Chef John's Individual Beef Wellingtons,45 mins, 1 hr 15 mins,, 2 hrs 20 mins,4 ,4 servings,4,1330,100g,36g,235mg,870mg,59g,2g,46g,756mg,4.8,33,20 mins,2g,2mg,50mg,9mg
+5,6648385,Easy Yet Romantic Filet Mignon,5 mins,15 mins,,20 mins,2 ,2 filet mignons,2,611,35g,12g,196mg,444mg,2g,0g,67g,905mg,4.6,261,,0g,1mg,47mg,4mg
+6,6583140,Mouthwatering Crabmeat Pan Seared Filets,10 mins,15 mins,,25 mins,2 ,2 servings,2,761,48g,19g,290mg,1033mg,2g,,76g,1328mg,4.3,8,,,8mg,119mg,8mg
+7,6599482,Filet Mignon with Garlic Shrimp Cream Sauce,20 mins,15 mins,,35 mins,2 ,2 servings,2,777,63g,26g,317mg,534mg,10g,0g,38g,591mg,4.7,71,,1g,7mg,94mg,6mg
+8,6583960,Filet Mignon with Mushroom-Cabernet Gravy,15 mins,25 mins,,40 mins,4 ,2 steaks,4,332,20g,8g,65mg,387mg,8g,1g,20g,658mg,4.7,116,,2g,4mg,23mg,6mg
+9,6584914,Lobster Colorado,10 mins,30 mins,,40 mins,4 ,4 steaks,4,585,41g,21g,236mg,902mg,1g,0g,52g,776mg,4.8,148,,0g,0mg,44mg,5mg
+10,6578651,Crab-Stuffed Filet Mignon with Whiskey Peppercorn Sauce, 1 hr,30 mins,, 1 hr 30 mins,4 ,,4,748,57g,25g,215mg,1175mg,7g,1g,41g,706mg,4.7,317,,0g,3mg,109mg,4mg
+11,6573049,Jessica's Steak Oscar,20 mins,20 mins,,40 mins,2 ,2 servings,2,1289,97g,55g,436mg,1355mg,22g,5g,83g,1679mg,4.6,25,,10g,15mg,358mg,9mg
+12,6593410,Grilled Filet Mignon with Gorgonzola Cream Sauce,5 mins, 1 hr 10 mins,, 1 hr 20 mins,4 ,,4,1456,134g,74g,496mg,1568mg,9g,1g,55g,880mg,4.8,232,5 mins,1g,4mg,337mg,5mg
+13,6594057,Lover's Beef Burgundy Filet,30 mins,20 mins,, 4 hrs 50 mins,8 ,,8,883,74g,18g,116mg,3290mg,8g,1g,29g,602mg,4.6,178, 4 hrs,3g,1mg,43mg,5mg
+14,6736895,Smothered Filet Mignon,15 mins,15 mins,, 1 hr,4 ,,4,590,43g,16g,125mg,689mg,13g,2g,35g,571mg,4.7,382,30 mins,7g,7mg,206mg,3mg
+15,6576285,Filet Mignon with Bacon Cream Sauce,10 mins,25 mins,,35 mins,4 ,4 servings,4,383,29g,12g,85mg,286mg,9g,0g,21g,478mg,4.5,105,,2g,4mg,42mg,3mg
+16,6585741,Filet Mignon for Two,15 mins,20 mins,,35 mins,2 ,2 servings,2,1031,82g,47g,373mg,905mg,8g,0g,64g,796mg,5.0,3,,1g,3mg,422mg,3mg
+17,6585473,Broiled Filet Mignon,10 mins,10 mins,,20 mins,4 ,4 steaks,4,250,9g,3g,90mg,93mg,8g,0g,32g,444mg,3.5,2,,7g,2mg,32mg,2mg
+18,6597211,Filet Mignon and Balsamic Strawberries,10 mins,15 mins,, 1 hr 25 mins,4 ,4 servings,4,438,27g,10g,94mg,127mg,22g,2g,26g,532mg,4.4,35, 1 hr,20g,49mg,39mg,4mg
+19,6590484,Filet Mignon with Mushrooms,15 mins,35 mins,,50 mins,2 ,2 servings,2,468,22g,10g,123mg,443mg,6g,1g,38g,742mg,,,,2g,12mg,42mg,3mg
+20,6561470,Grilled Filet Mignon with Blue Cheese Butter,10 mins,10 mins,,55 mins,4 ,4 servings,4,474,37g,20g,157mg,348mg,1g,0g,34g,444mg,5.0,1,35 mins,0g,0mg,85mg,3mg
+21,6597305,Herb-Marinated Tenderloin,20 mins,8 mins,, 4 hrs 28 mins,2 ,2 4-ounce fillets,2,222,9g,3g,89mg,144mg,1g,0g,32g,426mg,4.5,2, 4 hrs,,3mg,38mg,2mg
+22,6578314,Teri Tips,5 mins,15 mins,, 4 hrs 20 mins,16 ,16 appetizer servings,16,156,10g,3g,29mg,473mg,6g,0g,9g,181mg,4.7,64, 4 hrs,5g,3mg,15mg,1mg
+23,6590319,Filet Mignon with Bell Pepper Haystack and Fresh Guacamole Served with Corn Chips,45 mins, 1 hr 10 mins,, 2 hrs 5 mins,4 ,4 serving,4,1647,113g,24g,166mg,1074mg,105g,21g,64g,2178mg,4.8,4,10 mins,8g,135mg,306mg,10mg

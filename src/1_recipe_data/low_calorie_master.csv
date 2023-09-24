@@ -1,64 +1,64 @@
-,id_recipe,Prep Time:,Cook Time:,Stand Time:,Cool Time:,Chill Time:,Total Time:,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Servings:,Servings Per Recipe,Yield:
-0,7566683,15 mins,10 mins,45 mins,45 mins, 2 hrs, 3 hrs 55 mins,966,83g,12g,0mg,7606mg,55g,16g,23g,23g,215mg,326mg,8mg,3431mg,5.0,1,,,,
-1,6663120,5 mins,5 mins,,,,20 mins,94,1g,0g,,14mg,22g,2g,7g,3g,7mg,2mg,1mg,246mg,4.8,520,10 mins,6 ,6,
-2,6649411,10 mins,15 mins,,,,25 mins,121,0g,,,3mg,32g,4g,27g,0g,6mg,13mg,0mg,150mg,4.8,"3,299",,4 ,4,
-3,6649117,20 mins,15 mins,,,,35 mins,183,7g,1g,47mg,25mg,26g,3g,2g,5g,22mg,24mg,2mg,496mg,4.5,"1,206",,4 ,4,4 servings
-4,6651174,45 mins,5 mins,,,,50 mins,82,1g,0g,11mg,305mg,16g,1g,5g,3g,2mg,13mg,0mg,62mg,4.7,762,,8 ,8,8 spring rolls
-5,6650983,10 mins,20 mins,,,,30 mins,63,4g,1g,,71mg,7g,3g,2g,3g,87mg,46mg,1mg,310mg,4.7,154,,4 ,4,
-6,6649095,10 mins,5 mins,,,,15 mins,53,4g,1g,,2mg,4g,2g,2g,3g,6mg,27mg,2mg,229mg,4.7,878,,4 ,4,
-7,6650464,10 mins,10 mins,,,,20 mins,189,14g,3g,5mg,528mg,14g,5g,7g,4g,73mg,85mg,1mg,391mg,4.7,727,,6 ,6,
-8,6664559,5 mins,20 mins,,,,25 mins,179,7g,1g,,301mg,27g,3g,2g,3g,15mg,17mg,1mg,775mg,4.7,"1,401",,8 ,8,
-9,6663158,5 mins,25 mins,,,,30 mins,140,1g,0g,,354mg,27g,6g,1g,6g,3mg,39mg,2mg,298mg,4.3,"1,299",,6 ,6,
-10,6737797,10 mins,5 mins,,,,15 mins,32,1g,1g,3mg,160mg,4g,2g,2g,3g,6mg,33mg,2mg,231mg,4.6,137,,4 ,4,
-11,6664086,5 mins,25 mins,,,,30 mins,172,4g,2g,46mg,354mg,7g,3g,,25g,61mg,81mg,1mg,497mg,4.5,"1,256",,4 ,4,
-12,6737982,10 mins,15 mins,,,,25 mins,213,11g,2g,67mg,1850mg,8g,3g,0g,24g,48mg,117mg,2mg,663mg,4.4,427,,2 ,2,
-13,6664230,15 mins,,,,, 12 hrs 15 mins,112,5g,1g,,299mg,16g,2g,11g,2g,2mg,20mg,1mg,12mg,4.6,304, 12 hrs,16 ,16,
-14,6651103,10 mins,20 mins,,,,30 mins,328,10g,3g,22mg,154mg,43g,3g,2g,17g,7mg,129mg,3mg,308mg,4.5,"1,079",,8 ,8,
-15,6664866,10 mins,10 mins,,,,20 mins,135,3g,1g,67mg,205mg,1g,0g,0g,25g,1mg,20mg,1mg,228mg,4.4,"1,201",,2 ,2,2 chicken breast halves
-16,6665002,5 mins, 1 hr,,,, 1 hr 5 mins,189,6g,4g,15mg,51mg,36g,3g,18g,2g,24mg,84mg,2mg,768mg,4.6,"1,000",,2 ,2,
-17,6649873,7 mins,8 mins,,,,15 mins,87,4g,1g,,48mg,11g,2g,,4g,135mg,153mg,2mg,504mg,4.4,100,,4 ,4,
-18,6651199,15 mins,10 mins,,,,25 mins,193,3g,0g,,751mg,38g,3g,1g,4g,10mg,15mg,1mg,444mg,4.5,893,,8 ,8,
-19,6650344,10 mins,25 mins,,,,35 mins,54,3g,1g,,149mg,6g,1g,3g,1g,4mg,14mg,0mg,83mg,4.4,65,,8 ,8,8 onion halves
-20,6663773,20 mins, 8 hrs,,,, 8 hrs 20 mins,925,53g,20g,149mg,2012mg,73g,11g,,41g,32mg,177mg,10mg,1847mg,4.2,685,,4 ,4,16 meatballs
-21,6650444,10 mins,5 mins,,,,15 mins,82,2g,1g,0mg,263mg,14g,1g,2g,2g,,11mg,1mg,34mg,4.8,"1,651",,20 ,20,20 candies
-22,6581619,15 mins,10 mins,,,,25 mins,63,4g,1g,124mg,87mg,3g,,3g,4g,,18mg,1mg,60mg,4.7,40,,6 ,6,
-23,6575481,5 mins,35 mins,,,,40 mins,185,6g,4g,15mg,328mg,34g,2g,30g,1g,4mg,17mg,2mg,148mg,4.7,195,,6 ,6,
-24,6650391,5 mins,5 mins,,,,10 mins,102,9g,6g,23mg,64mg,5g,2g,2g,3g,7mg,34mg,3mg,241mg,4.5,932,,4 ,4,
-25,6740855,5 mins,15 mins,,,,20 mins,46,2g,1g,4mg,660mg,5g,2g,2g,4g,6mg,83mg,3mg,238mg,4.8,495,,4 ,4,
-26,6650385,15 mins,40 mins,,,, 1 hr 5 mins,232,4g,1g,67mg,296mg,25g,1g,23g,26g,1mg,32mg,2mg,264mg,4.3,"3,056",10 mins,6 ,6,
-27,6649234,15 mins,20 mins,,,,35 mins,198,3g,1g,47mg,607mg,33g,10g,2g,11g,19mg,99mg,4mg,515mg,4.4,"3,734",,4 ,4,4 burgers
-28,6664155,10 mins, 8 hrs,,,, 8 hrs 10 mins,273,2g,1g,164mg,309mg,2g,0g,0g,60g,0mg,29mg,3mg,577mg,4.6,"1,681",,12 ,12,
-29,6601453,15 mins,10 mins,,,,25 mins,55,2g,0g,,141mg,8g,3g,3g,2g,13mg,31mg,1mg,167mg,4.5,403,,6 ,6,
-30,6599292,10 mins,10 mins,,,, 3 hrs 20 mins,287,4g,1g,47mg,1613mg,28g,1g,22g,25g,1mg,42mg,1mg,393mg,4.7,137, 3 hrs,4 ,4,4 fillets
-31,6650276,5 mins,35 mins,,,,40 mins,202,4g,1g,38mg,1261mg,25g,1g,22g,17g,30mg,57mg,2mg,441mg,4.3,64,,2 ,2,
-32,6664793,10 mins,10 mins,,,,20 mins,136,3g,1g,,14mg,29g,2g,13g,1g,17mg,13mg,1mg,450mg,4.6,132,,2 ,2,
-33,6664020,10 mins,20 mins,,,,30 mins,87,4g,1g,,29mg,12g,5g,3g,4g,98mg,54mg,2mg,471mg,4.1,89,,4 ,4,
-34,6651087,10 mins,15 mins,,,,25 mins,49,2g,0g,,327mg,7g,3g,2g,3g,90mg,49mg,4mg,323mg,4.4,"1,524",,6 ,6,
-35,6575205,15 mins,,,,,15 mins,25,0g,0g,6mg,202mg,1g,,1g,4g,0mg,11mg,0mg,76mg,4.6,106,,16 ,16,2 cups
-36,6663635,15 mins,45 mins,,,, 1 hr,92,5g,1g,0mg,17mg,13g,4g,6g,3g,80mg,106mg,0mg,424mg,4.6,144,,6 ,6,
-37,6740841,30 mins,10 mins,,,, 1 hr 5 mins,195,6g,2g,44mg,887mg,21g,1g,,13g,1mg,30mg,2mg,195mg,4.5,413,25 mins,6 ,6,
-38,6737966,10 mins,40 mins,,,,50 mins,192,3g,0g,,572mg,33g,11g,7g,12g,9mg,44mg,6mg,727mg,4.5,"1,432",,8 ,8,
-39,6739604,5 mins,20 mins,,,,40 mins,72,5g,2g,186mg,947mg,0g,,0g,6g,,32mg,1mg,69mg,4.7,"1,111",15 mins,8 ,8,8 hard-boiled eggs
-40,6650004,30 mins, 2 hrs 45 mins,,,, 3 hrs 15 mins,200,9g,3g,29mg,133mg,21g,5g,3g,10g,24mg,45mg,2mg,572mg,4.3,417,,10 ,10,
-41,6577578,15 mins,30 mins,,,,45 mins,260,7g,1g,4mg,236mg,42g,5g,8g,10g,31mg,86mg,2mg,710mg,4.4,263,,4 ,4,
-42,6648411,,5 mins,,,,5 mins,163,11g,6g,27mg,733mg,8g,0g,0g,8g,,176mg,0mg,71mg,4.2,150,,1 ,1,
-43,6651040,10 mins, 7 hrs 20 mins,,,, 7 hrs 30 mins,122,0g,,,196mg,26g,5g,12g,5g,2mg,53mg,2mg,364mg,4.5,133,,10 ,10,5 cups
-44,6739258,15 mins, 3 hrs,,,, 3 hrs 15 mins,176,4g,1g,10mg,402mg,32g,4g,18g,6g,3mg,77mg,2mg,390mg,4.6,184,,10 ,10,
-45,6664964,15 mins,15 mins,,,,30 mins,114,8g,1g,,8mg,10g,5g,2g,3g,22mg,51mg,2mg,285mg,4.3,96,,5 ,5,
-46,6573880,10 mins,10 mins,,,, 1 hr 20 mins,169,3g,1g,80mg,1866mg,12g,1g,5g,23g,10mg,60mg,6mg,614mg,4.8,91, 1 hr,2 ,2,
-47,6664281,15 mins,25 mins,,,,40 mins,175,7g,1g,50mg,48mg,6g,3g,,25g,45mg,84mg,1mg,495mg,4.5,90,,2 ,2,
-48,6737158,10 mins,,,,,10 mins,12,,,,59mg,3g,,1g,0g,16mg,14mg,0mg,76mg,4.7,108,,10 ,10,1 1/4 cups
-49,6602814,15 mins,45 mins,,,, 1 hr,147,1g,1g,2mg,9mg,37g,6g,27g,1g,10mg,29mg,0mg,240mg,4.4,95,,6 ,6,
-50,6737637,10 mins,,,,,10 mins,188,6g,1g,,4mg,32g,5g,9g,6g,1mg,29mg,2mg,257mg,4.8,190,,16 ,16,8 cups
-51,6651074,15 mins,30 mins,,,, 8 hrs 45 mins,313,2g,0g,68mg,1664mg,31g,1g,28g,29g,3mg,46mg,2mg,437mg,4.5,545, 8 hrs,4 ,4,
-52,6736802,5 mins, 6 hrs,,,, 6 hrs 5 mins,146,4g,2g,36mg,1337mg,11g,0g,9g,16g,2mg,24mg,1mg,308mg,4.0,"1,372",,6 ,6,
-53,6664703,15 mins,,,,,45 mins,21,0g,,,1mg,5g,1g,4g,0g,17mg,6mg,0mg,70mg,4.7,507,30 mins,8 ,8,
-54,6737573,25 mins,15 mins,,,,40 mins,119,9g,2g,,903mg,8g,2g,3g,2g,46mg,35mg,1mg,245mg,4.4,714,,6 ,6,
-55,6600659,10 mins,45 mins,,,,55 mins,214,4g,1g,59mg,248mg,19g,0g,18g,22g,1mg,29mg,1mg,208mg,4.1,974,,12 ,12,
-56,6649058,5 mins,15 mins,,,,20 mins,106,5g,1g,0mg,121mg,12g,4g,5g,4g,15mg,23mg,1mg,142mg,4.4,589,,6 ,6,
-57,6650819,10 mins,30 mins,,,,40 mins,142,4g,2g,49mg,93mg,1g,0g,0g,23g,7mg,42mg,0mg,492mg,4.4,"2,327",,4 ,4,
-58,6594528,10 mins,5 mins,,,,15 mins,140,4g,1g,67mg,139mg,8g,2g,4g,19g,43mg,44mg,1mg,303mg,4.4,253,,4 ,4,
-59,6648806,5 mins,20 mins,,,,45 mins,194,5g,1g,66mg,79mg,10g,0g,9g,26g,2mg,26mg,1mg,315mg,4.3,642,20 mins,4 ,4,
-60,6588913,20 mins,30 mins,,,,50 mins,98,5g,2g,14mg,343mg,7g,3g,2g,6g,13mg,34mg,1mg,254mg,4.6,640,,6 ,6,
-61,6575372,15 mins, 1 hr 25 mins,,,, 5 hrs 40 mins,128,3g,1g,86mg,610mg,2g,0g,1g,23g,3mg,10mg,4mg,205mg,4.9,33, 4 hrs,4 ,4,1 pint
-62,6650513,15 mins,40 mins,,,,55 mins,149,5g,1g,,651mg,24g,4g,3g,4g,6mg,54mg,3mg,186mg,4.3,391,,6 ,6,
+,id_recipe,name,Prep Time:,Cook Time:,Stand Time:,Cool Time:,Chill Time:,Total Time:,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Servings:,Servings Per Recipe,Yield:
+0,7566683,Green No-Bean Hummus,15 mins,10 mins,45 mins,45 mins, 2 hrs, 3 hrs 55 mins,966,83g,12g,0mg,7606mg,55g,16g,23g,23g,215mg,326mg,8mg,3431mg,5.0,1,,,,
+1,6663120,Jamie's Sweet and Easy Corn on the Cob,5 mins,5 mins,,,,20 mins,94,1g,0g,,14mg,22g,2g,7g,3g,7mg,2mg,1mg,246mg,4.8,520,10 mins,6 ,6,
+2,6649411,Sarah's Homemade Applesauce,10 mins,15 mins,,,,25 mins,121,0g,,,3mg,32g,4g,27g,0g,6mg,13mg,0mg,150mg,4.8,"3,300",,4 ,4,
+3,6649117,Homemade Crispy Hash Browns,20 mins,15 mins,,,,35 mins,183,7g,1g,47mg,25mg,26g,3g,2g,5g,22mg,24mg,2mg,496mg,4.5,"1,206",,4 ,4,4 servings
+4,6651174,Vietnamese Fresh Spring Rolls,45 mins,5 mins,,,,50 mins,82,1g,0g,11mg,305mg,16g,1g,5g,3g,2mg,13mg,0mg,62mg,4.7,762,,8 ,8,8 spring rolls
+5,6650983,Easy Roasted Broccoli,10 mins,20 mins,,,,30 mins,63,4g,1g,,71mg,7g,3g,2g,3g,87mg,46mg,1mg,310mg,4.7,154,,4 ,4,
+6,6649095,Grilled Asparagus,10 mins,5 mins,,,,15 mins,53,4g,1g,,2mg,4g,2g,2g,3g,6mg,27mg,2mg,229mg,4.7,878,,4 ,4,
+7,6650464,Southern Fried Cabbage,10 mins,10 mins,,,,20 mins,189,14g,3g,5mg,528mg,14g,5g,7g,4g,73mg,85mg,1mg,391mg,4.7,727,,6 ,6,
+8,6664559,Roasted New Red Potatoes,5 mins,20 mins,,,,25 mins,179,7g,1g,,301mg,27g,3g,2g,3g,15mg,17mg,1mg,775mg,4.7,"1,401",,8 ,8,
+9,6663158,Black Beans and Rice,5 mins,25 mins,,,,30 mins,140,1g,0g,,354mg,27g,6g,1g,6g,3mg,39mg,2mg,298mg,4.3,"1,299",,6 ,6,
+10,6737797,Simply Steamed Asparagus,10 mins,5 mins,,,,15 mins,32,1g,1g,3mg,160mg,4g,2g,2g,3g,6mg,33mg,2mg,231mg,4.6,137,,4 ,4,
+11,6664086,Easy Baked Tilapia,5 mins,25 mins,,,,30 mins,172,4g,2g,46mg,354mg,7g,3g,,25g,61mg,81mg,1mg,497mg,4.5,"1,256",,4 ,4,
+12,6737982,Fish in Foil,10 mins,15 mins,,,,25 mins,213,11g,2g,67mg,1850mg,8g,3g,0g,24g,48mg,117mg,2mg,663mg,4.4,427,,2 ,2,
+13,6664230,Three Bean Salad,15 mins,,,,, 12 hrs 15 mins,112,5g,1g,,299mg,16g,2g,11g,2g,2mg,20mg,1mg,12mg,4.6,304, 12 hrs,16 ,16,
+14,6651103,Pesto Pasta with Chicken,10 mins,20 mins,,,,30 mins,328,10g,3g,22mg,154mg,43g,3g,2g,17g,7mg,129mg,3mg,308mg,4.5,"1,079",,8 ,8,
+15,6664866,Blackened Chicken,10 mins,10 mins,,,,20 mins,135,3g,1g,67mg,205mg,1g,0g,0g,25g,1mg,20mg,1mg,228mg,4.4,"1,201",,2 ,2,2 chicken breast halves
+16,6665002,Acorn Squash,5 mins, 1 hr,,,, 1 hr 5 mins,189,6g,4g,15mg,51mg,36g,3g,18g,2g,24mg,84mg,2mg,768mg,4.6,"1,000",,2 ,2,
+17,6649873,Easy Garlic Kale,7 mins,8 mins,,,,15 mins,87,4g,1g,,48mg,11g,2g,,4g,135mg,153mg,2mg,504mg,4.4,100,,4 ,4,
+18,6651199,Homemade Crispy Seasoned French Fries,15 mins,10 mins,,,,25 mins,193,3g,0g,,751mg,38g,3g,1g,4g,10mg,15mg,1mg,444mg,4.5,893,,8 ,8,
+19,6650344,Roasted Onions,10 mins,25 mins,,,,35 mins,54,3g,1g,,149mg,6g,1g,3g,1g,4mg,14mg,0mg,83mg,4.4,65,,8 ,8,8 onion halves
+20,6663773,Easy Slow Cooker Meatballs,20 mins, 8 hrs,,,, 8 hrs 20 mins,925,53g,20g,149mg,2012mg,73g,11g,,41g,32mg,177mg,10mg,1847mg,4.2,685,,4 ,4,16 meatballs
+21,6650444,Rolo Pretzel Turtles,10 mins,5 mins,,,,15 mins,82,2g,1g,0mg,263mg,14g,1g,2g,2g,,11mg,1mg,34mg,4.8,"1,651",,20 ,20,20 candies
+22,6581619,Japanese Tamago Egg,15 mins,10 mins,,,,25 mins,63,4g,1g,124mg,87mg,3g,,3g,4g,,18mg,1mg,60mg,4.7,40,,6 ,6,
+23,6575481,Grandma's Harvard Beets,5 mins,35 mins,,,,40 mins,185,6g,4g,15mg,328mg,34g,2g,30g,1g,4mg,17mg,2mg,148mg,4.7,197,,6 ,6,
+24,6650391,Sautéed Garlic Asparagus,5 mins,5 mins,,,,10 mins,102,9g,6g,23mg,64mg,5g,2g,2g,3g,7mg,34mg,3mg,241mg,4.5,932,,4 ,4,
+25,6740855,Roasted Asparagus with Parmesan,5 mins,15 mins,,,,20 mins,46,2g,1g,4mg,660mg,5g,2g,2g,4g,6mg,83mg,3mg,238mg,4.8,495,,4 ,4,
+26,6650385,Baked Honey Mustard Chicken,15 mins,40 mins,,,, 1 hr 5 mins,232,4g,1g,67mg,296mg,25g,1g,23g,26g,1mg,32mg,2mg,264mg,4.3,"3,057",10 mins,6 ,6,
+27,6649234,Homemade Black Bean Veggie Burgers,15 mins,20 mins,,,,35 mins,198,3g,1g,47mg,607mg,33g,10g,2g,11g,19mg,99mg,4mg,515mg,4.4,"3,734",,4 ,4,4 burgers
+28,6664155,Slow Cooker Turkey Breast,10 mins, 8 hrs,,,, 8 hrs 10 mins,273,2g,1g,164mg,309mg,2g,0g,0g,60g,0mg,29mg,3mg,577mg,4.6,"1,681",,12 ,12,
+29,6601453,'Chinese Buffet' Green Beans,15 mins,10 mins,,,,25 mins,55,2g,0g,,141mg,8g,3g,3g,2g,13mg,31mg,1mg,167mg,4.5,403,,6 ,6,
+30,6599292,Miso and Soy Chilean Sea Bass,10 mins,10 mins,,,, 3 hrs 20 mins,287,4g,1g,47mg,1613mg,28g,1g,22g,25g,1mg,42mg,1mg,393mg,4.7,137, 3 hrs,4 ,4,4 fillets
+31,6650276,Easy Baked Ham Steaks,5 mins,35 mins,,,,40 mins,202,4g,1g,38mg,1261mg,25g,1g,22g,17g,30mg,57mg,2mg,441mg,4.3,65,,2 ,2,
+32,6664793,Puerto Rican Tostones (Fried Plantains),10 mins,10 mins,,,,20 mins,136,3g,1g,,14mg,29g,2g,13g,1g,17mg,13mg,1mg,450mg,4.6,132,,2 ,2,
+33,6664020,Pan Fried Brussels Sprouts,10 mins,20 mins,,,,30 mins,87,4g,1g,,29mg,12g,5g,3g,4g,98mg,54mg,2mg,471mg,4.1,89,,4 ,4,
+34,6651087,Roasted Garlic Lemon Broccoli,10 mins,15 mins,,,,25 mins,49,2g,0g,,327mg,7g,3g,2g,3g,90mg,49mg,4mg,323mg,4.4,"1,524",,6 ,6,
+35,6575205,Smoked Fish Dip,15 mins,,,,,15 mins,25,0g,0g,6mg,202mg,1g,,1g,4g,0mg,11mg,0mg,76mg,4.6,106,,16 ,16,2 cups
+36,6663635,Cabbage Steaks,15 mins,45 mins,,,, 1 hr,92,5g,1g,0mg,17mg,13g,4g,6g,3g,80mg,106mg,0mg,424mg,4.6,144,,6 ,6,
+37,6740841,Wonton Soup,30 mins,10 mins,,,, 1 hr 5 mins,195,6g,2g,44mg,887mg,21g,1g,,13g,1mg,30mg,2mg,195mg,4.5,413,25 mins,6 ,6,
+38,6737966,Red Lentil Curry,10 mins,40 mins,,,,50 mins,192,3g,0g,,572mg,33g,11g,7g,12g,9mg,44mg,6mg,727mg,4.5,"1,432",,8 ,8,
+39,6739604,Perfect Hard-Boiled Eggs,5 mins,20 mins,,,,40 mins,72,5g,2g,186mg,947mg,0g,,0g,6g,,32mg,1mg,69mg,4.7,"1,111",15 mins,8 ,8,8 hard-boiled eggs
+40,6650004,"Slow Cooker Green Beans, Ham and Potatoes",30 mins, 2 hrs 45 mins,,,, 3 hrs 15 mins,200,9g,3g,29mg,133mg,21g,5g,3g,10g,24mg,45mg,2mg,572mg,4.3,417,,10 ,10,
+41,6577578,Tomato and Garlic Pasta,15 mins,30 mins,,,,45 mins,260,7g,1g,4mg,236mg,42g,5g,8g,10g,31mg,86mg,2mg,710mg,4.4,263,,4 ,4,
+42,6648411,Cheesy Ramen Noodles,,5 mins,,,,5 mins,163,11g,6g,27mg,733mg,8g,0g,0g,8g,,176mg,0mg,71mg,4.2,150,,1 ,1,
+43,6651040,Baked Beans from Scratch,10 mins, 7 hrs 20 mins,,,, 7 hrs 30 mins,122,0g,,,196mg,26g,5g,12g,5g,2mg,53mg,2mg,364mg,4.5,133,,10 ,10,5 cups
+44,6739258,Simple Baked Beans,15 mins, 3 hrs,,,, 3 hrs 15 mins,176,4g,1g,10mg,402mg,32g,4g,18g,6g,3mg,77mg,2mg,390mg,4.6,184,,10 ,10,
+45,6664964,Pan Fried Green Beans,15 mins,15 mins,,,,30 mins,114,8g,1g,,8mg,10g,5g,2g,3g,22mg,51mg,2mg,285mg,4.3,96,,5 ,5,
+46,6573880,Emily's Marinated Venison Steaks,10 mins,10 mins,,,, 1 hr 20 mins,169,3g,1g,80mg,1866mg,12g,1g,5g,23g,10mg,60mg,6mg,614mg,4.8,91, 1 hr,2 ,2,
+47,6664281,Parchment Baked Salmon,15 mins,25 mins,,,,40 mins,175,7g,1g,50mg,48mg,6g,3g,,25g,45mg,84mg,1mg,495mg,4.5,90,,2 ,2,
+48,6737158,Homemade Horseradish,10 mins,,,,,10 mins,12,,,,59mg,3g,,1g,0g,16mg,14mg,0mg,76mg,4.7,108,,10 ,10,1 1/4 cups
+49,6602814,Delicious Baked Apples,15 mins,45 mins,,,, 1 hr,147,1g,1g,2mg,9mg,37g,6g,27g,1g,10mg,29mg,0mg,240mg,4.4,95,,6 ,6,
+50,6737637,Muesli,10 mins,,,,,10 mins,188,6g,1g,,4mg,32g,5g,9g,6g,1mg,29mg,2mg,257mg,4.8,190,,16 ,16,8 cups
+51,6651074,Bourbon Chicken,15 mins,30 mins,,,, 8 hrs 45 mins,313,2g,0g,68mg,1664mg,31g,1g,28g,29g,3mg,46mg,2mg,437mg,4.5,546, 8 hrs,4 ,4,
+52,6736802,Pork Chops for the Slow Cooker,5 mins, 6 hrs,,,, 6 hrs 5 mins,146,4g,2g,36mg,1337mg,11g,0g,9g,16g,2mg,24mg,1mg,308mg,4.0,"1,372",,6 ,6,
+53,6664703,Mango Salsa,15 mins,,,,,45 mins,21,0g,,,1mg,5g,1g,4g,0g,17mg,6mg,0mg,70mg,4.7,507,30 mins,8 ,8,
+54,6737573,Ginger Veggie Stir-Fry,25 mins,15 mins,,,,40 mins,119,9g,2g,,903mg,8g,2g,3g,2g,46mg,35mg,1mg,245mg,4.4,714,,6 ,6,
+55,6600659,Chicken and Red Wine Sauce,10 mins,45 mins,,,,55 mins,214,4g,1g,59mg,248mg,19g,0g,18g,22g,1mg,29mg,1mg,208mg,4.1,974,,12 ,12,
+56,6649058,Italian Peas,5 mins,15 mins,,,,20 mins,106,5g,1g,0mg,121mg,12g,4g,5g,4g,15mg,23mg,1mg,142mg,4.4,589,,6 ,6,
+57,6650819,Lemon Garlic Tilapia,10 mins,30 mins,,,,40 mins,142,4g,2g,49mg,93mg,1g,0g,0g,23g,7mg,42mg,0mg,492mg,4.4,"2,327",,4 ,4,
+58,6594528,Lemon-Orange Orange Roughy,10 mins,5 mins,,,,15 mins,140,4g,1g,67mg,139mg,8g,2g,4g,19g,43mg,44mg,1mg,303mg,4.4,253,,4 ,4,
+59,6648806,Balsamic Chicken,5 mins,20 mins,,,,45 mins,194,5g,1g,66mg,79mg,10g,0g,9g,26g,2mg,26mg,1mg,315mg,4.3,642,20 mins,4 ,4,
+60,6588913,Smothered Green Beans,20 mins,30 mins,,,,50 mins,98,5g,2g,14mg,343mg,7g,3g,2g,6g,13mg,34mg,1mg,254mg,4.6,640,,6 ,6,
+61,6575372,Easy Canned Venison,15 mins, 1 hr 25 mins,,,, 5 hrs 40 mins,128,3g,1g,86mg,610mg,2g,0g,1g,23g,3mg,10mg,4mg,205mg,4.9,33, 4 hrs,4 ,4,1 pint
+62,6650513,Oven Roasted Red Potatoes and Asparagus,15 mins,40 mins,,,,55 mins,149,5g,1g,,651mg,24g,4g,3g,4g,6mg,54mg,3mg,186mg,4.3,391,,6 ,6,

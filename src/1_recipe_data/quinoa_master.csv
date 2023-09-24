@@ -1,62 +1,62 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Cholesterol,Additional Time:,Yield:
-0,6648166,20 mins,15 mins,35 mins,6 ,6,270,12g,1g,675mg,34g,8g,2g,9g,15mg,51mg,2mg,403mg,4.8,"1,516",,,
-1,6649399,15 mins,20 mins,35 mins,5 ,5,245,11g,2g,680mg,29g,7g,1g,9g,17mg,69mg,3mg,383mg,4.7,"1,146",37mg,,
-2,6738161,15 mins,35 mins,50 mins,10 ,10,153,2g,0g,517mg,28g,8g,2g,8g,5mg,41mg,2mg,333mg,4.7,"6,025",,,
-3,6591848,10 mins,30 mins,40 mins,6 ,6,275,7g,1g,343mg,22g,3g,0g,30g,5mg,43mg,2mg,462mg,4.4,207,69mg,,
-4,6736675,15 mins,20 mins,35 mins,4 ,4,207,6g,2g,400mg,32g,4g,3g,7g,5mg,41mg,2mg,287mg,4.3,717,8mg,,
-5,6648292,20 mins, 1 hr 20 mins, 1 hr 50 mins,5 ,5,259,11g,3g,968mg,15g,1g,7g,25g,5mg,53mg,3mg,430mg,4.6,"2,422",121mg,10 mins,1 meatloaf
-6,6649191,15 mins,15 mins, 1 hr 40 mins,10 ,10,227,11g,3g,666mg,26g,3g,1g,7g,10mg,84mg,2mg,283mg,4.8,154,12mg, 1 hr 10 mins,
-7,6651146,15 mins,25 mins,40 mins,4 ,4,450,15g,2g,1099mg,67g,17g,5g,17g,20mg,82mg,5mg,1021mg,4.7,484,2mg,,
-8,6588184,10 mins,20 mins,30 mins,4 ,4,280,13g,2g,14mg,34g,5g,2g,7g,42mg,46mg,3mg,397mg,4.4,249,,,4 servings
-9,6580438,5 mins,20 mins,30 mins,4 ,4,193,6g,2g,503mg,29g,3g,1g,7g,1mg,25mg,2mg,249mg,4.5,99,10mg,5 mins,4 servings
-10,6649638,15 mins,20 mins,40 mins,6 ,6,250,7g,1g,622mg,38g,8g,2g,10g,23mg,47mg,3mg,497mg,4.9,45,2mg,5 mins,6 servings
-11,6586740,15 mins,15 mins, 1 hr,4 ,4,270,12g,5g,912mg,31g,4g,2g,10g,5mg,158mg,1mg,136mg,4.2,30,25mg,30 mins,4 servings
-12,6650555,25 mins,15 mins,40 mins,4 ,4,343,20g,3g,552mg,35g,6g,1g,9g,157mg,188mg,8mg,856mg,4.8,590,2mg,,1 large salad
-13,6595384,5 mins,15 mins,55 mins,6 ,6,439,27g,5g,397mg,44g,6g,18g,11g,44mg,191mg,5mg,632mg,4.7,270,17mg,35 mins,6 servings
-14,6605919,5 mins,30 mins,35 mins,3 ,3,173,3g,,90mg,31g,3g,13g,4g,,117mg,0mg,111mg,4.2,86,,,3 servings
-15,6583527,15 mins,20 mins, 1 hr 35 mins,6 ,6,379,27g,7g,552mg,26g,4g,5g,10g,5mg,107mg,1mg,251mg,4.8,204,19mg, 1 hr,
-16,6737968,15 mins,15 mins,30 mins,4 ,4,354,17g,2g,325mg,46g,9g,8g,10g,63mg,134mg,6mg,805mg,4.5,977,,,4 servings
-17,6739738,15 mins,20 mins,35 mins,8 ,8,278,14g,3g,713mg,20g,2g,3g,18g,31mg,83mg,2mg,346mg,4.6,632,45mg,,4 cups
-18,6582073,10 mins,25 mins,35 mins,2 ,2,282,11g,1g,315mg,35g,5g,3g,13g,26mg,281mg,6mg,520mg,4.2,56,,,2 cups
-19,6738920,10 mins,48 mins,58 mins,4 ,4,799,36g,6g,1376mg,82g,13g,13g,40g,20mg,125mg,6mg,1426mg,4.9,104,69mg,,4 servings
-20,6577122,15 mins,15 mins,30 mins,8 ,8,126,6g,1g,108mg,15g,4g,0g,4g,1mg,83mg,2mg,89mg,5.0,27,,,4 dozen crackers
-21,6568273,5 mins,35 mins,40 mins,4 ,4,196,6g,1g,455mg,29g,3g,0g,7g,2mg,29mg,2mg,286mg,4.3,139,,,4 servings
-22,6599211,10 mins,20 mins,35 mins,6 ,6,109,2g,0g,82mg,21g,3g,,4g,15mg,30mg,2mg,195mg,3.8,6,,5 mins,6 servings
-23,6579334,15 mins,40 mins, 1 hr 25 mins,12 ,12,332,21g,10g,375mg,37g,4g,26g,6g,0mg,68mg,2mg,263mg,4.8,112,93mg,30 mins,12 servings
-24,6578002,5 mins,35 mins,40 mins,2 ,2,473,20g,3g,48mg,63g,9g,2g,14g,6mg,80mg,6mg,667mg,4.5,294,,,2 servings
-25,6581242,5 mins,30 mins,35 mins,4 ,4,269,6g,3g,65mg,46g,4g,19g,9g,5mg,164mg,2mg,576mg,3.9,123,14mg,,4 servings
-26,6602400,5 mins,15 mins,25 mins,2 ,2,313,5g,1g,8mg,55g,6g,,12g,,44mg,4mg,480mg,4.6,5,,5 mins,2 cups
-27,6581746,5 mins,20 mins,25 mins,4 ,4,299,12g,6g,394mg,33g,5g,2g,15g,41mg,254mg,3mg,412mg,4.5,175,30mg,,4 cups
-28,6597836,20 mins,20 mins,40 mins,6 ,6,185,5g,1g,176mg,29g,5g,1g,6g,7mg,19mg,1mg,142mg,4.3,384,,,3 cups
-29,6583231,30 mins,50 mins, 1 hr 20 mins,6 ,6,251,10g,3g,348mg,32g,8g,8g,11g,107mg,182mg,1mg,621mg,4.2,64,12mg,,6 servings
-30,6596687,30 mins,30 mins, 1 hr,10 ,10,233,4g,1g,540mg,42g,12g,2g,12g,41mg,94mg,5mg,828mg,4.6,471,,,10 servings
-31,6594017,20 mins,40 mins, 1 hr,8 ,8,126,5g,1g,155mg,18g,2g,2g,4g,11mg,24mg,1mg,262mg,4.5,221,,,4 cups
-32,6571024,15 mins,30 mins, 8 hrs 50 mins,6 ,6,189,6g,1g,607mg,26g,4g,3g,8g,6mg,47mg,2mg,344mg,4.7,40,62mg, 8 hrs 5 mins,6 servings
-33,6582997,15 mins,25 mins, 1 hr 20 mins,4 ,4,453,28g,5g,308mg,40g,7g,5g,13g,14mg,174mg,4mg,567mg,4.6,7,11mg,40 mins,
-34,6595285,20 mins,20 mins,40 mins,6 ,6,234,9g,3g,103mg,31g,4g,1g,10g,2mg,88mg,2mg,394mg,4.2,152,10mg,,6 servings
-35,6738930,10 mins,20 mins, 2 hrs 30 mins,6 ,6,176,4g,0g,13mg,32g,4g,8g,5g,25mg,41mg,2mg,292mg,4.6,550,, 2 hrs,6 servings
-36,6600507,15 mins,35 mins,55 mins,4 ,4,575,33g,11g,1203mg,39g,6g,5g,31g,30mg,294mg,6mg,653mg,4.6,7,95mg,5 mins,
-37,6595417,10 mins,40 mins,50 mins,4 ,4,324,16g,8g,199mg,31g,3g,1g,10g,2mg,148mg,2mg,312mg,4.4,9,37mg,,4 side-dish servings
-38,6578871,30 mins,, 1 hr 30 mins,5 ,5,327,20g,2g,92mg,32g,5g,12g,8g,32mg,93mg,2mg,355mg,4.7,7,, 1 hr,
-39,6578576,30 mins,15 mins, 1 hr 25 mins,8 ,8,195,10g,4g,197mg,22g,3g,3g,6g,18mg,91mg,1mg,189mg,4.7,156,18mg,40 mins,
-40,6588134,15 mins,30 mins,45 mins,3 ,3,227,11g,2g,195mg,27g,4g,4g,5g,6mg,49mg,2mg,386mg,4.5,108,,,
-41,6575563,10 mins,15 mins, 1 hr,4 ,4,388,24g,5g,446mg,35g,5g,4g,10g,19mg,160mg,4mg,627mg,4.9,7,17mg,35 mins,
-42,6602478,30 mins,45 mins, 1 hr 15 mins,6 ,6,280,12g,4g,1923mg,32g,9g,7g,12g,24mg,174mg,3mg,412mg,4.6,60,24mg,,
-43,6606367,20 mins,20 mins,40 mins,4 ,4,244,6g,1g,986mg,38g,5g,3g,8g,8mg,23mg,0mg,129mg,4.7,176,2mg,,
-44,6595967,15 mins,45 mins, 2 hrs,12 ,12,205,9g,2g,123mg,25g,7g,5g,8g,3mg,55mg,2mg,266mg,4.5,54,6mg, 1 hr,
-45,6598981,5 mins,20 mins,25 mins,4 ,4,198,6g,1g,70mg,29g,4g,1g,7g,5mg,59mg,0mg,110mg,4.3,99,3mg,,
-46,6574411,20 mins,, 2 hrs 20 mins,8 ,8,397,23g,3g,532mg,42g,9g,3g,9g,22mg,47mg,2mg,272mg,4.6,63,, 2 hrs,
-47,6584394,10 mins,35 mins,50 mins,18 ,18,188,8g,3g,274mg,28g,3g,14g,4g,1mg,28mg,1mg,146mg,4.7,77,,5 mins,18 cookies
-48,6605137,10 mins,25 mins,35 mins,5 ,5,165,4g,1g,52mg,27g,4g,2g,6g,8mg,44mg,2mg,376mg,4.5,97,,,2 1/2 cups
-49,6581378,10 mins,25 mins,35 mins,2 ,2,188,9g,1g,19mg,22g,3g,,5g,41mg,64mg,2mg,316mg,4.4,38,,,
-50,6598637,10 mins,30 mins,40 mins,6 ,6,420,28g,12g,1091mg,26g,3g,4g,15g,2mg,30mg,2mg,257mg,4.6,59,56mg,,
-51,6596007,20 mins,20 mins,40 mins,4 ,4,483,18g,3g,1211mg,69g,13g,5g,16g,33mg,79mg,5mg,823mg,4.3,3,,,
-52,6738435,30 mins,30 mins, 1 hr,4 ,4,445,24g,7g,361mg,35g,5g,4g,23g,15mg,174mg,1mg,347mg,4.6,531,59mg,,
-53,6577484,20 mins,25 mins,45 mins,4 ,4,440,16g,2g,851mg,65g,9g,14g,15g,6mg,78mg,5mg,659mg,4.7,418,0mg,,2 cups
-54,6571607,30 mins,30 mins, 1 hr 45 mins,10 ,10,99,4g,1g,649mg,14g,2g,3g,2g,17mg,22mg,1mg,193mg,4.6,151,0mg,45 mins,5 cups
-55,6590451,5 mins,20 mins,40 mins,4 ,4,191,5g,1g,8mg,31g,5g,1g,8g,0mg,57mg,3mg,207mg,5.0,13,,15 mins,
-56,6572573,10 mins,25 mins,35 mins,4 ,4,223,6g,1g,272mg,35g,4g,2g,7g,97mg,35mg,3mg,423mg,4.4,18,,,
-57,6585007,20 mins,50 mins, 1 hr 10 mins,4 ,4,232,6g,1g,556mg,37g,8g,4g,10g,16mg,88mg,1mg,359mg,4.6,22,,,
-58,6606053,10 mins,30 mins,40 mins,4 ,4,367,10g,2g,356mg,33g,6g,2g,35g,8mg,35mg,5mg,416mg,4.5,70,71mg,,
-59,6564706,10 mins,20 mins, 1 hr 30 mins,24 ,24,215,13g,1g,371mg,21g,3g,1g,4g,6mg,35mg,2mg,226mg,4.6,104,, 1 hr,
-60,6605701,15 mins, 1 hr, 1 hr 15 mins,6 ,6,388,18g,9g,673mg,39g,9g,2g,19g,82mg,341mg,4mg,701mg,4.7,55,40mg,,6 servings
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Cholesterol,Additional Time:,Yield:
+0,6648166,Zesty Quinoa Salad,20 mins,15 mins,35 mins,6 ,6,270,12g,1g,675mg,34g,8g,2g,9g,15mg,51mg,2mg,403mg,4.8,"1,516",,,
+1,6649399,Quinoa Black Bean Burgers,15 mins,20 mins,35 mins,5 ,5,245,11g,2g,680mg,29g,7g,1g,9g,17mg,69mg,3mg,383mg,4.7,"1,146",37mg,,
+2,6738161,Quinoa and Black Beans,15 mins,35 mins,50 mins,10 ,10,153,2g,0g,517mg,28g,8g,2g,8g,5mg,41mg,2mg,333mg,4.7,"6,025",,,
+3,6591848,Quinoa Chicken,10 mins,30 mins,40 mins,6 ,6,275,7g,1g,343mg,22g,3g,0g,30g,5mg,43mg,2mg,462mg,4.4,207,69mg,,
+4,6736675,Quinoa Side Dish,15 mins,20 mins,35 mins,4 ,4,207,6g,2g,400mg,32g,4g,3g,7g,5mg,41mg,2mg,287mg,4.3,717,8mg,,
+5,6648292,Turkey and Quinoa Meatloaf,20 mins, 1 hr 20 mins, 1 hr 50 mins,5 ,5,259,11g,3g,968mg,15g,1g,7g,25g,5mg,53mg,3mg,430mg,4.6,"2,422",121mg,10 mins,1 meatloaf
+6,6649191,Best Greek Quinoa Salad,15 mins,15 mins, 1 hr 40 mins,10 ,10,227,11g,3g,666mg,26g,3g,1g,7g,10mg,84mg,2mg,283mg,4.8,154,12mg, 1 hr 10 mins,
+7,6651146,One-Skillet Mexican Quinoa,15 mins,25 mins,40 mins,4 ,4,450,15g,2g,1099mg,67g,17g,5g,17g,20mg,82mg,5mg,1021mg,4.7,484,2mg,,
+8,6588184,Quinoa with Veggies,10 mins,20 mins,30 mins,4 ,4,280,13g,2g,14mg,34g,5g,2g,7g,42mg,46mg,3mg,397mg,4.4,249,,,4 servings
+9,6580438,Garlic Quinoa,5 mins,20 mins,30 mins,4 ,4,193,6g,2g,503mg,29g,3g,1g,7g,1mg,25mg,2mg,249mg,4.5,99,10mg,5 mins,4 servings
+10,6649638,"Black Bean, Corn, and Quinoa Salad",15 mins,20 mins,40 mins,6 ,6,250,7g,1g,622mg,38g,8g,2g,10g,23mg,47mg,3mg,497mg,4.9,45,2mg,5 mins,6 servings
+11,6586740,Quinoa Summer Salad with Feta,15 mins,15 mins, 1 hr,4 ,4,270,12g,5g,912mg,31g,4g,2g,10g,5mg,158mg,1mg,136mg,4.2,30,25mg,30 mins,4 servings
+12,6650555,"Kale, Quinoa, and Avocado Salad with Lemon Dijon Vinaigrette",25 mins,15 mins,40 mins,4 ,4,343,20g,3g,552mg,35g,6g,1g,9g,157mg,188mg,8mg,856mg,4.8,590,2mg,,1 large salad
+13,6595384,Kale and Quinoa Salad,5 mins,15 mins,55 mins,6 ,6,439,27g,5g,397mg,44g,6g,18g,11g,44mg,191mg,5mg,632mg,4.7,270,17mg,35 mins,6 servings
+14,6605919,Quinoa Porridge,5 mins,30 mins,35 mins,3 ,3,173,3g,,90mg,31g,3g,13g,4g,,117mg,0mg,111mg,4.2,86,,,3 servings
+15,6583527,"Quinoa, Beet, and Arugula Salad",15 mins,20 mins, 1 hr 35 mins,6 ,6,379,27g,7g,552mg,26g,4g,5g,10g,5mg,107mg,1mg,251mg,4.8,204,19mg, 1 hr,
+16,6737968,Quinoa Tabbouleh,15 mins,15 mins,30 mins,4 ,4,354,17g,2g,325mg,46g,9g,8g,10g,63mg,134mg,6mg,805mg,4.5,977,,,4 servings
+17,6739738,Mediterranean Quinoa Salad,15 mins,20 mins,35 mins,8 ,8,278,14g,3g,713mg,20g,2g,3g,18g,31mg,83mg,2mg,346mg,4.6,632,45mg,,4 cups
+18,6582073,Veggie Quinoa,10 mins,25 mins,35 mins,2 ,2,282,11g,1g,315mg,35g,5g,3g,13g,26mg,281mg,6mg,520mg,4.2,56,,,2 cups
+19,6738920,Buddha Bowl,10 mins,48 mins,58 mins,4 ,4,799,36g,6g,1376mg,82g,13g,13g,40g,20mg,125mg,6mg,1426mg,4.9,104,69mg,,4 servings
+20,6577122,Mary's Gone Crackers® Copycat,15 mins,15 mins,30 mins,8 ,8,126,6g,1g,108mg,15g,4g,0g,4g,1mg,83mg,2mg,89mg,5.0,28,,,4 dozen crackers
+21,6568273,Quinoa with Asian Flavors,5 mins,35 mins,40 mins,4 ,4,196,6g,1g,455mg,29g,3g,0g,7g,2mg,29mg,2mg,286mg,4.3,139,,,4 servings
+22,6599211,Lemon Herb Quinoa,10 mins,20 mins,35 mins,6 ,6,109,2g,0g,82mg,21g,3g,,4g,15mg,30mg,2mg,195mg,3.8,6,,5 mins,6 servings
+23,6579334,Amazing Chocolate Quinoa Cake!,15 mins,40 mins, 1 hr 25 mins,12 ,12,332,21g,10g,375mg,37g,4g,26g,6g,0mg,68mg,2mg,263mg,4.8,112,93mg,30 mins,12 servings
+24,6578002,Curried Quinoa,5 mins,35 mins,40 mins,2 ,2,473,20g,3g,48mg,63g,9g,2g,14g,6mg,80mg,6mg,667mg,4.5,294,,,2 servings
+25,6581242,Quinoa Pudding,5 mins,30 mins,35 mins,4 ,4,269,6g,3g,65mg,46g,4g,19g,9g,5mg,164mg,2mg,576mg,3.9,123,14mg,,4 servings
+26,6602400,Instant Pot® Quinoa,5 mins,15 mins,25 mins,2 ,2,313,5g,1g,8mg,55g,6g,,12g,,44mg,4mg,480mg,4.6,5,,5 mins,2 cups
+27,6581746,Cheesy Broccoli Quinoa,5 mins,20 mins,25 mins,4 ,4,299,12g,6g,394mg,33g,5g,2g,15g,41mg,254mg,3mg,412mg,4.5,175,30mg,,4 cups
+28,6597836,Quinoa with Chickpeas and Tomatoes,20 mins,20 mins,40 mins,6 ,6,185,5g,1g,176mg,29g,5g,1g,6g,7mg,19mg,1mg,142mg,4.3,384,,,3 cups
+29,6583231,Quinoa Stuffed Peppers,30 mins,50 mins, 1 hr 20 mins,6 ,6,251,10g,3g,348mg,32g,8g,8g,11g,107mg,182mg,1mg,621mg,4.2,64,12mg,,6 servings
+30,6596687,Quinoa and Black Bean Chili,30 mins,30 mins, 1 hr,10 ,10,233,4g,1g,540mg,42g,12g,2g,12g,41mg,94mg,5mg,828mg,4.6,471,,,10 servings
+31,6594017,Spanish-Style Quinoa,20 mins,40 mins, 1 hr,8 ,8,126,5g,1g,155mg,18g,2g,2g,4g,11mg,24mg,1mg,262mg,4.5,221,,,4 cups
+32,6571024,Quinoa Fried Rice,15 mins,30 mins, 8 hrs 50 mins,6 ,6,189,6g,1g,607mg,26g,4g,3g,8g,6mg,47mg,2mg,344mg,4.7,40,62mg, 8 hrs 5 mins,6 servings
+33,6582997,Balsamic and Herb Quinoa Salad,15 mins,25 mins, 1 hr 20 mins,4 ,4,453,28g,5g,308mg,40g,7g,5g,13g,14mg,174mg,4mg,567mg,4.6,7,11mg,40 mins,
+34,6595285,Quinoa with Mushrooms,20 mins,20 mins,40 mins,6 ,6,234,9g,3g,103mg,31g,4g,1g,10g,2mg,88mg,2mg,394mg,4.2,152,10mg,,6 servings
+35,6738930,Cranberry and Cilantro Quinoa Salad,10 mins,20 mins, 2 hrs 30 mins,6 ,6,176,4g,0g,13mg,32g,4g,8g,5g,25mg,41mg,2mg,292mg,4.6,550,, 2 hrs,6 servings
+36,6600507,Copycat First Watch Quinoa Power Bowl,15 mins,35 mins,55 mins,4 ,4,575,33g,11g,1203mg,39g,6g,5g,31g,30mg,294mg,6mg,653mg,4.6,7,95mg,5 mins,
+37,6595417,Creamy Quinoa Risotto,10 mins,40 mins,50 mins,4 ,4,324,16g,8g,199mg,31g,3g,1g,10g,2mg,148mg,2mg,312mg,4.4,9,37mg,,4 side-dish servings
+38,6578871,Easy Quinoa and Edamame Salad,30 mins,, 1 hr 30 mins,5 ,5,327,20g,2g,92mg,32g,5g,12g,8g,32mg,93mg,2mg,355mg,4.7,7,, 1 hr,
+39,6578576,Southwestern Quinoa Salad,30 mins,15 mins, 1 hr 25 mins,8 ,8,195,10g,4g,197mg,22g,3g,3g,6g,18mg,91mg,1mg,189mg,4.7,156,18mg,40 mins,
+40,6588134,Simple Savory Quinoa,15 mins,30 mins,45 mins,3 ,3,227,11g,2g,195mg,27g,4g,4g,5g,6mg,49mg,2mg,386mg,4.5,108,,,
+41,6575563,"Spinach, Tomato, and Feta Quinoa Salad",10 mins,15 mins, 1 hr,4 ,4,388,24g,5g,446mg,35g,5g,4g,10g,19mg,160mg,4mg,627mg,4.9,7,17mg,35 mins,
+42,6602478,Quinoa and Vegetable Soup,30 mins,45 mins, 1 hr 15 mins,6 ,6,280,12g,4g,1923mg,32g,9g,7g,12g,24mg,174mg,3mg,412mg,4.6,60,24mg,,
+43,6606367,Mexican Quinoa,20 mins,20 mins,40 mins,4 ,4,244,6g,1g,986mg,38g,5g,3g,8g,8mg,23mg,0mg,129mg,4.7,176,2mg,,
+44,6595967,Cranberry Lentil and Quinoa Salad,15 mins,45 mins, 2 hrs,12 ,12,205,9g,2g,123mg,25g,7g,5g,8g,3mg,55mg,2mg,266mg,4.5,54,6mg, 1 hr,
+45,6598981,Pesto Quinoa,5 mins,20 mins,25 mins,4 ,4,198,6g,1g,70mg,29g,4g,1g,7g,5mg,59mg,0mg,110mg,4.3,99,3mg,,
+46,6574411,Amazing Mexican Quinoa Salad,20 mins,, 2 hrs 20 mins,8 ,8,397,23g,3g,532mg,42g,9g,3g,9g,22mg,47mg,2mg,272mg,4.6,63,, 2 hrs,
+47,6584394,Quinoa Cookies,10 mins,35 mins,50 mins,18 ,18,188,8g,3g,274mg,28g,3g,14g,4g,1mg,28mg,1mg,146mg,4.7,77,,5 mins,18 cookies
+48,6605137,"Carrot, Tomato, and Spinach Quinoa Pilaf",10 mins,25 mins,35 mins,5 ,5,165,4g,1g,52mg,27g,4g,2g,6g,8mg,44mg,2mg,376mg,4.5,97,,,2 1/2 cups
+49,6581378,Garlic Kale Quinoa,10 mins,25 mins,35 mins,2 ,2,188,9g,1g,19mg,22g,3g,,5g,41mg,64mg,2mg,316mg,4.4,38,,,
+50,6598637,Quinoa Jambalaya,10 mins,30 mins,40 mins,6 ,6,420,28g,12g,1091mg,26g,3g,4g,15g,2mg,30mg,2mg,257mg,4.6,59,56mg,,
+51,6596007,Warm Quinoa Salad,20 mins,20 mins,40 mins,4 ,4,483,18g,3g,1211mg,69g,13g,5g,16g,33mg,79mg,5mg,823mg,4.3,3,,,
+52,6738435,Chicken with Quinoa and Veggies,30 mins,30 mins, 1 hr,4 ,4,445,24g,7g,361mg,35g,5g,4g,23g,15mg,174mg,1mg,347mg,4.6,531,59mg,,
+53,6577484,Spiced Quinoa,20 mins,25 mins,45 mins,4 ,4,440,16g,2g,851mg,65g,9g,14g,15g,6mg,78mg,5mg,659mg,4.7,418,0mg,,2 cups
+54,6571607,Quinoa Vegetable Salad,30 mins,30 mins, 1 hr 45 mins,10 ,10,99,4g,1g,649mg,14g,2g,3g,2g,17mg,22mg,1mg,193mg,4.6,151,0mg,45 mins,5 cups
+55,6590451,Steel-Cut Oats and Quinoa Breakfast,5 mins,20 mins,40 mins,4 ,4,191,5g,1g,8mg,31g,5g,1g,8g,0mg,57mg,3mg,207mg,5.0,13,,15 mins,
+56,6572573,Quinoa and Pepper Pilaf,10 mins,25 mins,35 mins,4 ,4,223,6g,1g,272mg,35g,4g,2g,7g,97mg,35mg,3mg,423mg,4.4,18,,,
+57,6585007,New Year's Soup,20 mins,50 mins, 1 hr 10 mins,4 ,4,232,6g,1g,556mg,37g,8g,4g,10g,16mg,88mg,1mg,359mg,4.6,22,,,
+58,6606053,Blackened Chicken with Avocado Cream Sauce,10 mins,30 mins,40 mins,4 ,4,367,10g,2g,356mg,33g,6g,2g,35g,8mg,35mg,5mg,416mg,4.5,70,71mg,,
+59,6564706,Quinoa Veggie Salad with Zesty Vinaigrette,10 mins,20 mins, 1 hr 30 mins,24 ,24,215,13g,1g,371mg,21g,3g,1g,4g,6mg,35mg,2mg,226mg,4.6,104,, 1 hr,
+60,6605701,Black Bean and Quinoa Enchilada Bake,15 mins, 1 hr, 1 hr 15 mins,6 ,6,388,18g,9g,673mg,39g,9g,2g,19g,82mg,341mg,4mg,701mg,4.7,55,40mg,,6 servings

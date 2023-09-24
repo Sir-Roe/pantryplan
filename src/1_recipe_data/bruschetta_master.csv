@@ -1,33 +1,33 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Yield:,Additional Time:
-0,7505113,10 mins,1 mins,11 mins,4 ,4,233,8g,2g,5mg,456mg,33g,2g,5g,8g,11mg,71mg,3mg,257mg,,,,
-1,6650968,15 mins,5 mins,20 mins,8 ,8,197,4g,1g,3mg,484mg,33g,1g,,8g,1mg,70mg,2mg,88mg,4.8,"1,209",8 bruschetta,
-2,6572565,15 mins,,15 mins,6 ,6,176,7g,2g,4mg,288mg,22g,2g,2g,6g,9mg,88mg,1mg,210mg,4.5,584,6 servings,
-3,6571835,15 mins,5 mins, 1 hr 20 mins,8 ,8,234,11g,2g,,281mg,29g,2g,4g,6g,12mg,34mg,2mg,273mg,4.7,26,8 servings, 1 hr
-4,6601175,10 mins,5 mins,20 mins,16 ,16,90,1g,0g,,186mg,18g,1g,2g,4g,5mg,22mg,1mg,125mg,4.3,73,16 servings,5 mins
-5,6741681,15 mins,7 mins,35 mins,12 ,12,215,9g,3g,12mg,426mg,25g,2g,2g,10g,9mg,173mg,2mg,218mg,4.8,"3,143",12 servings,13 mins
-6,6738982,10 mins,15 mins,25 mins,6 ,6,303,15g,9g,30mg,460mg,30g,3g,8g,12g,45mg,163mg,2mg,237mg,4.8,118,12 slices,
-7,6600419,18 mins,2 mins,20 mins,8 ,8,278,11g,3g,11mg,593mg,36g,2g,2g,10g,6mg,106mg,2mg,90mg,4.5,408,8 servings,
-8,6663248,20 mins,, 8 hrs 20 mins,8 ,8,47,4g,1g,2mg,40mg,2g,0g,1g,1g,4mg,34mg,0mg,82mg,4.6,572,2 cups, 8 hrs
-9,6591435,15 mins,12 mins,27 mins,8 ,8,196,8g,1g,,477mg,26g,2g,2g,6g,1mg,23mg,2mg,178mg,4.7,20,8 servings,
-10,6597744,5 mins,10 mins,15 mins,6 ,6,439,17g,9g,43mg,972mg,46g,2g,3g,26g,3mg,546mg,3mg,226mg,4.6,62,,
-11,6569895,20 mins,5 mins,35 mins,12 ,12,127,2g,0g,,245mg,23g,2g,2g,5g,6mg,24mg,2mg,153mg,4.5,47,,10 mins
-12,6585559,30 mins,15 mins,45 mins,12 ,12,296,14g,4g,12mg,642mg,32g,3g,2g,11g,8mg,204mg,2mg,270mg,4.4,9,,
-13,6580900,5 mins,5 mins,15 mins,12 ,12,143,4g,1g,,358mg,23g,2g,2g,4g,24mg,45mg,2mg,94mg,4.6,39,,5 mins
-14,6595468,20 mins,5 mins,40 mins,10 ,10,248,12g,2g,2mg,313mg,29g,2g,4g,7g,15mg,51mg,2mg,177mg,4.7,54,10 servings,15 mins
-15,6737359,10 mins,5 mins,15 mins,4 ,4,377,17g,7g,30mg,364mg,45g,5g,26g,10g,3mg,78mg,3mg,388mg,4.7,7,4 servings,
-16,6574662,10 mins,5 mins,15 mins,12 ,12,120,2g,1g,3mg,202mg,23g,1g,6g,4g,15mg,18mg,1mg,78mg,4.5,46,12 servings,
-17,6663815,20 mins,,20 mins,8 ,8,263,8g,1g,,373mg,41g,3g,8g,8g,38mg,42mg,2mg,280mg,4.6,29,8 servings,
-18,6594164,10 mins,2 mins,12 mins,8 ,8,77,2g,1g,4mg,140mg,13g,1g,2g,3g,1mg,23mg,1mg,50mg,4.3,83,8 slices,
-19,6599573,15 mins,10 mins,25 mins,6 ,6,315,7g,4g,21mg,724mg,49g,2g,7g,15g,10mg,248mg,3mg,168mg,3.8,15,6 servings,
-20,6585989,20 mins,10 mins,30 mins,16 ,16,164,7g,3g,15mg,420mg,18g,1g,2g,7g,4mg,116mg,1mg,111mg,4.7,64,16 servings,
-21,6589766,15 mins,10 mins,25 mins,6 ,6,225,6g,2g,5mg,398mg,37g,3g,3g,7g,7mg,64mg,2mg,206mg,4.0,2,6 servings,
-22,6738399,10 mins,5 mins, 1 hr 15 mins,8 ,8,162,6g,2g,4mg,236mg,23g,2g,3g,5g,7mg,36mg,2mg,186mg,5.0,1,8 servings, 1 hr
-23,6583893,25 mins,5 mins,30 mins,8 ,8,170,8g,4g,17mg,268mg,19g,1g,4g,7g,13mg,178mg,1mg,258mg,4.2,5,8 servings,
-24,6603065,10 mins,20 mins, 4 hrs 30 mins,32 ,32,31,2g,0g,0mg,53mg,3g,1g,1g,1g,8mg,24mg,0mg,155mg,4.5,15,4 cups, 4 hrs
-25,6573243,15 mins,40 mins,55 mins,12 ,12,59,1g,0g,,127mg,10g,4g,4g,2g,4mg,22mg,1mg,259mg,4.8,4,2 pints,
-26,6571304,10 mins,5 mins,15 mins,4 ,4,265,12g,4g,18mg,495mg,27g,2g,3g,13g,15mg,263mg,3mg,226mg,5.0,1,4 servings,
-27,6602582,15 mins,10 mins,25 mins,24 ,24,65,3g,0g,,110mg,9g,1g,1g,2g,3mg,9mg,1mg,65mg,5.0,1,24 slices,
-28,6602385,20 mins,10 mins, 1 hr 30 mins,20 ,20,153,7g,1g,,185mg,19g,2g,2g,4g,8mg,26mg,1mg,181mg,4.2,9,20 servings, 1 hr
-29,6595303,15 mins,10 mins,25 mins,12 ,12,158,6g,2g,6mg,315mg,20g,4g,4g,8g,5mg,122mg,1mg,253mg,5.0,7,12 servings,
-30,6578742,10 mins, 2 hrs 8 mins, 3 hrs 18 mins,8 ,8,318,8g,3g,10mg,1171mg,44g,9g,4g,17g,3mg,181mg,3mg,576mg,,,8 servings, 1 hr
-31,6583491,20 mins,10 mins,30 mins,12 ,12,497,29g,14g,58mg,949mg,45g,2g,2g,17g,0mg,133mg,4mg,180mg,4.1,17,36 slices,
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Yield:,Additional Time:
+0,7505113,Bruschetta with Mozzarella,10 mins,1 mins,11 mins,4 ,4,233,8g,2g,5mg,456mg,33g,2g,5g,8g,11mg,71mg,3mg,257mg,,,,
+1,6650968,Balsamic Bruschetta,15 mins,5 mins,20 mins,8 ,8,197,4g,1g,3mg,484mg,33g,1g,,8g,1mg,70mg,2mg,88mg,4.8,"1,210",8 bruschetta,
+2,6572565,Ali's Amazing Bruschetta,15 mins,,15 mins,6 ,6,176,7g,2g,4mg,288mg,22g,2g,2g,6g,9mg,88mg,1mg,210mg,4.5,584,6 servings,
+3,6571835,Italian-Style Bruschetta,15 mins,5 mins, 1 hr 20 mins,8 ,8,234,11g,2g,,281mg,29g,2g,4g,6g,12mg,34mg,2mg,273mg,4.7,26,8 servings, 1 hr
+4,6601175,Easy Bruschetta,10 mins,5 mins,20 mins,16 ,16,90,1g,0g,,186mg,18g,1g,2g,4g,5mg,22mg,1mg,125mg,4.3,73,16 servings,5 mins
+5,6741681,Double Tomato Bruschetta,15 mins,7 mins,35 mins,12 ,12,215,9g,3g,12mg,426mg,25g,2g,2g,10g,9mg,173mg,2mg,218mg,4.8,"3,143",12 servings,13 mins
+6,6738982,Strawberry Goat Cheese Bruschetta,10 mins,15 mins,25 mins,6 ,6,303,15g,9g,30mg,460mg,30g,3g,8g,12g,45mg,163mg,2mg,237mg,4.8,118,12 slices,
+7,6600419,Artichoke Bruschetta,18 mins,2 mins,20 mins,8 ,8,278,11g,3g,11mg,593mg,36g,2g,2g,10g,6mg,106mg,2mg,90mg,4.5,408,8 servings,
+8,6663248,Best Bruschetta Ever,20 mins,, 8 hrs 20 mins,8 ,8,47,4g,1g,2mg,40mg,2g,0g,1g,1g,4mg,34mg,0mg,82mg,4.6,572,2 cups, 8 hrs
+9,6591435,Hunt's® Easy Tomato Bruschetta,15 mins,12 mins,27 mins,8 ,8,196,8g,1g,,477mg,26g,2g,2g,6g,1mg,23mg,2mg,178mg,4.7,20,8 servings,
+10,6597744,Bruschetta with Cheese,5 mins,10 mins,15 mins,6 ,6,439,17g,9g,43mg,972mg,46g,2g,3g,26g,3mg,546mg,3mg,226mg,4.6,62,,
+11,6569895,Bruschetta al Pomodoro,20 mins,5 mins,35 mins,12 ,12,127,2g,0g,,245mg,23g,2g,2g,5g,6mg,24mg,2mg,153mg,4.5,47,,10 mins
+12,6585559,Mushroom and Tomato Bruschetta,30 mins,15 mins,45 mins,12 ,12,296,14g,4g,12mg,642mg,32g,3g,2g,11g,8mg,204mg,2mg,270mg,4.4,9,,
+13,6580900,Bruschetta with Roasted Sweet Red Peppers,5 mins,5 mins,15 mins,12 ,12,143,4g,1g,,358mg,23g,2g,2g,4g,24mg,45mg,2mg,94mg,4.6,39,,5 mins
+14,6595468,Tomato Bruschetta,20 mins,5 mins,40 mins,10 ,10,248,12g,2g,2mg,313mg,29g,2g,4g,7g,15mg,51mg,2mg,177mg,4.7,54,10 servings,15 mins
+15,6737359,Burrata Bruschetta with Figs,10 mins,5 mins,15 mins,4 ,4,377,17g,7g,30mg,364mg,45g,5g,26g,10g,3mg,78mg,3mg,388mg,4.7,7,4 servings,
+16,6574662,Strawberry Bruschetta,10 mins,5 mins,15 mins,12 ,12,120,2g,1g,3mg,202mg,23g,1g,6g,4g,15mg,18mg,1mg,78mg,4.5,46,12 servings,
+17,6663815,Papaya Bruschetta,20 mins,,20 mins,8 ,8,263,8g,1g,,373mg,41g,3g,8g,8g,38mg,42mg,2mg,280mg,4.6,29,8 servings,
+18,6594164,Apple Goat Cheese Bruschetta,10 mins,2 mins,12 mins,8 ,8,77,2g,1g,4mg,140mg,13g,1g,2g,3g,1mg,23mg,1mg,50mg,4.3,83,8 slices,
+19,6599573,Mango Bruschetta,15 mins,10 mins,25 mins,6 ,6,315,7g,4g,21mg,724mg,49g,2g,7g,15g,10mg,248mg,3mg,168mg,3.8,15,6 servings,
+20,6585989,Becca's Bruschetta,20 mins,10 mins,30 mins,16 ,16,164,7g,3g,15mg,420mg,18g,1g,2g,7g,4mg,116mg,1mg,111mg,4.7,64,16 servings,
+21,6589766,Bruschetta with Peas and Mint,15 mins,10 mins,25 mins,6 ,6,225,6g,2g,5mg,398mg,37g,3g,3g,7g,7mg,64mg,2mg,206mg,4.0,2,6 servings,
+22,6738399,Russian Tomato Salad Bruschetta,10 mins,5 mins, 1 hr 15 mins,8 ,8,162,6g,2g,4mg,236mg,23g,2g,3g,5g,7mg,36mg,2mg,186mg,5.0,1,8 servings, 1 hr
+23,6583893,Best Ever Bruschetta!,25 mins,5 mins,30 mins,8 ,8,170,8g,4g,17mg,268mg,19g,1g,4g,7g,13mg,178mg,1mg,258mg,4.2,5,8 servings,
+24,6603065,Jen's Tomato Arugula Bruschetta,10 mins,20 mins, 4 hrs 30 mins,32 ,32,31,2g,0g,0mg,53mg,3g,1g,1g,1g,8mg,24mg,0mg,155mg,4.5,15,4 cups, 4 hrs
+25,6573243,Eggplant and Tomato Caponata,15 mins,40 mins,55 mins,12 ,12,59,1g,0g,,127mg,10g,4g,4g,2g,4mg,22mg,1mg,259mg,4.8,4,2 pints,
+26,6571304,Caprese Grilled Bread,10 mins,5 mins,15 mins,4 ,4,265,12g,4g,18mg,495mg,27g,2g,3g,13g,15mg,263mg,3mg,226mg,5.0,1,4 servings,
+27,6602582,Heirloom Tomato Bruschetta,15 mins,10 mins,25 mins,24 ,24,65,3g,0g,,110mg,9g,1g,1g,2g,3mg,9mg,1mg,65mg,5.0,1,24 slices,
+28,6602385,Fantastic Fennel Bruschetta,20 mins,10 mins, 1 hr 30 mins,20 ,20,153,7g,1g,,185mg,19g,2g,2g,4g,8mg,26mg,1mg,181mg,4.2,9,20 servings, 1 hr
+29,6595303,Healthier Double Tomato Bruschetta,15 mins,10 mins,25 mins,12 ,12,158,6g,2g,6mg,315mg,20g,4g,4g,8g,5mg,122mg,1mg,253mg,5.0,7,12 servings,
+30,6578742,Molletes,10 mins, 2 hrs 8 mins, 3 hrs 18 mins,8 ,8,318,8g,3g,10mg,1171mg,44g,9g,4g,17g,3mg,181mg,3mg,576mg,,,8 servings, 1 hr
+31,6583491,Prosciutto Parmesan and Pine Nut Bruschetta,20 mins,10 mins,30 mins,12 ,12,497,29g,14g,58mg,949mg,45g,2g,2g,17g,0mg,133mg,4mg,180mg,4.1,17,36 slices,

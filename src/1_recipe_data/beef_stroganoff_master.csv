@@ -1,51 +1,51 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
-0,6665025,5 mins,15 mins,20 mins,4 ,4,679,41g,17g,159mg,660mg,48g,3g,2g,29g,1mg,76mg,4mg,460mg,4.1,992,,
-1,6648625,20 mins,35 mins, 1 hr,8 ,8,536,26g,10g,121mg,1313mg,45g,2g,2g,29g,2mg,60mg,5mg,503mg,4.5,956,5 mins,
-2,6663502,5 mins, 5 hrs, 5 hrs 5 mins,4 ,4,376,27g,13g,97mg,711mg,10g,1g,2g,22g,2mg,39mg,3mg,319mg,4.4,"4,291",,
-3,7970457,5 mins,55 mins, 1 hr,4 ,4,628,29g,12g,115mg,959mg,62g,7g,8g,26g,24mg,131mg,5mg,1755mg,,,,
-4,6738925,15 mins, 1 hr 15 mins, 1 hr 30 mins,8 ,8,304,23g,12g,83mg,620mg,6g,1g,1g,17g,2mg,33mg,2mg,213mg,4.6,"2,965",,
-5,6663322,15 mins, 1 hr 25 mins, 1 hr 50 mins,8 ,8,567,45g,21g,150mg,518mg,8g,1g,2g,29g,5mg,52mg,4mg,402mg,4.7,968,10 mins,
-6,6736822,15 mins, 1 hr 30 mins, 1 hr 45 mins,8 ,8,307,25g,12g,86mg,288mg,4g,1g,2g,16g,2mg,16mg,2mg,263mg,4.8,719,,
-7,6575553,10 mins,20 mins,30 mins,4 ,4,810,43g,22g,192mg,268mg,69g,4g,4g,38g,3mg,175mg,6mg,969mg,4.1,32,,
-8,6663191,10 mins,20 mins,30 mins,6 ,6,655,30g,13g,141mg,1765mg,68g,4g,5g,28g,3mg,103mg,6mg,537mg,4.5,298,,
-9,6664165,5 mins,15 mins,20 mins,6 ,6,735,42g,20g,159mg,1134mg,61g,3g,4g,29g,0mg,145mg,6mg,471mg,4.3,"1,162",,
-10,6572552,20 mins,20 mins,40 mins,4 ,4,617,36g,14g,162mg,924mg,15g,2g,4g,51g,2mg,119mg,6mg,853mg,4.2,121,,
-11,6737328,5 mins,20 mins,25 mins,8 ,8,602,37g,17g,148mg,633mg,36g,2g,2g,29g,2mg,67mg,4mg,566mg,4.2,877,,
-12,6663880,5 mins,25 mins,30 mins,6 ,6,695,34g,14g,141mg,1106mg,67g,3g,7g,29g,1mg,164mg,6mg,656mg,4.1,165,,6 servings
-13,6589478,10 mins,20 mins,40 mins,8 ,8,494,20g,8g,95mg,911mg,57g,4g,6g,22g,7mg,99mg,5mg,642mg,4.5,37,10 mins,
-14,6604768,20 mins, 2 hrs 20 mins, 2 hrs 40 mins,4 ,4,514,34g,19g,129mg,559mg,14g,1g,3g,35g,9mg,110mg,3mg,715mg,4.5,156,,4 servings
-15,6650982,15 mins, 6 hrs, 6 hrs 15 mins,6 ,6,394,24g,12g,97mg,655mg,14g,1g,4g,26g,12mg,95mg,4mg,614mg,4.7,358,,
-16,6596893,20 mins,20 mins,40 mins,4 ,4,496,35g,20g,140mg,784mg,16g,1g,3g,29g,8mg,96mg,4mg,691mg,4.4,20,,4 servings
-17,6605396,10 mins,20 mins,30 mins,4 ,4,696,44g,13g,139mg,482mg,46g,3g,3g,29g,2mg,77mg,5mg,508mg,3.9,614,,4 servings
-18,6595835,10 mins,35 mins,45 mins,4 ,4,737,34g,15g,147mg,1274mg,78g,4g,6g,32g,7mg,142mg,7mg,814mg,4.5,40,,
-19,6578025,,25 mins,25 mins,4 ,,,,,,,,,,,,,,,3.9,107,,4 servings
-20,6582289,25 mins,40 mins, 1 hr 5 mins,6 ,6,505,29g,15g,110mg,7186mg,23g,1g,9g,30g,4mg,146mg,4mg,754mg,4.1,32,,6 servings
-21,6576804,15 mins,30 mins,45 mins,4 ,4,606,25g,9g,130mg,1063mg,59g,2g,8g,35g,2mg,201mg,6mg,504mg,4.1,361,,
-22,6736664,15 mins, 8 hrs, 8 hrs 15 mins,6 ,6,403,27g,14g,94mg,672mg,12g,1g,2g,27g,9mg,114mg,4mg,464mg,4.3,"1,099",,6 servings
-23,6664634,10 mins, 6 hrs 10 mins, 6 hrs 20 mins,8 ,8,684,17g,5g,146mg,902mg,91g,4g,6g,38g,2mg,109mg,7mg,653mg,4.5,37,,8 servings
-24,6600061,10 mins,30 mins,40 mins,7 ,7,435,27g,12g,70mg,511mg,30g,1g,2g,17g,1mg,58mg,3mg,309mg,4.1,212,,
-25,6575442,10 mins,20 mins,30 mins,4 ,4,495,38g,17g,103mg,892mg,14g,1g,3g,24g,3mg,85mg,3mg,511mg,4.1,42,,4 servings
-26,6650449,10 mins,30 mins,40 mins,6 ,6,607,25g,12g,153mg,1226mg,61g,3g,,35g,,,,779mg,5.0,7,,
-27,6586736,10 mins, 3 hrs, 3 hrs 10 mins,4 ,4,329,21g,10g,91mg,1241mg,10g,0g,2g,25g,1mg,53mg,3mg,328mg,4.6,178,,4 servings
-28,6591045,10 mins, 4 hrs, 4 hrs 10 mins,5 ,5,450,25g,13g,106mg,738mg,24g,2g,7g,29g,5mg,149mg,4mg,730mg,4.2,48,,
-29,6601163,15 mins,30 mins,45 mins,8 ,8,403,17g,8g,91mg,229mg,42g,3g,2g,19g,6mg,67mg,4mg,394mg,4.2,182,,
-30,6575138,15 mins, 8 hrs, 8 hrs 25 mins,4 ,4,441,17g,8g,105mg,560mg,39g,3g,3g,33g,8mg,96mg,5mg,640mg,4.4,34,10 mins,
-31,6581873,15 mins,30 mins,45 mins,4 ,4,628,33g,14g,73mg,599mg,55g,3g,5g,26g,5mg,69mg,4mg,586mg,4.4,16,,4 servings
-32,6581947,15 mins, 1 hr 15 mins, 1 hr 45 mins,6 ,6,470,25g,13g,121mg,960mg,25g,3g,2g,33g,3mg,77mg,4mg,587mg,4.7,188,15 mins,6 servings
-33,6594386,5 mins,15 mins,20 mins,4 ,4,586,26g,12g,144mg,1114mg,51g,2g,7g,35g,6mg,253mg,5mg,641mg,4.7,84,,
-34,6601792,35 mins, 1 hr, 1 hr 35 mins,8 ,8,256,18g,8g,66mg,286mg,6g,1g,1g,16g,2mg,17mg,2mg,241mg,4.4,53,,8 servings
-35,6593741,10 mins,21 mins,31 mins,6 ,6,509,25g,9g,108mg,877mg,49g,3g,3g,22g,2mg,59mg,5mg,376mg,4.3,15,,6 servings
-36,6593020,15 mins, 8 hrs, 8 hrs 15 mins,6 ,6,663,36g,17g,170mg,857mg,36g,2g,3g,48g,2mg,63mg,5mg,789mg,4.1,42,,6 servings
-37,6605786,10 mins,50 mins, 1 hr 15 mins,8 ,8,562,29g,14g,110mg,562mg,49g,2g,3g,27g,4mg,148mg,4mg,671mg,4.0,17,15 mins,
-38,6738410,20 mins, 1 hr 30 mins, 2 hrs,6 ,6,775,55g,21g,147mg,2247mg,36g,2g,3g,34g,3mg,116mg,5mg,793mg,4.2,146,10 mins,
-39,6591074,10 mins,50 mins, 1 hr,8 ,8,496,25g,12g,80mg,347mg,43g,4g,5g,27g,3mg,71mg,4mg,943mg,4.5,2,,1 9x13-inch casserole
-40,6663606,10 mins,40 mins, 9 hrs 5 mins,5 ,5,683,28g,10g,142mg,1083mg,76g,4g,,32g,,,,726mg,4.7,3, 8 hrs 15 mins,
-41,6593123,10 mins, 8 hrs 40 mins, 8 hrs 50 mins,6 ,6,719,33g,12g,149mg,1058mg,66g,3g,3g,39g,0mg,93mg,7mg,717mg,3.9,178,,6 servings
-42,6577546,15 mins,45 mins, 1 hr,4 ,4,734,44g,24g,217mg,718mg,56g,5g,4g,32g,4mg,96mg,5mg,813mg,4.5,119,,4 servings
-43,6583903,10 mins, 1 hr 15 mins, 1 hr 25 mins,4 ,4,329,19g,9g,88mg,542mg,14g,1g,4g,24g,5mg,82mg,3mg,414mg,4.4,123,,4 servings
-44,6574419,20 mins, 1 hr, 1 hr 20 mins,6 ,6,520,21g,9g,113mg,306mg,49g,3g,3g,29g,3mg,72mg,5mg,599mg,4.1,32,,6 servings
-45,6584834,15 mins, 1 hr 30 mins, 1 hr 45 mins,6 ,6,510,27g,14g,114mg,783mg,37g,2g,4g,30g,33mg,120mg,4mg,564mg,4.1,10,,6 servings
-46,6601959,20 mins,20 mins,40 mins,4 ,4,455,28g,13g,104mg,711mg,14g,1g,3g,27g,8mg,99mg,3mg,700mg,4.5,8,,4 servings
-47,6596891,10 mins,23 mins,33 mins,4 ,4,519,22g,9g,116mg,636mg,59g,3g,3g,21g,1mg,48mg,4mg,360mg,3.3,4,,4 servings
-48,6591836,15 mins,40 mins,55 mins,6 ,6,683,41g,18g,111mg,314mg,58g,2g,4g,21g,4mg,110mg,4mg,422mg,4.5,2,,6 servings
-49,6561715,10 mins,45 mins,55 mins,8 ,8,384,31g,17g,107mg,383mg,5g,1g,2g,21g,3mg,177mg,2mg,285mg,,,,8 servings
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
+0,6665025,Simple Beef Stroganoff,5 mins,15 mins,20 mins,4 ,4,679,41g,17g,159mg,660mg,48g,3g,2g,29g,1mg,76mg,4mg,460mg,4.1,992,,
+1,6648625,Beef Stroganoff for Instant Pot,20 mins,35 mins, 1 hr,8 ,8,536,26g,10g,121mg,1313mg,45g,2g,2g,29g,2mg,60mg,5mg,503mg,4.5,956,5 mins,
+2,6663502,Slow Cooker Beef Stroganoff,5 mins, 5 hrs, 5 hrs 5 mins,4 ,4,376,27g,13g,97mg,711mg,10g,1g,2g,22g,2mg,39mg,3mg,319mg,4.4,"4,291",,
+3,7970457,Chicken Stroganoff-Stuffed Baked Potatoes,5 mins,55 mins, 1 hr,4 ,4,628,29g,12g,115mg,959mg,62g,7g,8g,26g,24mg,131mg,5mg,1755mg,,,,
+4,6738925,Beef Stroganoff,15 mins, 1 hr 15 mins, 1 hr 30 mins,8 ,8,304,23g,12g,83mg,620mg,6g,1g,1g,17g,2mg,33mg,2mg,213mg,4.6,"2,965",,
+5,6663322,Rich and Creamy Beef Stroganoff,15 mins, 1 hr 25 mins, 1 hr 50 mins,8 ,8,567,45g,21g,150mg,518mg,8g,1g,2g,29g,5mg,52mg,4mg,402mg,4.7,969,10 mins,
+6,6736822,Chef John's Classic Beef Stroganoff,15 mins, 1 hr 30 mins, 1 hr 45 mins,8 ,8,307,25g,12g,86mg,288mg,4g,1g,2g,16g,2mg,16mg,2mg,263mg,4.8,719,,
+7,6575553,Simple Stroganoff,10 mins,20 mins,30 mins,4 ,4,810,43g,22g,192mg,268mg,69g,4g,4g,38g,3mg,175mg,6mg,969mg,4.1,32,,
+8,6663191,Quick and Easy Hamburger Stroganoff,10 mins,20 mins,30 mins,6 ,6,655,30g,13g,141mg,1765mg,68g,4g,5g,28g,3mg,103mg,6mg,537mg,4.5,298,,
+9,6664165,Simple Hamburger Stroganoff,5 mins,15 mins,20 mins,6 ,6,735,42g,20g,159mg,1134mg,61g,3g,4g,29g,0mg,145mg,6mg,471mg,4.3,"1,162",,
+10,6572552,No Sour Cream Beef Stroganoff,20 mins,20 mins,40 mins,4 ,4,617,36g,14g,162mg,924mg,15g,2g,4g,51g,2mg,119mg,6mg,853mg,4.2,121,,
+11,6737328,Easy Beef Stroganoff,5 mins,20 mins,25 mins,8 ,8,602,37g,17g,148mg,633mg,36g,2g,2g,29g,2mg,67mg,4mg,566mg,4.2,877,,
+12,6663880,Easy Stroganoff,5 mins,25 mins,30 mins,6 ,6,695,34g,14g,141mg,1106mg,67g,3g,7g,29g,1mg,164mg,6mg,656mg,4.1,165,,6 servings
+13,6589478,Instant Pot Ground Beef Stroganoff,10 mins,20 mins,40 mins,8 ,8,494,20g,8g,95mg,911mg,57g,4g,6g,22g,7mg,99mg,5mg,642mg,4.5,37,10 mins,
+14,6604768,Nana's Beef Stroganoff,20 mins, 2 hrs 20 mins, 2 hrs 40 mins,4 ,4,514,34g,19g,129mg,559mg,14g,1g,3g,35g,9mg,110mg,3mg,715mg,4.5,156,,4 servings
+15,6650982,Easy Slow Cooker Beef Stroganoff,15 mins, 6 hrs, 6 hrs 15 mins,6 ,6,394,24g,12g,97mg,655mg,14g,1g,4g,26g,12mg,95mg,4mg,614mg,4.7,358,,
+16,6596893,Best Ever Russian Beef Stroganoff,20 mins,20 mins,40 mins,4 ,4,496,35g,20g,140mg,784mg,16g,1g,3g,29g,8mg,96mg,4mg,691mg,4.4,20,,4 servings
+17,6605396,Ground Beef Stroganoff,10 mins,20 mins,30 mins,4 ,4,696,44g,13g,139mg,482mg,46g,3g,3g,29g,2mg,77mg,5mg,508mg,3.9,614,,4 servings
+18,6595835,Hamburger Stroganoff,10 mins,35 mins,45 mins,4 ,4,737,34g,15g,147mg,1274mg,78g,4g,6g,32g,7mg,142mg,7mg,814mg,4.5,40,,
+19,6578025,Campbell's Kitchen Beef Stroganoff,,25 mins,25 mins,4 ,,,,,,,,,,,,,,,3.9,107,,4 servings
+20,6582289,Beef Stroganoff with White Wine,25 mins,40 mins, 1 hr 5 mins,6 ,6,505,29g,15g,110mg,7186mg,23g,1g,9g,30g,4mg,146mg,4mg,754mg,4.1,32,,6 servings
+21,6576804,Beef Stroganoff with Steak,15 mins,30 mins,45 mins,4 ,4,606,25g,9g,130mg,1063mg,59g,2g,8g,35g,2mg,201mg,6mg,504mg,4.1,361,,
+22,6736664,Daria's Slow Cooker Beef Stroganoff,15 mins, 8 hrs, 8 hrs 15 mins,6 ,6,403,27g,14g,94mg,672mg,12g,1g,2g,27g,9mg,114mg,4mg,464mg,4.3,"1,100",,6 servings
+23,6664634,Creamy Beef Tips with Egg Noodles,10 mins, 6 hrs 10 mins, 6 hrs 20 mins,8 ,8,684,17g,5g,146mg,902mg,91g,4g,6g,38g,2mg,109mg,7mg,653mg,4.5,37,,8 servings
+24,6600061,Stroganoff,10 mins,30 mins,40 mins,7 ,7,435,27g,12g,70mg,511mg,30g,1g,2g,17g,1mg,58mg,3mg,309mg,4.1,212,,
+25,6575442,Beef Stroganoff with Ground Beef,10 mins,20 mins,30 mins,4 ,4,495,38g,17g,103mg,892mg,14g,1g,3g,24g,3mg,85mg,3mg,511mg,4.1,42,,4 servings
+26,6650449,Best Home-Style Beef Stroganoff,10 mins,30 mins,40 mins,6 ,6,607,25g,12g,153mg,1226mg,61g,3g,,35g,,,,779mg,5.0,7,,
+27,6586736,So Simple Beef Stroganoff,10 mins, 3 hrs, 3 hrs 10 mins,4 ,4,329,21g,10g,91mg,1241mg,10g,0g,2g,25g,1mg,53mg,3mg,328mg,4.6,178,,4 servings
+28,6591045,Easy Beef Stroganoff in the Slow Cooker,10 mins, 4 hrs, 4 hrs 10 mins,5 ,5,450,25g,13g,106mg,738mg,24g,2g,7g,29g,5mg,149mg,4mg,730mg,4.2,48,,
+29,6601163,Best Beef Stroganoff,15 mins,30 mins,45 mins,8 ,8,403,17g,8g,91mg,229mg,42g,3g,2g,19g,6mg,67mg,4mg,394mg,4.2,182,,
+30,6575138,Classic Beef Stroganoff in a Slow Cooker,15 mins, 8 hrs, 8 hrs 25 mins,4 ,4,441,17g,8g,105mg,560mg,39g,3g,3g,33g,8mg,96mg,5mg,640mg,4.4,34,10 mins,
+31,6581873,Cream Cheese Steak Stroganoff,15 mins,30 mins,45 mins,4 ,4,628,33g,14g,73mg,599mg,55g,3g,5g,26g,5mg,69mg,4mg,586mg,4.4,16,,4 servings
+32,6581947,Elegant Beef Stroganoff,15 mins, 1 hr 15 mins, 1 hr 45 mins,6 ,6,470,25g,13g,121mg,960mg,25g,3g,2g,33g,3mg,77mg,4mg,587mg,4.7,189,15 mins,6 servings
+33,6594386,One-Pot Ground Beef Stroganoff,5 mins,15 mins,20 mins,4 ,4,586,26g,12g,144mg,1114mg,51g,2g,7g,35g,6mg,253mg,5mg,641mg,4.7,84,,
+34,6601792,Healthier Beef Stroganoff III,35 mins, 1 hr, 1 hr 35 mins,8 ,8,256,18g,8g,66mg,286mg,6g,1g,1g,16g,2mg,17mg,2mg,241mg,4.4,53,,8 servings
+35,6593741,Simple Ground Beef Stroganoff,10 mins,21 mins,31 mins,6 ,6,509,25g,9g,108mg,877mg,49g,3g,3g,22g,2mg,59mg,5mg,376mg,4.3,15,,6 servings
+36,6593020,Easy Slow Cooker Stroganoff,15 mins, 8 hrs, 8 hrs 15 mins,6 ,6,663,36g,17g,170mg,857mg,36g,2g,3g,48g,2mg,63mg,5mg,789mg,4.1,42,,6 servings
+37,6605786,Instant Pot Beef Stroganoff,10 mins,50 mins, 1 hr 15 mins,8 ,8,562,29g,14g,110mg,562mg,49g,2g,3g,27g,4mg,148mg,4mg,671mg,4.0,17,15 mins,
+38,6738410,Beef Stroganoff with Noodles,20 mins, 1 hr 30 mins, 2 hrs,6 ,6,775,55g,21g,147mg,2247mg,36g,2g,3g,34g,3mg,116mg,5mg,793mg,4.2,146,10 mins,
+39,6591074,Beef Stroganoff Casserole,10 mins,50 mins, 1 hr,8 ,8,496,25g,12g,80mg,347mg,43g,4g,5g,27g,3mg,71mg,4mg,943mg,4.5,2,,1 9x13-inch casserole
+40,6663606,Instant Pot Beef and Noodles,10 mins,40 mins, 9 hrs 5 mins,5 ,5,683,28g,10g,142mg,1083mg,76g,4g,,32g,,,,726mg,4.7,3, 8 hrs 15 mins,
+41,6593123,Slow Cooker Beef Stroganoff II,10 mins, 8 hrs 40 mins, 8 hrs 50 mins,6 ,6,719,33g,12g,149mg,1058mg,66g,3g,3g,39g,0mg,93mg,7mg,717mg,3.9,178,,6 servings
+42,6577546,"Beef and Mushroom Stroganoff, Aussie Style",15 mins,45 mins, 1 hr,4 ,4,734,44g,24g,217mg,718mg,56g,5g,4g,32g,4mg,96mg,5mg,813mg,4.5,119,,4 servings
+43,6583903,Mitzie's Beef Stroganoff,10 mins, 1 hr 15 mins, 1 hr 25 mins,4 ,4,329,19g,9g,88mg,542mg,14g,1g,4g,24g,5mg,82mg,3mg,414mg,4.4,123,,4 servings
+44,6574419,Burgundy Stroganoff,20 mins, 1 hr, 1 hr 20 mins,6 ,6,520,21g,9g,113mg,306mg,49g,3g,3g,29g,3mg,72mg,5mg,599mg,4.1,32,,6 servings
+45,6584834,Marlene's Beef Stroganoff,15 mins, 1 hr 30 mins, 1 hr 45 mins,6 ,6,510,27g,14g,114mg,783mg,37g,2g,4g,30g,33mg,120mg,4mg,564mg,4.1,10,,6 servings
+46,6601959,Hybrid Hamburger Stroganoff,20 mins,20 mins,40 mins,4 ,4,455,28g,13g,104mg,711mg,14g,1g,3g,27g,8mg,99mg,3mg,700mg,4.5,8,,4 servings
+47,6596891,Super Easy Ground Beef Stroganoff,10 mins,23 mins,33 mins,4 ,4,519,22g,9g,116mg,636mg,59g,3g,3g,21g,1mg,48mg,4mg,360mg,3.3,4,,4 servings
+48,6591836,Show-Off Stroganoff,15 mins,40 mins,55 mins,6 ,6,683,41g,18g,111mg,314mg,58g,2g,4g,21g,4mg,110mg,4mg,422mg,4.5,2,,6 servings
+49,6561715,Cheesy Beef Stroganoff Casserole,10 mins,45 mins,55 mins,8 ,8,384,31g,17g,107mg,383mg,5g,1g,2g,21g,3mg,177mg,2mg,285mg,,,,8 servings

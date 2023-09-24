@@ -1,63 +1,63 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
-0,6649789,25 mins,15 mins,40 mins,6 ,6,166,12g,3g,43mg,337mg,6g,2g,2g,10g,7mg,109mg,2mg,414mg,4.4,336,,
-1,6665035,45 mins,, 1 hr 45 mins,4 ,4,410,17g,3g,221mg,2626mg,42g,9g,21g,29g,49mg,114mg,6mg,1349mg,4.9,239, 1 hr,
-2,6589707,10 mins,10 mins,20 mins,4 ,4,297,5g,1g,48mg,728mg,51g,1g,1g,25g,0mg,72mg,8mg,67mg,4.4,5,,
-3,6651113,15 mins,5 mins,20 mins,4 ,4,227,15g,2g,173mg,344mg,3g,0g,0g,19g,5mg,43mg,3mg,196mg,4.6,78,,
-4,6737487,25 mins,20 mins, 1 hr 30 mins,4 ,4,678,55g,8g,21mg,3885mg,43g,6g,3g,6g,47mg,60mg,3mg,1039mg,4.6,81,45 mins,
-5,6663601,35 mins,45 mins, 2 hrs 20 mins,6 ,6,477,32g,7g,199mg,449mg,36g,4g,5g,13g,28mg,59mg,2mg,631mg,4.4,86, 1 hr,1 spanish tortilla
-6,6664613,15 mins,25 mins,45 mins,4 ,4,405,27g,16g,142mg,382mg,11g,0g,,27g,3mg,133mg,5mg,293mg,4.6,52,5 mins,
-7,6598866,45 mins, 1 hr 15 mins, 2 hrs 30 mins,12 ,12,303,19g,3g,,573mg,31g,1g,1g,4g,12mg,76mg,2mg,88mg,4.4,129,30 mins,60 stuffed grape leaves
-8,6663634,15 mins,25 mins,40 mins,2 ,2,1564,151g,21g,10mg,5111mg,54g,8g,10g,7g,98mg,113mg,5mg,1448mg,4.0,8,,2 servings
-9,6572394,30 mins,,30 mins,10 ,10,58,6g,1g,,3mg,2g,,,0g,0mg,4mg,0mg,10mg,4.7,384,,20 skewers
-10,6650553,15 mins,10 mins, 2 hrs 25 mins,6 ,6,447,38g,5g,230mg,800mg,4g,1g,0g,25g,25mg,75mg,5mg,308mg,4.8,"1,699", 2 hrs,
-11,6648170,30 mins,40 mins, 2 hrs 10 mins,8 ,8,237,2g,0g,107mg,168mg,29g,4g,5g,26g,26mg,94mg,3mg,929mg,4.4,26, 1 hr,8 servings
-12,6663151,30 mins,, 1 hr 30 mins,6 ,6,117,6g,1g,42mg,247mg,7g,2g,2g,11g,24mg,29mg,1mg,430mg,4.9,28, 1 hr,6 servings
-13,6664174,15 mins,10 mins,25 mins,4 ,4,169,5g,1g,,600mg,26g,6g,2g,7g,10mg,133mg,3mg,450mg,4.5,447,,4 servings
-14,6597314,20 mins, 1 hr 10 mins, 1 hr 30 mins,4 ,4,477,37g,14g,82mg,1238mg,12g,2g,1g,24g,36mg,73mg,2mg,486mg,4.8,106,,4 servings
-15,6585630,10 mins,4 mins,44 mins,12 ,12,271,13g,7g,59mg,406mg,29g,1g,10g,11g,,175mg,1mg,118mg,4.5,2,30 mins,12 wedges
-16,6597528,25 mins, 1 hr 10 mins, 1 hr 35 mins,4 ,4,554,25g,8g,38mg,813mg,56g,8g,16g,29g,195mg,643mg,4mg,984mg,4.2,87,,4 servings
-17,6582121,20 mins, 3 hrs 30 mins, 3 hrs 50 mins,32 ,32,170,0g,,,3mg,44g,1g,34g,0g,10mg,8mg,1mg,127mg,4.0,9,,1 9x13-inch block
-18,6581347,20 mins,, 2 hrs,6 ,6,199,7g,1g,221mg,813mg,11g,4g,3g,25g,28mg,76mg,5mg,652mg,4.8,17, 1 hr 40 mins,
-19,6605405,10 mins,15 mins,25 mins,15 ,15,60,4g,2g,7mg,116mg,5g,0g,1g,2g,1mg,43mg,0mg,36mg,4.1,193,,
-20,6582374,10 mins,,10 mins,8 ,8,151,13g,4g,31mg,599mg,1g,,,8g,0mg,40mg,1mg,113mg,5.0,23,,8 antipasto sticks
-21,6575117,15 mins,45 mins, 9 hrs,6 ,6,396,5g,1g,177mg,5436mg,32g,4g,2g,54g,35mg,160mg,4mg,1721mg,4.5,39, 8 hrs,18 cod cakes
-22,6737224,20 mins,,20 mins,4 ,4,294,18g,3g,27mg,154mg,11g,7g,2g,24g,31mg,33mg,2mg,755mg,4.7,289,,
-23,6570425,10 mins,5 mins,20 mins,8 ,8,161,8g,2g,47mg,438mg,3g,,0g,17g,,22mg,2mg,232mg,4.0,25,5 mins,
-24,6587611,20 mins,25 mins, 1 hr,12 ,12,286,14g,6g,25mg,369mg,36g,2g,1g,5g,3mg,16mg,2mg,125mg,4.3,15,15 mins,
-25,6578827,20 mins,,50 mins,9 ,9,227,15g,2g,55mg,436mg,16g,1g,5g,8g,26mg,68mg,7mg,464mg,4.0,7,30 mins,
-26,6584002,20 mins,, 2 hrs 20 mins,8 ,8,200,18g,7g,31mg,390mg,9g,2g,1g,4g,29mg,45mg,1mg,485mg,4.6,28, 2 hrs,
-27,6582563,20 mins,40 mins, 9 hrs 20 mins,6 ,6,411,21g,7g,37mg,793mg,37g,9g,7g,19g,49mg,66mg,4mg,778mg,4.3,21, 8 hrs 20 mins,
-28,6737194,15 mins,20 mins,35 mins,24 ,24,145,9g,3g,18mg,277mg,10g,1g,2g,6g,0mg,87mg,1mg,50mg,4.7,451,,24 mini sandwiches
-29,6601149,30 mins, 1 hr 1 mins, 1 hr 41 mins,6 ,6,161,8g,2g,217mg,830mg,13g,1g,1g,9g,1mg,72mg,5mg,107mg,,,10 mins,6 pieces
-30,6571563,20 mins,25 mins,50 mins,4 ,4,340,16g,4g,279mg,126mg,37g,5g,4g,14g,59mg,92mg,4mg,1018mg,4.4,52,5 mins,
-31,6575947,30 mins,5 mins, 1 hr 35 mins,12 ,12,83,4g,1g,37mg,109mg,5g,2g,2g,7g,41mg,33mg,1mg,293mg,4.9,18, 1 hr,12 servings
-32,6589181,20 mins,20 mins,55 mins,8 ,8,343,14g,8g,57mg,287mg,39g,1g,2g,15g,,320mg,2mg,126mg,3.3,7,15 mins,16 empanadas
-33,6603322,15 mins,15 mins,30 mins,3 ,3,203,17g,10g,108mg,202mg,2g,0g,1g,11g,2mg,68mg,1mg,209mg,4.5,256,,6 pieces
-34,6587255,30 mins,11 mins, 3 hrs 41 mins,8 ,8,370,29g,7g,94mg,248mg,24g,0g,1g,10g,3mg,46mg,1mg,118mg,,, 3 hrs,8 croquettes
-35,6737188,20 mins,55 mins, 1 hr 30 mins,6 ,6,510,18g,5g,81mg,116mg,63g,4g,4g,23g,17mg,62mg,5mg,658mg,4.4,26,15 mins,6 servings
-36,6597530,40 mins,, 4 hrs 40 mins,6 ,6,300,28g,4g,,395mg,11g,2g,6g,2g,89mg,28mg,1mg,383mg,4.4,49, 4 hrs,6 servings
-37,6603859,20 mins,,30 mins,18 ,18,49,4g,2g,13mg,86mg,2g,0g,1g,2g,6mg,2mg,0mg,39mg,4.8,24,10 mins,18 servings
-38,6599969,5 mins,20 mins,25 mins,2 ,2,607,37g,3g,,92mg,65g,4g,3g,8g,122mg,225mg,7mg,34mg,3.2,11,,2 servings
-39,6573157,20 mins,30 mins,50 mins,4 ,4,455,38g,14g,60mg,1387mg,21g,1g,7g,11g,1mg,195mg,2mg,413mg,4.4,81,,4 servings
-40,6737659,15 mins,15 mins,50 mins,6 ,6,139,9g,2g,191mg,316mg,2g,0g,1g,12g,1mg,31mg,1mg,118mg,4.5,12,20 mins,6 servings
-41,6592780,20 mins,30 mins,50 mins,12 ,12,176,14g,6g,86mg,337mg,5g,0g,1g,8g,5mg,182mg,1mg,63mg,4.2,27,,24 squares
-42,6584323,10 mins,30 mins,40 mins,4 ,4,159,4g,1g,,97mg,34g,5g,26g,2g,83mg,124mg,5mg,308mg,,,,4 servings
-43,6648290,25 mins,20 mins,45 mins,6 ,6,508,20g,12g,163mg,1573mg,60g,3g,4g,24g,15mg,74mg,8mg,345mg,4.1,33,,6 servings
-44,6580856,30 mins,20 mins,50 mins,20 ,20,136,8g,2g,60mg,296mg,10g,1g,2g,6g,17mg,106mg,1mg,121mg,3.9,46,,60 bites
-45,6577391,20 mins,12 mins,32 mins,6 ,6,278,19g,2g,173mg,200mg,4g,1g,1g,19g,18mg,48mg,3mg,218mg,4.1,7,,6 servings
-46,6738521,15 mins,20 mins,45 mins,12 ,12,128,9g,3g,28mg,928mg,7g,1g,0g,5g,36mg,56mg,1mg,190mg,4.7,3,10 mins,12 stuffed peppers
-47,6583431,25 mins,15 mins, 2 hrs 40 mins,4 ,4,440,29g,5g,259mg,150mg,17g,8g,5g,30g,39mg,63mg,2mg,985mg,4.1,14, 2 hrs,4 servings
-48,6576044,20 mins,,20 mins,5 ,5,105,1g,0g,18mg,769mg,19g,1g,8g,8g,19mg,26mg,1mg,253mg,4.3,3,,5 servings
-49,6599354,10 mins,40 mins,50 mins,4 ,4,129,6g,1g,9mg,216mg,8g,2g,5g,10g,26mg,48mg,3mg,285mg,4.4,34,,4 servings
-50,6590563,5 mins,45 mins, 1 hr,5 ,5,453,18g,6g,17mg,166mg,65g,8g,3g,10g,73mg,108mg,4mg,1587mg,4.3,13,10 mins,5 servings
-51,6588121,10 mins,12 mins,22 mins,10 ,10,114,10g,2g,22mg,125mg,2g,0g,1g,4g,1mg,40mg,0mg,86mg,4.0,7,,30 bites
-52,6594507,10 mins,10 mins,20 mins,6 ,6,318,14g,2g,79mg,747mg,16g,1g,5g,31g,61mg,132mg,34mg,866mg,,,,6 servings
-53,6603167,10 mins,20 mins,30 mins,8 ,8,333,30g,11g,41mg,414mg,14g,7g,5g,6g,10mg,22mg,1mg,564mg,4.6,13,,8 avocado halves
-54,6596250,20 mins,10 mins,30 mins,12 ,12,124,6g,1g,41mg,287mg,13g,1g,2g,5g,6mg,9mg,1mg,92mg,4.6,18,,12 servings
-55,6602567,30 mins,20 mins, 2 hrs 50 mins,6 ,6,377,16g,3g,192mg,764mg,42g,6g,5g,17g,88mg,70mg,3mg,1182mg,4.4,22, 2 hrs,6 servings
-56,6579954,20 mins,, 1 hr 20 mins,6 ,6,80,0g,0g,,7mg,20g,3g,15g,1g,73mg,25mg,1mg,303mg,3.0,2, 1 hr,6 servings
-57,6577134,10 mins,,10 mins,8 ,8,107,5g,2g,13mg,301mg,13g,1g,12g,4g,52mg,14mg,0mg,387mg,4.6,9,,8 servings
-58,6567269,20 mins,5 mins,25 mins,4 ,4,459,27g,13g,61mg,1179mg,28g,1g,4g,20g,2mg,413mg,2mg,44mg,,,,2 cheese wedges
-59,6604819,10 mins,20 mins,30 mins,4 ,4,435,31g,8g,46mg,910mg,23g,3g,6g,13g,26mg,106mg,5mg,710mg,4.7,27,,4 servings
-60,6582316,20 mins,15 mins,35 mins,16 ,16,137,9g,5g,112mg,244mg,4g,1g,1g,10g,4mg,194mg,1mg,74mg,4.1,62,,4 dozen bites
-61,6588531,20 mins,25 mins,45 mins,4 ,4,169,3g,1g,7mg,332mg,31g,2g,2g,5g,1mg,36mg,2mg,152mg,4.0,27,,20 samosas
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
+0,6649789,Crab-Stuffed Mushrooms,25 mins,15 mins,40 mins,6 ,6,166,12g,3g,43mg,337mg,6g,2g,2g,10g,7mg,109mg,2mg,414mg,4.4,337,,
+1,6665035,Authentic Mexican Shrimp Cocktail (Coctel de Camarones estilo Mexicano),45 mins,, 1 hr 45 mins,4 ,4,410,17g,3g,221mg,2626mg,42g,9g,21g,29g,49mg,114mg,6mg,1349mg,4.9,240, 1 hr,
+2,6589707,Air Fryer Calamari,10 mins,10 mins,20 mins,4 ,4,297,5g,1g,48mg,728mg,51g,1g,1g,25g,0mg,72mg,8mg,67mg,4.4,5,,
+3,6651113,Spanish Garlic Shrimp (Gambas al Ajillo),15 mins,5 mins,20 mins,4 ,4,227,15g,2g,173mg,344mg,3g,0g,0g,19g,5mg,43mg,3mg,196mg,4.6,78,,
+4,6737487,Chef John's Patatas Bravas,25 mins,20 mins, 1 hr 30 mins,4 ,4,678,55g,8g,21mg,3885mg,43g,6g,3g,6g,47mg,60mg,3mg,1039mg,4.6,81,45 mins,
+5,6663601,Tortilla Española (Spanish Tortilla),35 mins,45 mins, 2 hrs 20 mins,6 ,6,477,32g,7g,199mg,449mg,36g,4g,5g,13g,28mg,59mg,2mg,631mg,4.4,86, 1 hr,1 spanish tortilla
+6,6664613,Easy Garlic Escargots,15 mins,25 mins,45 mins,4 ,4,405,27g,16g,142mg,382mg,11g,0g,,27g,3mg,133mg,5mg,293mg,4.6,52,5 mins,
+7,6598866,My Own Famous Stuffed Grape Leaves,45 mins, 1 hr 15 mins, 2 hrs 30 mins,12 ,12,303,19g,3g,,573mg,31g,1g,1g,4g,12mg,76mg,2mg,88mg,4.4,129,30 mins,60 stuffed grape leaves
+8,6663634,Authentic Patatas Bravas,15 mins,25 mins,40 mins,2 ,2,1564,151g,21g,10mg,5111mg,54g,8g,10g,7g,98mg,113mg,5mg,1448mg,4.0,8,,2 servings
+9,6572394,Tomato and Mozzarella Bites,30 mins,,30 mins,10 ,10,58,6g,1g,,3mg,2g,,,0g,0mg,4mg,0mg,10mg,4.7,384,,20 skewers
+10,6650553,Grilled Marinated Shrimp,15 mins,10 mins, 2 hrs 25 mins,6 ,6,447,38g,5g,230mg,800mg,4g,1g,0g,25g,25mg,75mg,5mg,308mg,4.8,"1,699", 2 hrs,
+11,6648170,Ceviche Peruano,30 mins,40 mins, 2 hrs 10 mins,8 ,8,237,2g,0g,107mg,168mg,29g,4g,5g,26g,26mg,94mg,3mg,929mg,4.4,26, 1 hr,8 servings
+12,6663151,Mahi Mahi Ceviche,30 mins,, 1 hr 30 mins,6 ,6,117,6g,1g,42mg,247mg,7g,2g,2g,11g,24mg,29mg,1mg,430mg,4.9,28, 1 hr,6 servings
+13,6664174,Espinacas con Garbanzos (Spinach with Garbanzo Beans),15 mins,10 mins,25 mins,4 ,4,169,5g,1g,,600mg,26g,6g,2g,7g,10mg,133mg,3mg,450mg,4.5,447,,4 servings
+14,6597314,Chorizo Stuffed Poblano Peppers,20 mins, 1 hr 10 mins, 1 hr 30 mins,4 ,4,477,37g,14g,82mg,1238mg,12g,2g,1g,24g,36mg,73mg,2mg,486mg,4.8,106,,4 servings
+15,6585630,Deep-Fried Camembert and Cranberry Sauce,10 mins,4 mins,44 mins,12 ,12,271,13g,7g,59mg,406mg,29g,1g,10g,11g,,175mg,1mg,118mg,4.5,2,30 mins,12 wedges
+16,6597528,Tofu and Rice Stuffed Peppers,25 mins, 1 hr 10 mins, 1 hr 35 mins,4 ,4,554,25g,8g,38mg,813mg,56g,8g,16g,29g,195mg,643mg,4mg,984mg,4.2,87,,4 servings
+17,6582121,Quince Paste,20 mins, 3 hrs 30 mins, 3 hrs 50 mins,32 ,32,170,0g,,,3mg,44g,1g,34g,0g,10mg,8mg,1mg,127mg,4.0,9,,1 9x13-inch block
+18,6581347,Juicy and Spicy Ceviche,20 mins,, 2 hrs,6 ,6,199,7g,1g,221mg,813mg,11g,4g,3g,25g,28mg,76mg,5mg,652mg,4.8,17, 1 hr 40 mins,
+19,6605405,Blue Cheese and Pear Tartlets,10 mins,15 mins,25 mins,15 ,15,60,4g,2g,7mg,116mg,5g,0g,1g,2g,1mg,43mg,0mg,36mg,4.1,193,,
+20,6582374,Antipasto on a Stick,10 mins,,10 mins,8 ,8,151,13g,4g,31mg,599mg,1g,,,8g,0mg,40mg,1mg,113mg,5.0,24,,8 antipasto sticks
+21,6575117,Captain Duarte's Salt Cod Cakes,15 mins,45 mins, 9 hrs,6 ,6,396,5g,1g,177mg,5436mg,32g,4g,2g,54g,35mg,160mg,4mg,1721mg,4.5,39, 8 hrs,18 cod cakes
+22,6737224,Avocado and Tuna Tapas,20 mins,,20 mins,4 ,4,294,18g,3g,27mg,154mg,11g,7g,2g,24g,31mg,33mg,2mg,755mg,4.7,289,,
+23,6570425,Scallop and Prosciutto Bites,10 mins,5 mins,20 mins,8 ,8,161,8g,2g,47mg,438mg,3g,,0g,17g,,22mg,2mg,232mg,4.0,25,5 mins,
+24,6587611,Chilean-Style Sopaipillas,20 mins,25 mins, 1 hr,12 ,12,286,14g,6g,25mg,369mg,36g,2g,1g,5g,3mg,16mg,2mg,125mg,4.3,15,15 mins,
+25,6578827,Seviche,20 mins,,50 mins,9 ,9,227,15g,2g,55mg,436mg,16g,1g,5g,8g,26mg,68mg,7mg,464mg,4.0,7,30 mins,
+26,6584002,Sun-Dried Tomato Tapenade,20 mins,, 2 hrs 20 mins,8 ,8,200,18g,7g,31mg,390mg,9g,2g,1g,4g,29mg,45mg,1mg,485mg,4.6,28, 2 hrs,
+27,6582563,Chickpeas and Chorizo,20 mins,40 mins, 9 hrs 20 mins,6 ,6,411,21g,7g,37mg,793mg,37g,9g,7g,19g,49mg,66mg,4mg,778mg,4.3,21, 8 hrs 20 mins,
+28,6737194,Mini Ham And Cheese Rolls,15 mins,20 mins,35 mins,24 ,24,145,9g,3g,18mg,277mg,10g,1g,2g,6g,0mg,87mg,1mg,50mg,4.7,451,,24 mini sandwiches
+29,6601149,Deep-Fried Sous Vide Egg Yolks,30 mins, 1 hr 1 mins, 1 hr 41 mins,6 ,6,161,8g,2g,217mg,830mg,13g,1g,1g,9g,1mg,72mg,5mg,107mg,,,10 mins,6 pieces
+30,6571563,Tortilla Española,20 mins,25 mins,50 mins,4 ,4,340,16g,4g,279mg,126mg,37g,5g,4g,14g,59mg,92mg,4mg,1018mg,4.4,52,5 mins,
+31,6575947,City Ceviche,30 mins,5 mins, 1 hr 35 mins,12 ,12,83,4g,1g,37mg,109mg,5g,2g,2g,7g,41mg,33mg,1mg,293mg,4.9,18, 1 hr,12 servings
+32,6589181,Empanadas Fritas de Queso,20 mins,20 mins,55 mins,8 ,8,343,14g,8g,57mg,287mg,39g,1g,2g,15g,,320mg,2mg,126mg,3.3,7,15 mins,16 empanadas
+33,6603322,Shrimpcargot,15 mins,15 mins,30 mins,3 ,3,203,17g,10g,108mg,202mg,2g,0g,1g,11g,2mg,68mg,1mg,209mg,4.5,256,,6 pieces
+34,6587255,Crispy Tuna Croquettes,30 mins,11 mins, 3 hrs 41 mins,8 ,8,370,29g,7g,94mg,248mg,24g,0g,1g,10g,3mg,46mg,1mg,118mg,,, 3 hrs,8 croquettes
+35,6737188,Arroz Tapado (Rice-On-Top),20 mins,55 mins, 1 hr 30 mins,6 ,6,510,18g,5g,81mg,116mg,63g,4g,4g,23g,17mg,62mg,5mg,658mg,4.4,26,15 mins,6 servings
+36,6597530,Basque Salad,40 mins,, 4 hrs 40 mins,6 ,6,300,28g,4g,,395mg,11g,2g,6g,2g,89mg,28mg,1mg,383mg,4.4,49, 4 hrs,6 servings
+37,6603859,Cheese and Bacon Jalapeno Rellenos,20 mins,,30 mins,18 ,18,49,4g,2g,13mg,86mg,2g,0g,1g,2g,6mg,2mg,0mg,39mg,4.8,24,10 mins,18 servings
+38,6599969,Yuca Frita,5 mins,20 mins,25 mins,2 ,2,607,37g,3g,,92mg,65g,4g,3g,8g,122mg,225mg,7mg,34mg,3.2,11,,2 servings
+39,6573157,Portabella Nirvana,20 mins,30 mins,50 mins,4 ,4,455,38g,14g,60mg,1387mg,21g,1g,7g,11g,1mg,195mg,2mg,413mg,4.4,81,,4 servings
+40,6737659,Huevos Endiablados,15 mins,15 mins,50 mins,6 ,6,139,9g,2g,191mg,316mg,2g,0g,1g,12g,1mg,31mg,1mg,118mg,4.5,12,20 mins,6 servings
+41,6592780,Artichoke Bites I,20 mins,30 mins,50 mins,12 ,12,176,14g,6g,86mg,337mg,5g,0g,1g,8g,5mg,182mg,1mg,63mg,4.2,27,,24 squares
+42,6584323,Roasted Oranges with Thyme,10 mins,30 mins,40 mins,4 ,4,159,4g,1g,,97mg,34g,5g,26g,2g,83mg,124mg,5mg,308mg,,,,4 servings
+43,6648290,Linguine with Cajun-Spiced Shrimp and Corn,25 mins,20 mins,45 mins,6 ,6,508,20g,12g,163mg,1573mg,60g,3g,4g,24g,15mg,74mg,8mg,345mg,4.1,33,,6 servings
+44,6580856,Little Broccoli Bites,30 mins,20 mins,50 mins,20 ,20,136,8g,2g,60mg,296mg,10g,1g,2g,6g,17mg,106mg,1mg,121mg,3.9,46,,60 bites
+45,6577391,"Gambas Pil Pil (Prawns, Chilean Style)",20 mins,12 mins,32 mins,6 ,6,278,19g,2g,173mg,200mg,4g,1g,1g,19g,18mg,48mg,3mg,218mg,4.1,7,,6 servings
+46,6738521,Sausage-Stuffed Piquillo Peppers,15 mins,20 mins,45 mins,12 ,12,128,9g,3g,28mg,928mg,7g,1g,0g,5g,36mg,56mg,1mg,190mg,4.7,3,10 mins,12 stuffed peppers
+47,6583431,Citrus Ceviche,25 mins,15 mins, 2 hrs 40 mins,4 ,4,440,29g,5g,259mg,150mg,17g,8g,5g,30g,39mg,63mg,2mg,985mg,4.1,14, 2 hrs,4 servings
+48,6576044,Poor Man's Ceviche,20 mins,,20 mins,5 ,5,105,1g,0g,18mg,769mg,19g,1g,8g,8g,19mg,26mg,1mg,253mg,4.3,3,,5 servings
+49,6599354,Titaina,10 mins,40 mins,50 mins,4 ,4,129,6g,1g,9mg,216mg,8g,2g,5g,10g,26mg,48mg,3mg,285mg,4.4,34,,4 servings
+50,6590563,Gorgonzola Stuffed Mini Potatoes,5 mins,45 mins, 1 hr,5 ,5,453,18g,6g,17mg,166mg,65g,8g,3g,10g,73mg,108mg,4mg,1587mg,4.3,13,10 mins,5 servings
+51,6588121,Crab Swiss Bites,10 mins,12 mins,22 mins,10 ,10,114,10g,2g,22mg,125mg,2g,0g,1g,4g,1mg,40mg,0mg,86mg,4.0,7,,30 bites
+52,6594507,Hoy Lai Pad Nam Prik Pow (Clams with Chili Paste and Basil),10 mins,10 mins,20 mins,6 ,6,318,14g,2g,79mg,747mg,16g,1g,5g,31g,61mg,132mg,34mg,866mg,,,,6 servings
+53,6603167,Bacon Stuffed Avocados,10 mins,20 mins,30 mins,8 ,8,333,30g,11g,41mg,414mg,14g,7g,5g,6g,10mg,22mg,1mg,564mg,4.6,13,,8 avocado halves
+54,6596250,Valencian Savory Empanadas,20 mins,10 mins,30 mins,12 ,12,124,6g,1g,41mg,287mg,13g,1g,2g,5g,6mg,9mg,1mg,92mg,4.6,18,,12 servings
+55,6602567,Pipirrana (Spanish Potato Salad),30 mins,20 mins, 2 hrs 50 mins,6 ,6,377,16g,3g,192mg,764mg,42g,6g,5g,17g,88mg,70mg,3mg,1182mg,4.4,22, 2 hrs,6 servings
+56,6579954,Mango Ceviche,20 mins,, 1 hr 20 mins,6 ,6,80,0g,0g,,7mg,20g,3g,15g,1g,73mg,25mg,1mg,303mg,3.0,2, 1 hr,6 servings
+57,6577134,Prosciutto e Melone on a Stick,10 mins,,10 mins,8 ,8,107,5g,2g,13mg,301mg,13g,1g,12g,4g,52mg,14mg,0mg,387mg,4.6,9,,8 servings
+58,6567269,Fried Manchego Cheese,20 mins,5 mins,25 mins,4 ,4,459,27g,13g,61mg,1179mg,28g,1g,4g,20g,2mg,413mg,2mg,44mg,,,,2 cheese wedges
+59,6604819,Clams and Chourico,10 mins,20 mins,30 mins,4 ,4,435,31g,8g,46mg,910mg,23g,3g,6g,13g,26mg,106mg,5mg,710mg,4.7,27,,4 servings
+60,6582316,Artichoke Bites II,20 mins,15 mins,35 mins,16 ,16,137,9g,5g,112mg,244mg,4g,1g,1g,10g,4mg,194mg,1mg,74mg,4.1,62,,4 dozen bites
+61,6588531,Mini Sweet Potato Samosas,20 mins,25 mins,45 mins,4 ,4,169,3g,1g,7mg,332mg,31g,2g,2g,5g,1mg,36mg,2mg,152mg,4.0,27,,20 samosas

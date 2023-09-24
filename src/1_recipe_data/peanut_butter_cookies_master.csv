@@ -1,63 +1,63 @@
-,id_recipe,Prep Time:,Cook Time:,Refrigerate Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Chill Time:,Stand Time:,Yield:,Cool Time:,Additional Time:
-0,7971929,10 mins,0 mins,30 mins,45 mins,12 ,12,127,6g,1g,0mg,53mg,16g,2g,7g,4g,0mg,21mg,1mg,121mg,,,,,,,
-1,7110236,30 mins,7 mins,, 2 hrs 37 mins,46 ,46,173,11g,6g,24mg,53mg,17g,1g,,3g,,,,95mg,5.0,2, 1 hr, 1 hr,46 cookies,,
-2,7100435,10 mins,10 mins,,30 mins,16 ,16,173,10g,3g,12mg,194mg,19g,1g,,5g,,,,141mg,4.7,9,,,16 cookies,10 mins,
-3,6663137,20 mins,10 mins,,30 mins,12 ,12,394,23g,5g,31mg,209mg,42g,3g,37g,12g,,23mg,1mg,291mg,4.4,"1,823",,,1 dozen,,
-4,6648993,15 mins,10 mins,, 1 hr 25 mins,48 ,48,126,7g,3g,18mg,101mg,15g,1g,,2g,,15mg,1mg,57mg,4.6,"4,444",,,4 dozen,, 1 hr
-5,6650662,15 mins,10 mins,,25 mins,24 ,24,98,6g,1g,8mg,52mg,11g,1g,9g,3g,,6mg,0mg,73mg,4.5,653,,,2 dozen cookies,,
-6,6663311,15 mins,15 mins,,50 mins,36 ,36,149,9g,3g,11mg,73mg,15g,1g,11g,4g,,17mg,0mg,114mg,4.7,38,,,3 dozen,,20 mins
-7,6664860,25 mins,10 mins,,35 mins,40 ,40,122,7g,3g,11mg,119mg,14g,1g,9g,2g,,13mg,1mg,61mg,4.8,"4,520",,,40 cookies,,
-8,6741040,25 mins,,, 1 hr 25 mins,12 ,12,532,37g,17g,41mg,320mg,49g,3g,38g,9g,,26mg,2mg,275mg,4.6,"3,059",,,12 bars,, 1 hr
-9,6649175,15 mins,15 mins,,35 mins,24 ,24,246,12g,6g,26mg,163mg,34g,2g,21g,4g,,16mg,2mg,68mg,4.4,"1,901",,,24 cookies,,5 mins
-10,6737738,45 mins,10 mins,,55 mins,48 ,48,117,6g,2g,7mg,78mg,14g,0g,10g,2g,,15mg,0mg,53mg,4.7,37,,,48 cookies,,
-11,6590120,10 mins,15 mins,,25 mins,12 ,12,133,11g,2g,16mg,105mg,12g,1g,2g,6g,,12mg,1mg,146mg,4.1,115,,,12 cookies,,
-12,6663876,10 mins,10 mins,,20 mins,18 ,18,127,7g,2g,,66mg,14g,1g,,4g,,6mg,0mg,93mg,4.4,"1,017",,,18 cookies,,
-13,6650192,5 mins,20 mins,,30 mins,24 ,24,79,6g,1g,8mg,43mg,7g,1g,5g,2g,,1mg,,3mg,4.3,48,,,24 cookies,,5 mins
-14,6663483,15 mins,5 mins,,20 mins,12 ,12,219,15g,5g,,147mg,17g,1g,,5g,,9mg,1mg,145mg,4.7,331,,,24 haystacks,,
-15,6650854,15 mins,10 mins,,25 mins,48 ,48,120,7g,2g,8mg,152mg,13g,1g,8g,2g,,9mg,0mg,55mg,4.6,"3,122",,,48 cookies,,
-16,6650007,15 mins,10 mins,,25 mins,36 ,36,106,6g,2g,12mg,81mg,11g,1g,7g,3g,,15mg,0mg,60mg,4.3,"1,821",,,36 cookies,,
-17,6740978,30 mins,5 mins,, 3 hrs 35 mins,48 ,48,167,10g,4g,5mg,83mg,18g,1g,,4g,1mg,8mg,1mg,107mg,4.5,451,,,4 dozen,, 3 hrs
-18,6588567,15 mins,10 mins,,40 mins,12 ,12,270,14g,3g,16mg,273mg,34g,1g,18g,5g,,20mg,1mg,111mg,4.5,441,,,2 dozen,,15 mins
-19,6579168,10 mins,10 mins,,20 mins,24 ,24,138,12g,2g,16mg,63mg,5g,2g,2g,6g,,15mg,1mg,154mg,3.9,223,,,24 cookies,,
-20,6606280,,,,,72 ,72,111,7g,3g,7mg,53mg,12g,1g,10g,2g,,5mg,0mg,55mg,4.6,242,,,6 to 7 - dozen,,
-21,6578589,,,,,24 ,24,166,8g,2g,8mg,157mg,20g,1g,12g,3g,,14mg,1mg,32mg,4.5,268,,,2 dozen,,
-22,6739163,30 mins,10 mins,,45 mins,36 ,36,132,8g,2g,10mg,140mg,14g,1g,13g,4g,,8mg,0mg,97mg,4.3,"1,157",,,3 dozen,,5 mins
-23,6584986,15 mins,10 mins,, 4 hrs 25 mins,48 ,48,216,13g,5g,11mg,154mg,23g,1g,8g,4g,0mg,37mg,1mg,124mg,4.6,129,,,4 dozen cookies,, 4 hrs
-24,6603173,10 mins,5 mins,,15 mins,2 ,2,227,13g,5g,108mg,115mg,24g,1g,14g,7g,,26mg,1mg,110mg,2.7,51,,,2 servings,,
-25,6739543,,,,,30 ,30,206,11g,4g,4mg,72mg,26g,1g,23g,4g,,10mg,1mg,126mg,4.3,223,,,5 dozen,,
-26,6737478,,,,,6 ,6,394,23g,5g,31mg,209mg,42g,3g,37g,12g,,23mg,1mg,291mg,4.4,"2,695",,,1 dozen,,
-27,6577473,15 mins,8 mins,,40 mins,36 ,36,66,4g,1g,5mg,70mg,7g,0g,6g,2g,,4mg,0mg,49mg,4.4,482,,,3 dozen,,17 mins
-28,6574235,,,,,12 ,12,323,12g,3g,3mg,213mg,53g,1g,20g,6g,9mg,10mg,5mg,156mg,4.6,120,,,2 dozen,,
-29,6568429,30 mins,30 mins,, 1 hr,54 ,54,109,7g,1g,7mg,100mg,11g,1g,6g,2g,,12mg,0mg,53mg,4.4,552,,,4 1/2 dozen,,
-30,6739185,5 mins,20 mins,,30 mins,12 ,12,252,14g,6g,36mg,229mg,30g,1g,18g,5g,,30mg,1mg,104mg,4.7,398,,,24 cookies,,5 mins
-31,6579292,,,,,60 ,60,150,8g,5g,14mg,90mg,17g,0g,11g,4g,,12mg,0mg,43mg,4.2,71,,,4 to 5 - dozen,,
-32,6594362,10 mins,5 mins,, 1 hr 5 mins,24 ,24,165,7g,2g,0mg,71mg,23g,2g,16g,3g,,16mg,1mg,95mg,4.6,132,,,2 dozen cookies,,50 mins
-33,6602786,10 mins,10 mins,,20 mins,12 ,12,222,13g,4g,16mg,160mg,23g,2g,20g,6g,,19mg,1mg,180mg,4.5,68,,,12 to 16 cookies,,
-34,6574245,,,,,6 ,6,628,32g,7g,33mg,374mg,85g,4g,12g,7g,0mg,43mg,2mg,303mg,4.4,151,,,1 1/2 dozen,,
-35,6598449,20 mins,10 mins,,30 mins,12 ,12,207,11g,2g,16mg,106mg,23g,1g,20g,6g,0mg,12mg,1mg,149mg,4.4,156,,,12 cookies,,
-36,6603714,10 mins,10 mins,,20 mins,24 ,24,281,16g,7g,36mg,250mg,32g,2g,18g,5g,,31mg,1mg,137mg,4.2,336,,,4 dozen,,
-37,6582004,,,,,18 ,18,350,18g,8g,58mg,222mg,42g,1g,30g,6g,,29mg,1mg,143mg,4.1,510,,,3 dozen,,
-38,6738332,30 mins,10 mins,,40 mins,12 ,12,397,24g,10g,48mg,343mg,42g,2g,29g,8g,,35mg,1mg,197mg,4.8,"1,390",,,2 dozen,,
-39,6587200,,,,,30 ,30,272,18g,6g,36mg,210mg,25g,2g,16g,7g,,23mg,1mg,167mg,4.7,876,,,5 dozen,,
-40,6739016,30 mins,12 mins,,52 mins,15 ,15,513,33g,9g,50mg,177mg,50g,5g,43g,13g,0mg,30mg,1mg,360mg,4.5,323,,,30 cookies,,10 mins
-41,6571705,30 mins,5 mins,,50 mins,40 ,40,389,24g,11g,10mg,214mg,39g,1g,29g,6g,0mg,104mg,1mg,202mg,4.8,128,,,40 sandwich cookies,,15 mins
-42,6583582,15 mins,20 mins,,35 mins,32 ,32,148,8g,3g,5mg,56mg,18g,2g,7g,3g,0mg,13mg,1mg,119mg,4.6,213,,,32 bars,,
-43,6570616,15 mins,10 mins,, 1 hr 25 mins,36 ,36,87,5g,1g,5mg,69mg,10g,0g,6g,2g,,9mg,0mg,37mg,4.4,182,,,3 dozen,, 1 hr
-44,6602087,15 mins,10 mins,,25 mins,36 ,36,141,7g,4g,10mg,58mg,19g,1g,,2g,,12mg,1mg,64mg,4.2,282,,,3 dozen,,
-45,6581522,5 mins,10 mins,,15 mins,12 ,12,353,11g,2g,,284mg,62g,2g,28g,7g,5mg,14mg,7mg,159mg,4.4,124,,,2 dozen,,
-46,6582225,10 mins,30 mins,,40 mins,12 ,12,206,11g,2g,2mg,153mg,21g,1g,19g,9g,1mg,136mg,1mg,326mg,4.4,80,,,2 dozen,,
-47,6596740,20 mins,10 mins,,30 mins,24 ,24,142,7g,3g,18mg,120mg,19g,1g,13g,2g,,9mg,1mg,52mg,4.6,633,,,4 dozen,,
-48,6604685,20 mins,35 mins,,55 mins,36 ,36,183,11g,6g,40mg,99mg,21g,1g,16g,3g,,19mg,1mg,89mg,4.5,416,,,1 9x13-inch pan,,
-49,6582422,20 mins,5 mins,,30 mins,36 ,36,111,7g,3g,7mg,82mg,10g,1g,,2g,,8mg,0mg,70mg,4.2,195,,,3 dozen,,5 mins
-50,6596140,15 mins,15 mins,,30 mins,24 ,24,201,11g,5g,15mg,124mg,25g,1g,,3g,,15mg,1mg,54mg,4.7,21,,,2 dozen,,
-51,6568132,15 mins,15 mins,,30 mins,84 ,84,65,4g,2g,10mg,62mg,7g,1g,4g,1g,,5mg,0mg,38mg,4.5,39,,,7 dozen,,
-52,6739002,,,,,72 ,72,117,7g,2g,10mg,95mg,11g,1g,5g,2g,0mg,11mg,0mg,66mg,4.4,251,,,6 dozen,,
-53,6602043,30 mins,10 mins,,40 mins,6 ,6,811,41g,23g,120mg,513mg,107g,4g,70g,11g,,58mg,3mg,276mg,3.7,86,,,1 dozen,,
-54,6601926,20 mins,15 mins,,50 mins,24 ,24,149,10g,3g,26mg,107mg,13g,1g,6g,4g,0mg,12mg,1mg,90mg,4.9,9,,,24 cookies,,15 mins
-55,6577513,15 mins,,, 1 hr 15 mins,24 ,24,588,38g,14g,20mg,258mg,60g,4g,53g,12g,,38mg,2mg,397mg,4.6,199,,,2 dozen,, 1 hr
-56,6593344,25 mins,,,55 mins,36 ,36,151,6g,3g,,63mg,23g,1g,12g,2g,1mg,3mg,1mg,74mg,4.5,185,,,3 dozen,,30 mins
-57,6603582,10 mins,10 mins,,30 mins,12 ,12,189,13g,3g,14mg,105mg,15g,2g,10g,7g,1mg,15mg,1mg,206mg,4.2,16,,,12 cookies,,10 mins
-58,6603283,15 mins,20 mins,,45 mins,24 ,24,184,10g,5g,18mg,113mg,23g,1g,16g,3g,,16mg,1mg,97mg,4.6,74,,,1 - 9x13 inch pan,,10 mins
-59,6569120,10 mins,10 mins,, 1 hr 15 mins,16 ,16,105,9g,2g,12mg,79mg,6g,1g,2g,5g,,10mg,1mg,120mg,3.8,16,,,16 cookies,,55 mins
-60,6605104,,,,,15 ,15,289,16g,3g,12mg,199mg,34g,2g,21g,7g,,23mg,1mg,187mg,4.5,820,,,30 cookies,,
-61,6598717,,,,,12 ,12,418,23g,3g,31mg,135mg,46g,3g,39g,12g,,60mg,1mg,358mg,4.2,26,,,2 dozen,,
+,id_recipe,name,Prep Time:,Cook Time:,Refrigerate Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Chill Time:,Stand Time:,Yield:,Cool Time:,Additional Time:
+0,7971929,3-Ingredient Peanut Butter Oatmeal Cookies,10 mins,0 mins,30 mins,45 mins,12 ,12,127,6g,1g,0mg,53mg,16g,2g,7g,4g,0mg,21mg,1mg,121mg,,,,,,,
+1,7110236,Homemade Tagalongs,30 mins,7 mins,, 2 hrs 37 mins,46 ,46,173,11g,6g,24mg,53mg,17g,1g,,3g,,,,95mg,5.0,2, 1 hr, 1 hr,46 cookies,,
+2,7100435,Peanut Butter M&M Cookies,10 mins,10 mins,,30 mins,16 ,16,173,10g,3g,12mg,194mg,19g,1g,,5g,,,,141mg,4.7,9,,,16 cookies,10 mins,
+3,6663137,Three Ingredient Peanut Butter Cookies,20 mins,10 mins,,30 mins,12 ,12,394,23g,5g,31mg,209mg,42g,3g,37g,12g,,23mg,1mg,291mg,4.4,"1,824",,,1 dozen,,
+4,6648993,Classic Peanut Butter Cookies,15 mins,10 mins,, 1 hr 25 mins,48 ,48,126,7g,3g,18mg,101mg,15g,1g,,2g,,15mg,1mg,57mg,4.6,"4,447",,,4 dozen,, 1 hr
+5,6650662,3-Ingredient Peanut Butter Cookies,15 mins,10 mins,,25 mins,24 ,24,98,6g,1g,8mg,52mg,11g,1g,9g,3g,,6mg,0mg,73mg,4.5,654,,,2 dozen cookies,,
+6,6663311,Peanut Butter Blossoms,15 mins,15 mins,,50 mins,36 ,36,149,9g,3g,11mg,73mg,15g,1g,11g,4g,,17mg,0mg,114mg,4.7,38,,,3 dozen,,20 mins
+7,6664860,Peanut Butter Cup Cookies,25 mins,10 mins,,35 mins,40 ,40,122,7g,3g,11mg,119mg,14g,1g,9g,2g,,13mg,1mg,61mg,4.8,"4,521",,,40 cookies,,
+8,6741040,Peanut Butter Bars,25 mins,,, 1 hr 25 mins,12 ,12,532,37g,17g,41mg,320mg,49g,3g,38g,9g,,26mg,2mg,275mg,4.6,"3,059",,,12 bars,, 1 hr
+9,6649175,Chewy Peanut Butter Chocolate Chip Cookies,15 mins,15 mins,,35 mins,24 ,24,246,12g,6g,26mg,163mg,34g,2g,21g,4g,,16mg,2mg,68mg,4.4,"1,901",,,24 cookies,,5 mins
+10,6737738,Peanut Butter Spider Cookies,45 mins,10 mins,,55 mins,48 ,48,117,6g,2g,7mg,78mg,14g,0g,10g,2g,,15mg,0mg,53mg,4.7,37,,,48 cookies,,
+11,6590120,4-Ingredient Keto Peanut Butter Cookies,10 mins,15 mins,,25 mins,12 ,12,133,11g,2g,16mg,105mg,12g,1g,2g,6g,,12mg,1mg,146mg,4.1,115,,,12 cookies,,
+12,6663876,Peanut Butter Kiss Cookies,10 mins,10 mins,,20 mins,18 ,18,127,7g,2g,,66mg,14g,1g,,4g,,6mg,0mg,93mg,4.4,"1,017",,,18 cookies,,
+13,6650192,Super Easy Peanut Butter Cookies,5 mins,20 mins,,30 mins,24 ,24,79,6g,1g,8mg,43mg,7g,1g,5g,2g,,1mg,,3mg,4.3,48,,,24 cookies,,5 mins
+14,6663483,Peanut Butter Haystacks,15 mins,5 mins,,20 mins,12 ,12,219,15g,5g,,147mg,17g,1g,,5g,,9mg,1mg,145mg,4.7,331,,,24 haystacks,,
+15,6650854,Oatmeal Peanut Butter Cookies,15 mins,10 mins,,25 mins,48 ,48,120,7g,2g,8mg,152mg,13g,1g,8g,2g,,9mg,0mg,55mg,4.6,"3,122",,,48 cookies,,
+16,6650007,Joey's Peanut Butter Cookies,15 mins,10 mins,,25 mins,36 ,36,106,6g,2g,12mg,81mg,11g,1g,7g,3g,,15mg,0mg,60mg,4.3,"1,821",,,36 cookies,,
+17,6740978,Peanut Butter Balls,30 mins,5 mins,, 3 hrs 35 mins,48 ,48,167,10g,4g,5mg,83mg,18g,1g,,4g,1mg,8mg,1mg,107mg,4.5,451,,,4 dozen,, 3 hrs
+18,6588567,Soft Peanut Butter Cookies,15 mins,10 mins,,40 mins,12 ,12,270,14g,3g,16mg,273mg,34g,1g,18g,5g,,20mg,1mg,111mg,4.5,441,,,2 dozen,,15 mins
+19,6579168,Sugar-Free Peanut Butter Cookies,10 mins,10 mins,,20 mins,24 ,24,138,12g,2g,16mg,63mg,5g,2g,2g,6g,,15mg,1mg,154mg,3.9,223,,,24 cookies,,
+20,6606280,Peanut Butter Balls II,,,,,72 ,72,111,7g,3g,7mg,53mg,12g,1g,10g,2g,,5mg,0mg,55mg,4.6,242,,,6 to 7 - dozen,,
+21,6578589,JIF® Irresistible Peanut Butter Cookies,,,,,24 ,24,166,8g,2g,8mg,157mg,20g,1g,12g,3g,,14mg,1mg,32mg,4.5,268,,,2 dozen,,
+22,6739163,Best Peanut Butter Cookies Ever,30 mins,10 mins,,45 mins,36 ,36,132,8g,2g,10mg,140mg,14g,1g,13g,4g,,8mg,0mg,97mg,4.3,"1,157",,,3 dozen,,5 mins
+23,6584986,Mom's Peanut Butter Blossoms,15 mins,10 mins,, 4 hrs 25 mins,48 ,48,216,13g,5g,11mg,154mg,23g,1g,8g,4g,0mg,37mg,1mg,124mg,4.6,129,,,4 dozen cookies,, 4 hrs
+24,6603173,Peanut Butter Cookie in a Mug,10 mins,5 mins,,15 mins,2 ,2,227,13g,5g,108mg,115mg,24g,1g,14g,7g,,26mg,1mg,110mg,2.7,51,,,2 servings,,
+25,6739543,Christmas Peanut Butter Balls,,,,,30 ,30,206,11g,4g,4mg,72mg,26g,1g,23g,4g,,10mg,1mg,126mg,4.3,223,,,5 dozen,,
+26,6737478,Flourless Peanut Butter Cookies,,,,,6 ,6,394,23g,5g,31mg,209mg,42g,3g,37g,12g,,23mg,1mg,291mg,4.4,"2,695",,,1 dozen,,
+27,6577473,Quick Peanut Butter Cookies,15 mins,8 mins,,40 mins,36 ,36,66,4g,1g,5mg,70mg,7g,0g,6g,2g,,4mg,0mg,49mg,4.4,482,,,3 dozen,,17 mins
+28,6574235,Peanut Butter Crispies II,,,,,12 ,12,323,12g,3g,3mg,213mg,53g,1g,20g,6g,9mg,10mg,5mg,156mg,4.6,120,,,2 dozen,,
+29,6568429,Favorite Peanut Butter Cookies,30 mins,30 mins,, 1 hr,54 ,54,109,7g,1g,7mg,100mg,11g,1g,6g,2g,,12mg,0mg,53mg,4.4,552,,,4 1/2 dozen,,
+30,6739185,Chef John's Peanut Butter Cookies,5 mins,20 mins,,30 mins,12 ,12,252,14g,6g,36mg,229mg,30g,1g,18g,5g,,30mg,1mg,104mg,4.7,398,,,24 cookies,,5 mins
+31,6579292,Old Fashioned Peanut Butter Cookies,,,,,60 ,60,150,8g,5g,14mg,90mg,17g,0g,11g,4g,,12mg,0mg,43mg,4.2,71,,,4 to 5 - dozen,,
+32,6594362,No Bake Chocolate Peanut Butter Cookies,10 mins,5 mins,, 1 hr 5 mins,24 ,24,165,7g,2g,0mg,71mg,23g,2g,16g,3g,,16mg,1mg,95mg,4.6,132,,,2 dozen cookies,,50 mins
+33,6602786,"Easy, Chewy Flourless Peanut Butter Cookies",10 mins,10 mins,,20 mins,12 ,12,222,13g,4g,16mg,160mg,23g,2g,20g,6g,,19mg,1mg,180mg,4.5,68,,,12 to 16 cookies,,
+34,6574245,Peanut Butter Cup Brownies,,,,,6 ,6,628,32g,7g,33mg,374mg,85g,4g,12g,7g,0mg,43mg,2mg,303mg,4.4,151,,,1 1/2 dozen,,
+35,6598449,Uncle Mac's Peanut Butter and Jelly Cookies,20 mins,10 mins,,30 mins,12 ,12,207,11g,2g,16mg,106mg,23g,1g,20g,6g,0mg,12mg,1mg,149mg,4.4,156,,,12 cookies,,
+36,6603714,Peanut Butter Chocolate Chip Cookies from Heaven,10 mins,10 mins,,20 mins,24 ,24,281,16g,7g,36mg,250mg,32g,2g,18g,5g,,31mg,1mg,137mg,4.2,336,,,4 dozen,,
+37,6582004,Soft and Chewy Peanut Butter Cookies,,,,,18 ,18,350,18g,8g,58mg,222mg,42g,1g,30g,6g,,29mg,1mg,143mg,4.1,510,,,3 dozen,,
+38,6738332,Oatmeal Peanut Butter Cookies III,30 mins,10 mins,,40 mins,12 ,12,397,24g,10g,48mg,343mg,42g,2g,29g,8g,,35mg,1mg,197mg,4.8,"1,390",,,2 dozen,,
+39,6587200,The Whole Jar of Peanut Butter Cookies,,,,,30 ,30,272,18g,6g,36mg,210mg,25g,2g,16g,7g,,23mg,1mg,167mg,4.7,876,,,5 dozen,,
+40,6739016,Gluten-Free Peanut Butter Cookies,30 mins,12 mins,,52 mins,15 ,15,513,33g,9g,50mg,177mg,50g,5g,43g,13g,0mg,30mg,1mg,360mg,4.5,323,,,30 cookies,,10 mins
+41,6571705,Chocolate Coated Peanut Butter Crackers,30 mins,5 mins,,50 mins,40 ,40,389,24g,11g,10mg,214mg,39g,1g,29g,6g,0mg,104mg,1mg,202mg,4.8,128,,,40 sandwich cookies,,15 mins
+42,6583582,Oatmeal Peanut Butter Bars,15 mins,20 mins,,35 mins,32 ,32,148,8g,3g,5mg,56mg,18g,2g,7g,3g,0mg,13mg,1mg,119mg,4.6,213,,,32 bars,,
+43,6570616,Dad's Favorite Peanut Butter Cookies,15 mins,10 mins,, 1 hr 25 mins,36 ,36,87,5g,1g,5mg,69mg,10g,0g,6g,2g,,9mg,0mg,37mg,4.4,182,,,3 dozen,, 1 hr
+44,6602087,Oatmeal Peanut Butter and Chocolate Chip Cookies,15 mins,10 mins,,25 mins,36 ,36,141,7g,4g,10mg,58mg,19g,1g,,2g,,12mg,1mg,64mg,4.2,282,,,3 dozen,,
+45,6581522,Peanut Butter Cornflake Crunch Bars,5 mins,10 mins,,15 mins,12 ,12,353,11g,2g,,284mg,62g,2g,28g,7g,5mg,14mg,7mg,159mg,4.4,124,,,2 dozen,,
+46,6582225,Easy and Fun Peanut Butter Balls,10 mins,30 mins,,40 mins,12 ,12,206,11g,2g,2mg,153mg,21g,1g,19g,9g,1mg,136mg,1mg,326mg,4.4,80,,,2 dozen,,
+47,6596740,Peanut Butter Cookies,20 mins,10 mins,,30 mins,24 ,24,142,7g,3g,18mg,120mg,19g,1g,13g,2g,,9mg,1mg,52mg,4.6,633,,,4 dozen,,
+48,6604685,Michelle's Peanut Butter Marbled Brownies,20 mins,35 mins,,55 mins,36 ,36,183,11g,6g,40mg,99mg,21g,1g,16g,3g,,19mg,1mg,89mg,4.5,416,,,1 9x13-inch pan,,
+49,6582422,Easy Peanut Butter Chocolate Chip Cookies,20 mins,5 mins,,30 mins,36 ,36,111,7g,3g,7mg,82mg,10g,1g,,2g,,8mg,0mg,70mg,4.2,195,,,3 dozen,,5 mins
+50,6596140,Cookie Butter Cookies,15 mins,15 mins,,30 mins,24 ,24,201,11g,5g,15mg,124mg,25g,1g,,3g,,15mg,1mg,54mg,4.7,21,,,2 dozen,,
+51,6568132,Peanut Butter and Bran Cookies,15 mins,15 mins,,30 mins,84 ,84,65,4g,2g,10mg,62mg,7g,1g,4g,1g,,5mg,0mg,38mg,4.5,39,,,7 dozen,,
+52,6739002,Peanut Butter Oatmeal Cookies,,,,,72 ,72,117,7g,2g,10mg,95mg,11g,1g,5g,2g,0mg,11mg,0mg,66mg,4.4,251,,,6 dozen,,
+53,6602043,Stef's Whoopie Pies with Peanut Butter Frosting,30 mins,10 mins,,40 mins,6 ,6,811,41g,23g,120mg,513mg,107g,4g,70g,11g,,58mg,3mg,276mg,3.7,86,,,1 dozen,,
+54,6601926,Light and Soft Peanut Butter Cookies,20 mins,15 mins,,50 mins,24 ,24,149,10g,3g,26mg,107mg,13g,1g,6g,4g,0mg,12mg,1mg,90mg,4.9,9,,,24 cookies,,15 mins
+55,6577513,No-Bake Chocolate Peanut Butter Bars,15 mins,,, 1 hr 15 mins,24 ,24,588,38g,14g,20mg,258mg,60g,4g,53g,12g,,38mg,2mg,397mg,4.6,199,,,2 dozen,, 1 hr
+56,6593344,Homemade Peanut Butter Chews,25 mins,,,55 mins,36 ,36,151,6g,3g,,63mg,23g,1g,12g,2g,1mg,3mg,1mg,74mg,4.5,185,,,3 dozen,,30 mins
+57,6603582,Peanut Butter Banana Cookies,10 mins,10 mins,,30 mins,12 ,12,189,13g,3g,14mg,105mg,15g,2g,10g,7g,1mg,15mg,1mg,206mg,4.2,16,,,12 cookies,,10 mins
+58,6603283,Peanut Butter Fingers,15 mins,20 mins,,45 mins,24 ,24,184,10g,5g,18mg,113mg,23g,1g,16g,3g,,16mg,1mg,97mg,4.6,74,,,1 - 9x13 inch pan,,10 mins
+59,6569120,5-Ingredient Peanut Butter Chocolate Cookies,10 mins,10 mins,, 1 hr 15 mins,16 ,16,105,9g,2g,12mg,79mg,6g,1g,2g,5g,,10mg,1mg,120mg,3.8,16,,,16 cookies,,55 mins
+60,6605104,Magic Peanut Butter Middles,,,,,15 ,15,289,16g,3g,12mg,199mg,34g,2g,21g,7g,,23mg,1mg,187mg,4.5,820,,,30 cookies,,
+61,6598717,Peanut Butter Shortbread Cookies,,,,,12 ,12,418,23g,3g,31mg,135mg,46g,3g,39g,12g,,60mg,1mg,358mg,4.2,26,,,2 dozen,,

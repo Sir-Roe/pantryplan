@@ -1,50 +1,50 @@
-,id_recipe,Prep Time:,Cook Time:,Marinate Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Rest Time:,Stand Time:,Yield:
-0,7371677,10 mins,15 mins,10 mins,35 mins,4 servings,4,383,13g,3g,45mg,1805mg,41g,5g,10g,24g,62mg,91mg,3mg,681mg,4.5,4,,,,
-1,6664849,20 mins,10 mins,,1 day 40 mins,12 ,12,207,14g,3g,25mg,640mg,6g,1g,2g,15g,17mg,31mg,2mg,309mg,4.8,636,1 day 10 mins,,,
-2,7368602,10 mins,10 mins, 1 hr, 2 hrs,4 ,4,595,21g,9g,127mg,661mg,28g,1g,25g,40g,2mg,54mg,3mg,619mg,4.0,1,,10 mins,30 mins,
-3,6663179,10 mins,10 mins,, 2 hrs 25 mins,6 ,6,363,28g,6g,46mg,638mg,4g,0g,,25g,3mg,41mg,2mg,440mg,4.7,"1,699", 2 hrs 5 mins,,,
-4,6664468,15 mins,10 mins,, 5 hrs 25 mins,8 ,8,396,21g,8g,93mg,773mg,1g,0g,1g,49g,1mg,66mg,4mg,774mg,4.6,"1,098", 5 hrs,,,
-5,6584074,20 mins, 1 hr,, 9 hrs 25 mins,6 ,6,300,20g,7g,47mg,1099mg,10g,1g,3g,18g,5mg,130mg,4mg,423mg,4.6,265, 8 hrs 5 mins,,,
-6,6649483,20 mins, 1 hr,, 1 hr 40 mins,4 ,4,264,13g,3g,31mg,831mg,11g,2g,2g,22g,4mg,43mg,3mg,364mg,4.4,8,20 mins,,,
-7,6581309,20 mins,25 mins,,45 mins,6 ,6,344,14g,5g,90mg,839mg,21g,1g,17g,33g,55mg,42mg,3mg,564mg,4.5,800,,,,
-8,6584734,30 mins, 1 hr 20 mins,, 1 hr 50 mins,6 ,6,318,23g,7g,89mg,749mg,6g,1g,3g,23g,19mg,110mg,4mg,482mg,4.7,19,,,,6 servings
-9,6590625,10 mins, 1 hr,, 1 hr 15 mins,4 ,4,497,29g,11g,71mg,1102mg,29g,4g,4g,26g,40mg,81mg,4mg,514mg,4.4,92,5 mins,,,
-10,6590310,45 mins, 1 hr,, 5 hrs 45 mins,6 ,6,473,37g,12g,67mg,1422mg,3g,1g,1g,31g,14mg,310mg,2mg,368mg,4.7,222, 4 hrs,,,6 servings
-11,6596003,15 mins,15 mins,, 8 hrs 30 mins,6 ,6,222,9g,2g,75mg,1314mg,4g,0g,2g,30g,1mg,19mg,3mg,477mg,4.6,531, 8 hrs,,,6 servings
-12,6649423,15 mins,5 mins,, 1 hr 40 mins,6 ,6,183,5g,2g,25mg,634mg,20g,1g,18g,15g,1mg,40mg,2mg,239mg,4.6,109, 1 hr 20 mins,,,6 servings
-13,6649529,10 mins,15 mins,,55 mins,4 ,4,307,21g,5g,38mg,1622mg,8g,1g,4g,22g,3mg,35mg,2mg,346mg,4.8,111,30 mins,,,
-14,6581451,12 mins,8 mins,,1 day 20 mins,6 ,6,548,45g,11g,72mg,675mg,7g,2g,1g,29g,16mg,108mg,10mg,643mg,4.5,31,1 day,,,6 servings
-15,6598166,10 mins,20 mins,, 8 hrs 30 mins,4 ,4,325,8g,3g,55mg,5576mg,23g,0g,20g,36g,1mg,56mg,4mg,672mg,4.3,71, 8 hrs,,,4 servings
-16,6599444,15 mins,10 mins,,1 day 25 mins,8 ,8,158,8g,2g,27mg,521mg,7g,2g,2g,15g,14mg,38mg,2mg,325mg,4.7,10,1 day,,,2 pounds of steak
-17,6595995,15 mins,20 mins,, 6 hrs 35 mins,6 ,6,257,14g,5g,46mg,1265mg,7g,0g,5g,25g,3mg,42mg,2mg,440mg,4.6,351, 6 hrs,,,6 servings
-18,6581783,10 mins,10 mins,,25 mins,4 ,4,419,35g,6g,38mg,1284mg,5g,0g,1g,22g,4mg,26mg,2mg,352mg,4.8,40,5 mins,,,4 servings
-19,6740846,20 mins,14 mins,, 4 hrs 40 mins,4 ,4,497,44g,8g,37mg,371mg,5g,1g,1g,21g,16mg,40mg,2mg,333mg,4.5,72, 4 hrs 6 mins,,,4 servings
-20,6592371,10 mins,15 mins,, 8 hrs 45 mins,6 ,6,482,32g,6g,25mg,638mg,33g,1g,28g,15g,3mg,50mg,2mg,310mg,4.6,41, 8 hrs 20 mins,,,
-21,6578124,20 mins,15 mins,,35 mins,4 ,4,370,26g,13g,96mg,255mg,2g,0g,0g,28g,2mg,19mg,4mg,390mg,4.7,3,,,,2 steaks
-22,6590455,10 mins, 8 hrs,, 8 hrs 10 mins,8 ,8,198,11g,4g,36mg,801mg,10g,0g,3g,15g,21mg,19mg,3mg,271mg,4.2,"1,012",,,,
-23,6605187,15 mins, 1 hr 45 mins,, 2 hrs,6 ,6,138,6g,1g,31mg,299mg,9g,0g,0g,12g,1mg,15mg,1mg,162mg,4.3,72,,,,
-24,6588597,10 mins, 3 hrs 5 mins,, 8 hrs 15 mins,2 ,2,295,18g,4g,25mg,559mg,20g,0g,18g,15g,1mg,16mg,1mg,214mg,,, 5 hrs,,,
-25,6564773,10 mins,10 mins,, 4 hrs 25 mins,10 ,10,316,20g,6g,51mg,775mg,4g,0g,3g,28g,0mg,24mg,2mg,361mg,5.0,1, 4 hrs 5 mins,,,1 (2 1/2-pound) steak
-26,6572148,20 mins,20 mins,,40 mins,4 ,4,260,18g,7g,46mg,493mg,5g,1g,1g,19g,3mg,22mg,2mg,423mg,4.3,30,,,,
-27,6603023,5 mins,15 mins,, 8 hrs 20 mins,4 ,4,125,5g,2g,25mg,1095mg,5g,0g,2g,15g,3mg,34mg,2mg,341mg,4.2,5, 8 hrs,,,
-28,6568077,15 mins,15 mins,, 8 hrs 30 mins,6 ,6,417,15g,4g,34mg,3661mg,47g,1g,37g,24g,3mg,47mg,4mg,552mg,4.6,37, 8 hrs,,,6 servings
-29,6580675,10 mins,10 mins,, 1 hr 20 mins,4 ,4,581,47g,10g,72mg,905mg,6g,,4g,30g,4mg,43mg,2mg,359mg,4.2,62, 1 hr,,,
-30,6598905,20 mins,10 mins,, 4 hrs 30 mins,8 ,8,260,22g,5g,36mg,295mg,3g,1g,1g,14g,8mg,13mg,2mg,203mg,4.5,6, 4 hrs,,,8 servings
-31,6593283,10 mins,10 mins,, 4 hrs 30 mins,6 ,6,382,32g,6g,25mg,628mg,11g,0g,9g,14g,1mg,14mg,1mg,208mg,4.6,35, 4 hrs 10 mins,,,
-32,6572356,10 mins, 1 hr 36 mins,, 1 hr 51 mins,4 ,4,152,8g,2g,25mg,71mg,5g,1g,2g,14g,4mg,30mg,1mg,250mg,,,5 mins,,,4 servings
-33,6565822,10 mins, 1 hr,, 1 hr 10 mins,8 ,8,159,8g,4g,36mg,800mg,7g,1g,0g,14g,5mg,17mg,2mg,293mg,3.0,1,,,,8 servings
-34,6563303,15 mins,25 mins,,40 mins,4 ,4,210,11g,3g,27mg,774mg,10g,3g,5g,17g,36mg,54mg,4mg,610mg,4.7,3,,,,4 servings
-35,6582804,5 mins,10 mins,, 4 hrs 15 mins,4 ,4,356,32g,6g,25mg,1140mg,4g,0g,2g,14g,8mg,21mg,1mg,210mg,5.0,1, 4 hrs,,,4 servings
-36,6664756,10 mins,10 mins,,40 mins,6 ,6,240,17g,4g,39mg,530mg,2g,1g,1g,19g,1mg,31mg,2mg,266mg,4.1,48,20 mins,,,6 servings
-37,6575962,15 mins,6 mins,, 8 hrs 21 mins,4 ,4,336,23g,5g,51mg,97mg,2g,0g,0g,28g,3mg,26mg,2mg,384mg,5.0,1, 8 hrs,,,4 servings
-38,6739091,10 mins,15 mins,, 8 hrs 25 mins,4 ,4,282,7g,3g,37mg,965mg,30g,1g,21g,21g,5mg,74mg,3mg,694mg,4.4,36, 8 hrs,,,4 servings
-39,6741649,20 mins,12 mins,,32 mins,4 ,4,295,16g,7g,65mg,422mg,4g,2g,1g,33g,24mg,171mg,5mg,934mg,5.0,4,,,,4 servings
-40,6594905,15 mins,20 mins,, 8 hrs 50 mins,4 ,4,356,19g,7g,53mg,1366mg,20g,2g,9g,24g,7mg,81mg,3mg,477mg,5.0,2, 8 hrs 15 mins,,,4 servings
-41,6594162,5 mins,10 mins,, 2 hrs 20 mins,4 ,4,165,9g,3g,31mg,476mg,3g,0g,1g,17g,2mg,19mg,1mg,231mg,4.5,2, 2 hrs 5 mins,,,1 flank steak
-42,6567967,30 mins,40 mins,, 1 hr 20 mins,10 ,10,365,25g,9g,56mg,1054mg,12g,1g,3g,24g,21mg,210mg,2mg,286mg,,,10 mins,,,10 servings
-43,6584044,5 mins,12 mins,, 8 hrs 27 mins,8 ,8,137,7g,3g,35mg,788mg,2g,,,14g,,5mg,2mg,186mg,,, 8 hrs 10 mins,,,8 servings
-44,6583102,10 mins,20 mins,, 4 hrs 40 mins,4 ,4,640,45g,10g,63mg,1876mg,21g,4g,9g,40g,16mg,175mg,5mg,717mg,4.2,6, 4 hrs 10 mins,,,4 servings
-45,6567255,15 mins,55 mins,, 1 hr 15 mins,8 ,8,269,19g,8g,61mg,403mg,2g,1g,0g,21g,1mg,102mg,2mg,297mg,,,5 mins,,,8 servings
-46,6738689,15 mins,15 mins,, 2 hrs 40 mins,4 ,4,319,20g,5g,51mg,1219mg,6g,2g,2g,28g,12mg,60mg,3mg,448mg,4.4,5, 2 hrs 10 mins,,,4 servings
-47,6737584,15 mins,16 mins,, 8 hrs 35 mins,4 ,4,355,21g,5g,38mg,1849mg,14g,1g,10g,23g,1mg,36mg,2mg,391mg,4.7,134, 8 hrs 4 mins,,,4 servings
-48,6562897,20 mins,30 mins,, 4 hrs 55 mins,6 ,6,228,14g,4g,34mg,733mg,7g,2g,4g,19g,6mg,31mg,2mg,365mg,,, 4 hrs 5 mins,,,6 servings
+,id_recipe,name,Prep Time:,Cook Time:,Marinate Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Rest Time:,Stand Time:,Yield:
+0,7371677,Beef and Broccoli Udon Noodles,10 mins,15 mins,10 mins,35 mins,4 servings,4,383,13g,3g,45mg,1805mg,41g,5g,10g,24g,62mg,91mg,3mg,681mg,4.5,4,,,,
+1,6664849,Lisa's Favorite Carne Asada Marinade,20 mins,10 mins,,1 day 40 mins,12 ,12,207,14g,3g,25mg,640mg,6g,1g,2g,15g,17mg,31mg,2mg,309mg,4.8,637,1 day 10 mins,,,
+2,7368602,Kahlúa-Marinated Grilled Flank Steak,10 mins,10 mins, 1 hr, 2 hrs,4 ,4,595,21g,9g,127mg,661mg,28g,1g,25g,40g,2mg,54mg,3mg,619mg,4.0,1,,10 mins,30 mins,
+3,6663179,Marinated Flank Steak,10 mins,10 mins,, 2 hrs 25 mins,6 ,6,363,28g,6g,46mg,638mg,4g,0g,,25g,3mg,41mg,2mg,440mg,4.7,"1,699", 2 hrs 5 mins,,,
+4,6664468,London Broil,15 mins,10 mins,, 5 hrs 25 mins,8 ,8,396,21g,8g,93mg,773mg,1g,0g,1g,49g,1mg,66mg,4mg,774mg,4.6,"1,098", 5 hrs,,,
+5,6584074,Flank Steak Pinwheels,20 mins, 1 hr,, 9 hrs 25 mins,6 ,6,300,20g,7g,47mg,1099mg,10g,1g,3g,18g,5mg,130mg,4mg,423mg,4.6,265, 8 hrs 5 mins,,,
+6,6649483,Instant Pot Shredded Flank Steak,20 mins, 1 hr,, 1 hr 40 mins,4 ,4,264,13g,3g,31mg,831mg,11g,2g,2g,22g,4mg,43mg,3mg,364mg,4.4,8,20 mins,,,
+7,6581309,Maria's Pepper Steak,20 mins,25 mins,,45 mins,6 ,6,344,14g,5g,90mg,839mg,21g,1g,17g,33g,55mg,42mg,3mg,564mg,4.5,800,,,,
+8,6584734,Bracciole (Flank Steak Rolls),30 mins, 1 hr 20 mins,, 1 hr 50 mins,6 ,6,318,23g,7g,89mg,749mg,6g,1g,3g,23g,19mg,110mg,4mg,482mg,4.7,19,,,,6 servings
+9,6590625,Stuffed Flank Steak,10 mins, 1 hr,, 1 hr 15 mins,4 ,4,497,29g,11g,71mg,1102mg,29g,4g,4g,26g,40mg,81mg,4mg,514mg,4.4,92,5 mins,,,
+10,6590310,Rolled Flank Steak,45 mins, 1 hr,, 5 hrs 45 mins,6 ,6,473,37g,12g,67mg,1422mg,3g,1g,1g,31g,14mg,310mg,2mg,368mg,4.7,222, 4 hrs,,,6 servings
+11,6596003,London Broil I,15 mins,15 mins,, 8 hrs 30 mins,6 ,6,222,9g,2g,75mg,1314mg,4g,0g,2g,30g,1mg,19mg,3mg,477mg,4.6,531, 8 hrs,,,6 servings
+12,6649423,Thai Beef,15 mins,5 mins,, 1 hr 40 mins,6 ,6,183,5g,2g,25mg,634mg,20g,1g,18g,15g,1mg,40mg,2mg,239mg,4.6,109, 1 hr 20 mins,,,6 servings
+13,6649529,Grilled Balsamic and Soy Marinated Flank Steak,10 mins,15 mins,,55 mins,4 ,4,307,21g,5g,38mg,1622mg,8g,1g,4g,22g,3mg,35mg,2mg,346mg,4.8,111,30 mins,,,
+14,6581451,Grilled Mexican Steak,12 mins,8 mins,,1 day 20 mins,6 ,6,548,45g,11g,72mg,675mg,7g,2g,1g,29g,16mg,108mg,10mg,643mg,4.5,31,1 day,,,6 servings
+15,6598166,Teriyaki Steak,10 mins,20 mins,, 8 hrs 30 mins,4 ,4,325,8g,3g,55mg,5576mg,23g,0g,20g,36g,1mg,56mg,4mg,672mg,4.3,71, 8 hrs,,,4 servings
+16,6599444,Citrus Carne Asada Marinade,15 mins,10 mins,,1 day 25 mins,8 ,8,158,8g,2g,27mg,521mg,7g,2g,2g,15g,14mg,38mg,2mg,325mg,4.7,10,1 day,,,2 pounds of steak
+17,6595995,G's Flank Steak Marinade,15 mins,20 mins,, 6 hrs 35 mins,6 ,6,257,14g,5g,46mg,1265mg,7g,0g,5g,25g,3mg,42mg,2mg,440mg,4.6,351, 6 hrs,,,6 servings
+18,6581783,Overnight-Marinated Flank Steak,10 mins,10 mins,,25 mins,4 ,4,419,35g,6g,38mg,1284mg,5g,0g,1g,22g,4mg,26mg,2mg,352mg,4.8,40,5 mins,,,4 servings
+19,6740846,Tuscan Flank Steak,20 mins,14 mins,, 4 hrs 40 mins,4 ,4,497,44g,8g,37mg,371mg,5g,1g,1g,21g,16mg,40mg,2mg,333mg,4.5,72, 4 hrs 6 mins,,,4 servings
+20,6592371,Flank Steak Marinade,10 mins,15 mins,, 8 hrs 45 mins,6 ,6,482,32g,6g,25mg,638mg,33g,1g,28g,15g,3mg,50mg,2mg,310mg,4.6,41, 8 hrs 20 mins,,,
+21,6578124,Parisian-Style Steak Frites,20 mins,15 mins,,35 mins,4 ,4,370,26g,13g,96mg,255mg,2g,0g,0g,28g,2mg,19mg,4mg,390mg,4.7,3,,,,2 steaks
+22,6590455,Slow Cooker London Broil,10 mins, 8 hrs,, 8 hrs 10 mins,8 ,8,198,11g,4g,36mg,801mg,10g,0g,3g,15g,21mg,19mg,3mg,271mg,4.2,"1,012",,,,
+23,6605187,Braised Flank Steak with Lemon and Garlic,15 mins, 1 hr 45 mins,, 2 hrs,6 ,6,138,6g,1g,31mg,299mg,9g,0g,0g,12g,1mg,15mg,1mg,162mg,4.3,72,,,,
+24,6588597,Sous Vide Marinated Flank Steak,10 mins, 3 hrs 5 mins,, 8 hrs 15 mins,2 ,2,295,18g,4g,25mg,559mg,20g,0g,18g,15g,1mg,16mg,1mg,214mg,,, 5 hrs,,,
+25,6564773,Broiled Flank Steak,10 mins,10 mins,, 4 hrs 25 mins,10 ,10,316,20g,6g,51mg,775mg,4g,0g,3g,28g,0mg,24mg,2mg,361mg,5.0,1, 4 hrs 5 mins,,,1 (2 1/2-pound) steak
+26,6572148,Flank Steak with Mushroom Sauce,20 mins,20 mins,,40 mins,4 ,4,260,18g,7g,46mg,493mg,5g,1g,1g,19g,3mg,22mg,2mg,423mg,4.3,30,,,,
+27,6603023,Tender Flank Steak,5 mins,15 mins,, 8 hrs 20 mins,4 ,4,125,5g,2g,25mg,1095mg,5g,0g,2g,15g,3mg,34mg,2mg,341mg,4.2,5, 8 hrs,,,
+28,6568077,Korean Marinated Flank Steak,15 mins,15 mins,, 8 hrs 30 mins,6 ,6,417,15g,4g,34mg,3661mg,47g,1g,37g,24g,3mg,47mg,4mg,552mg,4.6,37, 8 hrs,,,6 servings
+29,6580675,Grilled or Fried Skirt Steak,10 mins,10 mins,, 1 hr 20 mins,4 ,4,581,47g,10g,72mg,905mg,6g,,4g,30g,4mg,43mg,2mg,359mg,4.2,62, 1 hr,,,
+30,6598905,Tacos de Carne Asada,20 mins,10 mins,, 4 hrs 30 mins,8 ,8,260,22g,5g,36mg,295mg,3g,1g,1g,14g,8mg,13mg,2mg,203mg,4.5,6, 4 hrs,,,8 servings
+31,6593283,Flank Steak Barbecue,10 mins,10 mins,, 4 hrs 30 mins,6 ,6,382,32g,6g,25mg,628mg,11g,0g,9g,14g,1mg,14mg,1mg,208mg,4.6,35, 4 hrs 10 mins,,,
+32,6572356,Sous Vide Flank Steak,10 mins, 1 hr 36 mins,, 1 hr 51 mins,4 ,4,152,8g,2g,25mg,71mg,5g,1g,2g,14g,4mg,30mg,1mg,250mg,,,5 mins,,,4 servings
+33,6565822,Braised Flank Steak in the Oven,10 mins, 1 hr,, 1 hr 10 mins,8 ,8,159,8g,4g,36mg,800mg,7g,1g,0g,14g,5mg,17mg,2mg,293mg,3.0,1,,,,8 servings
+34,6563303,"Sliced Steak, Peppers, and Mushrooms in the Oven",15 mins,25 mins,,40 mins,4 ,4,210,11g,3g,27mg,774mg,10g,3g,5g,17g,36mg,54mg,4mg,610mg,4.7,3,,,,4 servings
+35,6582804,Grilled Flank Steak,5 mins,10 mins,, 4 hrs 15 mins,4 ,4,356,32g,6g,25mg,1140mg,4g,0g,2g,14g,8mg,21mg,1mg,210mg,5.0,1, 4 hrs,,,4 servings
+36,6664756,Spicy Flank Steak,10 mins,10 mins,,40 mins,6 ,6,240,17g,4g,39mg,530mg,2g,1g,1g,19g,1mg,31mg,2mg,266mg,4.1,48,20 mins,,,6 servings
+37,6575962,Carne Asada al Cilantro,15 mins,6 mins,, 8 hrs 21 mins,4 ,4,336,23g,5g,51mg,97mg,2g,0g,0g,28g,3mg,26mg,2mg,384mg,5.0,1, 8 hrs,,,4 servings
+38,6739091,Beerbecue Beef Flank Steak,10 mins,15 mins,, 8 hrs 25 mins,4 ,4,282,7g,3g,37mg,965mg,30g,1g,21g,21g,5mg,74mg,3mg,694mg,4.4,36, 8 hrs,,,4 servings
+39,6741649,Greek Flank Steak,20 mins,12 mins,,32 mins,4 ,4,295,16g,7g,65mg,422mg,4g,2g,1g,33g,24mg,171mg,5mg,934mg,5.0,4,,,,4 servings
+40,6594905,Marinated Flank Steak with Horseradish Cream,15 mins,20 mins,, 8 hrs 50 mins,4 ,4,356,19g,7g,53mg,1366mg,20g,2g,9g,24g,7mg,81mg,3mg,477mg,5.0,2, 8 hrs 15 mins,,,4 servings
+41,6594162,Marinated Grilled Flank Steak,5 mins,10 mins,, 2 hrs 20 mins,4 ,4,165,9g,3g,31mg,476mg,3g,0g,1g,17g,2mg,19mg,1mg,231mg,4.5,2, 2 hrs 5 mins,,,1 flank steak
+42,6567967,Stuffed Flank Steak in the Oven,30 mins,40 mins,, 1 hr 20 mins,10 ,10,365,25g,9g,56mg,1054mg,12g,1g,3g,24g,21mg,210mg,2mg,286mg,,,10 mins,,,10 servings
+43,6584044,Tex-Mex Grilled Flank Steak,5 mins,12 mins,, 8 hrs 27 mins,8 ,8,137,7g,3g,35mg,788mg,2g,,,14g,,5mg,2mg,186mg,,, 8 hrs 10 mins,,,8 servings
+44,6583102,Grilled Sesame Steak,10 mins,20 mins,, 4 hrs 40 mins,4 ,4,640,45g,10g,63mg,1876mg,21g,4g,9g,40g,16mg,175mg,5mg,717mg,4.2,6, 4 hrs 10 mins,,,4 servings
+45,6567255,Baked Flank Steak Roulade Stuffed with Bacon and Cheese,15 mins,55 mins,, 1 hr 15 mins,8 ,8,269,19g,8g,61mg,403mg,2g,1g,0g,21g,1mg,102mg,2mg,297mg,,,5 mins,,,8 servings
+46,6738689,Garlic Fennel Flank Steak with Oranges,15 mins,15 mins,, 2 hrs 40 mins,4 ,4,319,20g,5g,51mg,1219mg,6g,2g,2g,28g,12mg,60mg,3mg,448mg,4.4,5, 2 hrs 10 mins,,,4 servings
+47,6737584,Teriyaki Flank Steak,15 mins,16 mins,, 8 hrs 35 mins,4 ,4,355,21g,5g,38mg,1849mg,14g,1g,10g,23g,1mg,36mg,2mg,391mg,4.7,134, 8 hrs 4 mins,,,4 servings
+48,6562897,Grilled Chili Flank Steak with Chipotle-Tomatillo Salsa,20 mins,30 mins,, 4 hrs 55 mins,6 ,6,228,14g,4g,34mg,733mg,7g,2g,4g,19g,6mg,31mg,2mg,365mg,,, 4 hrs 5 mins,,,6 servings

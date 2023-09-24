@@ -1,36 +1,36 @@
-,id_recipe,Prep Time:,Cook Time:,Cool Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
-0,7563489,15 mins,40 mins,5 mins, 1 hr,6 ,6,668,26g,14g,63mg,1335mg,85g,3g,8g,25g,0mg,330mg,6mg,239mg,,,,
-1,7108606,20 mins,15 mins,,35 mins,8 ,8,158,6g,2g,9mg,486mg,22g,1g,,4g,,,,39mg,,,,
-2,6738026,15 mins,35 mins,,50 mins,8 ,8,322,17g,9g,32mg,436mg,35g,2g,1g,7g,7mg,100mg,2mg,154mg,4.6,550,,
-3,6663280,10 mins,15 mins,,25 mins,10 ,10,274,12g,7g,26mg,489mg,34g,2g,1g,7g,0mg,81mg,2mg,86mg,4.6,100,,
-4,6739796,10 mins,5 mins,,15 mins,10 ,10,213,10g,5g,23mg,376mg,23g,1g,1g,7g,0mg,130mg,1mg,67mg,4.7,"1,048",,
-5,6650883,10 mins,,, 1 hr 10 mins,18 ,18,120,6g,4g,15mg,206mg,13g,1g,0g,3g,,38mg,1mg,33mg,4.9,45, 1 hr,18 slices
-6,6582348,5 mins,5 mins,,10 mins,4 ,4,160,6g,3g,11mg,235mg,22g,1g,3g,4g,0mg,62mg,2mg,57mg,4.5,140,,
-7,6602290,10 mins,25 mins,,35 mins,8 ,8,316,18g,8g,31mg,597mg,33g,2g,2g,7g,1mg,33mg,2mg,96mg,4.7,9,,1 loaf
-8,6578782,5 mins,10 mins,,15 mins,8 ,8,123,4g,1g,1mg,188mg,17g,1g,2g,4g,0mg,72mg,1mg,53mg,4.4,77,,8 breadsticks
-9,6574586,10 mins,10 mins,,20 mins,8 ,8,267,13g,8g,31mg,682mg,32g,1g,2g,7g,0mg,37mg,2mg,79mg,4.6,302,,
-10,6577032,10 mins,15 mins,,25 mins,4 ,4,411,26g,16g,67mg,636mg,35g,2g,3g,10g,1mg,111mg,2mg,138mg,4.6,81,,4 servings
-11,6583621,10 mins,10 mins,,20 mins,8 ,8,555,39g,16g,68mg,872mg,35g,2g,3g,18g,6mg,349mg,3mg,193mg,4.7,168,,8 servings
-12,6664625,15 mins,10 mins,,25 mins,20 ,20,56,2g,1g,5mg,95mg,8g,0g,0g,2g,0mg,20mg,0mg,20mg,4.6,151,,20 servings
-13,6595272,15 mins,25 mins,,40 mins,10 ,10,401,23g,12g,49mg,732mg,35g,2g,1g,14g,2mg,307mg,2mg,111mg,5.0,3,,10 servings
-14,6581674,10 mins,30 mins,, 3 hrs 10 mins,12 ,12,142,2g,1g,3mg,303mg,27g,1g,2g,5g,0mg,17mg,2mg,71mg,4.1,286, 2 hrs 30 mins,1 - 1 1/2 pound loaf
-15,6580667,10 mins,5 mins,,15 mins,6 ,6,399,21g,11g,44mg,847mg,44g,2g,2g,10g,1mg,69mg,3mg,121mg,4.6,491,,
-16,6739696,5 mins,17 mins,,22 mins,24 ,24,65,4g,1g,1mg,191mg,6g,0g,1g,2g,1mg,16mg,0mg,15mg,4.4,215,,2 dozen
-17,6578484,10 mins,5 mins,,15 mins,4 ,4,171,1g,0g,,370mg,34g,2g,2g,7g,2mg,33mg,2mg,91mg,5.0,5,,
-18,6649480,10 mins,15 mins,,25 mins,10 ,10,267,17g,8g,25mg,626mg,25g,1g,4g,4g,1mg,44mg,2mg,114mg,4.4,74,,1 loaf
-19,6573258,10 mins,20 mins,,30 mins,12 ,12,112,8g,4g,11mg,187mg,8g,0g,1g,2g,0mg,12mg,1mg,4mg,4.4,13,,12 slices
-20,6571008,15 mins,5 mins,,20 mins,8 ,8,687,36g,11g,49mg,1207mg,69g,3g,4g,23g,3mg,354mg,4mg,221mg,4.6,188,,2 loaves
-21,6570915,5 mins, 3 hrs,, 3 hrs 5 mins,15 ,15,175,4g,1g,1mg,332mg,30g,1g,3g,5g,1mg,25mg,2mg,61mg,4.2,163,,1 to 2 - pound loaf
-22,6571914,5 mins,10 mins,,15 mins,4 ,4,131,9g,4g,15mg,117mg,11g,1g,1g,2g,5mg,23mg,1mg,56mg,3.8,11,,4 servings
-23,6570241,15 mins,20 mins,,35 mins,12 ,12,289,19g,5g,18mg,472mg,23g,1g,1g,8g,1mg,125mg,2mg,71mg,4.1,85,,12 servings
-24,6664469,20 mins,10 mins,,30 mins,8 ,8,275,25g,15g,61mg,382mg,12g,1g,,2g,,,,32mg,4.5,16,,8 garlic knots
-25,6572345,10 mins,10 mins,,20 mins,8 ,8,267,13g,8g,31mg,451mg,32g,1g,2g,7g,1mg,30mg,2mg,81mg,4.7,11,,1 loaf of garlic bread
-26,6648234,5 mins,5 mins,,10 mins,4 ,4,145,7g,4g,18mg,264mg,16g,1g,,4g,,,,46mg,5.0,2,,
-27,6664383,10 mins,15 mins,,25 mins,8 ,8,218,14g,9g,36mg,517mg,19g,1g,,4g,,,,36mg,4.3,3,,8 garlic knots
-28,6576659,10 mins,15 mins,,25 mins,12 ,12,132,9g,2g,0mg,332mg,11g,1g,2g,2g,0mg,19mg,1mg,58mg,3.7,3,,12 knots
-29,6604104,15 mins,20 mins,,35 mins,35 ,35,84,5g,1g,1mg,226mg,8g,0g,1g,2g,1mg,15mg,1mg,6mg,,,,35 knots
-30,6582906,10 mins,15 mins,,25 mins,8 ,8,444,23g,13g,49mg,821mg,44g,3g,1g,15g,4mg,286mg,3mg,197mg,5.0,2,,8 servings
-31,6663784,10 mins,15 mins,,25 mins,8 ,8,332,18g,11g,48mg,588mg,30g,2g,1g,12g,1mg,270mg,2mg,113mg,4.6,519,,1 1-pound loaf
-32,6602896,10 mins,2 mins,,12 mins,6 ,6,165,1g,0g,,369mg,32g,2g,2g,7g,0mg,29mg,2mg,79mg,4.0,1,,6 servings
-33,6597584,5 mins,2 mins,,10 mins,12 ,12,139,4g,1g,5mg,298mg,20g,1g,1g,5g,0mg,76mg,1mg,55mg,4.3,100,3 mins,12 servings
-34,6562632,5 mins,15 mins,,20 mins,12 ,12,115,6g,2g,9mg,233mg,13g,0g,1g,3g,0mg,16mg,1mg,5mg,,,,12 knots
+,id_recipe,name,Prep Time:,Cook Time:,Cool Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
+0,7563489,"Easy, Cheesy Pull Apart Garlic Bread",15 mins,40 mins,5 mins, 1 hr,6 ,6,668,26g,14g,63mg,1335mg,85g,3g,8g,25g,0mg,330mg,6mg,239mg,,,,
+1,7108606,Garlic Knots,20 mins,15 mins,,35 mins,8 ,8,158,6g,2g,9mg,486mg,22g,1g,,4g,,,,39mg,,,,
+2,6738026,Roasted Garlic Bread,15 mins,35 mins,,50 mins,8 ,8,322,17g,9g,32mg,436mg,35g,2g,1g,7g,7mg,100mg,2mg,154mg,4.6,550,,
+3,6663280,Garlic Bread Spread,10 mins,15 mins,,25 mins,10 ,10,274,12g,7g,26mg,489mg,34g,2g,1g,7g,0mg,81mg,2mg,86mg,4.6,100,,
+4,6739796,Toasted Garlic Bread,10 mins,5 mins,,15 mins,10 ,10,213,10g,5g,23mg,376mg,23g,1g,1g,7g,0mg,130mg,1mg,67mg,4.7,"1,048",,
+5,6650883,Make-Ahead Garlic Toast,10 mins,,, 1 hr 10 mins,18 ,18,120,6g,4g,15mg,206mg,13g,1g,0g,3g,,38mg,1mg,33mg,4.9,46, 1 hr,18 slices
+6,6582348,Emergency Garlic Bread,5 mins,5 mins,,10 mins,4 ,4,160,6g,3g,11mg,235mg,22g,1g,3g,4g,0mg,62mg,2mg,57mg,4.5,140,,
+7,6602290,Homemade Garlic Bread,10 mins,25 mins,,35 mins,8 ,8,316,18g,8g,31mg,597mg,33g,2g,2g,7g,1mg,33mg,2mg,96mg,4.7,9,,1 loaf
+8,6578782,Quick Garlic Breadsticks,5 mins,10 mins,,15 mins,8 ,8,123,4g,1g,1mg,188mg,17g,1g,2g,4g,0mg,72mg,1mg,53mg,4.4,77,,8 breadsticks
+9,6574586,Parmesan Garlic Bread,10 mins,10 mins,,20 mins,8 ,8,267,13g,8g,31mg,682mg,32g,1g,2g,7g,0mg,37mg,2mg,79mg,4.6,302,,
+10,6577032,Easy Cheesy Garlic Bread,10 mins,15 mins,,25 mins,4 ,4,411,26g,16g,67mg,636mg,35g,2g,3g,10g,1mg,111mg,2mg,138mg,4.6,81,,4 servings
+11,6583621,Stef's Super Cheesy Garlic Bread,10 mins,10 mins,,20 mins,8 ,8,555,39g,16g,68mg,872mg,35g,2g,3g,18g,6mg,349mg,3mg,193mg,4.7,168,,8 servings
+12,6664625,Garlic Pita Bread Bites,15 mins,10 mins,,25 mins,20 ,20,56,2g,1g,5mg,95mg,8g,0g,0g,2g,0mg,20mg,0mg,20mg,4.6,151,,20 servings
+13,6595272,Stuffed Italian Bread,15 mins,25 mins,,40 mins,10 ,10,401,23g,12g,49mg,732mg,35g,2g,1g,14g,2mg,307mg,2mg,111mg,5.0,3,,10 servings
+14,6581674,Bread Machine Garlic Bread,10 mins,30 mins,, 3 hrs 10 mins,12 ,12,142,2g,1g,3mg,303mg,27g,1g,2g,5g,0mg,17mg,2mg,71mg,4.1,286, 2 hrs 30 mins,1 - 1 1/2 pound loaf
+15,6580667,Garlic Bread Fantastique,10 mins,5 mins,,15 mins,6 ,6,399,21g,11g,44mg,847mg,44g,2g,2g,10g,1mg,69mg,3mg,121mg,4.6,491,,
+16,6739696,Jimmbo's Garlic Knots,5 mins,17 mins,,22 mins,24 ,24,65,4g,1g,1mg,191mg,6g,0g,1g,2g,1mg,16mg,0mg,15mg,4.4,215,,2 dozen
+17,6578484,Just Garlic Toast,10 mins,5 mins,,15 mins,4 ,4,171,1g,0g,,370mg,34g,2g,2g,7g,2mg,33mg,2mg,91mg,5.0,5,,
+18,6649480,Garlic and Herb Pull Apart Bread,10 mins,15 mins,,25 mins,10 ,10,267,17g,8g,25mg,626mg,25g,1g,4g,4g,1mg,44mg,2mg,114mg,4.4,74,,1 loaf
+19,6573258,Crescent Dough Garlic Bread,10 mins,20 mins,,30 mins,12 ,12,112,8g,4g,11mg,187mg,8g,0g,1g,2g,0mg,12mg,1mg,4mg,4.4,13,,12 slices
+20,6571008,Cheese Onion Garlic Bread,15 mins,5 mins,,20 mins,8 ,8,687,36g,11g,49mg,1207mg,69g,3g,4g,23g,3mg,354mg,4mg,221mg,4.6,188,,2 loaves
+21,6570915,Garlic Bread,5 mins, 3 hrs,, 3 hrs 5 mins,15 ,15,175,4g,1g,1mg,332mg,30g,1g,3g,5g,1mg,25mg,2mg,61mg,4.2,163,,1 to 2 - pound loaf
+22,6571914,Fried Garlic Pita,5 mins,10 mins,,15 mins,4 ,4,131,9g,4g,15mg,117mg,11g,1g,1g,2g,5mg,23mg,1mg,56mg,3.8,11,,4 servings
+23,6570241,Unbelievable Grilled Garlic Bread,15 mins,20 mins,,35 mins,12 ,12,289,19g,5g,18mg,472mg,23g,1g,1g,8g,1mg,125mg,2mg,71mg,4.1,85,,12 servings
+24,6664469,Two-Ingredient Dough Garlic Knots,20 mins,10 mins,,30 mins,8 ,8,275,25g,15g,61mg,382mg,12g,1g,,2g,,,,32mg,4.5,16,,8 garlic knots
+25,6572345,Lisa's Best Ever Garlic Bread,10 mins,10 mins,,20 mins,8 ,8,267,13g,8g,31mg,451mg,32g,1g,2g,7g,1mg,30mg,2mg,81mg,4.7,11,,1 loaf of garlic bread
+26,6648234,Grilled Garlic Bread,5 mins,5 mins,,10 mins,4 ,4,145,7g,4g,18mg,264mg,16g,1g,,4g,,,,46mg,5.0,2,,
+27,6664383,2-Ingredient Dough Garlic Knots,10 mins,15 mins,,25 mins,8 ,8,218,14g,9g,36mg,517mg,19g,1g,,4g,,,,36mg,4.3,3,,8 garlic knots
+28,6576659,Rosemary Garlic Knots,10 mins,15 mins,,25 mins,12 ,12,132,9g,2g,0mg,332mg,11g,1g,2g,2g,0mg,19mg,1mg,58mg,3.7,3,,12 knots
+29,6604104,Extra Garlicky Garlic Knots,15 mins,20 mins,,35 mins,35 ,35,84,5g,1g,1mg,226mg,8g,0g,1g,2g,1mg,15mg,1mg,6mg,,,,35 knots
+30,6582906,Cheesy Grilled Bread,10 mins,15 mins,,25 mins,8 ,8,444,23g,13g,49mg,821mg,44g,3g,1g,15g,4mg,286mg,3mg,197mg,5.0,2,,8 servings
+31,6663784,Great Garlic Bread,10 mins,15 mins,,25 mins,8 ,8,332,18g,11g,48mg,588mg,30g,2g,1g,12g,1mg,270mg,2mg,113mg,4.6,519,,1 1-pound loaf
+32,6602896,Herbed Garlic Bread,10 mins,2 mins,,12 mins,6 ,6,165,1g,0g,,369mg,32g,2g,2g,7g,0mg,29mg,2mg,79mg,4.0,1,,6 servings
+33,6597584,The Best Garlic Bread,5 mins,2 mins,,10 mins,12 ,12,139,4g,1g,5mg,298mg,20g,1g,1g,5g,0mg,76mg,1mg,55mg,4.3,100,3 mins,12 servings
+34,6562632,Parmesan Garlic Knots,5 mins,15 mins,,20 mins,12 ,12,115,6g,2g,9mg,233mg,13g,0g,1g,3g,0mg,16mg,1mg,5mg,,,,12 knots

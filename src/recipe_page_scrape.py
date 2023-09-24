@@ -219,7 +219,7 @@ def main():
             file_paths.append(file_path)
 
     # Now, file_paths contains all the file paths in the specified folder and its subdirectories
-    for file_path in file_paths[0]:
+    for file_path in file_paths:
         try:
             scraper_engine(file_path)
         except:
@@ -237,10 +237,12 @@ def rerunErrors():
     for file_path in df_err['error_files']:
         try:
             scraper_engine(file_path)
+            print(f'{file_path} is complete')
         except:
             error_paths.append(file_path)
+        
 
     e_df= pd.DataFrame({'error_files':error_paths})
     e_df.to_csv(f'{errors}\error_files.csv')
 
-main(cat_dir)
+main()

@@ -1,25 +1,25 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Vitamin C
-0,6650714,15 mins,10 mins,25 mins,12 ,2 dozen,12,490,31g,20g,81mg,219mg,49g,1g,17g,5g,16mg,2mg,55mg,4.5,"1,099",,
-1,6648786,15 mins,10 mins, 1 hr 40 mins,36 ,3 dozen,36,103,5g,3g,19mg,55mg,13g,0g,6g,1g,4mg,1mg,14mg,4.2,305, 1 hr 15 mins,
-2,6738500,10 mins,6 mins,18 mins,36 ,3 dozen,36,97,5g,3g,25mg,69mg,11g,0g,4g,1g,4mg,0mg,12mg,4.2,432,2 mins,
-3,6596060,10 mins,15 mins, 1 hr,72 ,6 dozen,72,54,3g,2g,11mg,22mg,6g,0g,3g,1g,3mg,0mg,7mg,4.2,247,35 mins,
-4,6587287,35 mins,10 mins, 1 hr 10 mins,36 ,6 dozen,36,83,4g,3g,8mg,25mg,10g,1g,6g,1g,2mg,1mg,11mg,4.3,24,25 mins,
-5,6591058,,,,48 ,8 dozen,48,106,6g,4g,24mg,4mg,12g,0g,4g,1g,4mg,1mg,16mg,3.9,77,,
-6,6569030,25 mins,10 mins,35 mins,24 ,2 dozen,24,116,8g,5g,20mg,55mg,11g,0g,3g,1g,4mg,0mg,11mg,4.0,175,,
-7,6737065,15 mins,15 mins,30 mins,36 ,6 dozen,36,105,6g,4g,22mg,60mg,12g,0g,6g,1g,6mg,0mg,14mg,4.5,496,,0mg
-8,6738029,,,,24 ,4 dozen,24,144,8g,5g,46mg,56mg,16g,0g,6g,2g,7mg,1mg,19mg,4.1,193,,
-9,6600650,20 mins,10 mins,30 mins,45 ,45 cookies,45,84,3g,1g,4mg,28mg,13g,0g,9g,1g,3mg,0mg,22mg,3.4,51,,
-10,6573833,45 mins,35 mins, 1 hr 20 mins,48 ,4 dozen cookies,48,84,5g,3g,14mg,43mg,9g,0g,4g,1g,8mg,0mg,24mg,4.2,28,,
-11,6591038,15 mins,10 mins,25 mins,84 ,84 cookies,84,58,3g,2g,11mg,30mg,6g,0g,2g,1g,6mg,0mg,11mg,3.8,17,,
-12,6568557,20 mins,10 mins,30 mins,54 ,4 1/2 dozen cookies,54,60,4g,3g,11mg,29mg,5g,0g,2g,1g,3mg,0mg,8mg,3.5,2,,
-13,6604103,25 mins,15 mins,40 mins,48 ,48 cookies,48,82,5g,3g,16mg,57mg,9g,0g,4g,1g,4mg,0mg,11mg,5.0,3,,0mg
-14,6573491,20 mins,10 mins,32 mins,42 ,42 cookies,42,75,5g,3g,21mg,7mg,8g,0g,2g,1g,7mg,0mg,10mg,4.3,6,2 mins,
-15,6604505,,,,42 ,7 dozen,42,91,5g,1g,4mg,24mg,11g,0g,5g,1g,4mg,0mg,14mg,4.3,23,,0mg
-16,6602440,15 mins,10 mins,35 mins,72 ,6 dozen,72,83,5g,3g,16mg,38mg,8g,0g,3g,1g,3mg,0mg,8mg,4.0,8,10 mins,
-17,6590845,30 mins,8 mins, 1 hr 30 mins,42 ,7 dozen,42,110,6g,2g,10mg,49mg,14g,,8g,1g,3mg,,2mg,4.6,5,52 mins,
-18,6604355,,,,60 ,4 to 5 - dozen,60,66,3g,2g,18mg,36mg,8g,0g,3g,1g,5mg,1mg,9mg,4.0,36,,
-19,6599428,15 mins,15 mins,30 mins,36 ,3 dozen cookies,36,113,6g,4g,20mg,88mg,14g,0g,5g,2g,14mg,1mg,30mg,5.0,2,,
-20,6664434,30 mins,15 mins,45 mins,60 ,5 dozen cookies,60,41,2g,1g,9mg,24mg,5g,0g,2g,1g,3mg,0mg,7mg,5.0,2,,0mg
-21,6572785,,,,6 ,12 cookies,6,531,26g,10g,23mg,399mg,71g,2g,37g,6g,252mg,3mg,162mg,4.4,7,,0mg
-22,6592007,25 mins,25 mins,50 mins,72 ,72 cookies,72,60,3g,2g,14mg,31mg,7g,0g,4g,1g,6mg,0mg,11mg,5.0,1,,
-23,6576863,,,,54 ,9 dozen,54,84,5g,3g,16mg,33mg,10g,0g,3g,1g,3mg,0mg,13mg,3.2,5,,1mg
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Vitamin C
+0,6650714,Shortbread Cookies,15 mins,10 mins,25 mins,12 ,2 dozen,12,490,31g,20g,81mg,219mg,49g,1g,17g,5g,16mg,2mg,55mg,4.5,"1,099",,
+1,6648786,Butter Cookies,15 mins,10 mins, 1 hr 40 mins,36 ,3 dozen,36,103,5g,3g,19mg,55mg,13g,0g,6g,1g,4mg,1mg,14mg,4.2,305, 1 hr 15 mins,
+2,6738500,Butter Rich Spritz Butter Cookies,10 mins,6 mins,18 mins,36 ,3 dozen,36,97,5g,3g,25mg,69mg,11g,0g,4g,1g,4mg,0mg,12mg,4.2,432,2 mins,
+3,6596060,Cream Cheese Cookies I,10 mins,15 mins, 1 hr,72 ,6 dozen,72,54,3g,2g,11mg,22mg,6g,0g,3g,1g,3mg,0mg,7mg,4.2,247,35 mins,
+4,6587287,Langues de Chat,35 mins,10 mins, 1 hr 10 mins,36 ,6 dozen,36,83,4g,3g,8mg,25mg,10g,1g,6g,1g,2mg,1mg,11mg,4.3,24,25 mins,
+5,6591058,Cookie Press Butter Cookies,,,,48 ,8 dozen,48,106,6g,4g,24mg,4mg,12g,0g,4g,1g,4mg,1mg,16mg,3.9,77,,
+6,6569030,Cookie Press Shortbread,25 mins,10 mins,35 mins,24 ,2 dozen,24,116,8g,5g,20mg,55mg,11g,0g,3g,1g,4mg,0mg,11mg,4.0,175,,
+7,6737065,Snowflake Spritz Cookies,15 mins,15 mins,30 mins,36 ,6 dozen,36,105,6g,4g,22mg,60mg,12g,0g,6g,1g,6mg,0mg,14mg,4.5,496,,0mg
+8,6738029,Spritz Cookies II,,,,24 ,4 dozen,24,144,8g,5g,46mg,56mg,16g,0g,6g,2g,7mg,1mg,19mg,4.1,193,,
+9,6600650,Chocolate Press Cookies,20 mins,10 mins,30 mins,45 ,45 cookies,45,84,3g,1g,4mg,28mg,13g,0g,9g,1g,3mg,0mg,22mg,3.4,51,,
+10,6573833,Swedish Ground Almond Spritz Cookies,45 mins,35 mins, 1 hr 20 mins,48 ,4 dozen cookies,48,84,5g,3g,14mg,43mg,9g,0g,4g,1g,8mg,0mg,24mg,4.2,28,,
+11,6591038,Chocolate Spritz (Cookie Press),15 mins,10 mins,25 mins,84 ,84 cookies,84,58,3g,2g,11mg,30mg,6g,0g,2g,1g,6mg,0mg,11mg,3.8,17,,
+12,6568557,Cream Cheese Spritz Cookies,20 mins,10 mins,30 mins,54 ,4 1/2 dozen cookies,54,60,4g,3g,11mg,29mg,5g,0g,2g,1g,3mg,0mg,8mg,3.5,2,,
+13,6604103,Lemon Spritz Cookies,25 mins,15 mins,40 mins,48 ,48 cookies,48,82,5g,3g,16mg,57mg,9g,0g,4g,1g,4mg,0mg,11mg,5.0,3,,0mg
+14,6573491,My Mom's Spritz Cookies,20 mins,10 mins,32 mins,42 ,42 cookies,42,75,5g,3g,21mg,7mg,8g,0g,2g,1g,7mg,0mg,10mg,4.3,6,2 mins,
+15,6604505,Spritz Orange Crisps,,,,42 ,7 dozen,42,91,5g,1g,4mg,24mg,11g,0g,5g,1g,4mg,0mg,14mg,4.3,23,,0mg
+16,6602440,Spritz Cookies V,15 mins,10 mins,35 mins,72 ,6 dozen,72,83,5g,3g,16mg,38mg,8g,0g,3g,1g,3mg,0mg,8mg,4.0,8,10 mins,
+17,6590845,Holiday Spritz Cookies,30 mins,8 mins, 1 hr 30 mins,42 ,7 dozen,42,110,6g,2g,10mg,49mg,14g,,8g,1g,3mg,,2mg,4.6,5,52 mins,
+18,6604355,Spritz Cookies IV,,,,60 ,4 to 5 - dozen,60,66,3g,2g,18mg,36mg,8g,0g,3g,1g,5mg,1mg,9mg,4.0,36,,
+19,6599428,Salted Caramel Spritz,15 mins,15 mins,30 mins,36 ,3 dozen cookies,36,113,6g,4g,20mg,88mg,14g,0g,5g,2g,14mg,1mg,30mg,5.0,2,,
+20,6664434,Lemon Cheesecake Cookies,30 mins,15 mins,45 mins,60 ,5 dozen cookies,60,41,2g,1g,9mg,24mg,5g,0g,2g,1g,3mg,0mg,7mg,5.0,2,,0mg
+21,6572785,Upside Down Cookies,,,,6 ,12 cookies,6,531,26g,10g,23mg,399mg,71g,2g,37g,6g,252mg,3mg,162mg,4.4,7,,0mg
+22,6592007,Best Spritz Cookies,25 mins,25 mins,50 mins,72 ,72 cookies,72,60,3g,2g,14mg,31mg,7g,0g,4g,1g,6mg,0mg,11mg,5.0,1,,
+23,6576863,Spritz,,,,54 ,9 dozen,54,84,5g,3g,16mg,33mg,10g,0g,3g,1g,3mg,0mg,13mg,3.2,5,,1mg

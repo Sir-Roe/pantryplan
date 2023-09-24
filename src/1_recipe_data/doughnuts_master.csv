@@ -1,61 +1,61 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Rise Time:,Stand Time:,Active Time:,Fry Time:,Cool Time:,Chill Time:,Additional Time:
-0,7504941,15 mins,13 mins,28 mins,10 ,10 apple fritters,10,234,8g,5g,38mg,129mg,37g,1g,22g,3g,1mg,90mg,1mg,77mg,5.0,1,,,,,,,
-1,6569351,15 mins,25 mins,40 mins,35 ,,35,69,5g,1g,12mg,24mg,5g,0g,2g,1g,,13mg,0mg,8mg,4.5,161,,,,,,,
-2,6650503,10 mins,10 mins,20 mins,4 ,,4,4263,455g,30g,0mg,268mg,57g,1g,33g,3g,0mg,13mg,2mg,37mg,4.4,830,,,,,,,
-3,6664691,10 mins,10 mins,20 mins,6 ,,6,524,33g,5g,67mg,303mg,50g,1g,18g,8g,0mg,122mg,2mg,160mg,4.5,245,,,,,,,
-4,7111578,45 mins,10 mins, 3 hrs 30 mins,20 ,20 doughnuts,,,,,,,,,,,,,,,,, 2 hrs 5 mins,30 mins,,,,,
-5,7111100,40 mins,30 mins, 1 hr 40 mins,72 ,72 donut holes,,,,,,,,,,,,,,,,,,30 mins,,,,,
-6,6891086,,, 1 hr 20 mins,9 ,9 donuts,9,355,11g,3g,33mg,233mg,62g,2g,,5g,,,,49mg,,,,, 1 hr,10 mins,10 mins,,
-7,6832598, 1 hr,35 mins, 4 hrs 5 mins,8 ,8 donuts,8,659,20g,11g,94mg,378mg,117g,1g,,5g,,,,81mg,,,,25 mins,,,5 mins, 2 hrs,
-8,6737520,15 mins,20 mins,45 mins,12 ,12 donuts,12,276,7g,4g,32mg,168mg,52g,1g,35g,3g,8mg,53mg,1mg,80mg,4.5,38,,,,,,,10 mins
-9,6579999,10 mins,15 mins,25 mins,12 ,12 doughnuts,12,202,10g,3g,21mg,302mg,25g,1g,9g,3g,,65mg,1mg,45mg,4.4,489,,,,,,,
-10,6664120,10 mins,30 mins, 2 hrs 40 mins,18 ,18 doughnuts,18,331,13g,4g,31mg,171mg,47g,1g,20g,5g,,34mg,2mg,93mg,4.7,"1,356",,,,,,, 2 hrs
-11,6650768,30 mins,30 mins, 3 hrs,10 ,,10,543,18g,4g,45mg,277mg,83g,3g,16g,12g,1mg,86mg,4mg,202mg,4.7,321,,,,,,, 2 hrs
-12,6664341,15 mins,15 mins,30 mins,18 ,,18,148,7g,1g,11mg,74mg,20g,0g,9g,2g,,10mg,1mg,27mg,4.1,354,,,,,,,
-13,6650507,20 mins,15 mins,35 mins,24 ,,24,118,5g,1g,16mg,98mg,17g,1g,3g,2g,1mg,35mg,1mg,41mg,4.6,492,,,,,,,
-14,6593944,10 mins,5 mins,15 mins,6 ,24 fritters,6,408,19g,3g,64mg,427mg,53g,2g,16g,8g,4mg,141mg,3mg,240mg,4.0,87,,,,,,,
-15,6584330,15 mins,15 mins, 1 hr 30 mins,18 ,18 donuts,18,160,6g,1g,11mg,75mg,22g,1g,4g,4g,,22mg,1mg,60mg,4.6,21,,,,,,, 1 hr
-16,6568239,20 mins,10 mins,30 mins,18 ,36 mini doughnuts,18,76,3g,2g,9mg,51mg,11g,0g,,1g,,15mg,0mg,12mg,4.3,95,,,,,,,
-17,6649866,20 mins,10 mins, 1 hr 35 mins,12 ,1 dozen,12,270,9g,1g,17mg,405mg,46g,2g,25g,5g,1mg,44mg,2mg,240mg,4.3,51,,,,,,, 1 hr 5 mins
-18,6583053,20 mins,25 mins, 9 hrs 15 mins,14 ,14 koeksisters,14,538,33g,5g,5mg,145mg,60g,1g,,2g,3mg,75mg,2mg,44mg,5.0,2,,,,,,, 8 hrs 30 mins
-19,6590436,10 mins,30 mins,40 mins,12 ,24 panikeke,12,337,11g,2g,,83mg,55g,2g,25g,4g,2mg,53mg,2mg,112mg,4.6,60,,,,,,,
-20,6585863,20 mins,15 mins,35 mins,8 ,48 sticks,8,266,12g,5g,15mg,267mg,38g,1g,24g,2g,2mg,12mg,1mg,20mg,4.5,15,,,,,,,
-21,6739037, 1 hr,, 5 hrs 5 mins,14 ,14 dough cronuts,14,241,12g,8g,45mg,189mg,28g,1g,3g,4g,,21mg,2mg,67mg,4.8,24,,,,,,, 4 hrs 5 mins
-22,6585132,15 mins,5 mins,25 mins,6 ,6 churros,6,173,10g,6g,84mg,112mg,18g,0g,9g,4g,,39mg,1mg,67mg,3.0,24,,,,,,,5 mins
-23,6602144,18 mins,12 mins,30 mins,12 ,12 servings,12,280,10g,6g,68mg,259mg,44g,1g,19g,6g,0mg,76mg,2mg,88mg,3.6,149,,,,,,,
-24,6737872,20 mins,10 mins,30 mins,12 ,12 doughnuts,12,196,2g,1g,32mg,272mg,40g,1g,24g,4g,,60mg,1mg,58mg,4.0,313,,,,,,,
-25,6651127,30 mins,20 mins, 1 hr 55 mins,20 ,20 pastries,20,284,10g,2g,29mg,192mg,46g,4g,24g,6g,,30mg,2mg,171mg,4.8,44,,,,,,, 1 hr 5 mins
-26,6648389,15 mins,10 mins,35 mins,8 ,16 small apple fritters,8,248,9g,3g,31mg,243mg,40g,2g,23g,3g,3mg,62mg,1mg,110mg,4.7,200,,,,,,,10 mins
-27,6578508,,,,84 ,7 dozen,84,89,3g,1g,16mg,40mg,13g,0g,6g,2g,0mg,11mg,1mg,25mg,4.3,85,,,,,,,
-28,6576747, 1 hr,15 mins, 3 hrs,24 ,2 dozen doughnuts,24,207,11g,2g,16mg,107mg,24g,1g,8g,3g,,15mg,1mg,51mg,4.8,233,,,,,,, 1 hr 45 mins
-29,6739463,10 mins,20 mins,30 mins,50 ,50 donuts,50,101,5g,1g,10mg,63mg,14g,0g,8g,1g,,24mg,0mg,19mg,3.9,14,,,,,,,
-30,6580677,10 mins,13 mins,38 mins,24 ,24 fritters,24,129,4g,1g,8mg,71mg,23g,0g,19g,1g,1mg,26mg,0mg,29mg,4.1,17,,,,,,,15 mins
-31,6604795,10 mins,10 mins,20 mins,8 ,8 doughnuts,8,310,14g,6g,16mg,613mg,44g,1g,23g,4g,,40mg,2mg,105mg,4.4,10,,,,,,,
-32,6578125,30 mins,15 mins, 4 hrs,60 ,5 dozen,60,107,4g,1g,10mg,74mg,15g,0g,4g,2g,,14mg,1mg,35mg,4.6,16,,,,,,, 3 hrs 15 mins
-33,6568978,15 mins,15 mins, 2 hrs 10 mins,15 ,15 fried breads,15,103,6g,1g,,1mg,11g,0g,1g,2g,,3mg,1mg,23mg,2.9,17,,,,,,, 1 hr 40 mins
-34,6600745,15 mins,10 mins,25 mins,16 ,16 servings,16,124,6g,3g,20mg,216mg,17g,0g,8g,2g,,31mg,1mg,32mg,3.4,14,,,,,,,
-35,6580885,20 mins,30 mins, 1 hr,24 ,,24,219,8g,2g,29mg,160mg,34g,1g,19g,3g,,34mg,1mg,30mg,4.0,12,,,,,,,10 mins
-36,6599150, 2 hrs,15 mins, 2 hrs 15 mins,16 ,16 doughnuts and holes,16,257,15g,4g,21mg,167mg,29g,1g,13g,3g,,61mg,1mg,51mg,4.1,224,,,,,,,
-37,6576221,10 mins,15 mins,25 mins,12 ,4 cakes,12,147,8g,1g,17mg,91mg,16g,0g,5g,2g,,37mg,1mg,41mg,4.4,122,,,,,,,
-38,6595549,15 mins,30 mins,45 mins,8 ,,8,303,15g,3g,93mg,97mg,41g,0g,37g,4g,0mg,49mg,1mg,50mg,3.1,8,,,,,,,
-39,6602590,25 mins,16 mins,41 mins,9 ,9 doughnuts,9,276,10g,6g,66mg,390mg,44g,1g,19g,4g,0mg,74mg,2mg,59mg,2.8,20,,,,,,,
-40,6587427,15 mins,20 mins,35 mins,16 ,16 servings,16,80,4g,1g,35mg,159mg,9g,0g,0g,2g,,7mg,1mg,25mg,4.1,9,,,,,,,
-41,6736371,30 mins,30 mins, 1 hr 30 mins,12 ,12 servings,12,503,15g,3g,37mg,231mg,81g,2g,21g,11g,0mg,73mg,4mg,179mg,4.6,259,,,,,,,30 mins
-42,6574475,20 mins,35 mins, 2 hrs,24 ,24 doughnuts,24,194,7g,2g,23mg,54mg,29g,1g,13g,3g,,20mg,1mg,52mg,3.9,122,,,,,,, 1 hr 5 mins
-43,6590428,25 mins,10 mins,35 mins,24 ,24 mini doughnuts,24,211,9g,4g,27mg,177mg,31g,1g,18g,3g,1mg,45mg,1mg,52mg,4.8,16,,,,,,,
-44,6603848,20 mins,5 mins,25 mins,36 ,,36,172,5g,2g,18mg,189mg,30g,1g,17g,3g,0mg,30mg,1mg,46mg,4.1,38,,,,,,,
-45,6591508,10 mins,20 mins,30 mins,6 ,,6,365,13g,2g,34mg,906mg,52g,2g,4g,9g,0mg,333mg,4mg,141mg,4.3,7,,,,,,,
-46,6573718,30 mins,40 mins, 3 hrs 30 mins,16 ,16 doughnuts,16,198,14g,3g,14mg,172mg,16g,1g,4g,2g,,13mg,1mg,36mg,4.2,61,,,,,,, 2 hrs 20 mins
-47,6590849,20 mins,25 mins, 1 hr,12 ,12 donuts,12,247,6g,2g,32mg,276mg,46g,1g,28g,4g,0mg,55mg,1mg,66mg,4.4,17,,,,,,,15 mins
-48,6573268,10 mins,45 mins,55 mins,48 ,,48,145,11g,3g,34mg,115mg,10g,0g,2g,3g,0mg,31mg,1mg,56mg,4.7,17,,,,,,,
-49,6648628,20 mins,5 mins,50 mins,6 ,6 donuts,6,595,25g,6g,74mg,580mg,84g,2g,36g,10g,0mg,113mg,3mg,155mg,4.2,6,,,,,,,25 mins
-50,6593035,15 mins,10 mins,25 mins,4 ,4 servings,4,391,30g,7g,47mg,20mg,30g,3g,19g,4g,0mg,10mg,1mg,60mg,4.4,16,,,,,,,
-51,6663674,15 mins,10 mins,45 mins,6 ,6 donuts,6,246,19g,2g,62mg,307mg,14g,3g,7g,8g,,85mg,1mg,70mg,4.5,15,,,,,,,20 mins
-52,6588534,25 mins,2 mins,27 mins,36 ,3 dozen,36,107,5g,1g,9mg,111mg,15g,0g,10g,1g,0mg,45mg,1mg,30mg,4.8,9,,,,,,,
-53,6576816,10 mins,5 mins,15 mins,18 ,18 fritters,18,491,49g,6g,,28mg,14g,1g,7g,1g,3mg,18mg,0mg,146mg,4.1,34,,,,,,,
-54,6606027,10 mins,5 mins,15 mins,6 ,,6,916,79g,6g,62mg,285mg,52g,2g,30g,5g,4mg,68mg,1mg,217mg,4.3,226,,,,,,,
-55,6585852,15 mins,15 mins,30 mins,48 ,4 dozen,48,374,38g,3g,8mg,43mg,8g,0g,4g,1g,1mg,13mg,0mg,17mg,4.3,81,,,,,,,
-56,6737721,10 mins,10 mins,20 mins,16 ,12 to 20 cakes,16,263,10g,2g,50mg,213mg,37g,1g,8g,7g,0mg,105mg,2mg,119mg,4.7,502,,,,,,,
-57,6580842,10 mins,10 mins,50 mins,21 ,21 donut bites,21,132,3g,2g,15mg,153mg,26g,1g,15g,2g,0mg,57mg,1mg,34mg,5.0,1,,,,,,,30 mins
-58,6578580,15 mins,45 mins, 2 hrs 40 mins,24 ,24 churros,24,134,12g,2g,23mg,77mg,6g,0g,2g,1g,,6mg,0mg,16mg,4.5,91,,,,,,, 1 hr 40 mins
-59,6598415,10 mins,10 mins,20 mins,4 ,1 cake,4,288,4g,1g,49mg,574mg,57g,1g,27g,7g,0mg,189mg,2mg,107mg,4.4,11,,,,,,,
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Rise Time:,Stand Time:,Active Time:,Fry Time:,Cool Time:,Chill Time:,Additional Time:
+0,7504941,Baked Apple Fritters,15 mins,13 mins,28 mins,10 ,10 apple fritters,10,234,8g,5g,38mg,129mg,37g,1g,22g,3g,1mg,90mg,1mg,77mg,5.0,1,,,,,,,
+1,6569351,Zeppole,15 mins,25 mins,40 mins,35 ,,35,69,5g,1g,12mg,24mg,5g,0g,2g,1g,,13mg,0mg,8mg,4.5,161,,,,,,,
+2,6650503,Churros,10 mins,10 mins,20 mins,4 ,,4,4263,455g,30g,0mg,268mg,57g,1g,33g,3g,0mg,13mg,2mg,37mg,4.4,831,,,,,,,
+3,6664691,Funnel Cakes,10 mins,10 mins,20 mins,6 ,,6,524,33g,5g,67mg,303mg,50g,1g,18g,8g,0mg,122mg,2mg,160mg,4.5,245,,,,,,,
+4,7111578,Classic Glazed Doughnuts,45 mins,10 mins, 3 hrs 30 mins,20 ,20 doughnuts,,,,,,,,,,,,,,,,, 2 hrs 5 mins,30 mins,,,,,
+5,7111100,Munchable Donut Holes,40 mins,30 mins, 1 hr 40 mins,72 ,72 donut holes,,,,,,,,,,,,,,,,,,30 mins,,,,,
+6,6891086,Mochi Donuts,,, 1 hr 20 mins,9 ,9 donuts,9,355,11g,3g,33mg,233mg,62g,2g,,5g,,,,49mg,,,,, 1 hr,10 mins,10 mins,,
+7,6832598,Sour Cream Donuts, 1 hr,35 mins, 4 hrs 5 mins,8 ,8 donuts,8,659,20g,11g,94mg,378mg,117g,1g,,5g,,,,81mg,,,,25 mins,,,5 mins, 2 hrs,
+8,6737520,Baked Apple Cider Donuts,15 mins,20 mins,45 mins,12 ,12 donuts,12,276,7g,4g,32mg,168mg,52g,1g,35g,3g,8mg,53mg,1mg,80mg,4.5,38,,,,,,,10 mins
+9,6579999,Best Cake Doughnuts,10 mins,15 mins,25 mins,12 ,12 doughnuts,12,202,10g,3g,21mg,302mg,25g,1g,9g,3g,,65mg,1mg,45mg,4.4,490,,,,,,,
+10,6664120,Crispy and Creamy Doughnuts,10 mins,30 mins, 2 hrs 40 mins,18 ,18 doughnuts,18,331,13g,4g,31mg,171mg,47g,1g,20g,5g,,34mg,2mg,93mg,4.7,"1,356",,,,,,, 2 hrs
+11,6650768,Beignets,30 mins,30 mins, 3 hrs,10 ,,10,543,18g,4g,45mg,277mg,83g,3g,16g,12g,1mg,86mg,4mg,202mg,4.7,321,,,,,,, 2 hrs
+12,6664341,Easy Homemade Doughnuts,15 mins,15 mins,30 mins,18 ,,18,148,7g,1g,11mg,74mg,20g,0g,9g,2g,,10mg,1mg,27mg,4.1,354,,,,,,,
+13,6650507,Mom's Apple Fritters,20 mins,15 mins,35 mins,24 ,,24,118,5g,1g,16mg,98mg,17g,1g,3g,2g,1mg,35mg,1mg,41mg,4.6,492,,,,,,,
+14,6593944,Banana Fritters,10 mins,5 mins,15 mins,6 ,24 fritters,6,408,19g,3g,64mg,427mg,53g,2g,16g,8g,4mg,141mg,3mg,240mg,4.0,87,,,,,,,
+15,6584330,Mandazi (African Donuts),15 mins,15 mins, 1 hr 30 mins,18 ,18 donuts,18,160,6g,1g,11mg,75mg,22g,1g,4g,4g,,22mg,1mg,60mg,4.6,21,,,,,,, 1 hr
+16,6568239,Baked Mini Doughnuts,20 mins,10 mins,30 mins,18 ,36 mini doughnuts,18,76,3g,2g,9mg,51mg,11g,0g,,1g,,15mg,0mg,12mg,4.3,95,,,,,,,
+17,6649866,Oliebollen (Dutch Doughnuts),20 mins,10 mins, 1 hr 35 mins,12 ,1 dozen,12,270,9g,1g,17mg,405mg,46g,2g,25g,5g,1mg,44mg,2mg,240mg,4.3,51,,,,,,, 1 hr 5 mins
+18,6583053,South African Koeksisters,20 mins,25 mins, 9 hrs 15 mins,14 ,14 koeksisters,14,538,33g,5g,5mg,145mg,60g,1g,,2g,3mg,75mg,2mg,44mg,5.0,2,,,,,,, 8 hrs 30 mins
+19,6590436,Samoan Panikeke,10 mins,30 mins,40 mins,12 ,24 panikeke,12,337,11g,2g,,83mg,55g,2g,25g,4g,2mg,53mg,2mg,112mg,4.6,60,,,,,,,
+20,6585863,Air Fryer Donut Sticks,20 mins,15 mins,35 mins,8 ,48 sticks,8,266,12g,5g,15mg,267mg,38g,1g,24g,2g,2mg,12mg,1mg,20mg,4.5,15,,,,,,,
+21,6739037,"How to Make Cronuts, Part I (The Dough)", 1 hr,, 5 hrs 5 mins,14 ,14 dough cronuts,14,241,12g,8g,45mg,189mg,28g,1g,3g,4g,,21mg,2mg,67mg,4.8,24,,,,,,, 4 hrs 5 mins
+22,6585132,Air Fryer Churros,15 mins,5 mins,25 mins,6 ,6 churros,6,173,10g,6g,84mg,112mg,18g,0g,9g,4g,,39mg,1mg,67mg,3.0,24,,,,,,,5 mins
+23,6602144,Baked Doughnuts,18 mins,12 mins,30 mins,12 ,12 servings,12,280,10g,6g,68mg,259mg,44g,1g,19g,6g,0mg,76mg,2mg,88mg,3.6,149,,,,,,,
+24,6737872,Fluffy Cake Doughnuts,20 mins,10 mins,30 mins,12 ,12 doughnuts,12,196,2g,1g,32mg,272mg,40g,1g,24g,4g,,60mg,1mg,58mg,4.0,313,,,,,,,
+25,6651127,Thera's Canadian Fried Dough,30 mins,20 mins, 1 hr 55 mins,20 ,20 pastries,20,284,10g,2g,29mg,192mg,46g,4g,24g,6g,,30mg,2mg,171mg,4.8,44,,,,,,, 1 hr 5 mins
+26,6648389,Chef John's Apple Fritters,15 mins,10 mins,35 mins,8 ,16 small apple fritters,8,248,9g,3g,31mg,243mg,40g,2g,23g,3g,3mg,62mg,1mg,110mg,4.7,200,,,,,,,10 mins
+27,6578508,Malasadas,,,,84 ,7 dozen,84,89,3g,1g,16mg,40mg,13g,0g,6g,2g,0mg,11mg,1mg,25mg,4.3,85,,,,,,,
+28,6576747,My Mom's Raised Doughnuts, 1 hr,15 mins, 3 hrs,24 ,2 dozen doughnuts,24,207,11g,2g,16mg,107mg,24g,1g,8g,3g,,15mg,1mg,51mg,4.8,233,,,,,,, 1 hr 45 mins
+29,6739463,County Fair Style Kool-Aid Drop Doughnuts,10 mins,20 mins,30 mins,50 ,50 donuts,50,101,5g,1g,10mg,63mg,14g,0g,8g,1g,,24mg,0mg,19mg,3.9,14,,,,,,,
+30,6580677,Pineapple Fritters,10 mins,13 mins,38 mins,24 ,24 fritters,24,129,4g,1g,8mg,71mg,23g,0g,19g,1g,1mg,26mg,0mg,29mg,4.1,17,,,,,,,15 mins
+31,6604795,Air Fryer Cinnamon-Sugar Doughnuts,10 mins,10 mins,20 mins,8 ,8 doughnuts,8,310,14g,6g,16mg,613mg,44g,1g,23g,4g,,40mg,2mg,105mg,4.4,10,,,,,,,
+32,6578125,Nana's Fastnachts,30 mins,15 mins, 4 hrs,60 ,5 dozen,60,107,4g,1g,10mg,74mg,15g,0g,4g,2g,,14mg,1mg,35mg,4.6,16,,,,,,, 3 hrs 15 mins
+33,6568978,Zeppoli,15 mins,15 mins, 2 hrs 10 mins,15 ,15 fried breads,15,103,6g,1g,,1mg,11g,0g,1g,2g,,3mg,1mg,23mg,2.9,17,,,,,,, 1 hr 40 mins
+34,6600745,Easy Baked Doughnuts,15 mins,10 mins,25 mins,16 ,16 servings,16,124,6g,3g,20mg,216mg,17g,0g,8g,2g,,31mg,1mg,32mg,3.4,14,,,,,,,
+35,6580885,Apple Cider Doughnuts,20 mins,30 mins, 1 hr,24 ,,24,219,8g,2g,29mg,160mg,34g,1g,19g,3g,,34mg,1mg,30mg,4.0,12,,,,,,,10 mins
+36,6599150,Cake Doughnuts, 2 hrs,15 mins, 2 hrs 15 mins,16 ,16 doughnuts and holes,16,257,15g,4g,21mg,167mg,29g,1g,13g,3g,,61mg,1mg,51mg,4.1,224,,,,,,,
+37,6576221,Easy Funnel Cakes,10 mins,15 mins,25 mins,12 ,4 cakes,12,147,8g,1g,17mg,91mg,16g,0g,5g,2g,,37mg,1mg,41mg,4.4,122,,,,,,,
+38,6595549,Struffoli,15 mins,30 mins,45 mins,8 ,,8,303,15g,3g,93mg,97mg,41g,0g,37g,4g,0mg,49mg,1mg,50mg,3.1,8,,,,,,,
+39,6602590,Air-Fried Cinnamon and Sugar Doughnuts,25 mins,16 mins,41 mins,9 ,9 doughnuts,9,276,10g,6g,66mg,390mg,44g,1g,19g,4g,0mg,74mg,2mg,59mg,2.8,20,,,,,,,
+40,6587427,Rollkuchen (Mennonite Fritters),15 mins,20 mins,35 mins,16 ,16 servings,16,80,4g,1g,35mg,159mg,9g,0g,0g,2g,,7mg,1mg,25mg,4.1,9,,,,,,,
+41,6736371,Costas French Market Doughnuts (Beignets),30 mins,30 mins, 1 hr 30 mins,12 ,12 servings,12,503,15g,3g,37mg,231mg,81g,2g,21g,11g,0mg,73mg,4mg,179mg,4.6,259,,,,,,,30 mins
+42,6574475,Glazed Yeast Doughnuts,20 mins,35 mins, 2 hrs,24 ,24 doughnuts,24,194,7g,2g,23mg,54mg,29g,1g,13g,3g,,20mg,1mg,52mg,3.9,122,,,,,,, 1 hr 5 mins
+43,6590428,Baked Apple Doughnuts,25 mins,10 mins,35 mins,24 ,24 mini doughnuts,24,211,9g,4g,27mg,177mg,31g,1g,18g,3g,1mg,45mg,1mg,52mg,4.8,16,,,,,,,
+44,6603848,Buttermilk Doughnuts,20 mins,5 mins,25 mins,36 ,,36,172,5g,2g,18mg,189mg,30g,1g,17g,3g,0mg,30mg,1mg,46mg,4.1,38,,,,,,,
+45,6591508,Easy Drop Beignets,10 mins,20 mins,30 mins,6 ,,6,365,13g,2g,34mg,906mg,52g,2g,4g,9g,0mg,333mg,4mg,141mg,4.3,7,,,,,,,
+46,6573718,Bread Maker Doughnuts,30 mins,40 mins, 3 hrs 30 mins,16 ,16 doughnuts,16,198,14g,3g,14mg,172mg,16g,1g,4g,2g,,13mg,1mg,36mg,4.2,61,,,,,,, 2 hrs 20 mins
+47,6590849,Baked Buttermilk Donuts,20 mins,25 mins, 1 hr,12 ,12 donuts,12,247,6g,2g,32mg,276mg,46g,1g,28g,4g,0mg,55mg,1mg,66mg,4.4,17,,,,,,,15 mins
+48,6573268,Dansk Aebleskiver (Danish Doughnuts),10 mins,45 mins,55 mins,48 ,,48,145,11g,3g,34mg,115mg,10g,0g,2g,3g,0mg,31mg,1mg,56mg,4.7,17,,,,,,,
+49,6648628,Grandma's Old-Fashioned Cake Donuts,20 mins,5 mins,50 mins,6 ,6 donuts,6,595,25g,6g,74mg,580mg,84g,2g,36g,10g,0mg,113mg,3mg,155mg,4.2,6,,,,,,,25 mins
+50,6593035,Gluten-Free Donuts,15 mins,10 mins,25 mins,4 ,4 servings,4,391,30g,7g,47mg,20mg,30g,3g,19g,4g,0mg,10mg,1mg,60mg,4.4,16,,,,,,,
+51,6663674,Chocolate Almond Breakfast Donuts,15 mins,10 mins,45 mins,6 ,6 donuts,6,246,19g,2g,62mg,307mg,14g,3g,7g,8g,,85mg,1mg,70mg,4.5,15,,,,,,,20 mins
+52,6588534,Funfetti Donut Holes,25 mins,2 mins,27 mins,36 ,3 dozen,36,107,5g,1g,9mg,111mg,15g,0g,10g,1g,0mg,45mg,1mg,30mg,4.8,9,,,,,,,
+53,6576816,Jemput Jemput (Banana Fritters),10 mins,5 mins,15 mins,18 ,18 fritters,18,491,49g,6g,,28mg,14g,1g,7g,1g,3mg,18mg,0mg,146mg,4.1,34,,,,,,,
+54,6606027,Easy Banana Fritters,10 mins,5 mins,15 mins,6 ,,6,916,79g,6g,62mg,285mg,52g,2g,30g,5g,4mg,68mg,1mg,217mg,4.3,226,,,,,,,
+55,6585852,Applesauce Doughnuts,15 mins,15 mins,30 mins,48 ,4 dozen,48,374,38g,3g,8mg,43mg,8g,0g,4g,1g,1mg,13mg,0mg,17mg,4.3,81,,,,,,,
+56,6737721,Funnel Cakes,10 mins,10 mins,20 mins,16 ,12 to 20 cakes,16,263,10g,2g,50mg,213mg,37g,1g,8g,7g,0mg,105mg,2mg,119mg,4.7,502,,,,,,,
+57,6580842,Air Fryer Apple Cider Donut Bites,10 mins,10 mins,50 mins,21 ,21 donut bites,21,132,3g,2g,15mg,153mg,26g,1g,15g,2g,0mg,57mg,1mg,34mg,5.0,1,,,,,,,30 mins
+58,6578580,Churros II,15 mins,45 mins, 2 hrs 40 mins,24 ,24 churros,24,134,12g,2g,23mg,77mg,6g,0g,2g,1g,,6mg,0mg,16mg,4.5,91,,,,,,, 1 hr 40 mins
+59,6598415,World's Best Funnel Cakes,10 mins,10 mins,20 mins,4 ,1 cake,4,288,4g,1g,49mg,574mg,57g,1g,27g,7g,0mg,189mg,2mg,107mg,4.4,11,,,,,,,

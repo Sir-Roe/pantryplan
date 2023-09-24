@@ -1,60 +1,60 @@
-,id_recipe,Prep Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Cholesterol,Cook Time:
-0,6648298,5 mins,5 mins,1 ,1 cocktail,1,369,7g,5g,31mg,49g,1g,43g,0g,20mg,20mg,0mg,128mg,4.6,55,,,
-1,6648810,10 mins, 2 hrs 10 mins,4 ,4 main course servings,4,396,14g,2g,3696mg,9g,2g,2g,58g,8mg,91mg,4mg,1270mg,4.5,184, 2 hrs,102mg,
-2,6648739,25 mins, 5 hrs 25 mins,10 ,10 pieces,10,276,12g,4g,866mg,35g,1g,10g,7g,1mg,10mg,2mg,118mg,4.6,181, 4 hrs 30 mins,24mg,30 mins
-3,6587727,15 mins,50 mins,12 ,12 sliders,12,484,17g,13g,899mg,47g,3g,1g,26g,2mg,174mg,1mg,151mg,4.8,192,,99mg,35 mins
-4,6664859,10 mins, 20 hrs 10 mins,12 ,,12,243,15g,5g,715mg,,,,26g,0mg,20mg,9mg,348mg,4.7,"1,828",,82mg, 20 hrs
-5,6650586,15 mins,30 mins,2 ,,2,608,25g,10g,963mg,60g,1g,9g,34g,13mg,75mg,6mg,550mg,4.8,50,,267mg,15 mins
-6,6738450,10 mins, 1 hr 40 mins,12 ,,12,338,13g,4g,1304mg,22g,1g,19g,33g,2mg,47mg,3mg,346mg,4.7,"1,170", 1 hr,114mg,30 mins
-7,7104308,20 mins,45 mins,8 ,1 (12-inch) pizza,8,322,14g,5g,844mg,34g,1g,,14g,,,,72mg,4.5,6,5 mins,32mg,20 mins
-8,6588502,25 mins, 3 hrs 25 mins,18 ,1 braided loaf,18,214,9g,2g,148mg,27g,1g,3g,6g,,18mg,2mg,70mg,4.3,243, 2 hrs 20 mins,110mg,40 mins
-9,6575319,10 mins,10 mins,16 ,16 servings,16,86,6g,1g,116mg,8g,1g,6g,0g,8mg,15mg,0mg,75mg,4.6,120,,4mg,
-10,6591528,10 mins,55 mins,6 ,3 cups,6,92,6g,1g,4736mg,10g,3g,6g,2g,44mg,58mg,1mg,235mg,4.3,8,45 mins,,
-11,6738575,10 mins,50 mins,6 ,,6,301,19g,5g,645mg,20g,1g,7g,12g,6mg,40mg,2mg,278mg,4.7,198,,127mg,40 mins
-12,6600126,5 mins, 1 hr 5 mins,12 ,1 - 9x13 inch pan,12,463,14g,8g,156mg,78g,2g,47g,7g,,104mg,1mg,170mg,4.7,199,,104mg, 1 hr
-13,6737529,30 mins, 5 hrs 30 mins,12 ,12 servings,12,251,19g,7g,1495mg,,,,19g,0mg,21mg,1mg,273mg,4.6,151,,74mg, 5 hrs
-14,6650310,10 mins, 2 hrs 25 mins,8 ,,8,203,4g,1g,413mg,17g,1g,15g,24g,7mg,26mg,1mg,257mg,4.5,795, 2 hrs,61mg,15 mins
-15,6664474,5 mins, 1 hr 5 mins,6 ,,6,521,31g,11g,776mg,20g,0g,18g,39g,6mg,37mg,2mg,460mg,4.1,85,,162mg, 1 hr
-16,6601071,20 mins, 1 hr 45 mins,8 ,1 9-inch pie,8,654,43g,26g,179mg,70g,2g,47g,5g,1mg,87mg,3mg,308mg,4.4,233, 1 hr,64mg,25 mins
-17,6571758,5 mins,5 mins,15 ,15 servings,15,141,0g,0g,9mg,35g,1g,33g,1g,61mg,14mg,1mg,411mg,5.0,2,,,
-18,6650437,20 mins, 2 hrs 35 mins,20 ,3 round loaves,20,226,6g,3g,45mg,38g,1g,9g,5g,1mg,13mg,2mg,83mg,4.4,100, 1 hr 45 mins,40mg,30 mins
-19,6649064,15 mins,35 mins,24 ,1 9x13-inch casserole,24,131,5g,1g,228mg,17g,1g,2g,4g,11mg,28mg,1mg,147mg,5.0,4,5 mins,11mg,15 mins
-20,6595453,5 mins,40 mins,16 ,4 cups,16,202,6g,5g,35mg,41g,1g,18g,1g,0mg,10mg,1mg,62mg,4.5,94,30 mins,,5 mins
-21,6592039,20 mins, 1 hr 30 mins,8 ,8 servings,8,396,15g,5g,1118mg,29g,1g,3g,33g,12mg,49mg,2mg,334mg,4.6,70,30 mins,102mg,40 mins
-22,6739136,20 mins,40 mins,4 ,4 servings,4,799,32g,12g,918mg,87g,5g,18g,40g,45mg,299mg,6mg,692mg,4.3,23,,89mg,20 mins
-23,6604419,10 mins, 1 hr 20 mins,30 ,2 - 9x5 inch loaves,30,234,11g,2g,115mg,32g,1g,17g,3g,2mg,13mg,1mg,121mg,4.7,479,10 mins,19mg, 1 hr
-24,6598975,5 mins, 8 hrs 30 mins,6 ,6 servings,6,548,18g,11g,5831mg,63g,1g,56g,33g,11mg,92mg,4mg,706mg,4.5,207, 8 hrs,108mg,25 mins
-25,6583079,15 mins, 4 hrs 45 mins,8 ,8 servings,8,527,26g,7g,1204mg,24g,1g,19g,48g,7mg,52mg,3mg,571mg,4.6,83, 4 hrs,146mg,30 mins
-26,6578508,,,84 ,7 dozen,84,89,3g,1g,40mg,13g,0g,6g,2g,0mg,11mg,1mg,25mg,4.3,85,,16mg,
-27,6591007,20 mins,50 mins,25 ,25 dumplings,25,64,1g,0g,151mg,10g,0g,0g,3g,0mg,10mg,1mg,37mg,4.7,30,,11mg,30 mins
-28,6583744,10 mins, 10 hrs 40 mins,10 ,10 servings,10,502,41g,14g,3899mg,5g,2g,3g,30g,23mg,61mg,4mg,617mg,4.6,150,,130mg, 10 hrs 30 mins
-29,6567098,20 mins,30 mins,6 ,6 servings,6,255,22g,5g,324mg,11g,3g,6g,5g,27mg,37mg,1mg,293mg,4.5,245,,10mg,10 mins
-30,6737176,15 mins,35 mins,6 ,6 servings,6,450,26g,11g,930mg,45g,3g,34g,11g,108mg,47mg,1mg,332mg,4.5,67,,54mg,20 mins
-31,6603082,30 mins, 4 hrs 30 mins,4 ,4 servings,4,278,13g,3g,1422mg,8g,4g,3g,33g,59mg,144mg,19mg,1129mg,5.0,12,,99mg, 4 hrs
-32,6575987,10 mins,10 mins,12 ,12 servings,12,44,1g,0g,477mg,4g,1g,2g,5g,9mg,14mg,1mg,213mg,4.5,43,,5mg,
-33,6566904,10 mins, 1 hr 40 mins,240 ,4 quarts,240,46,0g,,13mg,12g,0g,10g,0g,5mg,6mg,0mg,35mg,4.4,83,,, 1 hr 30 mins
-34,6582627,20 mins, 1 hr,14 ,1 - 10x15 inch pan,14,390,18g,9g,401mg,57g,2g,38g,4g,8mg,82mg,1mg,191mg,4.8,120,,18mg,40 mins
-35,6569269,5 mins, 4 hrs 5 mins,9 ,9 servings,9,274,3g,1g,728mg,30g,1g,23g,29g,5mg,20mg,1mg,308mg,4.2,123,,78mg, 4 hrs
-36,6602110,10 mins,15 mins,4 ,4 pancakes,4,236,4g,2g,165mg,50g,9g,1g,5g,51mg,139mg,2mg,922mg,4.3,3,,84mg,5 mins
-37,6585670,10 mins, 2 hrs 25 mins,12 ,,12,465,30g,5g,232mg,41g,2g,3g,8g,0mg,27mg,2mg,151mg,4.0,3, 2 hrs,15mg,15 mins
-38,6583074,15 mins,25 mins,6 ,6 servings,6,381,30g,5g,528mg,1g,0g,0g,25g,3mg,50mg,4mg,223mg,4.7,63,,244mg,10 mins
-39,6737932,15 mins,30 mins,4 ,4 servings,4,294,20g,9g,923mg,10g,1g,0g,20g,8mg,68mg,4mg,274mg,4.7,32,,203mg,15 mins
-40,6575606,30 mins, 8 hrs 50 mins,20 ,,20,387,28g,4g,346mg,30g,4g,3g,6g,28mg,34mg,2mg,632mg,4.7,44, 8 hrs,59mg,20 mins
-41,6591319,20 mins,25 mins,8 ,,8,512,23g,10g,789mg,53g,4g,8g,23g,28mg,177mg,4mg,380mg,4.4,24,,49mg,5 mins
-42,6663834,10 mins,10 mins,6 ,,6,416,29g,9g,555mg,19g,2g,15g,22g,9mg,88mg,2mg,365mg,4.4,133,,80mg,
-43,6571346,15 mins, 1 hr 15 mins,8 ,1 9-inch pie,8,519,30g,14g,176mg,60g,2g,45g,8g,10mg,170mg,1mg,364mg,4.5,46, 1 hr,17mg,
-44,6576962,,,20 ,20 servings,20,615,28g,7g,1112mg,72g,5g,2g,19g,6mg,44mg,6mg,427mg,4.3,44,,48mg,
-45,6590087,15 mins, 2 hrs 15 mins,6 ,,6,474,30g,11g,662mg,20g,0g,17g,30g,7mg,62mg,2mg,456mg,4.2,82, 2 hrs,120mg,
-46,6579618,20 mins, 1 hr 20 mins,4 ,,4,203,6g,1g,78mg,3g,1g,1g,34g,5mg,40mg,1mg,718mg,4.9,21, 1 hr,64mg,
-47,6593185,15 mins, 1 hr 40 mins,10 ,10 servings,10,378,17g,6g,887mg,43g,1g,11g,12g,1mg,16mg,2mg,56mg,5.0,2, 1 hr,52mg,25 mins
-48,6589896,20 mins,20 mins,4 ,1 pound,4,191,6g,1g,1026mg,4g,1g,2g,28g,30mg,32mg,5mg,621mg,5.0,5,,51mg,
-49,6739503,15 mins, 1 hr 20 mins,6 ,12 skewers,6,404,30g,5g,954mg,7g,0g,5g,25g,4mg,58mg,4mg,241mg,4.7,31, 1 hr,244mg,5 mins
-50,6603581,30 mins,50 mins,30 ,,30,168,9g,4g,349mg,18g,1g,1g,5g,1mg,28mg,1mg,64mg,4.7,97,,21mg,20 mins
-51,6589616,30 mins, 2 hrs 20 mins,16 ,,16,300,16g,6g,955mg,16g,2g,5g,20g,13mg,37mg,3mg,617mg,4.2,6,,63mg, 1 hr 50 mins
-52,6585023,,,12 ,1 9x13-inch cake,12,297,9g,2g,131mg,52g,2g,34g,5g,5mg,24mg,2mg,151mg,4.4,84,,31mg,
-53,6568817,20 mins,20 mins,6 ,6 servings,6,136,6g,1g,841mg,10g,2g,4g,14g,32mg,275mg,5mg,457mg,,,,6mg,
-54,6597911,15 mins, 1 hr,8 ,,8,224,3g,1g,56mg,31g,2g,28g,19g,60mg,33mg,1mg,485mg,4.5,24,,49mg,45 mins
-55,6595733,15 mins,45 mins,4 ,,4,602,24g,8g,629mg,61g,2g,3g,32g,3mg,66mg,6mg,541mg,4.5,12,,259mg,30 mins
-56,6576622,10 mins, 1 hr 45 mins,8 ,8 servings,8,152,0g,,10mg,39g,3g,23g,1g,87mg,37mg,1mg,277mg,4.1,18, 1 hr 35 mins,,
-57,6588277,20 mins, 1 hr 35 mins,6 ,6 sandwiches,6,554,19g,8g,1400mg,53g,2g,29g,38g,11mg,292mg,2mg,330mg,4.5,89, 1 hr,92mg,15 mins
-58,6581543,5 mins, 2 hrs 15 mins,24 ,24 pieces,24,52,4g,4g,15mg,4g,0g,2g,0g,0mg,4mg,1mg,42mg,3.7,29, 2 hrs,,10 mins
+,id_recipe,name,Prep Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Cholesterol,Cook Time:
+0,6648298,Blue Hawaiian Cocktail,5 mins,5 mins,1 ,1 cocktail,1,369,7g,5g,31mg,49g,1g,43g,0g,20mg,20mg,0mg,128mg,4.6,55,,,
+1,6648810,Ahi Tuna Poke,10 mins, 2 hrs 10 mins,4 ,4 main course servings,4,396,14g,2g,3696mg,9g,2g,2g,58g,8mg,91mg,4mg,1270mg,4.5,184, 2 hrs,102mg,
+2,6648739,Spam Musubi,25 mins, 5 hrs 25 mins,10 ,10 pieces,10,276,12g,4g,866mg,35g,1g,10g,7g,1mg,10mg,2mg,118mg,4.6,182, 4 hrs 30 mins,24mg,30 mins
+3,6587727,Hawaiian Ham and Cheese Sliders,15 mins,50 mins,12 ,12 sliders,12,484,17g,13g,899mg,47g,3g,1g,26g,2mg,174mg,1mg,151mg,4.8,192,,99mg,35 mins
+4,6664859,Kalua Pig in a Slow Cooker,10 mins, 20 hrs 10 mins,12 ,,12,243,15g,5g,715mg,,,,26g,0mg,20mg,9mg,348mg,4.7,"1,828",,82mg, 20 hrs
+5,6650586,Chef John's Loco Moco,15 mins,30 mins,2 ,,2,608,25g,10g,963mg,60g,1g,9g,34g,13mg,75mg,6mg,550mg,4.8,50,,267mg,15 mins
+6,6738450,Shoyu Chicken,10 mins, 1 hr 40 mins,12 ,,12,338,13g,4g,1304mg,22g,1g,19g,33g,2mg,47mg,3mg,346mg,4.7,"1,170", 1 hr,114mg,30 mins
+7,7104308,Hawaiian Pizza,20 mins,45 mins,8 ,1 (12-inch) pizza,8,322,14g,5g,844mg,34g,1g,,14g,,,,72mg,4.5,6,5 mins,32mg,20 mins
+8,6588502,A Number-One Egg Bread,25 mins, 3 hrs 25 mins,18 ,1 braided loaf,18,214,9g,2g,148mg,27g,1g,3g,6g,,18mg,2mg,70mg,4.3,243, 2 hrs 20 mins,110mg,40 mins
+9,6575319,Hawaiian Cole Slaw,10 mins,10 mins,16 ,16 servings,16,86,6g,1g,116mg,8g,1g,6g,0g,8mg,15mg,0mg,75mg,4.6,120,,4mg,
+10,6591528,Quick and Easy Kimchi Salad,10 mins,55 mins,6 ,3 cups,6,92,6g,1g,4736mg,10g,3g,6g,2g,44mg,58mg,1mg,235mg,4.3,8,45 mins,,
+11,6738575,Island-Style Fried Rice,10 mins,50 mins,6 ,,6,301,19g,5g,645mg,20g,1g,7g,12g,6mg,40mg,2mg,278mg,4.7,198,,127mg,40 mins
+12,6600126,Ono Butter Mochi,5 mins, 1 hr 5 mins,12 ,1 - 9x13 inch pan,12,463,14g,8g,156mg,78g,2g,47g,7g,,104mg,1mg,170mg,4.7,200,,104mg, 1 hr
+13,6737529,Oven Kalua Pork,30 mins, 5 hrs 30 mins,12 ,12 servings,12,251,19g,7g,1495mg,,,,19g,0mg,21mg,1mg,273mg,4.6,151,,74mg, 5 hrs
+14,6650310,Hawaiian Chicken Kabobs,10 mins, 2 hrs 25 mins,8 ,,8,203,4g,1g,413mg,17g,1g,15g,24g,7mg,26mg,1mg,257mg,4.5,795, 2 hrs,61mg,15 mins
+15,6664474,Hawaiian Pineapple Chicken,5 mins, 1 hr 5 mins,6 ,,6,521,31g,11g,776mg,20g,0g,18g,39g,6mg,37mg,2mg,460mg,4.1,85,,162mg, 1 hr
+16,6601071,Coconut (Haupia) and Chocolate Pie,20 mins, 1 hr 45 mins,8 ,1 9-inch pie,8,654,43g,26g,179mg,70g,2g,47g,5g,1mg,87mg,3mg,308mg,4.4,233, 1 hr,64mg,25 mins
+17,6571758,POG Juice,5 mins,5 mins,15 ,15 servings,15,141,0g,0g,9mg,35g,1g,33g,1g,61mg,14mg,1mg,411mg,5.0,2,,,
+18,6650437,Hawaiian Bread,20 mins, 2 hrs 35 mins,20 ,3 round loaves,20,226,6g,3g,45mg,38g,1g,9g,5g,1mg,13mg,2mg,83mg,4.4,100, 1 hr 45 mins,40mg,30 mins
+19,6649064,Sushi Bake,15 mins,35 mins,24 ,1 9x13-inch casserole,24,131,5g,1g,228mg,17g,1g,2g,4g,11mg,28mg,1mg,147mg,5.0,4,5 mins,11mg,15 mins
+20,6595453,Coconut Pancake Syrup,5 mins,40 mins,16 ,4 cups,16,202,6g,5g,35mg,41g,1g,18g,1g,0mg,10mg,1mg,62mg,4.5,94,30 mins,,5 mins
+21,6592039,Chicken Long Rice Soup,20 mins, 1 hr 30 mins,8 ,8 servings,8,396,15g,5g,1118mg,29g,1g,3g,33g,12mg,49mg,2mg,334mg,4.6,70,30 mins,102mg,40 mins
+22,6739136,Hawaiian Haystacks,20 mins,40 mins,4 ,4 servings,4,799,32g,12g,918mg,87g,5g,18g,40g,45mg,299mg,6mg,692mg,4.3,23,,89mg,20 mins
+23,6604419,Hawaiian Banana Nut Bread,10 mins, 1 hr 20 mins,30 ,2 - 9x5 inch loaves,30,234,11g,2g,115mg,32g,1g,17g,3g,2mg,13mg,1mg,121mg,4.7,479,10 mins,19mg, 1 hr
+24,6598975,Hawaiian Chicken I,5 mins, 8 hrs 30 mins,6 ,6 servings,6,548,18g,11g,5831mg,63g,1g,56g,33g,11mg,92mg,4mg,706mg,4.5,207, 8 hrs,108mg,25 mins
+25,6583079,Huli Huli Chicken,15 mins, 4 hrs 45 mins,8 ,8 servings,8,527,26g,7g,1204mg,24g,1g,19g,48g,7mg,52mg,3mg,571mg,4.6,83, 4 hrs,146mg,30 mins
+26,6578508,Malasadas,,,84 ,7 dozen,84,89,3g,1g,40mg,13g,0g,6g,2g,0mg,11mg,1mg,25mg,4.3,85,,16mg,
+27,6591007,Hawaiian Pork Hash,20 mins,50 mins,25 ,25 dumplings,25,64,1g,0g,151mg,10g,0g,0g,3g,0mg,10mg,1mg,37mg,4.7,30,,11mg,30 mins
+28,6583744,Homestyle Kalua Pork with Cabbage in a Slow Cooker,10 mins, 10 hrs 40 mins,10 ,10 servings,10,502,41g,14g,3899mg,5g,2g,3g,30g,23mg,61mg,4mg,617mg,4.6,150,,130mg, 10 hrs 30 mins
+29,6567098,Tropical Salad with Pineapple Vinaigrette,20 mins,30 mins,6 ,6 servings,6,255,22g,5g,324mg,11g,3g,6g,5g,27mg,37mg,1mg,293mg,4.5,245,,10mg,10 mins
+30,6737176,Hawaiian Sausage Skillet,15 mins,35 mins,6 ,6 servings,6,450,26g,11g,930mg,45g,3g,34g,11g,108mg,47mg,1mg,332mg,4.5,67,,54mg,20 mins
+31,6603082,Lau Lau,30 mins, 4 hrs 30 mins,4 ,4 servings,4,278,13g,3g,1422mg,8g,4g,3g,33g,59mg,144mg,19mg,1129mg,5.0,12,,99mg, 4 hrs
+32,6575987,Lomi Lomi,10 mins,10 mins,12 ,12 servings,12,44,1g,0g,477mg,4g,1g,2g,5g,9mg,14mg,1mg,213mg,4.5,43,,5mg,
+33,6566904,Mango Chutney,10 mins, 1 hr 40 mins,240 ,4 quarts,240,46,0g,,13mg,12g,0g,10g,0g,5mg,6mg,0mg,35mg,4.4,83,,, 1 hr 30 mins
+34,6582627,Hawaiian Wedding Cake II,20 mins, 1 hr,14 ,1 - 10x15 inch pan,14,390,18g,9g,401mg,57g,2g,38g,4g,8mg,82mg,1mg,191mg,4.8,120,,18mg,40 mins
+35,6569269,Slow Cooker Hawaiian Chicken,5 mins, 4 hrs 5 mins,9 ,9 servings,9,274,3g,1g,728mg,30g,1g,23g,29g,5mg,20mg,1mg,308mg,4.2,123,,78mg, 4 hrs
+36,6602110,Ulu (Breadfruit) Pancakes,10 mins,15 mins,4 ,4 pancakes,4,236,4g,2g,165mg,50g,9g,1g,5g,51mg,139mg,2mg,922mg,4.3,3,,84mg,5 mins
+37,6585670,Hawaiian Macaroni Salad,10 mins, 2 hrs 25 mins,12 ,,12,465,30g,5g,232mg,41g,2g,3g,8g,0mg,27mg,2mg,151mg,4.0,3, 2 hrs,15mg,15 mins
+38,6583074,Maui Wowie Shrimp,15 mins,25 mins,6 ,6 servings,6,381,30g,5g,528mg,1g,0g,0g,25g,3mg,50mg,4mg,223mg,4.7,63,,244mg,10 mins
+39,6737932,Hawaiian Garlic Shrimp Scampi,15 mins,30 mins,4 ,4 servings,4,294,20g,9g,923mg,10g,1g,0g,20g,8mg,68mg,4mg,274mg,4.7,32,,203mg,15 mins
+40,6575606,Hawaiian Bruddah Potato Mac (Macaroni) Salad,30 mins, 8 hrs 50 mins,20 ,,20,387,28g,4g,346mg,30g,4g,3g,6g,28mg,34mg,2mg,632mg,4.7,44, 8 hrs,59mg,20 mins
+41,6591319,Quick Hawaiian Haystacks,20 mins,25 mins,8 ,,8,512,23g,10g,789mg,53g,4g,8g,23g,28mg,177mg,4mg,380mg,4.4,24,,49mg,5 mins
+42,6663834,Hawaiian Chicken Salad,10 mins,10 mins,6 ,,6,416,29g,9g,555mg,19g,2g,15g,22g,9mg,88mg,2mg,365mg,4.4,133,,80mg,
+43,6571346,Hawaiian Millionaire Pie,15 mins, 1 hr 15 mins,8 ,1 9-inch pie,8,519,30g,14g,176mg,60g,2g,45g,8g,10mg,170mg,1mg,364mg,4.5,46, 1 hr,17mg,
+44,6576962,Gandule Rice,,,20 ,20 servings,20,615,28g,7g,1112mg,72g,5g,2g,19g,6mg,44mg,6mg,427mg,4.3,44,,48mg,
+45,6590087,Hawaiian Spareribs,15 mins, 2 hrs 15 mins,6 ,,6,474,30g,11g,662mg,20g,0g,17g,30g,7mg,62mg,2mg,456mg,4.2,82, 2 hrs,120mg,
+46,6579618,Ahi Poke Salad,20 mins, 1 hr 20 mins,4 ,,4,203,6g,1g,78mg,3g,1g,1g,34g,5mg,40mg,1mg,718mg,4.9,21, 1 hr,64mg,
+47,6593185,Deconstructed Spam® Musubi,15 mins, 1 hr 40 mins,10 ,10 servings,10,378,17g,6g,887mg,43g,1g,11g,12g,1mg,16mg,2mg,56mg,5.0,2, 1 hr,52mg,25 mins
+48,6589896,Ahi Shoyu Poke,20 mins,20 mins,4 ,1 pound,4,191,6g,1g,1026mg,4g,1g,2g,28g,30mg,32mg,5mg,621mg,5.0,5,,51mg,
+49,6739503,Hawaiian Beach Shrimp,15 mins, 1 hr 20 mins,6 ,12 skewers,6,404,30g,5g,954mg,7g,0g,5g,25g,4mg,58mg,4mg,241mg,4.7,32, 1 hr,244mg,5 mins
+50,6603581,Local Kine Wontons,30 mins,50 mins,30 ,,30,168,9g,4g,349mg,18g,1g,1g,5g,1mg,28mg,1mg,64mg,4.7,97,,21mg,20 mins
+51,6589616,Hawaiian Beef Stew,30 mins, 2 hrs 20 mins,16 ,,16,300,16g,6g,955mg,16g,2g,5g,20g,13mg,37mg,3mg,617mg,4.2,6,,63mg, 1 hr 50 mins
+52,6585023,Hawaiian Wedding Cake I,,,12 ,1 9x13-inch cake,12,297,9g,2g,131mg,52g,2g,34g,5g,5mg,24mg,2mg,151mg,4.4,84,,31mg,
+53,6568817,Easy Tofu and Watercress Salad,20 mins,20 mins,6 ,6 servings,6,136,6g,1g,841mg,10g,2g,4g,14g,32mg,275mg,5mg,457mg,,,,6mg,
+54,6597911,Hawaiian Pork Tenderloin,15 mins, 1 hr,8 ,,8,224,3g,1g,56mg,31g,2g,28g,19g,60mg,33mg,1mg,485mg,4.5,24,,49mg,45 mins
+55,6595733,Hawaiian Loco Moco,15 mins,45 mins,4 ,,4,602,24g,8g,629mg,61g,2g,3g,32g,3mg,66mg,6mg,541mg,4.5,12,,259mg,30 mins
+56,6576622,Hawaiian Iced Tea,10 mins, 1 hr 45 mins,8 ,8 servings,8,152,0g,,10mg,39g,3g,23g,1g,87mg,37mg,1mg,277mg,4.1,18, 1 hr 35 mins,,
+57,6588277,Grilled Hawaiian Chicken and Pineapple Sandwiches,20 mins, 1 hr 35 mins,6 ,6 sandwiches,6,554,19g,8g,1400mg,53g,2g,29g,38g,11mg,292mg,2mg,330mg,4.5,89, 1 hr,92mg,15 mins
+58,6581543,Easy Haupia,5 mins, 2 hrs 15 mins,24 ,24 pieces,24,52,4g,4g,15mg,4g,0g,2g,0g,0mg,4mg,1mg,42mg,3.7,29, 2 hrs,,10 mins

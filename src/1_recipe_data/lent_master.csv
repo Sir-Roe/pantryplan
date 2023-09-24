@@ -1,33 +1,33 @@
-,id_recipe,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count
-0,6602236,15 mins,45 mins,15 mins, 1 hr 15 mins,24 ,1 9x13-inch baking dish,24,271,11g,6g,26mg,281mg,38g,1g,22g,7g,0mg,141mg,1mg,122mg,5.0,4
-1,6649813,10 mins,15 mins,,25 mins,4 ,,4,755,35g,8g,18mg,355mg,87g,4g,3g,23g,7mg,260mg,4mg,321mg,4.7,474
-2,6663625,30 mins,40 mins,, 1 hr 10 mins,6 ,1 9-inch square pie,6,494,35g,12g,100mg,894mg,32g,7g,5g,18g,62mg,495mg,8mg,1304mg,4.5,898
-3,6649410,20 mins,50 mins,10 mins, 1 hr 20 mins,6 ,1 9-inch quiche,6,613,48g,27g,232mg,1155mg,24g,3g,6g,23g,2mg,563mg,3mg,393mg,4.7,"2,768"
-4,6663250,30 mins, 1 hr,, 1 hr 30 mins,10 ,,10,541,22g,8g,286mg,1927mg,38g,10g,13g,51g,79mg,214mg,5mg,1646mg,4.6,28
-5,6650588,5 mins,6 mins,,11 mins,3 ,,3,273,9g,5g,95mg,2232mg,7g,0g,0g,38g,11mg,60mg,1mg,755mg,4.3,738
-6,6738153,5 mins,15 mins,,20 mins,4 ,,4,807,36g,12g,54mg,633mg,88g,4g,3g,32g,1mg,585mg,5mg,317mg,4.6,301
-7,6571450,15 mins,30 mins,,45 mins,6 ,,6,142,1g,0g,61mg,184mg,2g,0g,1g,30g,7mg,29mg,1mg,606mg,4.2,166
-8,6739283,15 mins,50 mins,5 mins, 1 hr 10 mins,4 ,1 loaf,4,362,23g,10g,213mg,880mg,8g,1g,1g,29g,1mg,250mg,2mg,374mg,4.9,30
-9,6584293,20 mins,50 mins,, 1 hr 10 mins,10 ,1 9x13-inch casserole,10,414,32g,10g,169mg,390mg,25g,3g,,9g,26mg,98mg,2mg,669mg,4.2,92
-10,6583828,5 mins,10 mins,,15 mins,4 ,4 servings,4,236,12g,2g,73mg,105mg,3g,1g,,31g,22mg,35mg,1mg,364mg,4.3,159
-11,6587375,5 mins,25 mins,,30 mins,8 ,,8,247,5g,2g,10mg,31mg,44g,4g,1g,8g,15mg,35mg,3mg,185mg,4.1,67
-12,6736697,15 mins,10 mins,30 mins,55 mins,4 ,,4,305,15g,3g,174mg,1020mg,15g,1g,0g,31g,0mg,32mg,2mg,74mg,4.6,269
-13,6604002,10 mins,40 mins,10 mins, 1 hr,8 ,1 9-inch pie,8,537,38g,19g,95mg,994mg,20g,1g,2g,28g,2mg,681mg,2mg,284mg,4.1,85
-14,6569627,20 mins,45 mins,, 1 hr 5 mins,6 ,,6,703,21g,11g,59mg,1004mg,95g,10g,16g,33g,20mg,531mg,8mg,1315mg,4.3,207
-15,6588459,25 mins,50 mins, 8 hrs 35 mins, 9 hrs 50 mins,8 ,1 9x13-inch casserole,8,349,19g,11g,226mg,785mg,25g,2g,5g,21g,16mg,178mg,3mg,304mg,4.6,170
-16,6738476,20 mins,45 mins,, 1 hr 5 mins,4 ,,4,709,33g,5g,81mg,532mg,72g,5g,9g,28g,9mg,301mg,6mg,669mg,4.3,25
-17,6577977,10 mins,6 mins,,16 mins,8 ,8 pancakes,8,222,13g,8g,79mg,112mg,21g,1g,5g,5g,0mg,63mg,1mg,102mg,,
-18,6598266,15 mins,25 mins,,40 mins,8 ,,8,1148,97g,59g,675mg,1606mg,10g,1g,3g,59g,14mg,219mg,8mg,790mg,4.7,48
-19,6738761,10 mins,10 mins,,20 mins,1 ,1 serving,1,560,36g,13g,418mg,1075mg,39g,4g,10g,21g,5mg,233mg,5mg,504mg,4.7,307
-20,6590648,15 mins,45 mins,, 1 hr,4 ,4 servings,4,396,11g,7g,28mg,677mg,65g,9g,8g,11g,68mg,172mg,4mg,1564mg,4.1,122
-21,6587520,10 mins,35 mins,10 mins,55 mins,4 ,4 servings,4,567,24g,10g,45mg,891mg,68g,10g,13g,22g,21mg,429mg,5mg,797mg,4.9,37
-22,6575981,20 mins,5 mins,,25 mins,4 ,4 servings,4,470,30g,9g,34mg,521mg,37g,6g,3g,16g,14mg,418mg,6mg,429mg,4.5,141
-23,6574565,15 mins,45 mins,, 1 hr,4 ,4 servings,4,642,17g,9g,53mg,862mg,99g,11g,16g,26g,89mg,560mg,3mg,2058mg,3.8,23
-24,6571057,10 mins, 1 hr 15 mins,, 1 hr 25 mins,4 ,4 servings,4,354,18g,4g,372mg,3003mg,32g,8g,22g,20g,38mg,168mg,8mg,1885mg,4.8,4
-25,6574099,15 mins,15 mins,,30 mins,6 ,6 servings,6,107,5g,1g,44mg,538mg,8g,3g,3g,9g,11mg,49mg,2mg,383mg,4.4,107
-26,6737946,15 mins,15 mins,,30 mins,3 ,3 servings,3,457,15g,3g,6mg,213mg,67g,6g,7g,17g,109mg,126mg,4mg,486mg,4.3,112
-27,6599127,10 mins,35 mins,,45 mins,4 ,4 servings,4,175,10g,3g,10mg,268mg,8g,3g,3g,16g,30mg,163mg,3mg,718mg,4.2,33
-28,6597242,20 mins,10 mins,,30 mins,4 ,4 servings,4,492,20g,4g,181mg,671mg,44g,2g,2g,35g,4mg,191mg,5mg,349mg,4.4,109
-29,6600513,10 mins,2 mins, 1 hr, 1 hr 12 mins,6 ,6 salads,6,105,7g,1g,,298mg,9g,3g,4g,3g,34mg,50mg,3mg,319mg,4.0,3
-30,6586558,,,,,6 ,6 servings,6,196,4g,2g,10mg,194mg,33g,3g,4g,7g,12mg,56mg,3mg,282mg,4.2,114
-31,6584723,10 mins,20 mins,,30 mins,6 ,6 servings,6,291,10g,5g,19mg,733mg,39g,3g,3g,15g,6mg,114mg,2mg,196mg,4.3,6
+,id_recipe,name,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count
+0,6602236,Capirotada,15 mins,45 mins,15 mins, 1 hr 15 mins,24 ,1 9x13-inch baking dish,24,271,11g,6g,26mg,281mg,38g,1g,22g,7g,0mg,141mg,1mg,122mg,5.0,4
+1,6649813,Spaghetti Aglio e Olio,10 mins,15 mins,,25 mins,4 ,,4,755,35g,8g,18mg,355mg,87g,4g,3g,23g,7mg,260mg,4mg,321mg,4.7,474
+2,6663625,Spanakopita (Greek Spinach Pie),30 mins,40 mins,, 1 hr 10 mins,6 ,1 9-inch square pie,6,494,35g,12g,100mg,894mg,32g,7g,5g,18g,62mg,495mg,8mg,1304mg,4.5,898
+3,6649410,Spinach Quiche,20 mins,50 mins,10 mins, 1 hr 20 mins,6 ,1 9-inch quiche,6,613,48g,27g,232mg,1155mg,24g,3g,6g,23g,2mg,563mg,3mg,393mg,4.7,"2,768"
+4,6663250,Louisiana Crawfish Boil,30 mins, 1 hr,, 1 hr 30 mins,10 ,,10,541,22g,8g,286mg,1927mg,38g,10g,13g,51g,79mg,214mg,5mg,1646mg,4.6,28
+5,6650588,Broiled Scallops,5 mins,6 mins,,11 mins,3 ,,3,273,9g,5g,95mg,2232mg,7g,0g,0g,38g,11mg,60mg,1mg,755mg,4.3,738
+6,6738153,Spaghetti Cacio e Pepe,5 mins,15 mins,,20 mins,4 ,,4,807,36g,12g,54mg,633mg,88g,4g,3g,32g,1mg,585mg,5mg,317mg,4.6,301
+7,6571450,Lemony Steamed Fish,15 mins,30 mins,,45 mins,6 ,,6,142,1g,0g,61mg,184mg,2g,0g,1g,30g,7mg,29mg,1mg,606mg,4.2,166
+8,6739283,Chef John's Salmon Loaf,15 mins,50 mins,5 mins, 1 hr 10 mins,4 ,1 loaf,4,362,23g,10g,213mg,880mg,8g,1g,1g,29g,1mg,250mg,2mg,374mg,4.9,30
+9,6584293,Potato and Egg Casserole,20 mins,50 mins,, 1 hr 10 mins,10 ,1 9x13-inch casserole,10,414,32g,10g,169mg,390mg,25g,3g,,9g,26mg,98mg,2mg,669mg,4.2,92
+10,6583828,Lemon Pepper Cod,5 mins,10 mins,,15 mins,4 ,4 servings,4,236,12g,2g,73mg,105mg,3g,1g,,31g,22mg,35mg,1mg,364mg,4.3,159
+11,6587375,Creamy Asparagus Pasta,5 mins,25 mins,,30 mins,8 ,,8,247,5g,2g,10mg,31mg,44g,4g,1g,8g,15mg,35mg,3mg,185mg,4.1,67
+12,6736697,Chef John's Salmon Cakes,15 mins,10 mins,30 mins,55 mins,4 ,,4,305,15g,3g,174mg,1020mg,15g,1g,0g,31g,0mg,32mg,2mg,74mg,4.6,269
+13,6604002,Spinach Cheese Pie,10 mins,40 mins,10 mins, 1 hr,8 ,1 9-inch pie,8,537,38g,19g,95mg,994mg,20g,1g,2g,28g,2mg,681mg,2mg,284mg,4.1,85
+14,6569627,Spinach and Cheese Stuffed Pasta Shells,20 mins,45 mins,, 1 hr 5 mins,6 ,,6,703,21g,11g,59mg,1004mg,95g,10g,16g,33g,20mg,531mg,8mg,1315mg,4.3,207
+15,6588459,Overnight Asparagus Mushroom Strata,25 mins,50 mins, 8 hrs 35 mins, 9 hrs 50 mins,8 ,1 9x13-inch casserole,8,349,19g,11g,226mg,785mg,25g,2g,5g,21g,16mg,178mg,3mg,304mg,4.6,170
+16,6738476,Chef John's Pasta con le Sarde,20 mins,45 mins,, 1 hr 5 mins,4 ,,4,709,33g,5g,81mg,532mg,72g,5g,9g,28g,9mg,301mg,6mg,669mg,4.3,25
+17,6577977,Sweet Matzo Brei,10 mins,6 mins,,16 mins,8 ,8 pancakes,8,222,13g,8g,79mg,112mg,21g,1g,5g,5g,0mg,63mg,1mg,102mg,,
+18,6598266,Real New Orleans Style BBQ Shrimp,15 mins,25 mins,,40 mins,8 ,,8,1148,97g,59g,675mg,1606mg,10g,1g,3g,59g,14mg,219mg,8mg,790mg,4.7,48
+19,6738761,Chef John's Baked Eggs,10 mins,10 mins,,20 mins,1 ,1 serving,1,560,36g,13g,418mg,1075mg,39g,4g,10g,21g,5mg,233mg,5mg,504mg,4.7,307
+20,6590648,Potato Curry,15 mins,45 mins,, 1 hr,4 ,4 servings,4,396,11g,7g,28mg,677mg,65g,9g,8g,11g,68mg,172mg,4mg,1564mg,4.1,122
+21,6587520,Mediterranean-Style Eggplant Pasta,10 mins,35 mins,10 mins,55 mins,4 ,4 servings,4,567,24g,10g,45mg,891mg,68g,10g,13g,22g,21mg,429mg,5mg,797mg,4.9,37
+22,6575981,The Best Veggie Sandwich,20 mins,5 mins,,25 mins,4 ,4 servings,4,470,30g,9g,34mg,521mg,37g,6g,3g,16g,14mg,418mg,6mg,429mg,4.5,141
+23,6574565,Potato Lasagna,15 mins,45 mins,, 1 hr,4 ,4 servings,4,642,17g,9g,53mg,862mg,99g,11g,16g,26g,89mg,560mg,3mg,2058mg,3.8,23
+24,6571057,Eggs Poached in Tomato Sauce,10 mins, 1 hr 15 mins,, 1 hr 25 mins,4 ,4 servings,4,354,18g,4g,372mg,3003mg,32g,8g,22g,20g,38mg,168mg,8mg,1885mg,4.8,4
+25,6574099,Jumbo Shrimp and Asparagus,15 mins,15 mins,,30 mins,6 ,6 servings,6,107,5g,1g,44mg,538mg,8g,3g,3g,9g,11mg,49mg,2mg,383mg,4.4,107
+26,6737946,Roasted Veggie Pasta,15 mins,15 mins,,30 mins,3 ,3 servings,3,457,15g,3g,6mg,213mg,67g,6g,7g,17g,109mg,126mg,4mg,486mg,4.3,112
+27,6599127,Eggy Veggie Bake,10 mins,35 mins,,45 mins,4 ,4 servings,4,175,10g,3g,10mg,268mg,8g,3g,3g,16g,30mg,163mg,3mg,718mg,4.2,33
+28,6597242,Lemon Pepper Pasta Seafood,20 mins,10 mins,,30 mins,4 ,4 servings,4,492,20g,4g,181mg,671mg,44g,2g,2g,35g,4mg,191mg,5mg,349mg,4.4,109
+29,6600513,"Asparagus, Snow Pea, and Radish Salad",10 mins,2 mins, 1 hr, 1 hr 12 mins,6 ,6 salads,6,105,7g,1g,,298mg,9g,3g,4g,3g,34mg,50mg,3mg,319mg,4.0,3
+30,6586558,Spinach Ziti,,,,,6 ,6 servings,6,196,4g,2g,10mg,194mg,33g,3g,4g,7g,12mg,56mg,3mg,282mg,4.2,114
+31,6584723,Blue Cheese and Asparagus Pizza,10 mins,20 mins,,30 mins,6 ,6 servings,6,291,10g,5g,19mg,733mg,39g,3g,3g,15g,6mg,114mg,2mg,196mg,4.3,6

@@ -1,63 +1,63 @@
-,id_recipe,Prep Time:,Cook Time:,Refrigerate Time:,Stand Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Protein,Potassium,Average_Review,Review_Count,Chill Time:,Yield:,Additional Time:,Total Sugars,Vitamin C,Calcium,Iron
-0,6825760,5 mins,10 mins,30 mins,30 mins, 1 hr 15 mins,15 ,15,103,10g,5g,22mg,173mg,1g,0g,2g,46mg,4.4,5,,,,,,,
-1,6824021,15 mins,10 mins,,, 2 hrs 25 mins,32 ,32,112,10g,6g,28mg,205mg,1g,,4g,46mg,5.0,4, 2 hrs,1 large cheese ball,,,,,
-2,6665055,5 mins,,,,35 mins,10 ,10,96,8g,5g,32mg,429mg,1g,0g,4g,69mg,4.4,214,,,30 mins,1g,1mg,23mg,1mg
-3,6574138,15 mins,20 mins,,,40 mins,36 ,,,,,,,,,,,4.5,160,,6 dozen,5 mins,,,,
-4,6738946,15 mins,,,, 3 hrs 15 mins,32 ,32,102,8g,4g,15mg,42mg,7g,1g,1g,36mg,4.7,"1,408",,, 3 hrs,6g,,10mg,0mg
-5,6739701,5 mins,,,, 2 hrs 5 mins,7 ,7,557,53g,24g,113mg,720mg,8g,2g,17g,232mg,4.6,840,,6 to 8 servings, 2 hrs,1g,0mg,359mg,2mg
-6,6580697,15 mins,,,, 2 hrs 15 mins,32 ,32,149,14g,6g,28mg,179mg,2g,1g,5g,62mg,4.6,356,,1 large cheese ball, 2 hrs,0g,0mg,105mg,0mg
-7,6741032,20 mins,,,,3 days 20 mins,12 ,12,48,1g,1g,5mg,213mg,5g,,4g,177mg,4.5,16,,1 round of cream cheese,3 days,5g,1mg,139mg,0mg
-8,6590458,10 mins,5 mins,,, 8 hrs 45 mins,12 ,12,116,9g,6g,31mg,200mg,5g,0g,5g,48mg,4.4,10,,12 servings, 8 hrs 30 mins,4g,1mg,121mg,1mg
-9,6590294,15 mins,,,, 1 hr 15 mins,15 ,15,152,14g,7g,39mg,267mg,2g,0g,5g,74mg,4.5,92,,3 cups, 1 hr,0g,0mg,28mg,1mg
-10,6737401,30 mins,,,,35 mins,18 ,18,57,6g,3g,14mg,104mg,1g,0g,1g,28mg,4.7,882,,18 penguins,5 mins,0g,0mg,14mg,0mg
-11,6590773,10 mins,,,, 8 hrs 10 mins,16 ,16,207,19g,10g,45mg,255mg,3g,1g,7g,107mg,4.6,107,,1 cheese ball, 8 hrs,1g,0mg,127mg,1mg
-12,6649684, 1 hr,,,, 1 hr 30 mins,24 ,24,189,18g,10g,54mg,427mg,1g,0g,7g,45mg,4.9,105,,24 servings,30 mins,0g,1mg,114mg,1mg
-13,6738419,30 mins,,,,30 mins,16 ,16,176,16g,8g,36mg,130mg,3g,1g,6g,119mg,4.7,47,,1 cheese ball,,1g,1mg,69mg,1mg
-14,6599486,25 mins,,,, 2 hrs 25 mins,12 ,12,180,17g,7g,35mg,293mg,3g,1g,5g,109mg,4.5,66,,12 servings, 2 hrs,1g,1mg,38mg,1mg
-15,6568662,10 mins,,,, 8 hrs 10 mins,15 ,15,82,6g,4g,21mg,486mg,3g,0g,4g,85mg,4.7,6,,15 servings, 8 hrs,2g,2mg,106mg,0mg
-16,6600485,15 mins,,,,15 mins,8 ,8,315,31g,14g,70mg,378mg,5g,2g,8g,184mg,4.7,11,,8 servings,,1g,2mg,64mg,1mg
-17,6598230,15 mins,,,, 3 hrs 15 mins,20 ,20,76,7g,3g,17mg,101mg,1g,0g,4g,64mg,4.3,51,,1 ball, 3 hrs,0g,2mg,36mg,0mg
-18,6593846,15 mins,,,,15 mins,20 ,20,66,6g,2g,11mg,28mg,1g,0g,3g,45mg,4.5,77,,1 tuna ball,,0g,0mg,11mg,0mg
-19,6583951,15 mins,,,, 2 hrs 15 mins,16 ,16,168,15g,7g,31mg,89mg,8g,1g,3g,132mg,4.3,180,,2 cheese balls, 2 hrs,6g,7mg,36mg,1mg
-20,6577146,10 mins,,,, 1 hr 10 mins,12 ,12,208,22g,6g,24mg,388mg,2g,1g,3g,67mg,4.6,90,,2 cups, 1 hr,1g,0mg,29mg,1mg
-21,6605954,30 mins,,,, 1 hr,8 ,8,191,17g,7g,42mg,173mg,2g,1g,9g,142mg,4.7,40,,,30 mins,1g,2mg,83mg,1mg
-22,6579597,20 mins,,,, 2 hrs 20 mins,32 ,32,179,17g,6g,29mg,188mg,3g,1g,5g,82mg,4.5,10,,1 large cheese ball, 2 hrs,1g,1mg,109mg,1mg
-23,6588935,15 mins,,,, 3 hrs 15 mins,20 ,20,95,9g,5g,24mg,209mg,1g,0g,4g,30mg,4.7,58,,2 1/2 cups, 3 hrs,0g,0mg,93mg,0mg
-24,6587563,30 mins,,,,30 mins,4 ,4,234,19g,7g,22mg,147mg,12g,2g,8g,113mg,4.6,57,,12 patties,,10g,0mg,102mg,1mg
-25,6571145,10 mins,,,,15 mins,16 ,16,124,11g,6g,31mg,253mg,2g,0g,5g,48mg,4.6,46,,,5 mins,0g,,116mg,0mg
-26,6601552,15 mins,,,,45 mins,4 ,4,322,20g,13g,84mg,1187mg,23g,2g,13g,321mg,4.5,41,,10 to 15 servings,30 mins,9g,4mg,82mg,2mg
-27,6588103,10 mins,,,, 3 hrs 10 mins,6 ,6,424,32g,13g,61mg,232mg,29g,2g,10g,377mg,4.7,30,,6 servings, 3 hrs,7g,1mg,189mg,2mg
-28,6562294,10 mins,,,, 1 hr 10 mins,10 ,10,236,21g,11g,58mg,361mg,4g,0g,9g,46mg,,,,1 (20-ounce) cheese ball, 1 hr,0g,2mg,211mg,1mg
-29,6737315,,,,,,36 ,36,174,14g,6g,30mg,344mg,4g,0g,7g,78mg,4.2,99,,6 dozen,,0g,1mg,97mg,1mg
-30,6575522,20 mins,,,, 3 hrs 20 mins,24 ,,,,,,,,,,,4.7,18,,, 3 hrs,,,,
-31,6596356,20 mins,,,, 2 hrs 20 mins,16 ,16,317,21g,8g,34mg,395mg,24g,1g,9g,74mg,4.7,67,,16 servings, 2 hrs,11g,1mg,217mg,1mg
-32,6592412,15 mins,,,, 2 hrs 45 mins,18 ,18,120,11g,7g,35mg,215mg,2g,,4g,56mg,4.2,41,,18 servings, 2 hrs 30 mins,1g,1mg,73mg,1mg
-33,6736871,15 mins,,,, 2 hrs 15 mins,20 ,20,100,10g,6g,30mg,122mg,1g,0g,3g,37mg,4.6,16,,20 servings, 2 hrs,0g,1mg,58mg,0mg
-34,6600813,5 mins,15 mins,,,20 mins,4 ,4,298,21g,10g,57mg,361mg,15g,1g,12g,133mg,4.5,26,,8 ounces,,14g,0mg,121mg,1mg
-35,6601991,15 mins,,,,15 mins,10 ,10,206,20g,12g,62mg,302mg,2g,0g,6g,80mg,4.5,81,,10 servings,,0g,6mg,116mg,1mg
-36,6581326,30 mins,,,, 1 hr 30 mins,12 ,12,235,22g,13g,62mg,245mg,3g,1g,8g,131mg,4.5,14,,1 cheese ball, 1 hr,1g,20mg,187mg,1mg
-37,6664967,30 mins,,,, 1 hr 30 mins,48 ,48,69,6g,4g,20mg,130mg,1g,0g,2g,40mg,4.4,60,,6 cups, 1 hr,0g,1mg,30mg,0mg
-38,6578451,15 mins,,,, 4 hrs 15 mins,8 ,8,243,23g,11g,51mg,462mg,3g,1g,8g,107mg,4.4,53,,8 servings, 4 hrs,1g,0mg,174mg,1mg
-39,6649295,25 mins,,,, 2 hrs 25 mins,32 ,32,89,8g,5g,23mg,174mg,1g,0g,3g,33mg,5.0,2,,1 large cheese ball, 2 hrs,,,,
-40,6580710,10 mins,,,, 1 hr 10 mins,10 ,10,418,33g,19g,97mg,1149mg,13g,1g,18g,241mg,5.0,2,,10 servings, 1 hr,1g,1mg,242mg,2mg
-41,6600394,15 mins,,,,15 mins,8 ,8,174,17g,7g,38mg,227mg,3g,1g,5g,120mg,4.0,3,,8 servings,,1g,1mg,35mg,1mg
-42,6587619,5 mins,,,,5 mins,10 ,10,106,8g,5g,36mg,479mg,2g,0g,6g,97mg,4.4,13,,10 servings,,1g,7mg,23mg,1mg
-43,6597442,10 mins, 2 hrs,,, 2 hrs 10 mins,32 ,32,75,7g,4g,19mg,82mg,1g,0g,2g,33mg,4.6,100,,2 cheese balls,,0g,1mg,35mg,0mg
-44,6593648,20 mins,10 mins,,, 3 hrs,12 ,12,358,33g,17g,129mg,371mg,6g,2g,12g,236mg,3.8,6,,12 servings, 2 hrs 30 mins,1g,11mg,73mg,2mg
-45,6603086,10 mins,,,,10 mins,10 ,10,171,16g,10g,54mg,382mg,2g,0g,5g,112mg,4.0,1,,10 servings,,1g,1mg,43mg,1mg
-46,6592974,20 mins,,,,20 mins,16 ,16,97,7g,4g,28mg,182mg,1g,0g,8g,121mg,4.3,28,,1 ball,,0g,6mg,79mg,1mg
-47,6649556,15 mins,,,, 4 hrs 15 mins,12 ,12,146,12g,8g,37mg,355mg,3g,1g,6g,110mg,,,,12 servings, 4 hrs,,,,
-48,6565281,10 mins,7 mins,,, 2 hrs 17 mins,6 ,6,546,43g,17g,69mg,748mg,27g,3g,14g,209mg,5.0,2,,6 servings, 2 hrs,4g,20mg,279mg,3mg
-49,6588870,10 mins,,,, 2 hrs 10 mins,7 ,7,106,8g,4g,30mg,152mg,1g,0g,8g,117mg,3.8,10,,1 3/4 cups, 2 hrs,0g,3mg,79mg,1mg
-50,6601329,5 mins,10 mins,,,15 mins,20 ,20,123,12g,5g,25mg,101mg,3g,1g,2g,65mg,4.5,90,,20 servings,,2g,2mg,24mg,0mg
-51,6601057,15 mins,,,,45 mins,16 ,16,239,24g,12g,55mg,377mg,2g,1g,6g,89mg,3.8,5,,16 servings,30 mins,0g,0mg,95mg,1mg
-52,6588543,,,,,,12 ,12,324,30g,18g,123mg,465mg,4g,0g,11g,205mg,4.3,17,,1 to 9 - inch cake,,1g,13mg,207mg,1mg
-53,6605397,5 mins,,,,5 mins,16 ,16,238,20g,11g,49mg,283mg,10g,1g,7g,57mg,3.0,2,,16 servings,,1g,0mg,158mg,1mg
-54,6594826,15 mins,,,, 2 hrs 15 mins,12 ,12,208,19g,11g,56mg,390mg,3g,1g,7g,191mg,3.8,4,,12 servings, 2 hrs,0g,32mg,171mg,2mg
-55,6573954,10 mins,,,, 1 hr 10 mins,16 ,16,108,10g,5g,23mg,205mg,1g,0g,3g,38mg,5.0,1,,16 servings, 1 hr,0g,,65mg,0mg
-56,6602135,10 mins,1 mins,,, 1 hr 15 mins,8 ,8,157,12g,7g,31mg,129mg,9g,0g,3g,72mg,4.3,20,,8 servings, 1 hr 4 mins,7g,0mg,41mg,1mg
-57,6589528,20 mins,,,,20 mins,12 ,12,196,19g,9g,50mg,388mg,1g,,6g,93mg,3.7,15,,12 cheese balls,,0g,0mg,31mg,1mg
-58,6585548,15 mins,,,, 1 hr 15 mins,24 ,24,69,6g,3g,15mg,131mg,2g,0g,3g,35mg,4.8,4,,24 servings, 1 hr,1g,0mg,61mg,0mg
-59,6562401,10 mins,,,, 8 hrs 10 mins,12 ,12,92,7g,4g,39mg,197mg,4g,0g,4g,104mg,,,,12 servings, 8 hrs,3g,4mg,27mg,1mg
-60,6591158,15 mins,10 mins,,, 9 hrs 25 mins,56 ,56,53,5g,2g,12mg,78mg,1g,0g,1g,24mg,4.8,15,,3 1/2 cups, 9 hrs,0g,0mg,17mg,0mg
-61,6581390,5 mins,,,, 2 hrs 5 mins,7 ,7,410,39g,18g,87mg,806mg,7g,2g,11g,176mg,3.3,7,,7 servings, 2 hrs,2g,0mg,180mg,2mg
+,id_recipe,name,Prep Time:,Cook Time:,Refrigerate Time:,Stand Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Protein,Potassium,Average_Review,Review_Count,Chill Time:,Yield:,Additional Time:,Total Sugars,Vitamin C,Calcium,Iron
+0,6825760,4-Ingredient Bacon Ranch Cheese Ball,5 mins,10 mins,30 mins,30 mins, 1 hr 15 mins,15 ,15,103,10g,5g,22mg,173mg,1g,0g,2g,46mg,4.4,5,,,,,,,
+1,6824021,Bacon-Ranch Cheese Ball,15 mins,10 mins,,, 2 hrs 25 mins,32 ,32,112,10g,6g,28mg,205mg,1g,,4g,46mg,5.0,4, 2 hrs,1 large cheese ball,,,,,
+2,6665055,Dried Beef Cheese Ball,5 mins,,,,35 mins,10 ,10,96,8g,5g,32mg,429mg,1g,0g,4g,69mg,4.4,214,,,30 mins,1g,1mg,23mg,1mg
+3,6574138,Jimmy Dean Sausage Cheese Balls,15 mins,20 mins,,,40 mins,36 ,,,,,,,,,,,4.5,160,,6 dozen,5 mins,,,,
+4,6738946,Chocolate Chip Cheese Ball,15 mins,,,, 3 hrs 15 mins,32 ,32,102,8g,4g,15mg,42mg,7g,1g,1g,36mg,4.7,"1,408",,, 3 hrs,6g,,10mg,0mg
+5,6739701,Easy Cheese Ball II,5 mins,,,, 2 hrs 5 mins,7 ,7,557,53g,24g,113mg,720mg,8g,2g,17g,232mg,4.6,840,,6 to 8 servings, 2 hrs,1g,0mg,359mg,2mg
+6,6580697,Cheese Ball I,15 mins,,,, 2 hrs 15 mins,32 ,32,149,14g,6g,28mg,179mg,2g,1g,5g,62mg,4.6,356,,1 large cheese ball, 2 hrs,0g,0mg,105mg,0mg
+7,6741032,How to Make Cream Cheese,20 mins,,,,3 days 20 mins,12 ,12,48,1g,1g,5mg,213mg,5g,,4g,177mg,4.5,16,,1 round of cream cheese,3 days,5g,1mg,139mg,0mg
+8,6590458,Canadian Sharp Cheddar Cheese Spread,10 mins,5 mins,,, 8 hrs 45 mins,12 ,12,116,9g,6g,31mg,200mg,5g,0g,5g,48mg,4.4,10,,12 servings, 8 hrs 30 mins,4g,1mg,121mg,1mg
+9,6590294,Chicken Cheese Ball,15 mins,,,, 1 hr 15 mins,15 ,15,152,14g,7g,39mg,267mg,2g,0g,5g,74mg,4.5,92,,3 cups, 1 hr,0g,0mg,28mg,1mg
+10,6737401,Cream Cheese Penguins,30 mins,,,,35 mins,18 ,18,57,6g,3g,14mg,104mg,1g,0g,1g,28mg,4.7,882,,18 penguins,5 mins,0g,0mg,14mg,0mg
+11,6590773,Blue Cheese Ball,10 mins,,,, 8 hrs 10 mins,16 ,16,207,19g,10g,45mg,255mg,3g,1g,7g,107mg,4.6,107,,1 cheese ball, 8 hrs,1g,0mg,127mg,1mg
+12,6649684,Flayed Man Cheese Ball, 1 hr,,,, 1 hr 30 mins,24 ,24,189,18g,10g,54mg,427mg,1g,0g,7g,45mg,4.9,105,,24 servings,30 mins,0g,1mg,114mg,1mg
+13,6738419,Pine Cone Cheese Ball,30 mins,,,,30 mins,16 ,16,176,16g,8g,36mg,130mg,3g,1g,6g,119mg,4.7,47,,1 cheese ball,,1g,1mg,69mg,1mg
+14,6599486,Traditional Christmas Cheese Ball,25 mins,,,, 2 hrs 25 mins,12 ,12,180,17g,7g,35mg,293mg,3g,1g,5g,109mg,4.5,66,,12 servings, 2 hrs,1g,1mg,38mg,1mg
+15,6568662,Original Bar Cheese Spread,10 mins,,,, 8 hrs 10 mins,15 ,15,82,6g,4g,21mg,486mg,3g,0g,4g,85mg,4.7,6,,15 servings, 8 hrs,2g,2mg,106mg,0mg
+16,6600485,Ham Ball,15 mins,,,,15 mins,8 ,8,315,31g,14g,70mg,378mg,5g,2g,8g,184mg,4.7,11,,8 servings,,1g,2mg,64mg,1mg
+17,6598230,Salmon Cheese Ball,15 mins,,,, 3 hrs 15 mins,20 ,20,76,7g,3g,17mg,101mg,1g,0g,4g,64mg,4.3,51,,1 ball, 3 hrs,0g,2mg,36mg,0mg
+18,6593846,Tuna Ball,15 mins,,,,15 mins,20 ,20,66,6g,2g,11mg,28mg,1g,0g,3g,45mg,4.5,77,,1 tuna ball,,0g,0mg,11mg,0mg
+19,6583951,Pineapple Cheese Ball,15 mins,,,, 2 hrs 15 mins,16 ,16,168,15g,7g,31mg,89mg,8g,1g,3g,132mg,4.3,180,,2 cheese balls, 2 hrs,6g,7mg,36mg,1mg
+20,6577146,Olive Pecan Spread,10 mins,,,, 1 hr 10 mins,12 ,12,208,22g,6g,24mg,388mg,2g,1g,3g,67mg,4.6,90,,2 cups, 1 hr,1g,0mg,29mg,1mg
+21,6605954,Red Salmon Pâté,30 mins,,,, 1 hr,8 ,8,191,17g,7g,42mg,173mg,2g,1g,9g,142mg,4.7,40,,,30 mins,1g,2mg,83mg,1mg
+22,6579597,Turkey Cheese Ball for Thanksgiving,20 mins,,,, 2 hrs 20 mins,32 ,32,179,17g,6g,29mg,188mg,3g,1g,5g,82mg,4.5,10,,1 large cheese ball, 2 hrs,1g,1mg,109mg,1mg
+23,6588935,Cheese Ball III,15 mins,,,, 3 hrs 15 mins,20 ,20,95,9g,5g,24mg,209mg,1g,0g,4g,30mg,4.7,58,,2 1/2 cups, 3 hrs,0g,0mg,93mg,0mg
+24,6587563,Creamy Goat Cheese and Honey,30 mins,,,,30 mins,4 ,4,234,19g,7g,22mg,147mg,12g,2g,8g,113mg,4.6,57,,12 patties,,10g,0mg,102mg,1mg
+25,6571145,Buttermilk Ranch Cheese Ball,10 mins,,,,15 mins,16 ,16,124,11g,6g,31mg,253mg,2g,0g,5g,48mg,4.6,46,,,5 mins,0g,,116mg,0mg
+26,6601552,Devil Crab Cream Cheese Ball,15 mins,,,,45 mins,4 ,4,322,20g,13g,84mg,1187mg,23g,2g,13g,321mg,4.5,41,,10 to 15 servings,30 mins,9g,4mg,82mg,2mg
+27,6588103,Dried Fruit Cheese Ball,10 mins,,,, 3 hrs 10 mins,6 ,6,424,32g,13g,61mg,232mg,29g,2g,10g,377mg,4.7,30,,6 servings, 3 hrs,7g,1mg,189mg,2mg
+28,6562294,Flamin' Hot Cheetos Cheese Ball,10 mins,,,, 1 hr 10 mins,10 ,10,236,21g,11g,58mg,361mg,4g,0g,9g,46mg,,,,1 (20-ounce) cheese ball, 1 hr,0g,2mg,211mg,1mg
+29,6737315,Sausage Cheese Balls,,,,,,36 ,36,174,14g,6g,30mg,344mg,4g,0g,7g,78mg,4.2,99,,6 dozen,,0g,1mg,97mg,1mg
+30,6575522,Party Cheese Ball,20 mins,,,, 3 hrs 20 mins,24 ,,,,,,,,,,,4.7,18,,, 3 hrs,,,,
+31,6596356,Cheese Ring,20 mins,,,, 2 hrs 20 mins,16 ,16,317,21g,8g,34mg,395mg,24g,1g,9g,74mg,4.7,67,,16 servings, 2 hrs,11g,1mg,217mg,1mg
+32,6592412,Football Cheese Ball,15 mins,,,, 2 hrs 45 mins,18 ,18,120,11g,7g,35mg,215mg,2g,,4g,56mg,4.2,41,,18 servings, 2 hrs 30 mins,1g,1mg,73mg,1mg
+33,6736871,"Cream Cheese, Havarti, and Parmesan Herbed Christmas Tree",15 mins,,,, 2 hrs 15 mins,20 ,20,100,10g,6g,30mg,122mg,1g,0g,3g,37mg,4.6,16,,20 servings, 2 hrs,0g,1mg,58mg,0mg
+34,6600813,Rye Whiskey Brie,5 mins,15 mins,,,20 mins,4 ,4,298,21g,10g,57mg,361mg,15g,1g,12g,133mg,4.5,26,,8 ounces,,14g,0mg,121mg,1mg
+35,6601991,The Best Cheeseball,15 mins,,,,15 mins,10 ,10,206,20g,12g,62mg,302mg,2g,0g,6g,80mg,4.5,81,,10 servings,,0g,6mg,116mg,1mg
+36,6581326,Christmas Tree Cheese Ball,30 mins,,,, 1 hr 30 mins,12 ,12,235,22g,13g,62mg,245mg,3g,1g,8g,131mg,4.5,14,,1 cheese ball, 1 hr,1g,20mg,187mg,1mg
+37,6664967,Southern Made Cheese Ball,30 mins,,,, 1 hr 30 mins,48 ,48,69,6g,4g,20mg,130mg,1g,0g,2g,40mg,4.4,60,,6 cups, 1 hr,0g,1mg,30mg,0mg
+38,6578451,Thanksgiving Cheese Ball,15 mins,,,, 4 hrs 15 mins,8 ,8,243,23g,11g,51mg,462mg,3g,1g,8g,107mg,4.4,53,,8 servings, 4 hrs,1g,0mg,174mg,1mg
+39,6649295,Easter Egg Cheese Ball,25 mins,,,, 2 hrs 25 mins,32 ,32,89,8g,5g,23mg,174mg,1g,0g,3g,33mg,5.0,2,,1 large cheese ball, 2 hrs,,,,
+40,6580710,Bacon and Dill Pickle Cheese Ball,10 mins,,,, 1 hr 10 mins,10 ,10,418,33g,19g,97mg,1149mg,13g,1g,18g,241mg,5.0,2,,10 servings, 1 hr,1g,1mg,242mg,2mg
+41,6600394,Corned Beef Cheese Ball,15 mins,,,,15 mins,8 ,8,174,17g,7g,38mg,227mg,3g,1g,5g,120mg,4.0,3,,8 servings,,1g,1mg,35mg,1mg
+42,6587619,Beef and Cheese Ball,5 mins,,,,5 mins,10 ,10,106,8g,5g,36mg,479mg,2g,0g,6g,97mg,4.4,13,,10 servings,,1g,7mg,23mg,1mg
+43,6597442,Feta Cheese Ball,10 mins, 2 hrs,,, 2 hrs 10 mins,32 ,32,75,7g,4g,19mg,82mg,1g,0g,2g,33mg,4.6,100,,2 cheese balls,,0g,1mg,35mg,0mg
+44,6593648,Shrimp Cheese Ball,20 mins,10 mins,,, 3 hrs,12 ,12,358,33g,17g,129mg,371mg,6g,2g,12g,236mg,3.8,6,,12 servings, 2 hrs 30 mins,1g,11mg,73mg,2mg
+45,6603086,Chipped Beef Cheese Ball,10 mins,,,,10 mins,10 ,10,171,16g,10g,54mg,382mg,2g,0g,5g,112mg,4.0,1,,10 servings,,1g,1mg,43mg,1mg
+46,6592974,Salmon Ball,20 mins,,,,20 mins,16 ,16,97,7g,4g,28mg,182mg,1g,0g,8g,121mg,4.3,28,,1 ball,,0g,6mg,79mg,1mg
+47,6649556,Taco Cheese Ball Wreath,15 mins,,,, 4 hrs 15 mins,12 ,12,146,12g,8g,37mg,355mg,3g,1g,6g,110mg,,,,12 servings, 4 hrs,,,,
+48,6565281,Classic Pimento Cheese Ball,10 mins,7 mins,,, 2 hrs 17 mins,6 ,6,546,43g,17g,69mg,748mg,27g,3g,14g,209mg,5.0,2,,6 servings, 2 hrs,4g,20mg,279mg,3mg
+49,6588870,Smoky Salmon Spread,10 mins,,,, 2 hrs 10 mins,7 ,7,106,8g,4g,30mg,152mg,1g,0g,8g,117mg,3.8,10,,1 3/4 cups, 2 hrs,0g,3mg,79mg,1mg
+50,6601329,Cheese Ball,5 mins,10 mins,,,15 mins,20 ,20,123,12g,5g,25mg,101mg,3g,1g,2g,65mg,4.5,90,,20 servings,,2g,2mg,24mg,0mg
+51,6601057,Aunt Rose's Cheese Ball,15 mins,,,,45 mins,16 ,16,239,24g,12g,55mg,377mg,2g,1g,6g,89mg,3.8,5,,16 servings,30 mins,0g,0mg,95mg,1mg
+52,6588543,Blue Cheese Cheesecake,,,,,,12 ,12,324,30g,18g,123mg,465mg,4g,0g,11g,205mg,4.3,17,,1 to 9 - inch cake,,1g,13mg,207mg,1mg
+53,6605397,Halloween Cheese Ball,5 mins,,,,5 mins,16 ,16,238,20g,11g,49mg,283mg,10g,1g,7g,57mg,3.0,2,,16 servings,,1g,0mg,158mg,1mg
+54,6594826,Easter Carrot Cheese Log,15 mins,,,, 2 hrs 15 mins,12 ,12,208,19g,11g,56mg,390mg,3g,1g,7g,191mg,3.8,4,,12 servings, 2 hrs,0g,32mg,171mg,2mg
+55,6573954,Everything Bagel Cheese Ball,10 mins,,,, 1 hr 10 mins,16 ,16,108,10g,5g,23mg,205mg,1g,0g,3g,38mg,5.0,1,,16 servings, 1 hr,0g,,65mg,0mg
+56,6602135,Garlic and Brown Sugar Cheese Ball,10 mins,1 mins,,, 1 hr 15 mins,8 ,8,157,12g,7g,31mg,129mg,9g,0g,3g,72mg,4.3,20,,8 servings, 1 hr 4 mins,7g,0mg,41mg,1mg
+57,6589528,Pepperoni Cheese Balls,20 mins,,,,20 mins,12 ,12,196,19g,9g,50mg,388mg,1g,,6g,93mg,3.7,15,,12 cheese balls,,0g,0mg,31mg,1mg
+58,6585548,Pear-Pecan Cheese Ball,15 mins,,,, 1 hr 15 mins,24 ,24,69,6g,3g,15mg,131mg,2g,0g,3g,35mg,4.8,4,,24 servings, 1 hr,1g,0mg,61mg,0mg
+59,6562401,Shrimp Cocktail Cheese Ball Appetizer,10 mins,,,, 8 hrs 10 mins,12 ,12,92,7g,4g,39mg,197mg,4g,0g,4g,104mg,,,,12 servings, 8 hrs,3g,4mg,27mg,1mg
+60,6591158,Lindy's Bacon and Onion Cheese Spread,15 mins,10 mins,,, 9 hrs 25 mins,56 ,56,53,5g,2g,12mg,78mg,1g,0g,1g,24mg,4.8,15,,3 1/2 cups, 9 hrs,0g,0mg,17mg,0mg
+61,6581390,Chili Cheese Log,5 mins,,,, 2 hrs 5 mins,7 ,7,410,39g,18g,87mg,806mg,7g,2g,11g,176mg,3.3,7,,7 servings, 2 hrs,2g,0mg,180mg,2mg

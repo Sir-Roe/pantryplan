@@ -1,15 +1,15 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
-0,6664123,15 mins,15 mins,30 mins,6 ,6,636,25g,15g,142mg,635mg,83g,2g,2g,19g,6mg,79mg,5mg,438mg,4.6,258,,
-1,6664097,35 mins,20 mins, 1 hr 15 mins,4 ,4,424,15g,7g,369mg,1114mg,30g,2g,2g,41g,20mg,105mg,7mg,526mg,4.8,575,20 mins,
-2,6590672,30 mins,45 mins, 1 hr 15 mins,6 ,6,480,16g,8g,69mg,1298mg,60g,3g,3g,22g,20mg,52mg,4mg,335mg,4.7,10,,6 servings
-3,6650545,20 mins,50 mins, 1 hr 10 mins,6 ,6,264,14g,2g,196mg,956mg,9g,1g,3g,25g,22mg,84mg,3mg,483mg,4.8,586,,6 servings
-4,6579385, 1 hr, 1 hr, 2 hrs,6 ,6,501,43g,8g,81mg,1406mg,16g,1g,4g,14g,15mg,77mg,3mg,376mg,4.6,50,,6 servings
-5,6597481,20 mins,20 mins,40 mins,8 ,8,236,14g,8g,154mg,499mg,9g,2g,3g,19g,28mg,72mg,2mg,506mg,4.6,32,,8 servings
-6,6572607,15 mins,35 mins,50 mins,4 ,4,703,29g,5g,121mg,856mg,85g,2g,4g,24g,28mg,111mg,6mg,493mg,4.7,20,,4 servings
-7,6595419,20 mins,30 mins,50 mins,4 ,4,535,48g,29g,242mg,421mg,12g,2g,3g,18g,27mg,83mg,2mg,390mg,4.2,54,,
-8,6587280,20 mins,40 mins, 1 hr,8 ,8,306,10g,3g,55mg,890mg,31g,2g,3g,22g,21mg,43mg,2mg,628mg,4.2,21,,8 servings
-9,6594206,20 mins,25 mins,45 mins,6 ,6,195,11g,2g,119mg,636mg,9g,1g,3g,15g,24mg,61mg,3mg,346mg,4.6,323,,
-10,6587164,30 mins, 1 hr 40 mins, 2 hrs 25 mins,20 ,20,205,11g,6g,204mg,328mg,4g,1g,1g,23g,5mg,76mg,2mg,327mg,4.6,245,15 mins,20 servings
-11,6580666,15 mins,15 mins,30 mins,6 ,6,363,32g,15g,140mg,401mg,6g,1g,1g,15g,9mg,175mg,1mg,384mg,4.1,7,,6 servings
-12,6664335,25 mins,40 mins, 1 hr 5 mins,6 ,6,236,11g,2g,54mg,393mg,13g,5g,,22g,,,,586mg,5.0,1,,6 servings
-13,6602494, 1 hr, 1 hr 30 mins, 2 hrs 30 mins,10 ,10,369,21g,3g,287mg,876mg,9g,2g,4g,37g,41mg,133mg,4mg,605mg,4.7,82,,10 servings
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
+0,6664123,Louisiana Crawfish Étouffée,15 mins,15 mins,30 mins,6 ,6,636,25g,15g,142mg,635mg,83g,2g,2g,19g,6mg,79mg,5mg,438mg,4.6,258,,
+1,6664097,Chef John's Shrimp Étouffée,35 mins,20 mins, 1 hr 15 mins,4 ,4,424,15g,7g,369mg,1114mg,30g,2g,2g,41g,20mg,105mg,7mg,526mg,4.8,575,20 mins,
+2,6590672,Chicken Etouffee,30 mins,45 mins, 1 hr 15 mins,6 ,6,480,16g,8g,69mg,1298mg,60g,3g,3g,22g,20mg,52mg,4mg,335mg,4.7,10,,6 servings
+3,6650545,Cajun Crawfish and Shrimp Étouffée,20 mins,50 mins, 1 hr 10 mins,6 ,6,264,14g,2g,196mg,956mg,9g,1g,3g,25g,22mg,84mg,3mg,483mg,4.8,586,,6 servings
+4,6579385,Crawfish Etouffee IV, 1 hr, 1 hr, 2 hrs,6 ,6,501,43g,8g,81mg,1406mg,16g,1g,4g,14g,15mg,77mg,3mg,376mg,4.6,50,,6 servings
+5,6597481,Go-To Crawfish Etouffee,20 mins,20 mins,40 mins,8 ,8,236,14g,8g,154mg,499mg,9g,2g,3g,19g,28mg,72mg,2mg,506mg,4.6,32,,8 servings
+6,6572607,Heather's Crawfish Etouffee,15 mins,35 mins,50 mins,4 ,4,703,29g,5g,121mg,856mg,85g,2g,4g,24g,28mg,111mg,6mg,493mg,4.7,20,,4 servings
+7,6595419,Crawfish Étouffée Like Maw-Maw Used to Make,20 mins,30 mins,50 mins,4 ,4,535,48g,29g,242mg,421mg,12g,2g,3g,18g,27mg,83mg,2mg,390mg,4.2,54,,
+8,6587280,Catfish Etouffee,20 mins,40 mins, 1 hr,8 ,8,306,10g,3g,55mg,890mg,31g,2g,3g,22g,21mg,43mg,2mg,628mg,4.2,21,,8 servings
+9,6594206,Microwave Shrimp Étouffée,20 mins,25 mins,45 mins,6 ,6,195,11g,2g,119mg,636mg,9g,1g,3g,15g,24mg,61mg,3mg,346mg,4.6,323,,
+10,6587164,Ann's Shrimp Etouffee,30 mins, 1 hr 40 mins, 2 hrs 25 mins,20 ,20,205,11g,6g,204mg,328mg,4g,1g,1g,23g,5mg,76mg,2mg,327mg,4.6,245,15 mins,20 servings
+11,6580666,Tammi's Crawfish Etoufee,15 mins,15 mins,30 mins,6 ,6,363,32g,15g,140mg,401mg,6g,1g,1g,15g,9mg,175mg,1mg,384mg,4.1,7,,6 servings
+12,6664335,Catfish Étouffée,25 mins,40 mins, 1 hr 5 mins,6 ,6,236,11g,2g,54mg,393mg,13g,5g,,22g,,,,586mg,5.0,1,,6 servings
+13,6602494,Shrimp Etoufee III, 1 hr, 1 hr 30 mins, 2 hrs 30 mins,10 ,10,369,21g,3g,287mg,876mg,9g,2g,4g,37g,41mg,133mg,4mg,605mg,4.7,82,,10 servings

@@ -1,24 +1,24 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:
-0,6664768,15 mins,40 mins,55 mins,20 ,5 cups,20,284,23g,9g,54mg,552mg,9g,1g,2g,11g,2mg,98mg,1mg,161mg,4.7,"5,098",
-1,6566580,10 mins,30 mins,40 mins,16 ,,16,240,22g,10g,57mg,357mg,2g,0g,1g,9g,1mg,92mg,1mg,93mg,4.7,839,
-2,6649030,20 mins, 1 hr, 1 hr 20 mins,8 ,,8,450,38g,11g,76mg,887mg,5g,0g,3g,19g,7mg,148mg,1mg,191mg,4.6,237,
-3,6650100,10 mins,40 mins,50 mins,40 ,5 cups,40,78,5g,2g,12mg,297mg,6g,0g,1g,3g,3mg,30mg,0mg,50mg,4.8,82,
-4,6649862,10 mins, 1 hr, 1 hr 10 mins,16 ,16 servings,16,187,11g,5g,24mg,1024mg,12g,1g,3g,9g,,37mg,1mg,55mg,3.6,23,
-5,6566984,10 mins,40 mins, 1 hr 50 mins,12 ,,12,271,25g,8g,44mg,641mg,3g,0g,1g,9g,7mg,135mg,0mg,99mg,4.0,1, 1 hr
-6,6602883,5 mins,15 mins,20 mins,16 ,,16,240,22g,7g,36mg,1018mg,3g,0g,1g,8g,16mg,75mg,1mg,106mg,4.8,21,
-7,6592724,15 mins, 1 hr 30 mins, 2 hrs 10 mins,24 ,6 cups,24,175,15g,7g,44mg,558mg,1g,0g,1g,8g,7mg,83mg,1mg,95mg,4.5,2,25 mins
-8,6571823,10 mins,20 mins,30 mins,8 ,4 cups,8,349,26g,10g,94mg,1125mg,4g,,1g,24g,2mg,94mg,2mg,167mg,4.8,20,
-9,6568730,10 mins,25 mins,35 mins,16 ,,16,290,19g,8g,39mg,510mg,21g,2g,1g,10g,,67mg,1mg,105mg,4.6,55,
-10,6580970,10 mins, 4 hrs, 4 hrs 10 mins,16 ,,16,120,8g,5g,35mg,371mg,3g,,0g,9g,0mg,67mg,1mg,98mg,5.0,5,
-11,6737129,15 mins, 2 hrs, 2 hrs 35 mins,16 ,2 cups chicken spread,16,224,15g,8g,53mg,502mg,12g,1g,1g,11g,3mg,39mg,1mg,116mg,4.8,8,20 mins
-12,6600633,10 mins,20 mins,40 mins,32 ,8 cups,32,161,14g,7g,41mg,485mg,1g,0g,1g,8g,8mg,117mg,0mg,75mg,4.6,109,10 mins
-13,6570520,10 mins,15 mins,25 mins,8 ,8 servings,8,459,39g,19g,124mg,1099mg,4g,0g,2g,22g,16mg,171mg,1mg,203mg,4.9,10,
-14,6584635,15 mins,25 mins,40 mins,12 ,12 servings,12,126,10g,5g,34mg,331mg,1g,0g,0g,8g,5mg,71mg,0mg,75mg,,,
-15,6576742,10 mins,10 mins,20 mins,16 ,16 servings,16,324,27g,12g,75mg,815mg,5g,1g,1g,15g,8mg,125mg,1mg,127mg,4.4,8,
-16,6590086,5 mins,50 mins,55 mins,16 ,16 servings,16,263,25g,9g,44mg,895mg,3g,0g,2g,5g,16mg,15mg,0mg,67mg,4.4,187,
-17,6569279,15 mins,, 1 hr 15 mins,12 ,4 cups,12,335,30g,8g,41mg,811mg,7g,0g,1g,10g,1mg,82mg,1mg,132mg,,, 1 hr
-18,6589553,15 mins, 4 hrs, 4 hrs 15 mins,20 ,5 cups,20,153,13g,7g,34mg,363mg,2g,,1g,7g,1mg,117mg,0mg,56mg,5.0,2,
-19,6663693,5 mins,,5 mins,4 ,4 servings,4,156,13g,7g,34mg,358mg,3g,,0g,3g,0mg,78mg,,63mg,,,
-20,6595556,15 mins,30 mins,50 mins,12 ,12 servings,12,164,9g,5g,37mg,714mg,7g,0g,2g,13g,0mg,251mg,0mg,79mg,4.0,1,5 mins
-21,6664689,10 mins,, 8 hrs 10 mins,12 ,12 servings,12,182,16g,9g,56mg,352mg,2g,,0g,8g,1mg,33mg,1mg,83mg,5.0,1, 8 hrs
-22,6565399,5 mins, 1 hr, 1 hr 5 mins,16 ,16 servings,16,287,24g,10g,70mg,848mg,4g,,1g,16g,1mg,68mg,1mg,115mg,,,
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:
+0,6664768,Buffalo Chicken Dip,15 mins,40 mins,55 mins,20 ,5 cups,20,284,23g,9g,54mg,552mg,9g,1g,2g,11g,2mg,98mg,1mg,161mg,4.7,"5,098",
+1,6566580,Chicken Wing Dip,10 mins,30 mins,40 mins,16 ,,16,240,22g,10g,57mg,357mg,2g,0g,1g,9g,1mg,92mg,1mg,93mg,4.7,839,
+2,6649030,Cheesy Buffalo Chicken Dip,20 mins, 1 hr, 1 hr 20 mins,8 ,,8,450,38g,11g,76mg,887mg,5g,0g,3g,19g,7mg,148mg,1mg,191mg,4.6,237,
+3,6650100,Healthier Buffalo Chicken Dip,10 mins,40 mins,50 mins,40 ,5 cups,40,78,5g,2g,12mg,297mg,6g,0g,1g,3g,3mg,30mg,0mg,50mg,4.8,82,
+4,6649862,Vegetarian Buffalo Chicken Dip,10 mins, 1 hr, 1 hr 10 mins,16 ,16 servings,16,187,11g,5g,24mg,1024mg,12g,1g,3g,9g,,37mg,1mg,55mg,3.6,23,
+5,6566984,Buffalo Chicken Dip with Sour Cream,10 mins,40 mins, 1 hr 50 mins,12 ,,12,271,25g,8g,44mg,641mg,3g,0g,1g,9g,7mg,135mg,0mg,99mg,4.0,1, 1 hr
+6,6602883,Easy Buffalo Chicken Dip,5 mins,15 mins,20 mins,16 ,,16,240,22g,7g,36mg,1018mg,3g,0g,1g,8g,16mg,75mg,1mg,106mg,4.8,21,
+7,6592724,The Best Buffalo Chicken Dip,15 mins, 1 hr 30 mins, 2 hrs 10 mins,24 ,6 cups,24,175,15g,7g,44mg,558mg,1g,0g,1g,8g,7mg,83mg,1mg,95mg,4.5,2,25 mins
+8,6571823,Buffalo Dip,10 mins,20 mins,30 mins,8 ,4 cups,8,349,26g,10g,94mg,1125mg,4g,,1g,24g,2mg,94mg,2mg,167mg,4.8,20,
+9,6568730,Buffalo Ranch Chicken and Cheese Dip,10 mins,25 mins,35 mins,16 ,,16,290,19g,8g,39mg,510mg,21g,2g,1g,10g,,67mg,1mg,105mg,4.6,55,
+10,6580970,Slow Cooker Buffalo Chicken Dip,10 mins, 4 hrs, 4 hrs 10 mins,16 ,,16,120,8g,5g,35mg,371mg,3g,,0g,9g,0mg,67mg,1mg,98mg,5.0,5,
+11,6737129,Buffalo Chicken Wings in a Jar,15 mins, 2 hrs, 2 hrs 35 mins,16 ,2 cups chicken spread,16,224,15g,8g,53mg,502mg,12g,1g,1g,11g,3mg,39mg,1mg,116mg,4.8,8,20 mins
+12,6600633,Hot Chicken Wing Dip,10 mins,20 mins,40 mins,32 ,8 cups,32,161,14g,7g,41mg,485mg,1g,0g,1g,8g,8mg,117mg,0mg,75mg,4.6,109,10 mins
+13,6570520,Quick and Easy Baked Buffalo Chicken Dip,10 mins,15 mins,25 mins,8 ,8 servings,8,459,39g,19g,124mg,1099mg,4g,0g,2g,22g,16mg,171mg,1mg,203mg,4.9,10,
+14,6584635,Buffalo Dip with Rotisserie Chicken,15 mins,25 mins,40 mins,12 ,12 servings,12,126,10g,5g,34mg,331mg,1g,0g,0g,8g,5mg,71mg,0mg,75mg,,,
+15,6576742,Buffalo Chicken-and-Artichoke Dip,10 mins,10 mins,20 mins,16 ,16 servings,16,324,27g,12g,75mg,815mg,5g,1g,1g,15g,8mg,125mg,1mg,127mg,4.4,8,
+16,6590086,Blue Cheese Chicken Wing Dip,5 mins,50 mins,55 mins,16 ,16 servings,16,263,25g,9g,44mg,895mg,3g,0g,2g,5g,16mg,15mg,0mg,67mg,4.4,187,
+17,6569279,Cold Buffalo Chicken Dip,15 mins,, 1 hr 15 mins,12 ,4 cups,12,335,30g,8g,41mg,811mg,7g,0g,1g,10g,1mg,82mg,1mg,132mg,,, 1 hr
+18,6589553,Buffalo Chicken Dip in the Slow Cooker,15 mins, 4 hrs, 4 hrs 15 mins,20 ,5 cups,20,153,13g,7g,34mg,363mg,2g,,1g,7g,1mg,117mg,0mg,56mg,5.0,2,
+19,6663693,4-Ingredient Buffalo Chicken Dip,5 mins,,5 mins,4 ,4 servings,4,156,13g,7g,34mg,358mg,3g,,0g,3g,0mg,78mg,,63mg,,,
+20,6595556,Skinny Buffalo Chicken Dip,15 mins,30 mins,50 mins,12 ,12 servings,12,164,9g,5g,37mg,714mg,7g,0g,2g,13g,0mg,251mg,0mg,79mg,4.0,1,5 mins
+21,6664689,Buffalo Chicken Cheese Ball,10 mins,, 8 hrs 10 mins,12 ,12 servings,12,182,16g,9g,56mg,352mg,2g,,0g,8g,1mg,33mg,1mg,83mg,5.0,1, 8 hrs
+22,6565399,Crowd-Pleasing Buffalo Chicken Dip,5 mins, 1 hr, 1 hr 5 mins,16 ,16 servings,16,287,24g,10g,70mg,848mg,4g,,1g,16g,1mg,68mg,1mg,115mg,,,

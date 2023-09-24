@@ -1,20 +1,20 @@
-,id_recipe,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count
-0,6593801,20 mins, 1 hr 15 mins, 2 hrs, 3 hrs 35 mins,8 ,8 servings,8,600,37g,16g,256mg,1738mg,32g,3g,7g,34g,13mg,458mg,5mg,560mg,4.6,63
-1,6583895,20 mins, 1 hr, 8 hrs 10 mins, 9 hrs 30 mins,6 ,1 9x13-inch pan,6,631,39g,20g,457mg,1019mg,37g,2g,4g,33g,1mg,522mg,5mg,460mg,4.2,161
-2,6738515,20 mins,45 mins,, 1 hr 5 mins,12 ,12 servings,12,535,40g,20g,268mg,1169mg,24g,2g,2g,22g,11mg,350mg,3mg,415mg,4.7,103
-3,6588459,25 mins,50 mins, 8 hrs 35 mins, 9 hrs 50 mins,8 ,1 9x13-inch casserole,8,349,19g,11g,226mg,785mg,25g,2g,5g,21g,16mg,178mg,3mg,304mg,4.6,170
-4,6587538,,,,,12 ,12 servings,,,,,,,,,,,,,,,4.7,101
-5,6574993,20 mins, 1 hr, 8 hrs, 9 hrs 20 mins,16 ,1 - 9x13 inch strata,16,369,16g,9g,176mg,342mg,47g,1g,28g,11g,3mg,98mg,2mg,201mg,4.4,79
-6,6739530,20 mins,50 mins, 12 hrs, 13 hrs 10 mins,8 ,8 servings,8,496,32g,17g,269mg,1073mg,20g,1g,6g,31g,19mg,555mg,3mg,398mg,4.4,92
-7,6584710,10 mins,45 mins, 8 hrs 10 mins, 9 hrs 5 mins,15 ,15 servings,15,359,26g,14g,164mg,716mg,13g,0g,1g,18g,6mg,342mg,1mg,190mg,4.6,90
-8,6594865,20 mins,40 mins,, 1 hr,8 ,1 baking pan,8,323,9g,8g,122mg,296mg,34g,2g,1g,18g,2mg,174mg,1mg,110mg,5.0,6
-9,6592905,30 mins, 1 hr,, 1 hr 30 mins,12 ,12 servings,12,458,33g,20g,214mg,910mg,16g,1g,4g,24g,1mg,602mg,2mg,246mg,4.6,62
-10,6574723,15 mins,35 mins, 8 hrs, 8 hrs 50 mins,6 ,1 8x8-inch bread pudding,6,298,17g,7g,152mg,652mg,29g,3g,10g,9g,2mg,91mg,2mg,193mg,3.0,3
-11,6592108,30 mins, 1 hr 10 mins,1 day,1 day 1 hr 40 mins,12 ,1 9x13-inch casserole,12,324,21g,12g,188mg,494mg,16g,1g,3g,18g,3mg,349mg,2mg,208mg,4.9,10
-12,6586295,30 mins,42 mins,10 mins, 1 hr 22 mins,8 ,8 servings,,,,,,,,,,,,,,,5.0,1
-13,6564225,20 mins, 1 hr, 8 hrs 10 mins, 9 hrs 30 mins,12 ,12 servings,12,238,11g,4g,114mg,462mg,21g,2g,5g,12g,21mg,157mg,2mg,285mg,,
-14,6577009,15 mins,20 mins,15 mins,50 mins,6 ,6 servings,6,347,19g,9g,189mg,997mg,17g,3g,3g,26g,2mg,312mg,2mg,336mg,4.4,7
-15,6571352,15 mins,55 mins, 8 hrs 35 mins, 9 hrs 45 mins,8 ,8 servings,8,298,14g,6g,230mg,485mg,26g,4g,4g,19g,6mg,426mg,4mg,454mg,,
-16,6566313,20 mins, 1 hr 5 mins, 8 hrs 5 mins, 9 hrs 30 mins,8 ,1 9x13-inch strata,8,383,20g,10g,185mg,711mg,30g,2g,6g,21g,6mg,396mg,3mg,365mg,4.0,1
-17,6738792,20 mins,55 mins, 8 hrs 10 mins, 9 hrs 25 mins,8 ,1 7x11-inch baking dish,8,401,27g,12g,207mg,1195mg,15g,1g,4g,23g,1mg,341mg,2mg,332mg,4.6,551
-18,6594549,20 mins,45 mins, 2 hrs 10 mins, 3 hrs 15 mins,12 ,12 servings,12,354,23g,13g,179mg,310mg,28g,2g,8g,10g,1mg,117mg,2mg,243mg,4.3,456
+,id_recipe,name,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count
+0,6593801,Breakfast Strata,20 mins, 1 hr 15 mins, 2 hrs, 3 hrs 35 mins,8 ,8 servings,8,600,37g,16g,256mg,1738mg,32g,3g,7g,34g,13mg,458mg,5mg,560mg,4.6,63
+1,6583895,"Bacon, Egg, and Cheese Strata",20 mins, 1 hr, 8 hrs 10 mins, 9 hrs 30 mins,6 ,1 9x13-inch pan,6,631,39g,20g,457mg,1019mg,37g,2g,4g,33g,1mg,522mg,5mg,460mg,4.2,161
+2,6738515,"Bacon, Cheddar and Spinach Strata",20 mins,45 mins,, 1 hr 5 mins,12 ,12 servings,12,535,40g,20g,268mg,1169mg,24g,2g,2g,22g,11mg,350mg,3mg,415mg,4.7,103
+3,6588459,Overnight Asparagus Mushroom Strata,25 mins,50 mins, 8 hrs 35 mins, 9 hrs 50 mins,8 ,1 9x13-inch casserole,8,349,19g,11g,226mg,785mg,25g,2g,5g,21g,16mg,178mg,3mg,304mg,4.6,170
+4,6587538,Easy Strata and Variations,,,,,12 ,12 servings,,,,,,,,,,,,,,,4.7,101
+5,6574993,Blueberry Strata,20 mins, 1 hr, 8 hrs, 9 hrs 20 mins,16 ,1 - 9x13 inch strata,16,369,16g,9g,176mg,342mg,47g,1g,28g,11g,3mg,98mg,2mg,201mg,4.4,79
+6,6739530,Mom's Breakfast Strata,20 mins,50 mins, 12 hrs, 13 hrs 10 mins,8 ,8 servings,8,496,32g,17g,269mg,1073mg,20g,1g,6g,31g,19mg,555mg,3mg,398mg,4.4,92
+7,6584710,English Muffin Breakfast Strata,10 mins,45 mins, 8 hrs 10 mins, 9 hrs 5 mins,15 ,15 servings,15,359,26g,14g,164mg,716mg,13g,0g,1g,18g,6mg,342mg,1mg,190mg,4.6,90
+8,6594865,Sweet Bread Strata,20 mins,40 mins,, 1 hr,8 ,1 baking pan,8,323,9g,8g,122mg,296mg,34g,2g,1g,18g,2mg,174mg,1mg,110mg,5.0,6
+9,6592905,Rita's Eggs Strata,30 mins, 1 hr,, 1 hr 30 mins,12 ,12 servings,12,458,33g,20g,214mg,910mg,16g,1g,4g,24g,1mg,602mg,2mg,246mg,4.6,62
+10,6574723,Cinnamon-Apple Strata,15 mins,35 mins, 8 hrs, 8 hrs 50 mins,6 ,1 8x8-inch bread pudding,6,298,17g,7g,152mg,652mg,29g,3g,10g,9g,2mg,91mg,2mg,193mg,3.0,3
+11,6592108,Wine and Cheese Strata,30 mins, 1 hr 10 mins,1 day,1 day 1 hr 40 mins,12 ,1 9x13-inch casserole,12,324,21g,12g,188mg,494mg,16g,1g,3g,18g,3mg,349mg,2mg,208mg,4.9,10
+12,6586295,"Bison Sausage, Apple and Sage Strata",30 mins,42 mins,10 mins, 1 hr 22 mins,8 ,8 servings,,,,,,,,,,,,,,,5.0,1
+13,6564225,Overnight Mexican Breakfast Strata,20 mins, 1 hr, 8 hrs 10 mins, 9 hrs 30 mins,12 ,12 servings,12,238,11g,4g,114mg,462mg,21g,2g,5g,12g,21mg,157mg,2mg,285mg,,
+14,6577009,Sandwich French Toast Casserole,15 mins,20 mins,15 mins,50 mins,6 ,6 servings,6,347,19g,9g,189mg,997mg,17g,3g,3g,26g,2mg,312mg,2mg,336mg,4.4,7
+15,6571352,Make-Ahead Spinach and Mozzarella Breakfast Strata,15 mins,55 mins, 8 hrs 35 mins, 9 hrs 45 mins,8 ,8 servings,8,298,14g,6g,230mg,485mg,26g,4g,4g,19g,6mg,426mg,4mg,454mg,,
+16,6566313,"Make-Ahead Cheddar, Bacon, and Tomato Strata",20 mins, 1 hr 5 mins, 8 hrs 5 mins, 9 hrs 30 mins,8 ,1 9x13-inch strata,8,383,20g,10g,185mg,711mg,30g,2g,6g,21g,6mg,396mg,3mg,365mg,4.0,1
+17,6738792,Easy Sausage Strata,20 mins,55 mins, 8 hrs 10 mins, 9 hrs 25 mins,8 ,1 7x11-inch baking dish,8,401,27g,12g,207mg,1195mg,15g,1g,4g,23g,1mg,341mg,2mg,332mg,4.6,551
+18,6594549,Apple Raisin French Toast Strata,20 mins,45 mins, 2 hrs 10 mins, 3 hrs 15 mins,12 ,12 servings,12,354,23g,13g,179mg,310mg,28g,2g,8g,10g,1mg,117mg,2mg,243mg,4.3,456

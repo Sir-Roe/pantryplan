@@ -1,10 +1,10 @@
-,id_recipe,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Calcium,Iron,Potassium,Average_Review,Review_Count,Yield:,Vitamin C
-0,6650788,25 mins,20 mins, 1 hr 30 mins, 2 hrs 15 mins,18 ,18,190,4g,1g,1mg,136mg,34g,1g,2g,5g,23mg,2mg,73mg,4.4,755,,
-1,6591911,30 mins,15 mins, 2 hrs 15 mins, 3 hrs,15 ,15,287,5g,3g,47mg,123mg,53g,1g,15g,7g,38mg,3mg,108mg,4.7,27,15 cakes,
-2,6571724,20 mins,10 mins, 8 hrs 45 mins, 9 hrs 15 mins,10 ,10,152,1g,0g,2mg,256mg,30g,1g,3g,5g,40mg,2mg,98mg,4.9,36,10 4-inch muffins,0mg
-3,6604607, 1 hr,25 mins,, 1 hr 25 mins,20 ,20,168,1g,0g,2mg,260mg,32g,1g,2g,6g,35mg,2mg,94mg,4.7,184,2 - 8x4 inch loaf pans,0mg
-4,6596954,20 mins,10 mins,25 mins,55 mins,10 ,10,152,1g,0g,2mg,222mg,31g,2g,,5g,37mg,2mg,127mg,4.3,33,1 9x5-inch loaf,0mg
-5,6738319,10 mins,14 mins, 3 hrs 10 mins, 3 hrs 34 mins,6 ,6,256,11g,6g,22mg,332mg,35g,2g,0g,6g,9mg,2mg,79mg,4.7,38,6 muffins,
-6,6578069,15 mins,15 mins, 2 hrs, 2 hrs 30 mins,18 ,18,84,1g,0g,1mg,118mg,17g,1g,,3g,21mg,1mg,43mg,4.6,131,2 loaves,
-7,6570066,25 mins,15 mins, 1 hr 30 mins, 2 hrs 10 mins,16 ,16,182,3g,1g,18mg,267mg,32g,1g,3g,6g,40mg,2mg,98mg,4.7,7,16 muffins,0mg
-8,6598521,15 mins,25 mins,45 mins, 1 hr 25 mins,24 ,24,125,1g,0g,2mg,216mg,24g,1g,2g,5g,29mg,2mg,73mg,4.8,10,2 - 9x5 inch loaves,
+,id_recipe,name,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Calcium,Iron,Potassium,Average_Review,Review_Count,Yield:,Vitamin C
+0,6650788,English Muffins,25 mins,20 mins, 1 hr 30 mins, 2 hrs 15 mins,18 ,18,190,4g,1g,1mg,136mg,34g,1g,2g,5g,23mg,2mg,73mg,4.4,755,,
+1,6591911,Portuguese Muffins - Bolo Levedo,30 mins,15 mins, 2 hrs 15 mins, 3 hrs,15 ,15,287,5g,3g,47mg,123mg,53g,1g,15g,7g,38mg,3mg,108mg,4.7,27,15 cakes,
+2,6571724,Sourdough English Muffins,20 mins,10 mins, 8 hrs 45 mins, 9 hrs 15 mins,10 ,10,152,1g,0g,2mg,256mg,30g,1g,3g,5g,40mg,2mg,98mg,4.9,36,10 4-inch muffins,0mg
+3,6604607,English Muffin Bread, 1 hr,25 mins,, 1 hr 25 mins,20 ,20,168,1g,0g,2mg,260mg,32g,1g,2g,6g,35mg,2mg,94mg,4.7,184,2 - 8x4 inch loaf pans,0mg
+4,6596954,Microwave English Muffin Bread,20 mins,10 mins,25 mins,55 mins,10 ,10,152,1g,0g,2mg,222mg,31g,2g,,5g,37mg,2mg,127mg,4.3,33,1 9x5-inch loaf,0mg
+5,6738319,Easy English Muffins,10 mins,14 mins, 3 hrs 10 mins, 3 hrs 34 mins,6 ,6,256,11g,6g,22mg,332mg,35g,2g,0g,6g,9mg,2mg,79mg,4.7,38,6 muffins,
+6,6578069,Grandma's English Muffin Bread,15 mins,15 mins, 2 hrs, 2 hrs 30 mins,18 ,18,84,1g,0g,1mg,118mg,17g,1g,,3g,21mg,1mg,43mg,4.6,131,2 loaves,
+7,6570066,Homemade English Muffins,25 mins,15 mins, 1 hr 30 mins, 2 hrs 10 mins,16 ,16,182,3g,1g,18mg,267mg,32g,1g,3g,6g,40mg,2mg,98mg,4.7,7,16 muffins,0mg
+8,6598521,No-Knead English Muffin Loaves,15 mins,25 mins,45 mins, 1 hr 25 mins,24 ,24,125,1g,0g,2mg,216mg,24g,1g,2g,5g,29mg,2mg,73mg,4.8,10,2 - 9x5 inch loaves,

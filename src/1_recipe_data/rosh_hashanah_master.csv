@@ -1,63 +1,63 @@
-,id_recipe,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Yield:
-0,6650385,15 mins,40 mins,10 mins, 1 hr 5 mins,6 ,6,232,4g,1g,67mg,296mg,25g,1g,23g,26g,1mg,32mg,2mg,264mg,4.3,"3,056",
-1,6599828,5 mins, 1 hr,, 1 hr 5 mins,6 ,6,311,18g,11g,134mg,459mg,35g,2g,28g,4g,3mg,87mg,1mg,223mg,4.7,296,
-2,6736712,10 mins,50 mins,, 1 hr,12 ,12,342,20g,4g,59mg,444mg,23g,0g,21g,16g,0mg,12mg,1mg,140mg,4.5,751,
-3,6738191,30 mins,40 mins, 2 hrs 30 mins, 3 hrs 40 mins,30 ,30,165,3g,1g,19mg,241mg,30g,1g,5g,4g,,13mg,2mg,56mg,4.6,834,2 braided loaves
-4,6598241,20 mins, 1 hr 10 mins,, 1 hr 30 mins,14 ,14,394,18g,3g,53mg,191mg,56g,2g,34g,5g,4mg,66mg,2mg,91mg,4.6,228,1 (10-inch) tube cake
-5,6649424,10 mins, 6 hrs 30 mins,, 6 hrs 40 mins,8 ,8,151,0g,,,8mg,39g,3g,34g,0g,6mg,27mg,0mg,176mg,4.7,417,
-6,6590656,5 mins, 1 hr,, 1 hr 5 mins,6 ,6,456,14g,2g,68mg,1134mg,56g,1g,44g,29g,5mg,37mg,1mg,382mg,4.4,483,
-7,6737929,10 mins, 2 hrs,, 2 hrs 10 mins,6 ,6,291,17g,5g,97mg,94mg,1g,0g,1g,31g,1mg,22mg,2mg,294mg,4.6,842,
-8,6594065,15 mins,25 mins,10 mins,50 mins,12 ,12,243,9g,5g,67mg,335mg,37g,2g,19g,4g,4mg,54mg,1mg,105mg,4.7,284,1 (9x13-inch) cake
-9,6664709,30 mins,20 mins, 1 hr 5 mins, 1 hr 55 mins,20 ,20,182,7g,1g,28mg,302mg,26g,1g,6g,4g,,9mg,1mg,47mg,4.5,251,2 loaves
-10,6574756,,,,,4 ,4,519,21g,6g,144mg,232mg,35g,0g,35g,47g,1mg,31mg,2mg,542mg,3.8,47,4 servings
-11,6571450,15 mins,30 mins,,45 mins,6 ,6,142,1g,0g,61mg,184mg,2g,0g,1g,30g,7mg,29mg,1mg,606mg,4.2,166,
-12,6601520,,,,,14 ,14,357,15g,9g,88mg,288mg,54g,2g,38g,4g,2mg,22mg,1mg,122mg,4.7,325,1 tube cake
-13,6650517,15 mins, 2 hrs 45 mins, 8 hrs, 11 hrs,10 ,10,401,25g,10g,75mg,1020mg,24g,1g,22g,19g,5mg,31mg,2mg,331mg,4.8,226,
-14,6738425,15 mins, 1 hr 15 mins,, 1 hr 30 mins,6 ,6,514,33g,15g,138mg,709mg,24g,1g,23g,31g,0mg,29mg,2mg,308mg,4.5,"2,345",6 servings
-15,6739230,15 mins, 1 hr,15 mins, 1 hr 30 mins,8 ,8,229,15g,4g,73mg,143mg,0g,0g,,23g,0mg,14mg,1mg,207mg,4.5,886,8 servings
-16,6589849,30 mins,30 mins, 1 hr 40 mins, 2 hrs 40 mins,16 ,16,215,8g,1g,23mg,157mg,33g,4g,10g,6g,0mg,16mg,2mg,164mg,4.5,83,2 loaves
-17,6736460,5 mins,40 mins, 3 hrs, 3 hrs 45 mins,12 ,12,90,5g,1g,0mg,29mg,11g,3g,3g,2g,2mg,28mg,1mg,165mg,4.4,466,1 1/2 cups
-18,6592945,10 mins,30 mins,,40 mins,10 ,10,113,2g,0g,,3mg,26g,0g,23g,0g,0mg,9mg,0mg,35mg,4.5,43,1 1/4 cups
-19,6600412,20 mins,12 mins,,32 mins,12 ,12,159,10g,3g,38mg,228mg,7g,2g,1g,11g,2mg,22mg,1mg,193mg,4.6,51,12 servings
-20,6582197,15 mins,35 mins,,50 mins,6 ,6,129,3g,0g,,148mg,27g,4g,19g,2g,14mg,48mg,1mg,466mg,4.3,3,6 servings
-21,6579666,20 mins, 1 hr,, 1 hr 20 mins,6 ,6,278,12g,2g,62mg,303mg,6g,2g,3g,36g,43mg,74mg,1mg,995mg,4.4,27,6 fillets
-22,6571359,20 mins, 4 hrs,, 4 hrs 20 mins,10 ,10,327,26g,10g,75mg,49mg,2g,0g,1g,19g,2mg,13mg,2mg,219mg,4.3,52,1 beef brisket
-23,6581363, 1 hr 30 mins, 5 hrs 30 mins,1 day,1 day 7 hrs,12 ,12,380,12g,4g,118mg,149mg,14g,3g,7g,52g,12mg,100mg,7mg,922mg,4.7,14,
-24,6737978,20 mins,55 mins,, 1 hr 15 mins,12 ,12,464,24g,4g,31mg,353mg,60g,2g,38g,5g,2mg,44mg,2mg,121mg,4.7,235,1 9-inch bundt cake
-25,6599691,25 mins,45 mins,, 1 hr 10 mins,12 slices,12,360,11g,2g,62mg,265mg,63g,1g,42g,5g,11mg,69mg,2mg,108mg,4.4,98,1 9x13-inch pan
-26,6582121,20 mins, 3 hrs 30 mins,, 3 hrs 50 mins,32 ,32,170,0g,,,3mg,44g,1g,34g,0g,10mg,8mg,1mg,127mg,4.0,9,1 9x13-inch block
-27,6650932,15 mins, 2 hrs 30 mins,, 2 hrs 45 mins,6 ,6,546,34g,14g,135mg,190mg,23g,1g,18g,35g,4mg,46mg,3mg,540mg,4.8,41,
-28,6739489,10 mins,35 mins,,45 mins,4 ,4,156,6g,4g,15mg,88mg,23g,2g,6g,3g,1mg,9mg,0mg,21mg,4.3,"1,910",
-29,6602891,45 mins, 1 hr 15 mins,, 2 hrs,32 ,32,101,5g,2g,19mg,902mg,9g,0g,0g,7g,7mg,90mg,2mg,94mg,4.5,53,
-30,6563824,30 mins,40 mins,, 1 hr 10 mins,32 ,32,207,,,,2mg,54g,1g,47g,0g,7mg,5mg,0mg,94mg,3.9,16,8 1/2-pint jars
-31,6595343,15 mins, 1 hr 15 mins,, 1 hr 30 mins,8 ,8,271,13g,3g,70mg,307mg,36g,3g,29g,3g,4mg,95mg,1mg,268mg,4.6,315,
-32,6590795,15 mins,, 2 hrs, 2 hrs 15 mins,12 ,12,187,17g,3g,31mg,682mg,3g,0g,1g,7g,2mg,77mg,1mg,92mg,4.8,20,
-33,6564887,10 mins,20 mins,,30 mins,12 ,12,130,,,,2mg,35g,0g,35g,0g,3mg,3mg,0mg,29mg,4.3,13,2 cups
-34,6568234,15 mins,45 mins,, 1 hr,12 ,12,706,39g,9g,67mg,381mg,87g,2g,60g,7g,2mg,53mg,2mg,177mg,4.5,341,1 (9x13-inch) cake
-35,6578558,10 mins, 1 hr 30 mins, 2 hrs, 3 hrs 40 mins,5 ,5,324,17g,5g,97mg,635mg,10g,0g,8g,32g,7mg,24mg,2mg,333mg,4.1,192,
-36,6597563,15 mins,10 mins,,25 mins,6 ,6,345,24g,4g,74mg,654mg,5g,1g,4g,26g,5mg,28mg,1mg,482mg,4.5,63,
-37,6579227,30 mins,30 mins, 1 hr 40 mins, 2 hrs 40 mins,24 ,24,148,1g,1g,3mg,308mg,29g,1g,3g,4g,0mg,24mg,2mg,70mg,4.4,60,2 loaves
-38,6594325,15 mins,10 mins,5 mins,30 mins,16 ,16,84,6g,1g,0mg,174mg,6g,1g,1g,3g,3mg,21mg,1mg,66mg,4.7,139,2 cups
-39,6572053,2 mins, 3 hrs,3 mins, 3 hrs 5 mins,12 ,12,156,2g,1g,1mg,280mg,29g,2g,6g,5g,0mg,43mg,2mg,129mg,4.5,286,1 loaf
-40,6583286,15 mins,10 mins, 1 hr, 1 hr 25 mins,24 ,24,181,8g,4g,23mg,175mg,26g,1g,13g,3g,0mg,13mg,1mg,47mg,4.7,16,2 dozen cookies
-41,6591599,45 mins,45 mins,, 1 hr 30 mins,60 ,60,141,5g,1g,16mg,240mg,21g,1g,2g,3g,,13mg,1mg,47mg,4.6,118,6 challahs
-42,6589662,15 mins, 1 hr 15 mins,, 1 hr 30 mins,8 ,8,240,13g,3g,70mg,425mg,28g,3g,19g,4g,7mg,101mg,1mg,417mg,4.7,50,8 servings
-43,6591317,,,,,5 ,5,296,2g,1g,83mg,227mg,35g,,31g,34g,2mg,16mg,1mg,367mg,4.2,142,4 to 6 servings
-44,6591135,,,,,24 ,24,164,4g,1g,31mg,154mg,30g,1g,18g,3g,0mg,31mg,1mg,40mg,4.3,23,2 to 8 - inch square cake
-45,6571583,35 mins,40 mins, 2 hrs 30 mins, 3 hrs 45 mins,18 ,18,206,7g,1g,41mg,277mg,32g,3g,5g,7g,,36mg,2mg,133mg,4.9,14,3 loaves
-46,6738451,5 mins,25 mins,,30 mins,4 ,4,164,14g,2g,,74mg,8g,3g,3g,2g,10mg,32mg,1mg,18mg,4.7,258,4 servings
-47,6587207,15 mins, 1 hr,15 mins, 1 hr 30 mins,8 ,8,161,6g,1g,,302mg,20g,6g,4g,8g,17mg,93mg,3mg,386mg,3.8,11,8 servings
-48,6601467,15 mins,45 mins,10 mins, 1 hr 10 mins,8 ,8,287,13g,7g,103mg,163mg,32g,1g,10g,11g,0mg,55mg,1mg,135mg,4.4,20,1 1-quart dish
-49,6663444,10 mins,20 mins, 8 hrs, 8 hrs 30 mins,4 ,4,404,15g,2g,68mg,661mg,41g,1g,39g,28g,29mg,26mg,2mg,443mg,4.2,73,4 servings
-50,6590123,20 mins,20 mins,,40 mins,4 ,4,165,4g,1g,,306mg,32g,6g,25g,4g,38mg,69mg,2mg,786mg,4.5,55,
-51,6650704,15 mins,40 mins,,55 mins,12 ,12,186,1g,0g,,183mg,46g,5g,32g,2g,21mg,57mg,2mg,560mg,3.7,7,12 servings
-52,6603377,25 mins,35 mins, 8 hrs, 9 hrs,24 ,24,107,0g,,,99mg,27g,1g,26g,0g,10mg,9mg,0mg,65mg,4.8,44,3 cups
-53,6587097,30 mins,30 mins,30 mins, 1 hr 30 mins,6 ,6,101,6g,3g,72mg,252mg,10g,1g,1g,3g,1mg,14mg,1mg,57mg,4.6,18,6 servings
-54,6577937,10 mins,10 mins, 2 hrs, 2 hrs 20 mins,6 ,6,229,8g,1g,63mg,94mg,1g,0g,0g,36g,2mg,38mg,2mg,793mg,4.1,39,6 servings
-55,6563755,10 mins, 1 hr 15 mins,10 mins, 1 hr 35 mins,20 ,20,327,21g,13g,120mg,152mg,27g,1g,13g,9g,1mg,165mg,1mg,139mg,,,1 9x13-inch kugel
-56,6592857,10 mins, 1 hr 5 mins,, 1 hr 15 mins,6 ,6,255,8g,5g,20mg,123mg,47g,5g,35g,2g,48mg,58mg,1mg,687mg,4.4,17,6 servings
-57,6577491,,,,,5 ,5,595,44g,12g,211mg,1190mg,6g,0g,5g,43g,4mg,34mg,2mg,445mg,4.2,206,5 servings
-58,6599908,15 mins, 3 hrs 30 mins,, 3 hrs 45 mins,6 ,6,822,44g,16g,185mg,550mg,52g,6g,41g,56g,3mg,71mg,7mg,1424mg,4.4,53,6 servings
-59,6605027,10 mins,10 mins,,20 mins,6 ,6,235,8g,2g,69mg,529mg,13g,1g,7g,27g,18mg,32mg,2mg,429mg,4.2,263,6 servings
-60,6593081,15 mins,30 mins,,45 mins,6 ,6,438,25g,5g,134mg,738mg,5g,1g,3g,46g,16mg,42mg,1mg,892mg,4.6,295,6 servings
-61,6576083,20 mins, 2 hrs,10 mins, 2 hrs 30 mins,4 ,4,789,45g,11g,194mg,1993mg,33g,7g,5g,65g,63mg,120mg,6mg,1348mg,4.5,40,4 servings
+,id_recipe,name,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Yield:
+0,6650385,Baked Honey Mustard Chicken,15 mins,40 mins,10 mins, 1 hr 5 mins,6 ,6,232,4g,1g,67mg,296mg,25g,1g,23g,26g,1mg,32mg,2mg,264mg,4.3,"3,057",
+1,6599828,Carrot Soufflé,5 mins, 1 hr,, 1 hr 5 mins,6 ,6,311,18g,11g,134mg,459mg,35g,2g,28g,4g,3mg,87mg,1mg,223mg,4.7,296,
+2,6736712,Baked Apricot Chicken,10 mins,50 mins,, 1 hr,12 ,12,342,20g,4g,59mg,444mg,23g,0g,21g,16g,0mg,12mg,1mg,140mg,4.5,751,
+3,6738191,Challah Bread,30 mins,40 mins, 2 hrs 30 mins, 3 hrs 40 mins,30 ,30,165,3g,1g,19mg,241mg,30g,1g,5g,4g,,13mg,2mg,56mg,4.6,834,2 braided loaves
+4,6598241,Jewish Apple Cake,20 mins, 1 hr 10 mins,, 1 hr 30 mins,14 ,14,394,18g,3g,53mg,191mg,56g,2g,34g,5g,4mg,66mg,2mg,91mg,4.6,228,1 (10-inch) tube cake
+5,6649424,Slow Cooker Applesauce,10 mins, 6 hrs 30 mins,, 6 hrs 40 mins,8 ,8,151,0g,,,8mg,39g,3g,34g,0g,6mg,27mg,0mg,176mg,4.7,417,
+6,6590656,Easy Apricot Chicken,5 mins, 1 hr,, 1 hr 5 mins,6 ,6,456,14g,2g,68mg,1134mg,56g,1g,44g,29g,5mg,37mg,1mg,382mg,4.4,483,
+7,6737929,Roast Chicken with Rosemary,10 mins, 2 hrs,, 2 hrs 10 mins,6 ,6,291,17g,5g,97mg,94mg,1g,0g,1g,31g,1mg,22mg,2mg,294mg,4.6,842,
+8,6594065,Apple Cake,15 mins,25 mins,10 mins,50 mins,12 ,12,243,9g,5g,67mg,335mg,37g,2g,19g,4g,4mg,54mg,1mg,105mg,4.7,284,1 (9x13-inch) cake
+9,6664709,Bread Machine Challah,30 mins,20 mins, 1 hr 5 mins, 1 hr 55 mins,20 ,20,182,7g,1g,28mg,302mg,26g,1g,6g,4g,,9mg,1mg,47mg,4.5,251,2 loaves
+10,6574756,Hot Honey Chicken,,,,,4 ,4,519,21g,6g,144mg,232mg,35g,0g,35g,47g,1mg,31mg,2mg,542mg,3.8,47,4 servings
+11,6571450,Lemony Steamed Fish,15 mins,30 mins,,45 mins,6 ,6,142,1g,0g,61mg,184mg,2g,0g,1g,30g,7mg,29mg,1mg,606mg,4.2,166,
+12,6601520,Apple Spice Cake,,,,,14 ,14,357,15g,9g,88mg,288mg,54g,2g,38g,4g,2mg,22mg,1mg,122mg,4.7,325,1 tube cake
+13,6650517,Best Sweet and Sour Brisket,15 mins, 2 hrs 45 mins, 8 hrs, 11 hrs,10 ,10,401,25g,10g,75mg,1020mg,24g,1g,22g,19g,5mg,31mg,2mg,331mg,4.8,226,
+14,6738425,Honey Baked Chicken II,15 mins, 1 hr 15 mins,, 1 hr 30 mins,6 ,6,514,33g,15g,138mg,709mg,24g,1g,23g,31g,0mg,29mg,2mg,308mg,4.5,"2,345",6 servings
+15,6739230,Spicy Rapid Roast Chicken,15 mins, 1 hr,15 mins, 1 hr 30 mins,8 ,8,229,15g,4g,73mg,143mg,0g,0g,,23g,0mg,14mg,1mg,207mg,4.5,886,8 servings
+16,6589849,Irresistible Whole Wheat Challah,30 mins,30 mins, 1 hr 40 mins, 2 hrs 40 mins,16 ,16,215,8g,1g,23mg,157mg,33g,4g,10g,6g,0mg,16mg,2mg,164mg,4.5,83,2 loaves
+17,6736460,Baba Ghanoush,5 mins,40 mins, 3 hrs, 3 hrs 45 mins,12 ,12,90,5g,1g,0mg,29mg,11g,3g,3g,2g,2mg,28mg,1mg,165mg,4.4,466,1 1/2 cups
+18,6592945,Sweet Tamarind Chutney,10 mins,30 mins,,40 mins,10 ,10,113,2g,0g,,3mg,26g,0g,23g,0g,0mg,9mg,0mg,35mg,4.5,43,1 1/4 cups
+19,6600412,Middle Eastern Kibbeh,20 mins,12 mins,,32 mins,12 ,12,159,10g,3g,38mg,228mg,7g,2g,1g,11g,2mg,22mg,1mg,193mg,4.6,51,12 servings
+20,6582197,Carrot Tzimmes,15 mins,35 mins,,50 mins,6 ,6,129,3g,0g,,148mg,27g,4g,19g,2g,14mg,48mg,1mg,466mg,4.3,3,6 servings
+21,6579666,Moroccan Shabbat Fish,20 mins, 1 hr,, 1 hr 20 mins,6 ,6,278,12g,2g,62mg,303mg,6g,2g,3g,36g,43mg,74mg,1mg,995mg,4.4,27,6 fillets
+22,6571359,Jewish Grandma's Best Beef Brisket,20 mins, 4 hrs,, 4 hrs 20 mins,10 ,10,327,26g,10g,75mg,49mg,2g,0g,1g,19g,2mg,13mg,2mg,219mg,4.3,52,1 beef brisket
+23,6581363,Sweet and Sour Cabbage Soup, 1 hr 30 mins, 5 hrs 30 mins,1 day,1 day 7 hrs,12 ,12,380,12g,4g,118mg,149mg,14g,3g,7g,52g,12mg,100mg,7mg,922mg,4.7,14,
+24,6737978,Apple Honey Bundt Cake,20 mins,55 mins,, 1 hr 15 mins,12 ,12,464,24g,4g,31mg,353mg,60g,2g,38g,5g,2mg,44mg,2mg,121mg,4.7,235,1 9-inch bundt cake
+25,6599691,Honey Cake III,25 mins,45 mins,, 1 hr 10 mins,12 slices,12,360,11g,2g,62mg,265mg,63g,1g,42g,5g,11mg,69mg,2mg,108mg,4.4,98,1 9x13-inch pan
+26,6582121,Quince Paste,20 mins, 3 hrs 30 mins,, 3 hrs 50 mins,32 ,32,170,0g,,,3mg,44g,1g,34g,0g,10mg,8mg,1mg,127mg,4.0,9,1 9x13-inch block
+27,6650932,Lamb Braised in Pomegranate,15 mins, 2 hrs 30 mins,, 2 hrs 45 mins,6 ,6,546,34g,14g,135mg,190mg,23g,1g,18g,35g,4mg,46mg,3mg,540mg,4.8,41,
+28,6739489,Honey Roasted Red Potatoes,10 mins,35 mins,,45 mins,4 ,4,156,6g,4g,15mg,88mg,23g,2g,6g,3g,1mg,9mg,0mg,21mg,4.3,"1,910",
+29,6602891,Grape Leaves Aleppo,45 mins, 1 hr 15 mins,, 2 hrs,32 ,32,101,5g,2g,19mg,902mg,9g,0g,0g,7g,7mg,90mg,2mg,94mg,4.5,53,
+30,6563824,Quince Jelly,30 mins,40 mins,, 1 hr 10 mins,32 ,32,207,,,,2mg,54g,1g,47g,0g,7mg,5mg,0mg,94mg,3.9,16,8 1/2-pint jars
+31,6595343,Fresh Carrot Soufflé,15 mins, 1 hr 15 mins,, 1 hr 30 mins,8 ,8,271,13g,3g,70mg,307mg,36g,3g,29g,3g,4mg,95mg,1mg,268mg,4.6,315,
+32,6590795,Mackerel Dip,15 mins,, 2 hrs, 2 hrs 15 mins,12 ,12,187,17g,3g,31mg,682mg,3g,0g,1g,7g,2mg,77mg,1mg,92mg,4.8,20,
+33,6564887,Honey Syrup,10 mins,20 mins,,30 mins,12 ,12,130,,,,2mg,35g,0g,35g,0g,3mg,3mg,0mg,29mg,4.3,13,2 cups
+34,6568234,Moist Apple and Walnut Cake,15 mins,45 mins,, 1 hr,12 ,12,706,39g,9g,67mg,381mg,87g,2g,60g,7g,2mg,53mg,2mg,177mg,4.5,341,1 (9x13-inch) cake
+35,6578558,Orange Honey Garlic Chicken,10 mins, 1 hr 30 mins, 2 hrs, 3 hrs 40 mins,5 ,5,324,17g,5g,97mg,635mg,10g,0g,8g,32g,7mg,24mg,2mg,333mg,4.1,192,
+36,6597563,Cardamom Maple Salmon,15 mins,10 mins,,25 mins,6 ,6,345,24g,4g,74mg,654mg,5g,1g,4g,26g,5mg,28mg,1mg,482mg,4.5,63,
+37,6579227,Buttermilk Honey Bread,30 mins,30 mins, 1 hr 40 mins, 2 hrs 40 mins,24 ,24,148,1g,1g,3mg,308mg,29g,1g,3g,4g,0mg,24mg,2mg,70mg,4.4,60,2 loaves
+38,6594325,Authentic Kicked-Up Syrian Hummus,15 mins,10 mins,5 mins,30 mins,16 ,16,84,6g,1g,0mg,174mg,6g,1g,1g,3g,3mg,21mg,1mg,66mg,4.7,139,2 cups
+39,6572053,Buttermilk Honey Wheat Bread,2 mins, 3 hrs,3 mins, 3 hrs 5 mins,12 ,12,156,2g,1g,1mg,280mg,29g,2g,6g,5g,0mg,43mg,2mg,129mg,4.5,286,1 loaf
+40,6583286,"Soft, Chewy Rosh Hashanah Honey-Walnut Cookies",15 mins,10 mins, 1 hr, 1 hr 25 mins,24 ,24,181,8g,4g,23mg,175mg,26g,1g,13g,3g,0mg,13mg,1mg,47mg,4.7,16,2 dozen cookies
+41,6591599,Shabbat Challah,45 mins,45 mins,, 1 hr 30 mins,60 ,60,141,5g,1g,16mg,240mg,21g,1g,2g,3g,,13mg,1mg,47mg,4.6,118,6 challahs
+42,6589662,Carrot Souffle with Brown Sugar,15 mins, 1 hr 15 mins,, 1 hr 30 mins,8 ,8,240,13g,3g,70mg,425mg,28g,3g,19g,4g,7mg,101mg,1mg,417mg,4.7,50,8 servings
+43,6591317,Apricot Glazed Chicken,,,,,5 ,5,296,2g,1g,83mg,227mg,35g,,31g,34g,2mg,16mg,1mg,367mg,4.2,142,4 to 6 servings
+44,6591135,Honey Cake I,,,,,24 ,24,164,4g,1g,31mg,154mg,30g,1g,18g,3g,0mg,31mg,1mg,40mg,4.3,23,2 to 8 - inch square cake
+45,6571583,Honey Whole Wheat Challah,35 mins,40 mins, 2 hrs 30 mins, 3 hrs 45 mins,18 ,18,206,7g,1g,41mg,277mg,32g,3g,5g,7g,,36mg,2mg,133mg,4.9,14,3 loaves
+46,6738451,Fasoliyyeh Bi Z-Zayt (Syrian Green Beans with Olive Oil),5 mins,25 mins,,30 mins,4 ,4,164,14g,2g,,74mg,8g,3g,3g,2g,10mg,32mg,1mg,18mg,4.7,258,4 servings
+47,6587207,Hummus from Scratch,15 mins, 1 hr,15 mins, 1 hr 30 mins,8 ,8,161,6g,1g,,302mg,20g,6g,4g,8g,17mg,93mg,3mg,386mg,3.8,11,8 servings
+48,6601467,Noodle Kugel (Dairy),15 mins,45 mins,10 mins, 1 hr 10 mins,8 ,8,287,13g,7g,103mg,163mg,32g,1g,10g,11g,0mg,55mg,1mg,135mg,4.4,20,1 1-quart dish
+49,6663444,Honey Chicken,10 mins,20 mins, 8 hrs, 8 hrs 30 mins,4 ,4,404,15g,2g,68mg,661mg,41g,1g,39g,28g,29mg,26mg,2mg,443mg,4.2,73,4 servings
+50,6590123,"Beet, Orange, and Apple Salad",20 mins,20 mins,,40 mins,4 ,4,165,4g,1g,,306mg,32g,6g,25g,4g,38mg,69mg,2mg,786mg,4.5,55,
+51,6650704,Carrot and Sweet Potato Tzimmes,15 mins,40 mins,,55 mins,12 ,12,186,1g,0g,,183mg,46g,5g,32g,2g,21mg,57mg,2mg,560mg,3.7,7,12 servings
+52,6603377,Kokub's Mango Chutney from Pakistan,25 mins,35 mins, 8 hrs, 9 hrs,24 ,24,107,0g,,,99mg,27g,1g,26g,0g,10mg,9mg,0mg,65mg,4.8,44,3 cups
+53,6587097,Chicken Matzo Ball Soup,30 mins,30 mins,30 mins, 1 hr 30 mins,6 ,6,101,6g,3g,72mg,252mg,10g,1g,1g,3g,1mg,14mg,1mg,57mg,4.6,18,6 servings
+54,6577937,Grilled Halibut II,10 mins,10 mins, 2 hrs, 2 hrs 20 mins,6 ,6,229,8g,1g,63mg,94mg,1g,0g,0g,36g,2mg,38mg,2mg,793mg,4.1,39,6 servings
+55,6563755,Sweet Kugel,10 mins, 1 hr 15 mins,10 mins, 1 hr 35 mins,20 ,20,327,21g,13g,120mg,152mg,27g,1g,13g,9g,1mg,165mg,1mg,139mg,,,1 9x13-inch kugel
+56,6592857,Orange Juice Tzimmes,10 mins, 1 hr 5 mins,, 1 hr 15 mins,6 ,6,255,8g,5g,20mg,123mg,47g,5g,35g,2g,48mg,58mg,1mg,687mg,4.4,17,6 servings
+57,6577491,Honey Baked Chicken I,,,,,5 ,5,595,44g,12g,211mg,1190mg,6g,0g,5g,43g,4mg,34mg,2mg,445mg,4.2,206,5 servings
+58,6599908,Apricot Brisket,15 mins, 3 hrs 30 mins,, 3 hrs 45 mins,6 ,6,822,44g,16g,185mg,550mg,52g,6g,41g,56g,3mg,71mg,7mg,1424mg,4.4,53,6 servings
+59,6605027,Chicken Honey Nut Stir Fry,10 mins,10 mins,,20 mins,6 ,6,235,8g,2g,69mg,529mg,13g,1g,7g,27g,18mg,32mg,2mg,429mg,4.2,263,6 servings
+60,6593081,Chile Garlic BBQ Salmon,15 mins,30 mins,,45 mins,6 ,6,438,25g,5g,134mg,738mg,5g,1g,3g,46g,16mg,42mg,1mg,892mg,4.6,295,6 servings
+61,6576083,Harvey's Moroccan Roast Chicken,20 mins, 2 hrs,10 mins, 2 hrs 30 mins,4 ,4,789,45g,11g,194mg,1993mg,33g,7g,5g,65g,63mg,120mg,6mg,1348mg,4.5,40,4 servings

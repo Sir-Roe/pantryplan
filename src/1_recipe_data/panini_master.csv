@@ -1,23 +1,23 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Yield:,Additional Time:
-0,6649732,10 mins,6 mins,16 mins,1 ,1,802,63g,20g,118mg,1840mg,27g,3g,2g,32g,8mg,467mg,3mg,421mg,5.0,3,,
-1,6651129,15 mins,10 mins,25 mins,2 ,2,1473,85g,37g,287mg,4077mg,85g,5g,4g,88g,12mg,978mg,4mg,439mg,4.9,82,,
-2,6664082,5 mins,10 mins,15 mins,1 ,1,589,29g,13g,89mg,2122mg,45g,3g,1g,36g,9mg,513mg,4mg,408mg,4.5,2,,
-3,6574113,17 mins,8 mins,25 mins,2 ,2,723,51g,13g,62mg,1720mg,42g,6g,4g,25g,59mg,328mg,4mg,623mg,4.7,91,2 sandwiches,
-4,6593551,10 mins,3 mins,13 mins,2 ,2,381,16g,7g,48mg,865mg,31g,1g,3g,28g,1mg,190mg,3mg,279mg,4.7,15,2 sandwiches,
-5,6582091,15 mins,,19 mins,4 ,4,799,64g,22g,76mg,1754mg,27g,2g,3g,31g,51mg,722mg,3mg,194mg,4.7,15,4 servings,4 mins
-6,6591356,20 mins,30 mins,50 mins,4 ,4,699,33g,12g,81mg,2276mg,65g,4g,3g,35g,8mg,345mg,6mg,579mg,4.5,52,4 sandwiches,
-7,6567064,10 mins,10 mins,20 mins,4 ,4,464,27g,10g,60mg,742mg,41g,4g,7g,17g,15mg,274mg,1mg,385mg,4.4,8,4 servings,
-8,6603710,15 mins, 2 hrs, 2 hrs 15 mins,6 ,6,1066,34g,13g,202mg,2712mg,95g,5g,8g,92g,3mg,432mg,10mg,958mg,4.8,21,6 servings,
-9,6575567,10 mins,15 mins,25 mins,2 ,2,705,28g,10g,103mg,2531mg,63g,4g,4g,45g,7mg,322mg,5mg,385mg,5.0,3,2 panini,
-10,6574967,10 mins,3 mins,13 mins,2 ,2,310,15g,8g,46mg,888mg,29g,2g,5g,14g,28mg,237mg,2mg,143mg,4.5,2,2 sandwiches,
-11,6577492,10 mins,5 mins,15 mins,8 ,8,755,36g,19g,106mg,2759mg,76g,2g,0g,32g,20mg,334mg,5mg,293mg,4.6,5,8 panini,
-12,6580362,10 mins,5 mins,15 mins,1 ,1,402,24g,8g,36mg,613mg,30g,2g,5g,19g,12mg,512mg,2mg,273mg,4.7,124,1 sandwich,
-13,6588513,10 mins,25 mins,35 mins,5 ,5,683,40g,17g,184mg,1815mg,37g,4g,3g,44g,6mg,328mg,3mg,386mg,,,5 sandwiches,
-14,6579397,10 mins,10 mins,20 mins,1 ,1,549,15g,5g,108mg,1672mg,50g,5g,7g,52g,109mg,217mg,6mg,598mg,3.0,1,1 sandwich,
-15,6592004,10 mins,8 mins,18 mins,2 ,2,223,10g,6g,36mg,675mg,17g,1g,3g,17g,34mg,480mg,2mg,141mg,,,2 panini,
-16,6580153,10 mins,5 mins,15 mins,1 ,1,564,31g,11g,52mg,1786mg,51g,6g,6g,21g,63mg,214mg,4mg,698mg,,,1 panini,
-17,6574121,15 mins,15 mins,30 mins,2 ,2,648,42g,15g,64mg,1215mg,36g,3g,4g,33g,12mg,909mg,3mg,398mg,4.7,3,2 sandwiches,
-18,6562684,15 mins,5 mins, 1 hr 20 mins,1 ,1,908,64g,15g,163mg,1620mg,35g,2g,7g,51g,11mg,544mg,4mg,535mg,,,1 sandwich, 1 hr
-19,6601544,5 mins,5 mins,10 mins,1 ,1,656,39g,12g,126mg,770mg,23g,2g,1g,51g,1mg,594mg,3mg,339mg,5.0,2,1 sandwich,
-20,6565653,15 mins,10 mins,40 mins,2 ,2,808,50g,16g,113mg,3016mg,49g,3g,8g,44g,64mg,363mg,3mg,449mg,,,2 sandwiches,15 mins
-21,6601668,10 mins,10 mins,20 mins,1 ,1,743,28g,16g,207mg,3054mg,41g,5g,9g,76g,230mg,224mg,6mg,836mg,,,1 panini,
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Yield:,Additional Time:
+0,6649732,Basic Grilled Panini,10 mins,6 mins,16 mins,1 ,1,802,63g,20g,118mg,1840mg,27g,3g,2g,32g,8mg,467mg,3mg,421mg,5.0,3,,
+1,6651129,Chef John's Cuban Sandwich,15 mins,10 mins,25 mins,2 ,2,1473,85g,37g,287mg,4077mg,85g,5g,4g,88g,12mg,978mg,4mg,439mg,4.9,82,,
+2,6664082,Grilled Panini Sandwich Without a Panini Maker,5 mins,10 mins,15 mins,1 ,1,589,29g,13g,89mg,2122mg,45g,3g,1g,36g,9mg,513mg,4mg,408mg,4.5,2,,
+3,6574113,Turkey Avocado Panini,17 mins,8 mins,25 mins,2 ,2,723,51g,13g,62mg,1720mg,42g,6g,4g,25g,59mg,328mg,4mg,623mg,4.7,91,2 sandwiches,
+4,6593551,Tuna Panini Melt,10 mins,3 mins,13 mins,2 ,2,381,16g,7g,48mg,865mg,31g,1g,3g,28g,1mg,190mg,3mg,279mg,4.7,15,2 sandwiches,
+5,6582091,Prosciutto and Provolone Panini Sandwiches,15 mins,,19 mins,4 ,4,799,64g,22g,76mg,1754mg,27g,2g,3g,31g,51mg,722mg,3mg,194mg,4.7,15,4 servings,4 mins
+6,6591356,Turkey and Bacon Panini with Chipotle Mayonnaise,20 mins,30 mins,50 mins,4 ,4,699,33g,12g,81mg,2276mg,65g,4g,3g,35g,8mg,345mg,6mg,579mg,4.5,52,4 sandwiches,
+7,6567064,Panini Sandwiches,10 mins,10 mins,20 mins,4 ,4,464,27g,10g,60mg,742mg,41g,4g,7g,17g,15mg,274mg,1mg,385mg,4.4,8,4 servings,
+8,6603710,Grilled Turkey Cuban Sandwiches,15 mins, 2 hrs, 2 hrs 15 mins,6 ,6,1066,34g,13g,202mg,2712mg,95g,5g,8g,92g,3mg,432mg,10mg,958mg,4.8,21,6 servings,
+9,6575567,Best BLT Chicken Panini,10 mins,15 mins,25 mins,2 ,2,705,28g,10g,103mg,2531mg,63g,4g,4g,45g,7mg,322mg,5mg,385mg,5.0,3,2 panini,
+10,6574967,"Italian ""Stuffed"" Toast (Toast Farcito)",10 mins,3 mins,13 mins,2 ,2,310,15g,8g,46mg,888mg,29g,2g,5g,14g,28mg,237mg,2mg,143mg,4.5,2,2 sandwiches,
+11,6577492,Ham and Cheese Pretzel Panini,10 mins,5 mins,15 mins,8 ,8,755,36g,19g,106mg,2759mg,76g,2g,0g,32g,20mg,334mg,5mg,293mg,4.6,5,8 panini,
+12,6580362,Panzanella Panini,10 mins,5 mins,15 mins,1 ,1,402,24g,8g,36mg,613mg,30g,2g,5g,19g,12mg,512mg,2mg,273mg,4.7,124,1 sandwich,
+13,6588513,Best Chicken Panini,10 mins,25 mins,35 mins,5 ,5,683,40g,17g,184mg,1815mg,37g,4g,3g,44g,6mg,328mg,3mg,386mg,,,5 sandwiches,
+14,6579397,Healthy Greek Chicken Panini,10 mins,10 mins,20 mins,1 ,1,549,15g,5g,108mg,1672mg,50g,5g,7g,52g,109mg,217mg,6mg,598mg,3.0,1,1 sandwich,
+15,6592004,Roasted Red Pepper Panini,10 mins,8 mins,18 mins,2 ,2,223,10g,6g,36mg,675mg,17g,1g,3g,17g,34mg,480mg,2mg,141mg,,,2 panini,
+16,6580153,"Rotisserie Chicken Panini with Roasted Sweet Red Pepper, Spinach, and Guacamole",10 mins,5 mins,15 mins,1 ,1,564,31g,11g,52mg,1786mg,51g,6g,6g,21g,63mg,214mg,4mg,698mg,,,1 panini,
+17,6574121,Caprese Panini,15 mins,15 mins,30 mins,2 ,2,648,42g,15g,64mg,1215mg,36g,3g,4g,33g,12mg,909mg,3mg,398mg,4.7,3,2 sandwiches,
+18,6562684,Grilled Chicken Panini with Basil-Garlic Mayo,15 mins,5 mins, 1 hr 20 mins,1 ,1,908,64g,15g,163mg,1620mg,35g,2g,7g,51g,11mg,544mg,4mg,535mg,,,1 sandwich, 1 hr
+19,6601544,Italian Chicken Panini,5 mins,5 mins,10 mins,1 ,1,656,39g,12g,126mg,770mg,23g,2g,1g,51g,1mg,594mg,3mg,339mg,5.0,2,1 sandwich,
+20,6565653,Southwest Chicken Panini,15 mins,10 mins,40 mins,2 ,2,808,50g,16g,113mg,3016mg,49g,3g,8g,44g,64mg,363mg,3mg,449mg,,,2 sandwiches,15 mins
+21,6601668,Hatch Chile Turkey Panini,10 mins,10 mins,20 mins,1 ,1,743,28g,16g,207mg,3054mg,41g,5g,9g,76g,230mg,224mg,6mg,836mg,,,1 panini,

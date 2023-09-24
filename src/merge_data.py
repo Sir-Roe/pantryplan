@@ -32,5 +32,5 @@ def mergeFiles(directory,table=''):
     
 #--------------execute function merge all data-----------
 mergeFiles(rec_dir,"recipes")
-mergeFiles(ing_dir,"recipe_ingredients")
-mergeFiles(stp_dir,"recipe_steps")
+#mergeFiles(ing_dir,"recipe_ingredients")
+#mergeFiles(stp_dir,"recipe_steps")

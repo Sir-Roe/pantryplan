@@ -1,61 +1,61 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Protein,Potassium,Average_Review,Review_Count,Total Sugars,Vitamin C,Calcium,Iron,Additional Time:,Yield:
-0,7112582,5 mins,15 mins,20 mins,5 ,5,799,39g,21g,114mg,2991mg,71g,12g,33g,1866mg,4.0,1,,,,,,
-1,7092202,5 mins,10 mins,15 mins,5 ,5,660,36g,21g,127mg,1110mg,61g,3g,26g,50mg,3.0,2,,,,,,
-2,6822560,10 mins,20 mins,30 mins,5 ,5,497,32g,19g,107mg,717mg,38g,4g,19g,313mg,5.0,3,,,,,,
-3,6741324,10 mins,30 mins,40 mins,6 ,6,783,46g,23g,153mg,1412mg,57g,6g,33g,666mg,5.0,7,,,,,,
-4,6570813,30 mins,15 mins,45 mins,6 ,6,344,27g,10g,50mg,344mg,18g,1g,5g,171mg,4.6,300,4g,6mg,81mg,1mg,,
-5,6825737,10 mins,,10 mins,4 ,4,436,23g,12g,78mg,980mg,42g,4g,16g,331mg,,,,,,,,
-6,6648822,10 mins,15 mins,25 mins,8 ,8,292,14g,8g,54mg,498mg,32g,2g,11g,238mg,4.7,"2,351",4g,8mg,182mg,2mg,,
-7,6591423,5 mins,10 mins,15 mins,4 ,4,224,6g,3g,28mg,294mg,33g,4g,12g,261mg,4.3,296,2g,4mg,98mg,2mg,,
-8,6599324,20 mins,10 mins, 2 hrs 30 mins,8 ,8,415,26g,8g,53mg,729mg,30g,3g,17g,73mg,4.6,186,2g,6mg,183mg,1mg, 2 hrs,
-9,6571649,10 mins,30 mins,40 mins,4 ,4,529,29g,14g,114mg,1645mg,40g,4g,28g,601mg,4.5,90,3g,5mg,337mg,5mg,,4 servings
-10,6739302,15 mins, 1 hr 10 mins, 1 hr 25 mins,8 ,8,398,20g,9g,56mg,1136mg,33g,4g,21g,497mg,4.7,211,11g,17mg,261mg,2mg,,8 servings
-11,6597087,10 mins,20 mins,30 mins,12 ,12,322,16g,4g,20mg,341mg,39g,4g,9g,372mg,4.6,703,18g,68mg,100mg,1mg,,12 servings
-12,6664016,10 mins,25 mins,35 mins,6 ,6,792,53g,18g,85mg,1248mg,45g,5g,31g,661mg,4.2,63,3g,12mg,555mg,4mg,,6 servings
-13,6593879,15 mins,25 mins,40 mins,6 ,6,687,47g,27g,201mg,843mg,38g,2g,30g,298mg,4.7,44,3g,4mg,114mg,1mg,,6 servings
-14,6601170,15 mins,55 mins, 1 hr 10 mins,6 ,6,249,9g,4g,22mg,542mg,28g,4g,12g,763mg,4.8,573,10g,52mg,121mg,2mg,,
-15,6590673,15 mins, 1 hr 30 mins, 1 hr 45 mins,8 ,8,225,7g,2g,81mg,743mg,23g,4g,18g,443mg,4.7,42,3g,11mg,118mg,3mg,,
-16,6572880,15 mins, 7 hrs 25 mins, 7 hrs 40 mins,6 ,6,468,24g,11g,82mg,1186mg,35g,4g,27g,531mg,4.4,634,10g,7mg,280mg,3mg,,
-17,6586724,15 mins,15 mins,30 mins,4 ,4,558,35g,21g,116mg,675mg,43g,5g,23g,699mg,4.3,210,,20mg,294mg,3mg,,
-18,6580253,15 mins,10 mins,25 mins,4 ,4,204,6g,3g,30mg,335mg,27g,2g,11g,56mg,4.9,15,2g,6mg,58mg,0mg,,
-19,6576888,15 mins,10 mins,25 mins,6 ,6,419,23g,6g,95mg,366mg,41g,2g,13g,38mg,4.2,56,3g,1mg,20mg,2mg,,
-20,6739501,15 mins,15 mins,30 mins,6 ,6,607,33g,14g,92mg,1471mg,49g,6g,28g,457mg,4.4,77,13g,20mg,332mg,1mg,,
-21,6605873,15 mins,10 mins, 3 hrs 25 mins,6 ,6,305,10g,3g,64mg,1477mg,44g,4g,10g,190mg,4.9,18,18g,12mg,127mg,3mg, 3 hrs,6 servings
-22,6589655,10 mins,30 mins,40 mins,6 ,6,634,35g,14g,143mg,835mg,38g,3g,44g,348mg,4.9,15,2g,6mg,325mg,2mg,,
-23,6577209,5 mins,10 mins,15 mins,2 ,2,908,43g,10g,214mg,1051mg,92g,5g,37g,946mg,4.7,22,9g,8mg,112mg,7mg,,
-24,6739286,15 mins,30 mins,45 mins,5 ,5,583,39g,22g,133mg,1169mg,34g,4g,27g,497mg,4.3,97,4g,11mg,456mg,2mg,,
-25,6584107,20 mins,15 mins, 1 hr 35 mins,6 ,6,383,27g,6g,31mg,615mg,26g,4g,11g,458mg,4.7,105,3g,43mg,176mg,2mg, 1 hr,
-26,6568428,15 mins,10 mins,25 mins,8 ,8,641,37g,14g,90mg,2048mg,52g,5g,28g,128mg,4.8,29,5g,10mg,241mg,1mg,,8 servings
-27,6574577,15 mins,20 mins,35 mins,6 ,6,711,40g,18g,97mg,1830mg,63g,7g,30g,570mg,4.4,369,15g,5mg,430mg,2mg,,1 8x8-inch dish
-28,6570810,15 mins,10 mins,25 mins,12 ,12,208,9g,3g,24mg,259mg,25g,2g,9g,141mg,4.6,14,1g,10mg,76mg,1mg,,12 servings
-29,6739759,,,20 mins,6 ,6,432,26g,9g,64mg,2003mg,31g,3g,17g,276mg,4.8,105,6g,15mg,69mg,3mg,20 mins,6 servings
-30,6650574,35 mins,10 mins, 1 hr 50 mins,4 ,4,651,44g,26g,247mg,765mg,41g,2g,28g,273mg,4.7,7,3g,5mg,110mg,3mg, 1 hr 5 mins,28 tortellini
-31,6571643,10 mins,40 mins,50 mins,10 ,10,327,13g,5g,45mg,2200mg,38g,4g,16g,637mg,4.5,14,7g,19mg,72mg,3mg,,10 servings
-32,6588249,15 mins,15 mins,30 mins,4 ,4,377,23g,5g,17mg,1420mg,33g,5g,13g,449mg,4.7,444,6g,19mg,278mg,3mg,,
-33,6603349,20 mins, 1 hr 30 mins, 1 hr 50 mins,11 ,11,240,15g,6g,36mg,932mg,15g,2g,11g,491mg,4.8,278,5g,30mg,74mg,2mg,,10 to 12 - servings
-34,6596038,20 mins,20 mins, 1 hr 10 mins,10 ,10,431,27g,14g,91mg,852mg,28g,2g,21g,139mg,4.7,3,2g,0mg,196mg,1mg,30 mins,10 servings
-35,6737443,15 mins,15 mins, 1 hr 30 mins,10 ,10,349,18g,6g,47mg,736mg,34g,3g,14g,275mg,4.7,266,7g,39mg,23mg,1mg, 1 hr,10 servings
-36,6606243,20 mins,10 mins, 4 hrs 30 mins,5 ,5,762,45g,15g,92mg,2161mg,64g,4g,29g,416mg,4.8,24,9g,91mg,181mg,2mg, 4 hrs,5 servings
-37,6589294,30 mins, 1 hr 5 mins, 1 hr 35 mins,8 ,8,415,20g,8g,53mg,1405mg,35g,3g,21g,681mg,4.6,25,13g,19mg,92mg,2mg,,8 servings
-38,6575269,10 mins,30 mins,40 mins,8 ,8,543,32g,20g,129mg,988mg,33g,2g,30g,70mg,4.3,3,2g,3mg,409mg,1mg,,1 11x17-inch dish
-39,6599485,15 mins,15 mins, 2 hrs 30 mins,8 ,8,486,30g,11g,196mg,836mg,36g,3g,20g,428mg,4.6,276,4g,22mg,239mg,3mg, 2 hrs,8 servings
-40,6740966,10 mins,20 mins,30 mins,4 ,4,278,10g,3g,19mg,199mg,35g,7g,14g,634mg,4.6,66,1g,5mg,203mg,5mg,,4 servings
-41,6649746,15 mins,30 mins,45 mins,6 ,6,560,36g,20g,157mg,639mg,29g,2g,31g,201mg,5.0,2,2g,1mg,232mg,1mg,,
-42,6605004,10 mins,25 mins,35 mins,4 ,4,934,57g,33g,180mg,1266mg,79g,6g,32g,775mg,5.0,7,7g,3mg,318mg,1mg,,4 servings
-43,6587030,15 mins,35 mins, 1 hr 5 mins,3 ,3,305,10g,5g,71mg,1022mg,31g,3g,23g,415mg,5.0,1,7g,8mg,102mg,1mg,15 mins,
-44,6568876,20 mins,45 mins, 1 hr 5 mins,6 ,6,463,20g,7g,55mg,1008mg,52g,6g,21g,714mg,5.0,1,5g,35mg,74mg,3mg,,6 servings
-45,6593312,15 mins, 1 hr 40 mins, 1 hr 55 mins,40 ,40,80,3g,1g,19mg,328mg,6g,1g,7g,151mg,4.7,28,1g,7mg,21mg,1mg,,10 quarts
-46,6574886,15 mins,15 mins,30 mins,8 ,8,699,51g,29g,174mg,1226mg,34g,3g,29g,250mg,4.3,3,4g,19mg,386mg,1mg,,8 servings
-47,6578383,20 mins,10 mins, 3 hrs,10 ,10,452,20g,7g,51mg,695mg,55g,5g,19g,193mg,4.8,4,6g,33mg,122mg,1mg, 2 hrs 30 mins,10 servings
-48,6598718,15 mins,15 mins,30 mins,8 ,8,245,6g,3g,28mg,795mg,37g,3g,11g,104mg,3.8,103,5g,63mg,20mg,1mg,,8 servings
-49,6570478,10 mins,15 mins,25 mins,8 ,8,249,6g,3g,29mg,905mg,37g,4g,12g,94mg,4.8,12,4g,5mg,67mg,2mg,,8 cups
-50,6590860,10 mins,15 mins,25 mins,4 ,4,1116,82g,50g,293mg,1091mg,67g,4g,34g,416mg,5.0,2,5g,3mg,436mg,2mg,,4 servings
-51,6604893,,,,12 ,12,250,18g,4g,13mg,312mg,16g,1g,6g,24mg,4.2,46,1g,2mg,103mg,1mg,,12 appetizer size servings
-52,6569483,5 mins, 5 hrs, 5 hrs 5 mins,6 ,6,398,20g,12g,74mg,734mg,41g,4g,16g,255mg,3.8,63,4g,11mg,81mg,2mg,,6 servings
-53,6569211,10 mins,15 mins,25 mins,4 ,4,470,25g,12g,55mg,933mg,42g,3g,18g,302mg,4.5,271,4g,2mg,217mg,2mg,,4 servings
-54,6603155,10 mins,20 mins,30 mins,4 ,4,451,30g,23g,36mg,459mg,39g,4g,12g,358mg,4.6,8,4g,8mg,41mg,4mg,,4 cups
-55,6589413,20 mins,30 mins,50 mins,8 ,8,371,18g,7g,55mg,1656mg,34g,3g,20g,420mg,5.0,4,5g,16mg,124mg,3mg,,8 servings
-56,6570949,15 mins,45 mins, 1 hr,8 ,8,218,6g,2g,17mg,423mg,33g,4g,9g,391mg,4.6,74,5g,13mg,105mg,2mg,,8 servings
-57,6596839,15 mins,40 mins,55 mins,8 ,8,322,16g,7g,38mg,622mg,39g,3g,9g,347mg,4.5,107,5g,25mg,99mg,1mg,,8 servings
-58,6572875,15 mins,35 mins,50 mins,5 ,5,556,38g,14g,95mg,1613mg,32g,4g,23g,768mg,4.4,35,8g,38mg,158mg,4mg,,4 to 6 servings
-59,6582003,15 mins,30 mins,45 mins,4 ,4,775,45g,24g,185mg,1773mg,53g,3g,40g,310mg,5.0,1,4g,7mg,285mg,2mg,,4 servings
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Protein,Potassium,Average_Review,Review_Count,Total Sugars,Vitamin C,Calcium,Iron,Additional Time:,Yield:
+0,7112582,Creamy Tortellini Soup with Spinach and Boursin,5 mins,15 mins,20 mins,5 ,5,799,39g,21g,114mg,2991mg,71g,12g,33g,1866mg,4.0,1,,,,,,
+1,7092202,Creamy Gochujang Tortellini,5 mins,10 mins,15 mins,5 ,5,660,36g,21g,127mg,1110mg,61g,3g,26g,50mg,3.0,2,,,,,,
+2,6822560,Creamy Tortellini Soup,10 mins,20 mins,30 mins,5 ,5,497,32g,19g,107mg,717mg,38g,4g,19g,313mg,5.0,3,,,,,,
+3,6741324,One Pot Tortellini Bake,10 mins,30 mins,40 mins,6 ,6,783,46g,23g,153mg,1412mg,57g,6g,33g,666mg,5.0,7,,,,,,
+4,6570813,Sauce Rosee,30 mins,15 mins,45 mins,6 ,6,344,27g,10g,50mg,344mg,18g,1g,5g,171mg,4.6,300,4g,6mg,81mg,1mg,,
+5,6825737,Creamy Vegetarian Tortellini Soup,10 mins,,10 mins,4 ,4,436,23g,12g,78mg,980mg,42g,4g,16g,331mg,,,,,,,,
+6,6648822,Spinach Tomato Tortellini,10 mins,15 mins,25 mins,8 ,8,292,14g,8g,54mg,498mg,32g,2g,11g,238mg,4.7,"2,351",4g,8mg,182mg,2mg,,
+7,6591423,Spinach Tortellini Soup,5 mins,10 mins,15 mins,4 ,4,224,6g,3g,28mg,294mg,33g,4g,12g,261mg,4.3,296,2g,4mg,98mg,2mg,,
+8,6599324,Tortellini Salad,20 mins,10 mins, 2 hrs 30 mins,8 ,8,415,26g,8g,53mg,729mg,30g,3g,17g,73mg,4.6,186,2g,6mg,183mg,1mg, 2 hrs,
+9,6571649,Creamy Chicken Tortellini Soup,10 mins,30 mins,40 mins,4 ,4,529,29g,14g,114mg,1645mg,40g,4g,28g,601mg,4.5,90,3g,5mg,337mg,5mg,,4 servings
+10,6739302,Italian Sausage Tortellini Bake,15 mins, 1 hr 10 mins, 1 hr 25 mins,8 ,8,398,20g,9g,56mg,1136mg,33g,4g,21g,497mg,4.7,211,11g,17mg,261mg,2mg,,8 servings
+11,6597087,Broccoli and Tortellini Salad,10 mins,20 mins,30 mins,12 ,12,322,16g,4g,20mg,341mg,39g,4g,9g,372mg,4.6,703,18g,68mg,100mg,1mg,,12 servings
+12,6664016,Italian Sausage Tortellini,10 mins,25 mins,35 mins,6 ,6,792,53g,18g,85mg,1248mg,45g,5g,31g,661mg,4.3,64,3g,12mg,555mg,4mg,,6 servings
+13,6593879,Easy Chicken Pasta Alfredo,15 mins,25 mins,40 mins,6 ,6,687,47g,27g,201mg,843mg,38g,2g,30g,298mg,4.7,44,3g,4mg,114mg,1mg,,6 servings
+14,6601170,Italian Sausage Tortellini Soup,15 mins,55 mins, 1 hr 10 mins,6 ,6,249,9g,4g,22mg,542mg,28g,4g,12g,763mg,4.8,573,10g,52mg,121mg,2mg,,
+15,6590673,Chicken Soup with Chicken Thighs,15 mins, 1 hr 30 mins, 1 hr 45 mins,8 ,8,225,7g,2g,81mg,743mg,23g,4g,18g,443mg,4.7,42,3g,11mg,118mg,3mg,,
+16,6572880,Cheesy Italian Tortellini,15 mins, 7 hrs 25 mins, 7 hrs 40 mins,6 ,6,468,24g,11g,82mg,1186mg,35g,4g,27g,531mg,4.4,634,10g,7mg,280mg,3mg,,
+17,6586724,Creamy Spinach Tortellini,15 mins,15 mins,30 mins,4 ,4,558,35g,21g,116mg,675mg,43g,5g,23g,699mg,4.3,210,,20mg,294mg,3mg,,
+18,6580253,Tortellini in Chicken Broth,15 mins,10 mins,25 mins,4 ,4,204,6g,3g,30mg,335mg,27g,2g,11g,56mg,4.9,15,2g,6mg,58mg,0mg,,
+19,6576888,Tia and David's Deep-Fried Tortellini,15 mins,10 mins,25 mins,6 ,6,419,23g,6g,95mg,366mg,41g,2g,13g,38mg,4.2,56,3g,1mg,20mg,2mg,,
+20,6739501,Smoked Sausage and Tortellini Skillet,15 mins,15 mins,30 mins,6 ,6,607,33g,14g,92mg,1471mg,49g,6g,28g,457mg,4.4,77,13g,20mg,332mg,1mg,,
+21,6605873,Easy Tortellini Salad,15 mins,10 mins, 3 hrs 25 mins,6 ,6,305,10g,3g,64mg,1477mg,44g,4g,10g,190mg,4.9,18,18g,12mg,127mg,3mg, 3 hrs,6 servings
+22,6589655,Chicken and Tortellini Pesto Skillet,10 mins,30 mins,40 mins,6 ,6,634,35g,14g,143mg,835mg,38g,3g,44g,348mg,4.9,15,2g,6mg,325mg,2mg,,
+23,6577209,Garlic Shrimp with Three Cheese Tortellini,5 mins,10 mins,15 mins,2 ,2,908,43g,10g,214mg,1051mg,92g,5g,37g,946mg,4.7,22,9g,8mg,112mg,7mg,,
+24,6739286,Tortellini Carbonara,15 mins,30 mins,45 mins,5 ,5,583,39g,22g,133mg,1169mg,34g,4g,27g,497mg,4.3,97,4g,11mg,456mg,2mg,,
+25,6584107,Tortellini Pesto Salad,20 mins,15 mins, 1 hr 35 mins,6 ,6,383,27g,6g,31mg,615mg,26g,4g,11g,458mg,4.7,105,3g,43mg,176mg,2mg, 1 hr,
+26,6568428,Cheese Tortellini Salad,15 mins,10 mins,25 mins,8 ,8,641,37g,14g,90mg,2048mg,52g,5g,28g,128mg,4.8,29,5g,10mg,241mg,1mg,,8 servings
+27,6574577,"Easy, Cheesy Tortellini Bake",15 mins,20 mins,35 mins,6 ,6,711,40g,18g,97mg,1830mg,63g,7g,30g,570mg,4.4,369,15g,5mg,430mg,2mg,,1 8x8-inch dish
+28,6570810,Tortellini Skewers,15 mins,10 mins,25 mins,12 ,12,208,9g,3g,24mg,259mg,25g,2g,9g,141mg,4.6,14,1g,10mg,76mg,1mg,,12 servings
+29,6739759,Smoked Sausage and Tortellini Soup,,,20 mins,6 ,6,432,26g,9g,64mg,2003mg,31g,3g,17g,276mg,4.8,105,6g,15mg,69mg,3mg,20 mins,6 servings
+30,6650574,Easy Crab Tortellini,35 mins,10 mins, 1 hr 50 mins,4 ,4,651,44g,26g,247mg,765mg,41g,2g,28g,273mg,4.7,7,3g,5mg,110mg,3mg, 1 hr 5 mins,28 tortellini
+31,6571643,Authentic Tortellini Soup,10 mins,40 mins,50 mins,10 ,10,327,13g,5g,45mg,2200mg,38g,4g,16g,637mg,4.5,14,7g,19mg,72mg,3mg,,10 servings
+32,6588249,Spinach and Tortellini Salad,15 mins,15 mins,30 mins,4 ,4,377,23g,5g,17mg,1420mg,33g,5g,13g,449mg,4.7,444,6g,19mg,278mg,3mg,,
+33,6603349,Tortellini Soup I,20 mins, 1 hr 30 mins, 1 hr 50 mins,11 ,11,240,15g,6g,36mg,932mg,15g,2g,11g,491mg,4.8,278,5g,30mg,74mg,2mg,,10 to 12 - servings
+34,6596038,Steak and Mushroom Tortellini Alfredo,20 mins,20 mins, 1 hr 10 mins,10 ,10,431,27g,14g,91mg,852mg,28g,2g,21g,139mg,4.7,3,2g,0mg,196mg,1mg,30 mins,10 servings
+35,6737443,Tortellini Bacon Broccoli Salad,15 mins,15 mins, 1 hr 30 mins,10 ,10,349,18g,6g,47mg,736mg,34g,3g,14g,275mg,4.7,266,7g,39mg,23mg,1mg, 1 hr,10 servings
+36,6606243,Tortellini Primavera,20 mins,10 mins, 4 hrs 30 mins,5 ,5,762,45g,15g,92mg,2161mg,64g,4g,29g,416mg,4.8,24,9g,91mg,181mg,2mg, 4 hrs,5 servings
+37,6589294,Tortellini Minestrone Soup,30 mins, 1 hr 5 mins, 1 hr 35 mins,8 ,8,415,20g,8g,53mg,1405mg,35g,3g,21g,681mg,4.6,25,13g,19mg,92mg,2mg,,8 servings
+38,6575269,Baked Chicken Tortellini Alfredo,10 mins,30 mins,40 mins,8 ,8,543,32g,20g,129mg,988mg,33g,2g,30g,70mg,4.3,3,2g,3mg,409mg,1mg,,1 11x17-inch dish
+39,6599485,Ali's Greek Tortellini Salad,15 mins,15 mins, 2 hrs 30 mins,8 ,8,486,30g,11g,196mg,836mg,36g,3g,20g,428mg,4.6,276,4g,22mg,239mg,3mg, 2 hrs,8 servings
+40,6740966,Pasta Fazoolander,10 mins,20 mins,30 mins,4 ,4,278,10g,3g,19mg,199mg,35g,7g,14g,634mg,4.6,66,1g,5mg,203mg,5mg,,4 servings
+41,6649746,Tortellini Alfredo with Grilled Chicken Breasts,15 mins,30 mins,45 mins,6 ,6,560,36g,20g,157mg,639mg,29g,2g,31g,201mg,5.0,2,2g,1mg,232mg,1mg,,
+42,6605004,Creamy Mushroom Tortellini Alfredo,10 mins,25 mins,35 mins,4 ,4,934,57g,33g,180mg,1266mg,79g,6g,32g,775mg,5.0,7,7g,3mg,318mg,1mg,,4 servings
+43,6587030,Instant Pot Chicken Tortellini Soup,15 mins,35 mins, 1 hr 5 mins,3 ,3,305,10g,5g,71mg,1022mg,31g,3g,23g,415mg,5.0,1,7g,8mg,102mg,1mg,15 mins,
+44,6568876,Tortellini with Sausage and Peppers,20 mins,45 mins, 1 hr 5 mins,6 ,6,463,20g,7g,55mg,1008mg,52g,6g,21g,714mg,5.0,1,5g,35mg,74mg,3mg,,6 servings
+45,6593312,Hearty Chicken Vegetable Soup I,15 mins, 1 hr 40 mins, 1 hr 55 mins,40 ,40,80,3g,1g,19mg,328mg,6g,1g,7g,151mg,4.7,28,1g,7mg,21mg,1mg,,10 quarts
+46,6574886,Tortellini alla Fini,15 mins,15 mins,30 mins,8 ,8,699,51g,29g,174mg,1226mg,34g,3g,29g,250mg,4.3,3,4g,19mg,386mg,1mg,,8 servings
+47,6578383,Tortellini Salad with Tomatoes and Peas,20 mins,10 mins, 3 hrs,10 ,10,452,20g,7g,51mg,695mg,55g,5g,19g,193mg,4.8,4,6g,33mg,122mg,1mg, 2 hrs 30 mins,10 servings
+48,6598718,Roasted Red Pepper Soup,15 mins,15 mins,30 mins,8 ,8,245,6g,3g,28mg,795mg,37g,3g,11g,104mg,3.8,103,5g,63mg,20mg,1mg,,8 servings
+49,6570478,Simple Tortellini Soup,10 mins,15 mins,25 mins,8 ,8,249,6g,3g,29mg,905mg,37g,4g,12g,94mg,4.8,12,4g,5mg,67mg,2mg,,8 cups
+50,6590860,Mushroom Tortellini Alfredo,10 mins,15 mins,25 mins,4 ,4,1116,82g,50g,293mg,1091mg,67g,4g,34g,416mg,5.0,2,5g,3mg,436mg,2mg,,4 servings
+51,6604893,Tasty Tortellinis,,,,12 ,12,250,18g,4g,13mg,312mg,16g,1g,6g,24mg,4.2,46,1g,2mg,103mg,1mg,,12 appetizer size servings
+52,6569483,Vegetarian Slow Cooker Meal,5 mins, 5 hrs, 5 hrs 5 mins,6 ,6,398,20g,12g,74mg,734mg,41g,4g,16g,255mg,3.8,63,4g,11mg,81mg,2mg,,6 servings
+53,6569211,Absolutely Fabulous Portobello Mushroom Tortellini,10 mins,15 mins,25 mins,4 ,4,470,25g,12g,55mg,933mg,42g,3g,18g,302mg,4.5,271,4g,2mg,217mg,2mg,,4 servings
+54,6603155,Cheese Tortellini in Curried Coconut Milk,10 mins,20 mins,30 mins,4 ,4,451,30g,23g,36mg,459mg,39g,4g,12g,358mg,4.6,8,4g,8mg,41mg,4mg,,4 cups
+55,6589413,"Garlicky Tortellini Soup With Sausage, Tomatoes, and Spinach",20 mins,30 mins,50 mins,8 ,8,371,18g,7g,55mg,1656mg,34g,3g,20g,420mg,5.0,4,5g,16mg,124mg,3mg,,8 servings
+56,6570949,Easy Tortellini Soup,15 mins,45 mins, 1 hr,8 ,8,218,6g,2g,17mg,423mg,33g,4g,9g,391mg,4.6,74,5g,13mg,105mg,2mg,,8 servings
+57,6596839,Tortellini Chowder,15 mins,40 mins,55 mins,8 ,8,322,16g,7g,38mg,622mg,39g,3g,9g,347mg,4.5,107,5g,25mg,99mg,1mg,,8 servings
+58,6572875,Tortellini Soup II,15 mins,35 mins,50 mins,5 ,5,556,38g,14g,95mg,1613mg,32g,4g,23g,768mg,4.4,35,8g,38mg,158mg,4mg,,4 to 6 servings
+59,6582003,Chicken and Tortellini Florentine Soup,15 mins,30 mins,45 mins,4 ,4,775,45g,24g,185mg,1773mg,53g,3g,40g,310mg,5.0,1,4g,7mg,285mg,2mg,,4 servings

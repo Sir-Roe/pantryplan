@@ -1,9 +1,9 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
-0,6599049,15 mins, 1 hr 50 mins, 2 hrs 5 mins,6 ,6,262,12g,4g,76mg,549mg,7g,1g,2g,29g,15mg,32mg,4mg,496mg,4.7,35,,
-1,6577361,15 mins, 1 hr, 1 hr 25 mins,4 ,4,337,14g,3g,74mg,982mg,20g,4g,8g,28g,41mg,98mg,7mg,677mg,4.9,16,10 mins,
-2,6601714,15 mins, 8 hrs 10 mins, 8 hrs 25 mins,6 ,6,246,11g,2g,39mg,315mg,19g,3g,11g,17g,15mg,79mg,5mg,605mg,4.2,467,,
-3,6605110,15 mins, 8 hrs 10 mins, 8 hrs 25 mins,8 ,8,349,9g,3g,27mg,305mg,49g,7g,5g,22g,116mg,97mg,6mg,1078mg,3.9,117,,8 servings
-4,6584029,15 mins, 1 hr 45 mins, 2 hrs,6 ,6,387,24g,9g,95mg,330mg,10g,1g,3g,32g,14mg,29mg,4mg,661mg,4.6,45,,6 servings
-5,6591662,20 mins, 2 hrs, 2 hrs 20 mins,4 ,4,307,18g,5g,61mg,234mg,14g,3g,6g,22g,28mg,71mg,5mg,669mg,4.4,167,,4 servings
-6,6651167,15 mins, 4 hrs 10 mins, 4 hrs 25 mins,6 ,6,368,19g,6g,79mg,997mg,16g,1g,3g,30g,2mg,40mg,4mg,448mg,4.5,27,,
-7,6576550,10 mins, 1 hr, 1 hr 10 mins,4 ,4,413,20g,4g,28mg,2188mg,42g,4g,20g,19g,53mg,62mg,4mg,831mg,4.2,94,,4 servings
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
+0,6599049,My Mother's Swiss Steak,15 mins, 1 hr 50 mins, 2 hrs 5 mins,6 ,6,262,12g,4g,76mg,549mg,7g,1g,2g,29g,15mg,32mg,4mg,496mg,4.7,35,,
+1,6577361,Instant Pot Swiss Steak,15 mins, 1 hr, 1 hr 25 mins,4 ,4,337,14g,3g,74mg,982mg,20g,4g,8g,28g,41mg,98mg,7mg,677mg,4.9,16,10 mins,
+2,6601714,Slow Cooker Swiss Steak,15 mins, 8 hrs 10 mins, 8 hrs 25 mins,6 ,6,246,11g,2g,39mg,315mg,19g,3g,11g,17g,15mg,79mg,5mg,605mg,4.2,467,,
+3,6605110,Easy and Quick Swiss Steak,15 mins, 8 hrs 10 mins, 8 hrs 25 mins,8 ,8,349,9g,3g,27mg,305mg,49g,7g,5g,22g,116mg,97mg,6mg,1078mg,3.9,117,,8 servings
+4,6584029,Swiss Steak,15 mins, 1 hr 45 mins, 2 hrs,6 ,6,387,24g,9g,95mg,330mg,10g,1g,3g,32g,14mg,29mg,4mg,661mg,4.6,45,,6 servings
+5,6591662,My Mom's Swiss Steak,20 mins, 2 hrs, 2 hrs 20 mins,4 ,4,307,18g,5g,61mg,234mg,14g,3g,6g,22g,28mg,71mg,5mg,669mg,4.4,167,,4 servings
+6,6651167,Grandma's Slow Cooker Swiss Steak,15 mins, 4 hrs 10 mins, 4 hrs 25 mins,6 ,6,368,19g,6g,79mg,997mg,16g,1g,3g,30g,2mg,40mg,4mg,448mg,4.5,27,,
+7,6576550,Granny's Swiss Steak,10 mins, 1 hr, 1 hr 10 mins,4 ,4,413,20g,4g,28mg,2188mg,42g,4g,20g,19g,53mg,62mg,4mg,831mg,4.2,94,,4 servings

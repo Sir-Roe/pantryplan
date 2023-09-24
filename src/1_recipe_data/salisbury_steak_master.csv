@@ -1,22 +1,22 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
-0,6648220,15 mins,25 mins,40 mins,6 ,6,440,32g,13g,128mg,818mg,14g,1g,4g,23g,2mg,48mg,3mg,381mg,4.4,"4,806",,
-1,6738826,15 mins,25 mins,40 mins,4 ,4,319,19g,6g,115mg,597mg,14g,1g,3g,23g,4mg,50mg,3mg,387mg,4.6,"4,287",,
-2,6663439,15 mins, 4 hrs, 4 hrs 15 mins,8 ,8,388,24g,8g,75mg,1378mg,18g,1g,1g,24g,1mg,46mg,3mg,297mg,4.6,"2,748",,
-3,6649890,15 mins,25 mins,40 mins,4 ,4,323,16g,6g,115mg,1129mg,17g,2g,3g,27g,4mg,51mg,3mg,491mg,4.6,"1,254",,
-4,6736681,20 mins,15 mins, 2 hrs 35 mins,4 ,4,494,29g,14g,156mg,730mg,26g,2g,9g,33g,8mg,79mg,5mg,892mg,4.6,265, 2 hrs,
-5,6587086,10 mins,50 mins, 1 hr,5 ,5,421,20g,9g,137mg,848mg,27g,3g,7g,33g,7mg,88mg,5mg,960mg,4.7,371,,
-6,6575165,10 mins,45 mins,55 mins,8 ,8,639,52g,20g,147mg,971mg,9g,0g,,31g,0mg,65mg,4mg,508mg,4.4,182,,
-7,6568049,10 mins,20 mins,30 mins,6 ,6,238,14g,5g,80mg,873mg,11g,1g,1g,16g,1mg,32mg,2mg,177mg,4.7,96,,6 steaks
-8,6599300,10 mins,39 mins,49 mins,6 ,6,536,43g,21g,199mg,1190mg,8g,1g,3g,30g,4mg,68mg,4mg,565mg,4.6,126,,6 servings
-9,6650081,15 mins,55 mins, 1 hr 10 mins,6 ,6,502,23g,9g,199mg,1271mg,20g,1g,3g,50g,1mg,118mg,6mg,842mg,4.4,33,,
-10,6601373,15 mins,55 mins, 1 hr 10 mins,5 ,5,516,33g,9g,91mg,1356mg,22g,1g,4g,31g,2mg,58mg,5mg,520mg,4.8,40,,
-11,6572220,10 mins,45 mins, 2 hrs 35 mins,4 ,4,524,35g,11g,153mg,1227mg,13g,2g,3g,35g,5mg,56mg,4mg,620mg,4.6,107, 1 hr 40 mins,4 servings
-12,6585909,14 mins,36 mins,50 mins,8 ,8,298,18g,6g,121mg,777mg,8g,0g,1g,25g,0mg,36mg,3mg,328mg,4.4,101,,8 servings
-13,6601368,15 mins,50 mins, 1 hr 5 mins,6 ,6,260,14g,5g,81mg,710mg,15g,1g,6g,18g,4mg,93mg,3mg,405mg,4.4,36,,6 servings
-14,6741792,10 mins,25 mins,35 mins,6 ,6,296,19g,9g,102mg,951mg,13g,1g,7g,19g,1mg,164mg,2mg,419mg,4.4,774,,6 servings
-15,6587412,15 mins,25 mins,40 mins,6 ,6,291,18g,7g,102mg,665mg,10g,0g,1g,23g,1mg,25mg,3mg,319mg,4.3,36,,
-16,6573943,15 mins, 1 hr 10 mins, 9 hrs 25 mins,5 ,5,334,18g,6g,59mg,1220mg,22g,1g,6g,20g,4mg,96mg,4mg,404mg,4.0,14, 8 hrs,
-17,6605843,20 mins, 2 hrs, 2 hrs 20 mins,6 ,6,369,18g,6g,71mg,144mg,21g,1g,3g,29g,8mg,25mg,4mg,566mg,4.3,198,,6 servings
-18,6582138,15 mins,10 mins,25 mins,4 ,4,289,19g,7g,78mg,650mg,3g,1g,0g,25g,6mg,14mg,3mg,342mg,4.8,8,,4 servings
-19,6578978,20 mins,40 mins, 1 hr,12 ,12,368,25g,10g,152mg,692mg,2g,0g,1g,32g,3mg,31mg,3mg,460mg,4.0,28,,12 servings
-20,6563068,25 mins,45 mins, 1 hr 10 mins,25 ,25,291,19g,8g,90mg,833mg,10g,1g,2g,22g,27mg,119mg,2mg,292mg,,,,25 patties
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
+0,6648220,Salisbury Steak,15 mins,25 mins,40 mins,6 ,6,440,32g,13g,128mg,818mg,14g,1g,4g,23g,2mg,48mg,3mg,381mg,4.4,"4,807",,
+1,6738826,Hamburger Steak with Onions and Gravy,15 mins,25 mins,40 mins,4 ,4,319,19g,6g,115mg,597mg,14g,1g,3g,23g,4mg,50mg,3mg,387mg,4.6,"4,288",,
+2,6663439,Slow Cooker Salisbury Steak,15 mins, 4 hrs, 4 hrs 15 mins,8 ,8,388,24g,8g,75mg,1378mg,18g,1g,1g,24g,1mg,46mg,3mg,297mg,4.6,"2,749",,
+3,6649890,Salisbury Steak with Mushrooms,15 mins,25 mins,40 mins,4 ,4,323,16g,6g,115mg,1129mg,17g,2g,3g,27g,4mg,51mg,3mg,491mg,4.6,"1,254",,
+4,6736681,Chef John's Salisbury Steak,20 mins,15 mins, 2 hrs 35 mins,4 ,4,494,29g,14g,156mg,730mg,26g,2g,9g,33g,8mg,79mg,5mg,892mg,4.6,265, 2 hrs,
+5,6587086,Midwest Salisbury Steak,10 mins,50 mins, 1 hr,5 ,5,421,20g,9g,137mg,848mg,27g,3g,7g,33g,7mg,88mg,5mg,960mg,4.7,371,,
+6,6575165,Hamburger Steaks with Creamy Mushroom Gravy,10 mins,45 mins,55 mins,8 ,8,639,52g,20g,147mg,971mg,9g,0g,,31g,0mg,65mg,4mg,508mg,4.4,182,,
+7,6568049,Basic Salisbury Steaks,10 mins,20 mins,30 mins,6 ,6,238,14g,5g,80mg,873mg,11g,1g,1g,16g,1mg,32mg,2mg,177mg,4.7,96,,6 steaks
+8,6599300,Low-Carb Salisbury Steak,10 mins,39 mins,49 mins,6 ,6,536,43g,21g,199mg,1190mg,8g,1g,3g,30g,4mg,68mg,4mg,565mg,4.6,126,,6 servings
+9,6650081,Simple and Flavorful Salisbury Steak,15 mins,55 mins, 1 hr 10 mins,6 ,6,502,23g,9g,199mg,1271mg,20g,1g,3g,50g,1mg,118mg,6mg,842mg,4.4,33,,
+10,6601373,Family Beef Salisbury Steak,15 mins,55 mins, 1 hr 10 mins,5 ,5,516,33g,9g,91mg,1356mg,22g,1g,4g,31g,2mg,58mg,5mg,520mg,4.8,40,,
+11,6572220,Instant Pot® Salisbury Steak with Onion and Mushroom Gravy,10 mins,45 mins, 2 hrs 35 mins,4 ,4,524,35g,11g,153mg,1227mg,13g,2g,3g,35g,5mg,56mg,4mg,620mg,4.6,107, 1 hr 40 mins,4 servings
+12,6585909,Smothered Hamburger Steak,14 mins,36 mins,50 mins,8 ,8,298,18g,6g,121mg,777mg,8g,0g,1g,25g,0mg,36mg,3mg,328mg,4.4,101,,8 servings
+13,6601368,Easy Salisbury Steak,15 mins,50 mins, 1 hr 5 mins,6 ,6,260,14g,5g,81mg,710mg,15g,1g,6g,18g,4mg,93mg,3mg,405mg,4.4,36,,6 servings
+14,6741792,Scrumptious Salisbury Steak in Mushroom Gravy,10 mins,25 mins,35 mins,6 ,6,296,19g,9g,102mg,951mg,13g,1g,7g,19g,1mg,164mg,2mg,419mg,4.4,774,,6 servings
+15,6587412,Hamburgers with Mushroom Gravy,15 mins,25 mins,40 mins,6 ,6,291,18g,7g,102mg,665mg,10g,0g,1g,23g,1mg,25mg,3mg,319mg,4.3,36,,
+16,6573943,Amish Salisbury Steak,15 mins, 1 hr 10 mins, 9 hrs 25 mins,5 ,5,334,18g,6g,59mg,1220mg,22g,1g,6g,20g,4mg,96mg,4mg,404mg,4.0,14, 8 hrs,
+17,6605843,Sorta Salisbury Steak,20 mins, 2 hrs, 2 hrs 20 mins,6 ,6,369,18g,6g,71mg,144mg,21g,1g,3g,29g,8mg,25mg,4mg,566mg,4.3,198,,6 servings
+18,6582138,Broiled Salisbury Steaks,15 mins,10 mins,25 mins,4 ,4,289,19g,7g,78mg,650mg,3g,1g,0g,25g,6mg,14mg,3mg,342mg,4.8,8,,4 servings
+19,6578978,Baked Salisbury Steak,20 mins,40 mins, 1 hr,12 ,12,368,25g,10g,152mg,692mg,2g,0g,1g,32g,3mg,31mg,3mg,460mg,4.0,28,,12 servings
+20,6563068,Cheesy Salisbury Steak for a Crowd,25 mins,45 mins, 1 hr 10 mins,25 ,25,291,19g,8g,90mg,833mg,10g,1g,2g,22g,27mg,119mg,2mg,292mg,,,,25 patties

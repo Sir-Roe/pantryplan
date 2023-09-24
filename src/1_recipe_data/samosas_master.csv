@@ -1,15 +1,15 @@
-,id_recipe,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count
-0,6595216,30 mins,30 mins, 1 hr, 2 hrs,18 ,18 samosas,18,258,15g,4g,21mg,346mg,24g,2g,2g,8g,14mg,21mg,2mg,307mg,4.5,243
-1,6602503,25 mins,45 mins,, 1 hr 10 mins,24 ,2 dozen,24,163,10g,2g,25mg,213mg,11g,1g,0g,8g,1mg,17mg,2mg,110mg,4.2,42
-2,6650295,30 mins,35 mins,30 mins, 1 hr 35 mins,16 ,32 samosas,16,315,19g,4g,,396mg,33g,4g,1g,5g,13mg,26mg,2mg,325mg,4.6,40
-3,6582933,20 mins,30 mins,,50 mins,30 ,30 samosas,30,105,7g,3g,12mg,135mg,7g,0g,0g,3g,8mg,6mg,1mg,54mg,4.1,45
-4,6577254,20 mins, 1 hr,5 mins, 1 hr 25 mins,6 ,1 9-inch pie,6,243,7g,1g,0mg,176mg,40g,5g,4g,7g,26mg,56mg,2mg,582mg,4.2,16
-5,6601737,25 mins,40 mins,15 mins, 1 hr 20 mins,24 ,24 samosas,24,94,4g,1g,13mg,154mg,10g,1g,1g,5g,2mg,14mg,1mg,77mg,4.0,4
-6,6585164,,,,,10 ,10 servings,10,649,54g,10g,38mg,318mg,28g,1g,1g,13g,12mg,30mg,3mg,201mg,3.9,23
-7,6591764,50 mins,20 mins,30 mins, 1 hr 40 mins,16 ,16 samosas,16,137,6g,1g,,130mg,19g,2g,1g,3g,6mg,17mg,2mg,145mg,4.6,5
-8,6562414, 1 hr,10 mins,, 1 hr 10 mins,8 ,8 samosas,8,303,15g,2g,,50mg,40g,4g,7g,4g,36mg,29mg,2mg,573mg,3.0,1
-9,6575594,30 mins,25 mins,,55 mins,16 ,16 samosas,16,461,37g,8g,26mg,303mg,30g,2g,9g,5g,12mg,42mg,2mg,218mg,4.0,1
-10,6588531,20 mins,25 mins,,45 mins,4 ,20 samosas,4,169,3g,1g,7mg,332mg,31g,2g,2g,5g,1mg,36mg,2mg,152mg,4.0,27
-11,6571272,15 mins,30 mins,,45 mins,8 ,8 servings,8,322,16g,4g,,279mg,39g,4g,1g,6g,4mg,11mg,2mg,61mg,4.0,2
-12,7510128,25 mins,25 mins,,50 mins,12 ,12 samosas,12,141,3g,1g,19mg,321mg,20g,2g,2g,7g,6mg,44mg,1mg,269mg,,
-13,6561282,30 mins,25 mins,30 mins, 1 hr 25 mins,20 ,20 samosas,20,164,14g,3g,6mg,14mg,9g,1g,0g,1g,1mg,8mg,1mg,35mg,5.0,1
+,id_recipe,name,Prep Time:,Cook Time:,Additional Time:,Total Time:,Servings:,Yield:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count
+0,6595216,Beef Samosas,30 mins,30 mins, 1 hr, 2 hrs,18 ,18 samosas,18,258,15g,4g,21mg,346mg,24g,2g,2g,8g,14mg,21mg,2mg,307mg,4.5,243
+1,6602503,Sambusa,25 mins,45 mins,, 1 hr 10 mins,24 ,2 dozen,24,163,10g,2g,25mg,213mg,11g,1g,0g,8g,1mg,17mg,2mg,110mg,4.2,42
+2,6650295,Easy Baked Indian Samosas,30 mins,35 mins,30 mins, 1 hr 35 mins,16 ,32 samosas,16,315,19g,4g,,396mg,33g,4g,1g,5g,13mg,26mg,2mg,325mg,4.6,40
+3,6582933,Samosas,20 mins,30 mins,,50 mins,30 ,30 samosas,30,105,7g,3g,12mg,135mg,7g,0g,0g,3g,8mg,6mg,1mg,54mg,4.1,45
+4,6577254,Indian Samosa Pie,20 mins, 1 hr,5 mins, 1 hr 25 mins,6 ,1 9-inch pie,6,243,7g,1g,0mg,176mg,40g,5g,4g,7g,26mg,56mg,2mg,582mg,4.2,16
+5,6601737,Traditional Beef Samosas,25 mins,40 mins,15 mins, 1 hr 20 mins,24 ,24 samosas,24,94,4g,1g,13mg,154mg,10g,1g,1g,5g,2mg,14mg,1mg,77mg,4.0,4
+6,6585164,Sambousa,,,,,10 ,10 servings,10,649,54g,10g,38mg,318mg,28g,1g,1g,13g,12mg,30mg,3mg,201mg,3.9,23
+7,6591764,Veggie Samosas,50 mins,20 mins,30 mins, 1 hr 40 mins,16 ,16 samosas,16,137,6g,1g,,130mg,19g,2g,1g,3g,6mg,17mg,2mg,145mg,4.6,5
+8,6562414,Authentic Indian Vegetarian Samosas, 1 hr,10 mins,, 1 hr 10 mins,8 ,8 samosas,8,303,15g,2g,,50mg,40g,4g,7g,4g,36mg,29mg,2mg,573mg,3.0,1
+9,6575594,Vegetable Curry Samosas,30 mins,25 mins,,55 mins,16 ,16 samosas,16,461,37g,8g,26mg,303mg,30g,2g,9g,5g,12mg,42mg,2mg,218mg,4.0,1
+10,6588531,Mini Sweet Potato Samosas,20 mins,25 mins,,45 mins,4 ,20 samosas,4,169,3g,1g,7mg,332mg,31g,2g,2g,5g,1mg,36mg,2mg,152mg,4.0,27
+11,6571272,Super Easy Samosa Pie,15 mins,30 mins,,45 mins,8 ,8 servings,8,322,16g,4g,,279mg,39g,4g,1g,6g,4mg,11mg,2mg,61mg,4.0,2
+12,7510128,Air Fryer Samosas,25 mins,25 mins,,50 mins,12 ,12 samosas,12,141,3g,1g,19mg,321mg,20g,2g,2g,7g,6mg,44mg,1mg,269mg,,
+13,6561282,Corn and Pea Samosas in Caraway Seed Pastry,30 mins,25 mins,30 mins, 1 hr 25 mins,20 ,20 samosas,20,164,14g,3g,6mg,14mg,9g,1g,0g,1g,1mg,8mg,1mg,35mg,5.0,1

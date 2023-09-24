@@ -1,17 +1,17 @@
-,id_recipe,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
-0,6650406,20 mins,45 mins, 1 hr 5 mins,6 ,6,361,22g,6g,97mg,1040mg,7g,1g,2g,33g,3mg,35mg,3mg,392mg,4.3,373,,
-1,6586926,5 mins,30 mins,40 mins,4 ,4,352,21g,5g,106mg,1001mg,9g,1g,5g,30g,4mg,34mg,2mg,363mg,4.8,24,5 mins,
-2,6739584,30 mins, 8 hrs, 8 hrs 30 mins,6 ,6,254,15g,4g,62mg,1121mg,5g,1g,1g,23g,2mg,27mg,2mg,247mg,4.0,846,,6 servings
-3,6598191,10 mins, 1 hr 10 mins, 1 hr 20 mins,8 ,8,265,12g,3g,141mg,1050mg,3g,0g,0g,35g,1mg,26mg,2mg,448mg,4.7,65,,8 servings
-4,6574733,15 mins,35 mins,50 mins,8 ,8,255,7g,2g,141mg,2854mg,11g,1g,7g,37g,1mg,32mg,3mg,510mg,4.3,247,,8 servings
-5,6597655,20 mins,55 mins, 3 hrs 15 mins,4 ,4,551,37g,11g,186mg,2214mg,4g,1g,0g,49g,6mg,50mg,3mg,655mg,3.9,9, 2 hrs,4 servings
-6,6589501,10 mins,40 mins,50 mins,6 ,6,517,34g,10g,170mg,1364mg,5g,1g,1g,44g,7mg,49mg,3mg,526mg,4.5,367,,
-7,6738155,20 mins, 1 hr 30 mins, 5 hrs 50 mins,8 ,8,635,38g,10g,194mg,1084mg,7g,1g,1g,55g,5mg,58mg,4mg,1266mg,4.5,22, 4 hrs,8 servings
-8,6600135,10 mins, 5 hrs, 5 hrs 10 mins,8 ,8,581,35g,10g,212mg,1095mg,3g,0g,0g,59g,2mg,41mg,4mg,565mg,3.5,15,,8 servings
-9,6737121,10 mins, 8 hrs 5 mins, 8 hrs 15 mins,4 ,4,458,23g,6g,128mg,1395mg,21g,4g,10g,40g,63mg,186mg,4mg,854mg,4.0,204,,4 servings
-10,6585477,25 mins, 1 hr, 1 hr 25 mins,24 ,24,50,3g,1g,12mg,313mg,2g,0g,0g,4g,2mg,9mg,0mg,57mg,3.9,9,,
-11,6580774,15 mins,45 mins, 1 hr,6 ,6,584,33g,9g,213mg,815mg,6g,1g,3g,62g,3mg,43mg,4mg,532mg,3.9,38,,6 servings
-12,6582327,10 mins,55 mins, 1 hr 5 mins,6 ,6,657,44g,21g,192mg,805mg,7g,2g,3g,58g,4mg,52mg,6mg,632mg,4.1,36,,6 servings
-13,6593187,10 mins,35 mins, 1 hr 45 mins,4 ,4,162,12g,3g,24mg,705mg,4g,1g,1g,9g,4mg,17mg,1mg,112mg,5.0,1, 1 hr,4 servings
-14,6577263,15 mins, 1 hr, 1 hr 15 mins,5 ,5,340,22g,5g,100mg,3600mg,2g,0g,0g,33g,1mg,29mg,2mg,255mg,3.7,49,,5 servings
-15,6586188,10 mins, 1 hr, 1 hr 10 mins,8 ,8,323,18g,4g,96mg,1150mg,7g,1g,2g,30g,3mg,40mg,3mg,347mg,4.5,42,,8 servings
+,id_recipe,name,Prep Time:,Cook Time:,Total Time:,Servings:,Servings Per Recipe,Calories,Total Fat,Saturated Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Total Sugars,Protein,Vitamin C,Calcium,Iron,Potassium,Average_Review,Review_Count,Additional Time:,Yield:
+0,6650406,Famous Chicken Adobo,20 mins,45 mins, 1 hr 5 mins,6 ,6,361,22g,6g,97mg,1040mg,7g,1g,2g,33g,3mg,35mg,3mg,392mg,4.3,379,,
+1,6586926,Instant Pot Filipino Chicken Adobo,5 mins,30 mins,40 mins,4 ,4,352,21g,5g,106mg,1001mg,9g,1g,5g,30g,4mg,34mg,2mg,363mg,4.8,24,5 mins,
+2,6739584,Slow Cooker Adobo Chicken,30 mins, 8 hrs, 8 hrs 30 mins,6 ,6,254,15g,4g,62mg,1121mg,5g,1g,1g,23g,2mg,27mg,2mg,247mg,4.0,846,,6 servings
+3,6598191,Lolah's Chicken Adobo,10 mins, 1 hr 10 mins, 1 hr 20 mins,8 ,8,265,12g,3g,141mg,1050mg,3g,0g,0g,35g,1mg,26mg,2mg,448mg,4.7,65,,8 servings
+4,6574733,Grilled Chicken Adobo,15 mins,35 mins,50 mins,8 ,8,255,7g,2g,141mg,2854mg,11g,1g,7g,37g,1mg,32mg,3mg,510mg,4.3,247,,8 servings
+5,6597655,Pork and Chicken Adobo,20 mins,55 mins, 3 hrs 15 mins,4 ,4,551,37g,11g,186mg,2214mg,4g,1g,0g,49g,6mg,50mg,3mg,655mg,3.9,9, 2 hrs,4 servings
+6,6589501,Adobo Chicken with Ginger,10 mins,40 mins,50 mins,6 ,6,517,34g,10g,170mg,1364mg,5g,1g,1g,44g,7mg,49mg,3mg,526mg,4.5,367,,
+7,6738155,Authentic Chicken Adobo,20 mins, 1 hr 30 mins, 5 hrs 50 mins,8 ,8,635,38g,10g,194mg,1084mg,7g,1g,1g,55g,5mg,58mg,4mg,1266mg,4.5,22, 4 hrs,8 servings
+8,6600135,Slow Cooker Filipino Chicken Adobo,10 mins, 5 hrs, 5 hrs 10 mins,8 ,8,581,35g,10g,212mg,1095mg,3g,0g,0g,59g,2mg,41mg,4mg,565mg,3.5,15,,8 servings
+9,6737121,Slow Cooker Adobo Chicken with Bok Choy,10 mins, 8 hrs 5 mins, 8 hrs 15 mins,4 ,4,458,23g,6g,128mg,1395mg,21g,4g,10g,40g,63mg,186mg,4mg,854mg,4.0,204,,4 servings
+10,6585477,Leyley's Spicy Chicken Adobo Wings,25 mins, 1 hr, 1 hr 25 mins,24 ,24,50,3g,1g,12mg,313mg,2g,0g,0g,4g,2mg,9mg,0mg,57mg,3.9,9,,
+11,6580774,Pinoy Chicken Adobo,15 mins,45 mins, 1 hr,6 ,6,584,33g,9g,213mg,815mg,6g,1g,3g,62g,3mg,43mg,4mg,532mg,3.9,38,,6 servings
+12,6582327,Guinataan Chicken Adobo,10 mins,55 mins, 1 hr 5 mins,6 ,6,657,44g,21g,192mg,805mg,7g,2g,3g,58g,4mg,52mg,6mg,632mg,4.1,36,,6 servings
+13,6593187,Filipino Chicken Adobo,10 mins,35 mins, 1 hr 45 mins,4 ,4,162,12g,3g,24mg,705mg,4g,1g,1g,9g,4mg,17mg,1mg,112mg,5.0,1, 1 hr,4 servings
+14,6577263,Chicken Adobo I,15 mins, 1 hr, 1 hr 15 mins,5 ,5,340,22g,5g,100mg,3600mg,2g,0g,0g,33g,1mg,29mg,2mg,255mg,3.7,49,,5 servings
+15,6586188,Margo's Chicken Adobo,10 mins, 1 hr, 1 hr 10 mins,8 ,8,323,18g,4g,96mg,1150mg,7g,1g,2g,30g,3mg,40mg,3mg,347mg,4.5,42,,8 servings
