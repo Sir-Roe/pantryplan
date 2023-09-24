@@ -21,6 +21,8 @@ def scrape_recipe(soup,rkey):
 
     recipe ={}
     recipe['id_recipe']=rkey
+    rname= soup.find("h1",class_="comp type--lion article-heading mntl-text-block")
+    recipe['name']= rname.text.strip()
     #grab the header prep time info
     rlabels = soup.find_all("div", {"class": "mntl-recipe-details__label"})
     rinfo = soup.find_all("div", {"class": "mntl-recipe-details__value"})
@@ -195,14 +197,14 @@ def scraper_engine(csv_url):
                     soup = soup.body.main.article
 
                     rec_df=pd.concat([rec_df,scrape_recipe(soup,row['id_recipe'])], ignore_index=True)
-                    ing_df=pd.concat([ing_df,scrape_ingredients(soup,row['id_recipe'])], ignore_index=True)
-                    step_df=pd.concat([step_df,scrape_steps(soup,row['id_recipe'])], ignore_index=True)
+                    #ing_df=pd.concat([ing_df,scrape_ingredients(soup,row['id_recipe'])], ignore_index=True)
+                    #step_df=pd.concat([step_df,scrape_steps(soup,row['id_recipe'])], ignore_index=True)
                 else:
                     print("No Ingredients List found")
 
     rec_df.to_csv(f'{rec_dir}\{cat_df["category"][0]}_master.csv')
-    ing_df.to_csv(f'{ing_dir}\{cat_df["category"][0]}_ingredients.csv')
-    step_df.to_csv(f'{stp_dir}\{cat_df["category"][0]}_steps.csv')
+    #ing_df.to_csv(f'{ing_dir}\{cat_df["category"][0]}_ingredients.csv')
+    #step_df.to_csv(f'{stp_dir}\{cat_df["category"][0]}_steps.csv')
     pass
 
 def main():
@@ -217,7 +219,7 @@ def main():
             file_paths.append(file_path)
 
     # Now, file_paths contains all the file paths in the specified folder and its subdirectories
-    for file_path in file_paths:
+    for file_path in file_paths[0]:
         try:
             scraper_engine(file_path)
         except:
@@ -241,3 +243,4 @@ def rerunErrors():
     e_df= pd.DataFrame({'error_files':error_paths})
     e_df.to_csv(f'{errors}\error_files.csv')
 
+main(cat_dir)
